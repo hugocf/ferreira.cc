@@ -1,5 +1,5 @@
 ---
-title: "Example2"
+title: "Example 2"
 date: 2023-05-20T02:04:35+01:00
 ---
 
