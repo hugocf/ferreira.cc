@@ -3,3 +3,5 @@ languageCode: en
 title: Hugo Ferreira
 
 theme: "PaperModX"
+
+enableRobotsTXT: true
