@@ -1,7 +1,6 @@
 ---
 title: "Example 1"
 date: 2023-05-20T02:01:13+01:00
-draft: true
 ---
 
 (1) Lorem ipsum dolor sit amet.
