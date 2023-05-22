@@ -1,13 +1,12 @@
 ---
-date: 2019-06-30
+date: 2020-01-30
 lang: en
 title: What I'm doing now…
 ---
 
-In a word: **“regrouping”**
+In a word: **“restarting”**
 
-* After years of working remotely (from home or coworking spaces), now adjusting to the life of office work, with all the “perks” 😁 of long commutes: a heavy toll on your day, and at the same time, a regular slot for calmly reading a book. 📖
-* [Cubing](https://en.wikipedia.org/wiki/Rubik%27s_Cube) is a new hobby that sneaked up on me: 3 months after starting in a new client with several Rubik’s laying around on the desks, I found myself going from “hmmm, I wonder if I can still remember how to do this” to curiously studing new methods and algorithms to optimise the times of each solve! Surprisingly fun 😉
-* [Brazilian Jiu-Jitsu](http://vitateambjj.com/) hit a low over the last few monts due to lack of training consistency, change in work schedules, and light injuries… Looking to pick it back up on a regular basis. 🤞
+* Refocussing my learning efforts on some new technology choices which are sparking my curiosity, namely the [Rust](https://www.rust-lang.org) language (via [“The Rust Programming Language”](https://doc.rust-lang.org/book/) book 📖) and starting to take a look at [Next.js - The React Framework](https://nextjs.org).
+* Overall, personal organisation, hobbies, and exercise, are all in a disarray. I guess mainly due to a sequence of bad choices. Regrouping, restarting, and pruning most of life’s distractions is the order of the day: [Either “HELL YEAH!” or “no.” | Derek Sivers](https://sivers.org/hellyeah) 💪
 
 *(via [The /now page movement | Derek Sivers](http://sivers.org/nowff))*
