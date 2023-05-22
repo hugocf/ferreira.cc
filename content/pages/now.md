@@ -1,13 +1,12 @@
 ---
-date: 2021-04-20
+date: 2022-02-05
 lang: en
 title: What I'm doing now…
 ---
 
-In a word: **“going crazy”** 🤪
+In a word: **“refocusing”**
 
-* New family member arrived: 2.5 month puppy, making the children ecstatic and giving us flashbacks of raising a “baby” again 😱
-* Working to find the proper balance between supporting the team and contributing vs organising. [StaffEng](https://staffeng.com/guides/staff-archetypes) is casting an interesting perspective on it 🤔
-* Enjoying remote work immensely. Not my first rodeo working remotely but *for me, in this area,* the pandemic was a blessing in disguise 👨‍💻
+* Shifting my role form a team Tech Lead perspective into a still “to be defined” mix of Architect/Solver (see [Staff engineer archetypes](https://staffeng.com/guides/staff-archetypes))
+* Getting back to consistent and foundational daily routines to give some structured to otherwise quite chaotic days
 
 *(via [The /now page movement | Derek Sivers](http://sivers.org/nowff))*
