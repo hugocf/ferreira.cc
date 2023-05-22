@@ -1,15 +1,15 @@
 ---
-date: 2016-03-12
+date: 2017-04-04
 lang: en
 title: What I'm doing now…
 ---
 
-In a word: **“settling”**
+In a word: **“cruising”** 🙂
 
-* Back to [Equal Experts](http://equalexperts.com/) Portuguese office after a few months at [HMRC](http://equalexperts.com/) in London, UK.
-* Exciting times at work: starting to define what the Portuguese branch will be, were we want it to grow, and how can we get it there. A bit of the “startup” feeling (= PT) but in a company with an already great culture (= UK).
-* Started <del>reading</del> studying [Functional Programming in Scala](http://www.amazon.com/Functional-Programming-Scala-Paul-Chiusano/dp/1617290653): a very hands-on book that can’t just be “read”, it needs to be “worked on”.
-* Resuming day-to-day family life after months of work traveling: only now realising how much I missed the chit-chat with the kids at dinner table. 😀
-* Started practicing [Brazilian Jiu-Jitsu](http://vitateambjj.com/) together with my kids; it’s been great for our father-son family dynamics. Very pleasantly surprised by how close BJJ is to many of the [natural movement](https://www.movnat.com/) principles I’ve been looking into for quite some time.
+* Great work environment at [Equal Experts](http://equalexperts.com/) Portuguese office, with cool people all around.
+* Started to learn and code in a [Reactive](http://reactivex.io/) [Programming](http://www.reactive-streams.org/) style.
+* Getting ready for the 2nd phase of Functional Programming immersion: learning Haskell.
+* Personal and family life feel the most balanced they’ve been in years! Hat-tip 🎩 to Experts Experts for the pervasive culture of sane work-life balance.
+* 1 year [Brazilian Jiu-Jitsu](http://vitateambjj.com/) anniversary last month: feels like it was just weeks before that I started, together with my kids. Time flies. Some much to learn. So much fun doing it.
 
 *(via [The /now page movement | Derek Sivers](http://sivers.org/nowff))*
