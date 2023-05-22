@@ -1,12 +1,14 @@
 ---
-date: 2022-02-05
+date: 2023-05-22
 lang: en
 title: What I'm doing now…
 ---
 
-In a word: **“refocusing”**
+In a word: **“writting”**
 
-* Shifting my role form a team Tech Lead perspective into a still “to be defined” mix of Architect/Solver (see [Staff engineer archetypes](https://staffeng.com/guides/staff-archetypes))
-* Getting back to consistent and foundational daily routines to give some structured to otherwise quite chaotic days
+* Finally managed to “hack” my brain (with self-inflicted peer pressure) into dusting off the dozens of rough drafts accumulating in my “virtual” drawer over the years 😅
+    * Started posting with some regularity in my [Hugo Ferreira – Medium](https://hugocf.medium.com) account
+    * Reviving this website with [Hugo](https://gohugo.io/) into something that is easy for me to update
+* Revamping some communication patterns and trying to instil a better documentation culture at work, heavily inspired by the [Diátaxis framework](https://diataxis.fr/)
 
 *(via [The /now page movement | Derek Sivers](http://sivers.org/nowff))*
