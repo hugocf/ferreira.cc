@@ -8,6 +8,7 @@ enableRobotsTXT: true
 
 permalinks:
   pages: /:filename/
+  thoughts: /:filename/
 
 markup:
   goldmark:
@@ -16,6 +17,9 @@ markup:
 
 menu:
  main:
+   - name: Thoughts
+     url: /thoughts
+     weight: 10
    - name: About
      url: /about
    - name: Now
