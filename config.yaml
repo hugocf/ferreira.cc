@@ -5,3 +5,8 @@ title: Web clippings & Random thoughts
 theme: "PaperModX"
 
 enableRobotsTXT: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
