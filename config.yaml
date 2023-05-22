@@ -6,6 +6,9 @@ theme: "PaperModX"
 
 enableRobotsTXT: true
 
+permalinks:
+  pages: /:filename/
+
 markup:
   goldmark:
     renderer:
