@@ -13,3 +13,8 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+menu:
+ main:
+   - name: About
+     url: /about
