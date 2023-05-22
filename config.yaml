@@ -18,3 +18,5 @@ menu:
  main:
    - name: About
      url: /about
+   - name: Now
+     url: /now
