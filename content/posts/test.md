@@ -1,7 +1,6 @@
 ---
 title: "Test"
 date: 2023-05-20T02:04:35+01:00
-slug: example1
 ---
 
 Lorem ipsum dolor sit amet.
