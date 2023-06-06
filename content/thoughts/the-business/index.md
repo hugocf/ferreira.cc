@@ -39,7 +39,7 @@ It‘s quite frequent that “The Business” is shorthand for “I'm only doing
 
 Quite often it means the request came through a chain of so many people, no one knows anymore who asked it and what for.
 
-Behind this expression there’s **always people**: *someone* who wants something *for a reason*. They need a problem solved, an opportunity to explore, and experiment to try. 
+Behind this expression there’s **always people**: *someone* who wants something *for a reason*. They need a problem solved, an opportunity to explore, an experiment to try.
 
 > People are the link to context.
 
