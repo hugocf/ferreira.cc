@@ -87,3 +87,15 @@ So, remember to always ask:
 
 > ***Who** is “The Business”?*
 
+---
+
+Shared to:
+
+* [LinkedIn](https://www.linkedin.com/posts/hugocf_the-business-considered-harmful-activity-7071878662735708160-rK-X/)
+* [Mastodon](https://mastodon.online/@hugocf/110498105941254453)
+* [Medium](https://hugocf.medium.com/the-business-considered-harmful-6d8b425929a7)
+* [Twitter](https://twitter.com/hugocf/status/1666113272095952896)
+
+🔒 *(groups)*
+
+* [Telegram](https://t.me/c/1363309933/8926)
