@@ -139,3 +139,16 @@ All this is, is a guide to *think* about different “things to say”:
 
 Happy feedback 🙂
 
+---
+
+Shared to:
+
+* [LinkedIn](https://www.linkedin.com/posts/hugocf_speaking-or-communicating-easily-recall-activity-7074358582716116992-3-A3)
+* [Mastodon](https://mastodon.online/@hugocf/110536856147168624)
+* [Medium](https://hugocf.medium.com/)
+* [Twitter](https://twitter.com/hugocf/status/1668593984455729152)
+
+🔒 *(groups)*
+
+* [Telegram](https://t.me/c/1363309933/8956)
+
