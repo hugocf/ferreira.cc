@@ -70,6 +70,7 @@ While still in the [conscious competence](https://en.wikipedia.org/wiki/Four_sta
 
 This is because there’s a natural overlap between the methods. They emphasise different parts of the conversation. The authors chose different terms for similar underlying principles. But human nature is constant.
 
+<!--
 <table>
 	<thead>
 		<tr>
@@ -107,9 +108,9 @@ This is because there’s a natural overlap between the methods. They emphasise 
 		</tr>
 	</tbody>
 </table>
-<!-- <img alt="comparison table between the different feedback frameworks (NVC, SBI+I, CORE) to highlight how each one maps to the “Observe”, “Impact” and “Ask” principles" src="table.png"> -->
+-->
 
-
+![comparison table between the different feedback frameworks (NVC, SBI+I, CORE) to highlight how each one maps to the “Observe”, “Impact” and “Ask” principles](table.png)
 
 ![an eye, a hammer and question mark, side-by-side next to each other in graffiti style](eye-hammer-question.jpeg)
 
