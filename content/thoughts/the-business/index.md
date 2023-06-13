@@ -21,7 +21,7 @@ This *is* a pet peeve of mine, for sure. But beyond that, it’s important we st
 
 ![DALL·E AI generated photo of several silhouette shadows behind a curtain](the-business.png)
 
-*[DALL·E](https://openai.com/dall-e) - photo realistic several silhouette shadows behind a curtain*
+*[DALL·E](https://openai.com/dall-e) — “photo realistic several silhouette shadows behind a curtain”*
 
 
 
