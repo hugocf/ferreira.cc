@@ -11,7 +11,7 @@ title: Speaking or communicating? Easily recall how to give good feedback
 
 ---
 
-Negative feedback is never is never easy to impart on others. Emotions and ego tend to trigger defensive behaviour. This, in turn, creates friction and noise in the communication.
+Negative feedback is never easy to impart on others. Emotions and ego tend to trigger defensive behaviour. This, in turn, creates friction and noise in the communication.
 
 There are several structured ways to help us shape our message for others in a way that helps people receive it well. Unfortunately, some of them are useless and even disrespectful (e.g. the [“shit” sandwich](https://www.forbes.com/sites/forbeshumanresourcescouncil/2022/04/25/why-the-sandwich-approach-to-criticism-is-terrible-advice/), and [others](http://blog.idonethis.com/sandwich-feedback-performance-management/)).
 
