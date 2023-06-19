@@ -45,6 +45,8 @@ params:
         url: /clippings
       - name: 💭 Thoughts
         url: /thoughts
+      - name: 🗄️ Archive
+        url: /archive
 
   socialIcons:
     - name: Facebook
