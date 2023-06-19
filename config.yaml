@@ -32,7 +32,9 @@ menu:
       url: /search
 
 params:
-  showReadingTime: true
+  mainSections:
+    - thoughts
+    - clippings
 
   profileMode:
     enabled: true
@@ -47,6 +49,8 @@ params:
         url: /thoughts
       - name: 🗄️ Archive
         url: /archive
+
+  showReadingTime: true
 
   socialIcons:
     - name: Facebook
