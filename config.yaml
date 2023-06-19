@@ -8,6 +8,7 @@ enableRobotsTXT: true
 
 permalinks:
   pages: /:filename/
+  clippings: /:filename/
   thoughts: /:filename/
 
 markup:
@@ -20,6 +21,9 @@ menu:
     - name: 💭 Thoughts
       url: /thoughts
       weight: 10
+    - name: 📎 Clippings
+      url: /clippings
+      weight: 20
     - name: 👤 About
       url: /about
     - name: 📆 Now
@@ -33,6 +37,8 @@ params:
     imageWidth: 240
     imageHeight: 240
     buttons:
+      - name: 📎 Clippings
+        url: /clippings
       - name: 💭 Thoughts
         url: /thoughts
 
