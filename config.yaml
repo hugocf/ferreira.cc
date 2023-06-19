@@ -30,6 +30,8 @@ menu:
       url: /now
 
 params:
+  showReadingTime: true
+
   profileMode:
     enabled: true
     subtitle: Web clippings & Random thoughts
