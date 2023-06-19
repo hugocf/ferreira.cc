@@ -28,6 +28,8 @@ menu:
       url: /about
     - name: 📆 Now
       url: /now
+    - name: 🔍 Search
+      url: /search
 
 params:
   showReadingTime: true
@@ -61,3 +63,9 @@ params:
       url: https://hugocf.medium.com
     - name: RSS
       url: index.xml
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
