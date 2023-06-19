@@ -1,6 +1,6 @@
 baseURL: https://hugocf.pages.dev/
 languageCode: en
-title: Web clippings & Random thoughts
+title: Hugo Ferreira
 
 theme: "PaperModX"
 
@@ -24,3 +24,32 @@ menu:
      url: /about
    - name: Now
      url: /now
+
+params:
+  profileMode:
+    enabled: true
+    subtitle: Web clippings & Random thoughts
+    imageUrl: hf-bw.jpg
+    imageWidth: 240
+    imageHeight: 240
+    buttons:
+      - name: 💭 Thoughts
+        url: /thoughts
+
+  socialIcons:
+    - name: Facebook
+      url: https://facebook.com/hugocf
+    - name: LinkedIn
+      url: http://linkedin.com/in/hugocf
+    - name: Mastodon
+      url: https://mastodon.online/@hugocf
+    - name: Twitter
+      url: https://twitter.com/hugocf
+    - name: Instagram
+      url: http://instagram.com/hugocf
+    - name: YouTube
+      url: https://www.youtube.com/user/hugoferreira1
+    - name: Medium
+      url: https://hugocf.medium.com
+    - name: RSS
+      url: index.xml
