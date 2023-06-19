@@ -16,14 +16,14 @@ markup:
       unsafe: true
 
 menu:
- main:
-   - name: Thoughts
-     url: /thoughts
-     weight: 10
-   - name: About
-     url: /about
-   - name: Now
-     url: /now
+  main:
+    - name: 💭 Thoughts
+      url: /thoughts
+      weight: 10
+    - name: 👤 About
+      url: /about
+    - name: 📆 Now
+      url: /now
 
 params:
   profileMode:
