@@ -5,12 +5,7 @@ lang: en
 tags: [ … ]
 title: {{ .Name | humanize }}
 subtitle: …
----
-
-*The summary.*
-
-<!--more-->
-
+summary: …
 ---
 
 *In this post… [purpose statement?]*
