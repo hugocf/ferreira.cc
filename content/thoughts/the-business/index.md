@@ -79,7 +79,7 @@ Because people are the link to context…
 
 So, remember to always ask:
 
-> ***Who** is “The Business”?*
+> ***Who* is “The Business”?**
 
 ---
 
