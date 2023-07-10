@@ -19,7 +19,7 @@ The confusion arrises in particular when you want to add the choice of a new beh
 >
 > The `enum` solution feels a bit [YAGNI](https://en.wikipedia.org/wiki/You_aren't_gonna_need_it) at the moment, but we're open to suggestions. What do you think?
 
-<p><center>• • •</center></p>
+---
 
 Don’t tie yourself to whether you’ll need more options in the future or not. Instead, look at how you can *communicate intent* the best way possible.
 
@@ -40,7 +40,7 @@ A Boolean fits the 1st scenario. A light switch is either on (have light) or off
 
 An Enumerate fits the 2nd scenario. A coaxial selector is either on position A or on position B . It lets you choose between two options. There is a clear meaning associated with each position.
 
-<p><center>• • •</center></p>
+---
 
 In the example above, the Enumerate data type would be the right choice.
 

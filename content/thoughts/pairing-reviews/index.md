@@ -226,7 +226,7 @@ It lifted the weight of constant pairing, for those who had difficulty with it o
 
 Also, it removed the feeling a being “evaluated”. It added a more collaborative mindset of working together, of building something together.
 
-<p><center>• • •</center></p>
+---
 
 **There are no silver bullets for most things in life. Everything is a tradeoff. With this, you have one more useful approach to consider when your context needs it.**
 

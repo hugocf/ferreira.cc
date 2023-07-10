@@ -2,3 +2,15 @@
   margin: var(--content-gap);
   font-style: italic;
 }
+
+.main.post .post-content hr {
+  background: none;
+  border: none;
+  height: 28px;
+}
+
+.main.post .post-content hr::before {
+  content: '•   •   •';
+  display: block;
+  text-align: center;
+}

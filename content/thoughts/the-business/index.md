@@ -25,7 +25,7 @@ There is no such entity called “The Business” in companies.
 
 “The Business” is everyone in the company.
 
-<p><center>• • •</center></p>
+---
 
 So what is happening in reality, behind “The Business” curtain?
 
@@ -41,7 +41,7 @@ To be effective in our jobs, we must know who are the people at the source of a 
 
 Being able to ask clarifying questions to the source is essential to get an accurate context. And as we know, [context is everything](https://hugocf.medium.com/context-is-everything-even-when-you-dont-see-it-8d56715c7c32) for the decisions that affect us and requests we're asked to fulfil.
 
-<p><center>• • •</center></p>
+---
 
 Next time someone says “The Business” asked, decided, demanded, etc. follow these 3 simple steps:
 
@@ -70,7 +70,7 @@ Be prepared for the possibility of some interactions to become something like th
 
 Now we know who to ask for clarification on the rationale behind the Foo decision. I'd bet that decision more nuanced than the “use Foo for *everything*” you got at the start.
 
-<p><center>• • •</center></p>
+---
 
 **Why go through all this trouble?**
 
