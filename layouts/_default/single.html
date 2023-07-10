@@ -16,9 +16,9 @@
       {{- end -}}
       {{- if .Draft -}}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end -}}
     </h1>
-    {{- if .Description }}
+    {{- if .Params.Subtitle }}
     <div class="post-description">
-      {{- .Description -}}
+      {{- .Params.Subtitle | safeHTML -}}
     </div>
     {{- end }}
     {{- if not (.Param "hideMeta") }}
@@ -27,6 +27,12 @@
       {{/* TODO move to footer */}}
       {{/* partial "edit_post.html" . */}}
       {{/* partial "post_canonical.html" . */}}
+    </div>
+    {{- end }}
+    {{- if .Params.Summary }}
+    <div class="post-content custom-summary">
+      <p>{{- .Params.Summary | safeHTML -}}</p>
+      <hr>
     </div>
     {{- end }}
   </header>

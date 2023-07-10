@@ -1,0 +1,4 @@
+.custom-summary p {
+  margin: var(--content-gap);
+  font-style: italic;
+}

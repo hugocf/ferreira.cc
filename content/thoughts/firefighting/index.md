@@ -4,14 +4,7 @@ lang: en
 tags: [ organisations, planning, training, emergencies, strategy, reacting, analogies ]
 title: "From Chaos to Strategy: Embracing Firefighting at Work"
 subtitle: Did you know firefighters are strategic? So why do we use the term firefighting when we mean “reactive and impulsive”?
----
-
-**{{< param "subtitle" >}}** <!-- TOOD: Add support in the theme -->
-
-*We use the analogy of firefighting when people handle unexpected problems at work. Instead of reacting in a chaotic manner like civilians, adopt the strategic approach of trained firefighters. This involves having a plan, clarifying roles, training people and practicing together. Doing so, we can create a better culture of preparedness in our companies.*
-
-<!--more-->
-
+summary: We use the analogy of firefighting when people handle unexpected problems at work. Instead of reacting in a chaotic manner like civilians, adopt the strategic approach of trained firefighters. This involves having a plan, clarifying roles, training people and practicing together. Doing so, we can create a better culture of preparedness in our companies.
 ---
 
 We’ve all heard people say they're in “firefighting mode” or “putting out fires” at work. They mean they’re dealing with unexpected problems and everything feels chaotic. But have you ever thought about *why* we use the analogy of firefighting for this kind of scenario?

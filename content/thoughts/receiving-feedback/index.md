@@ -4,12 +4,7 @@ lang: en
 source: "[Equal Experts Blogin post, Hugo Ferreira, 2019-04-18](https://equalexperts.blogin.co/posts/65986)"
 tags: [ guidelines, feedback, compassion, empathy, ego ]
 title: Hearing or listening? Unlock the value of receiving feedback
----
-
-*Most information on feedback focuses on how to give negative feedback. But what about receiving negative feedback? How better would it be if both ends shared the burden of having productive conversations? Let's put our egos to the side and be emphatic with those who give us criticism, so the burden isn’t on the speaker alone.*
-
-<!--more-->
-
+summary: Most information on feedback focuses on how to give negative feedback. But what about receiving negative feedback? How better would it be if both ends shared the burden of having productive conversations? Let's put our egos to the side and be emphatic with those who give us criticism, so the burden isn’t on the speaker alone.
 ---
 
 Whenever the topic of feedback comes up, the emphasis is usually on how to *give feedback* in an effective way.

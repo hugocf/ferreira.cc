@@ -7,12 +7,6 @@ title: “The Business” considered harmful
 subtitle: Draw back the curtain to reveal the real people behind it
 ---
 
-**{{< param "subtitle" >}}** <!-- TODO: Add support in the theme -->
-
-<!--more-->
-
----
-
 > *“The business”*
 
 Few [corporate speak](https://en.wikipedia.org/wiki/Corporate_jargon) expressions annoy me in as much as these 2 words. 😬

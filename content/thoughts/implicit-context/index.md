@@ -7,10 +7,6 @@ title: Context is everything, even when you don’t see it
 subtitle: Why nothing has advantages or disadvantages, only characteristics
 ---
 
-**{{< param "subtitle" >}}** <!-- TOOD: Add support in the theme -->
-
-<!--more-->
-
 ![Ceiling of Borujerdis House in Kashan, Iran with a bright light centre and shaded triangles all around it](kashan-iran-unsplash.jpg)
 
 *[Photo](https://unsplash.com/photos/aGxMCcAh2Pw) by [Mohammad Takhsh](https://unsplash.com/@mohammadtkh) on [Unsplash](https://unsplash.com/)*

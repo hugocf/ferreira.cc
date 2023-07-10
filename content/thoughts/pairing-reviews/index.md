@@ -7,14 +7,8 @@ source:
 - "[Slack messages, Tiago Almeida, 2020-10-21](https://ios.slack.com/archives/G02ATA0M9/p1603299069415200?thread_ts=1603287825.411300&amp;cid=G02ATA0M9)"
 tags: [ pairing, code reviews, alternatives, how to ]
 title: "Pairing Reviews: Bridging the gap between pair programming and code reviews"
+summary: Paring technical sessions for kick-offs and reviews can be a good alternative for programmers frustrated with async code reviews and unhappy with continuous pair programming.
 ---
-
-*Paring technical sessions for kick-offs and reviews can be a good alternative for programmers frustrated with async code reviews and unhappy with continuous pair programming.*
-
-<!--more-->
-
----
-
 
 > One thing I have experienced to work well in the recent past is to have a technical/design kickoff with other team members when starting a feature: we trade ideias, discuss options, and align on a way forward
 >

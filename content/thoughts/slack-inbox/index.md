@@ -8,12 +8,6 @@ subtitle: Get control of your Slack inbox with Inbox Zero principles and enjoy a
 via: "[John Rae](https://springernature.slack.com/archives/C04HV45EZ4H/p1672850152593449)"
 ---
 
-**{{< param "subtitle" >}}** <!-- TOOD: Add support in the theme -->
-
-<!--more-->
-
----
-
 “Inbox zero” is a pivotal concept to deal with the constant influx of information we have nowadays. [Merlin Mann coined it](https://en.wikipedia.org/wiki/Merlin_Mann#Writing) in 2006, during a [series of posts on 43Folders](http://www.43folders.com/2006/04/05/wrapup).
 
 > That “zero?” It’s not how many mes­sages are in your inbox–it’s how much of your own *brain* is in that inbox. Especially when you don’t want it to be. That’s it.

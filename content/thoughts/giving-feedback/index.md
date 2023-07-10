@@ -3,12 +3,7 @@ date: 2023-06-13
 lang: en
 tags: [ guidelines, feedback, observing, compassion, behaviours, feelings, needs ]
 title: Speaking or communicating? Easily recall how to give good feedback
----
-
-*There are many guidelines on how to structure feedback but human nature is quite common. A simple mnemonic will help your recall your favourite framework when it matters the most — talk about what you “observe”, its “impact” and then “ask”.*
-
-<!--more-->
-
+summary: There are many guidelines on how to structure feedback but human nature is quite common. A simple mnemonic will help your recall your favourite framework when it matters the most — talk about what you “observe”, its “impact” and then “ask”.
 ---
 
 Negative feedback is never easy to impart on others. Emotions and ego tend to trigger defensive behaviour. This, in turn, creates friction and noise in the communication.
