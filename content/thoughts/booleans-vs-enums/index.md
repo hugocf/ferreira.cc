@@ -11,7 +11,7 @@ subtitle: Choosing between Booleans and Enumerates when the options are binary
 
 <!--more-->
 
-In programming, [Booleans](https://en.wikipedia.org/wiki/Boolean_data_type) and [Enumerates](https://en.wikipedia.org/wiki/Enumerated_type) are common data types to represent the concept “choice”.
+In programming, [Booleans](https://en.wikipedia.org/wiki/Boolean_data_type) and [Enumerates](https://en.wikipedia.org/wiki/Enumerated_type) are common data types to represent the concept of “choice”.
 
 When there are several things to choose from, the Enumerate is the only one to support it, so that’s clear.
 
