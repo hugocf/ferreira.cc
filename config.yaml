@@ -53,14 +53,14 @@ params:
   showReadingTime: true
 
   socialIcons:
-    - name: Facebook
-      url: https://facebook.com/hugocf
     - name: LinkedIn
       url: http://linkedin.com/in/hugocf
-    - name: Mastodon
-      url: https://mastodon.online/@hugocf
+    - name: Facebook
+      url: https://facebook.com/hugocf
     - name: Twitter
       url: https://twitter.com/hugocf
+    - name: Mastodon
+      url: https://mastodon.online/@hugocf
     - name: Instagram
       url: http://instagram.com/hugocf
     - name: YouTube
