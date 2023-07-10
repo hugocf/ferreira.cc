@@ -8,3 +8,5 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd $SCRIPT_DIR/..
 
 git submodule update --remote --merge
+
+time diff -ur themes/PaperModX/layouts/ layouts/ | grep -v "Only in themes"
