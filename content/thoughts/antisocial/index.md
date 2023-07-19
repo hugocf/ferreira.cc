@@ -76,7 +76,7 @@ Don't stay outside too long though. If you abuse it, people will worry where you
 
 *— In a sitting down conference-style event —*
 
-Joining a restaurant where you’ll have a group meal together? Make sure to be in the middle of the pack. This way there’s already enough people seated when you join the table to let you read the roam. Yet, there will still be enough seats available to let you choose the most pleasant or quiet people to sit next to. Don’t be the first ones to sit since you’ll have no control who sits next to you and it’s awkward to move away once you’re seated. Also, don’t be the last ones to sit since all the good places will be gone and you’re now stuck with the group’s leftovers.
+Joining a restaurant where you’ll have a group meal together? Make sure to be in the middle of the pack. This way there’s already enough people seated when you join the table to let you read the room. Yet, there will still be enough seats available to let you choose the most pleasant or quiet people to sit next to. Don’t be the first ones to sit since you’ll have no control who sits next to you and it’s awkward to move away once you’re seated. Also, don’t be the last ones to sit since all the good places will be gone and you’re now stuck with the group’s leftovers.
 
 Is it a place where everyone’s lined up in chairs, like in a cinema, for a talk or to watch some family holiday pictures? While everyone is setting up things, go grab a beer or sneak into the toilet. Let others occupy the seats first. When you’re back, skip the chairs and stand at the very back against the wall. You’ll be safe from happenstance conversation about what you're watching.
 
