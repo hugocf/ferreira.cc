@@ -107,3 +107,16 @@ Take care.
 ![animated gif with a character looking surprised, the other responding with “I’m kidding” and making a serious face right after](kidding-kinda.gif)
 <a href="https://giphy.com/gifs/fx-on-hulu-im-kidding-POlRuKwo6HEnZsp3DQ">via GIPHY</a>
 
+---
+
+Shared to:
+
+* [LinkedIn](https://www.linkedin.com/posts/hugocf_navigating-people-the-antisocial-guide-to-activity-7087426042864279552-VNns)
+* [Mastodon](https://mastodon.online/@hugocf/110741040672693409)
+* [Medium](https://hugocf.medium.com/navigating-people-the-antisocial-guide-to-survive-social-gatherings-1e6155d29c9d)
+* [Twitter](https://twitter.com/hugocf/status/1681661969852399619?s=20)
+
+🔒 *(groups)*
+
+* [Telegram](https://t.me/c/1363309933/9114)
+
