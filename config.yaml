@@ -32,6 +32,8 @@ menu:
       url: /search
 
 params:
+  defaultTheme: auto
+
   mainSections:
     - thoughts
     - clippings
