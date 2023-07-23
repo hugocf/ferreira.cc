@@ -32,6 +32,7 @@ menu:
       url: /search
 
 params:
+  author: Hugo Ferreira
   description: Web clippings & Random thoughts
 
   cover:
