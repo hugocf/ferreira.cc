@@ -32,6 +32,10 @@ menu:
       url: /search
 
 params:
+  cover:
+    responsiveImages: false
+    linkFullImages: false
+
   defaultTheme: auto
 
   mainSections:

@@ -14,3 +14,8 @@
   display: block;
   text-align: center;
 }
+
+figure.entry-cover p {
+  padding-left: 10%;
+  padding-right: 10%;
+}
