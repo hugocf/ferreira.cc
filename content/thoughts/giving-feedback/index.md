@@ -1,4 +1,8 @@
 ---
+cover:
+  image: eye-hammer-question.jpeg
+  alt: an eye, a hammer and question mark, side-by-side next to each other in graffiti style
+  caption: "[Image Creator from Microsoft Bing](https://www.bing.com/images/create) — “an eye, a hammer and question mark, side-by-side in random painting art styles”"
 date: 2023-06-13
 lang: en
 tags: [ guidelines, feedback, observing, compassion, behaviours, feelings, needs ]
@@ -106,10 +110,6 @@ This is because there’s a natural overlap between the methods. They emphasise 
 -->
 
 ![comparison table between the different feedback frameworks (NVC, SBI+I, CORE) to highlight how each one maps to the “Observe”, “Impact” and “Ask” principles](table.png)
-
-![an eye, a hammer and question mark, side-by-side next to each other in graffiti style](eye-hammer-question.jpeg)
-
-*[Image Creator from Microsoft Bing](https://www.bing.com/images/create) — “an eye, a hammer and question mark, side-by-side in random painting art styles”*
 
 ---
 

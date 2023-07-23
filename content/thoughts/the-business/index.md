@@ -1,4 +1,8 @@
 ---
+cover:
+  image: the-business.png
+  alt: AI generated photo of several silhouette shadows behind a curtain
+  caption: "[DALL·E](https://openai.com/dall-e) — “photo realistic several silhouette shadows behind a curtain”"
 date: 2023-06-04
 drafted: 2022-03-22
 lang: en
@@ -7,17 +11,11 @@ title: “The Business” considered harmful
 subtitle: Draw back the curtain to reveal the real people behind it
 ---
 
+Few [corporate speak](https://en.wikipedia.org/wiki/Corporate_jargon) expressions annoy me in as much as these 2 words: 😬
+
 > *“The business”*
 
-Few [corporate speak](https://en.wikipedia.org/wiki/Corporate_jargon) expressions annoy me in as much as these 2 words. 😬
-
 This *is* a pet peeve of mine, for sure. But beyond that, it’s important we stop covering decision makers behind “The Business” curtain. 
-
-![DALL·E AI generated photo of several silhouette shadows behind a curtain](the-business.png)
-
-*[DALL·E](https://openai.com/dall-e) — “photo realistic several silhouette shadows behind a curtain”*
-
-
 
 There is no such entity called “The Business” in companies.
 

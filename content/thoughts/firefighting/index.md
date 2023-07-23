@@ -1,4 +1,8 @@
 ---
+cover:
+  image: unsplash-firefighter.jpg
+  alt: a firefighter using a hose to extinguish a fire in training
+  caption: "[Photo](https://unsplash.com/photos/e5s4jQxEExo) by [Hush Naidoo Jade Photography](https://unsplash.com/@hush52) on [Unsplash](https://unsplash.com/)"
 date: 2023-04-03
 lang: en
 tags: [ organisations, planning, training, emergencies, strategy, reacting, analogies ]
@@ -54,10 +58,6 @@ This way we can create a better culture of preparedness in our companies. Like t
 
 So, the next time you find yourself in firefighting mode at work, remember that you have a choice. Don’t react in a chaotic manner, like a civilian in a fire. **Be strategic like a trained firefighter.**
 
-![A firefighter using a hose to extinguish a fire](unsplash-firefighter.jpg)
-
-*[Photo](https://unsplash.com/photos/e5s4jQxEExo) by [Hush Naidoo Jade Photography](https://unsplash.com/@hush52) on [Unsplash](https://unsplash.com/)*
-
 ---
 
 Shared to:
@@ -72,4 +72,3 @@ Shared to:
 * [iOS PT Slack](https://ios.slack.com/archives/C0721L3CL/p1680511769840369)
 * [SA-IL Slack](https://sa-il.slack.com/archives/CQ32FU1SR/p1680539980852139)
 * [Telegram](https://t.me/c/1363309933/8513)
-

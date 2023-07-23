@@ -1,4 +1,8 @@
 ---
+cover:
+  image: office-party.png
+  alt: pop art painting of a crowded office party with many people
+  caption: "[DALL·E](https://openai.com/dall-e) — “pop art  painting of a crowded office party with many people”"
 date: 2023-07-10
 drafted: 2022-07-03
 lang: en
@@ -7,18 +11,11 @@ title: "Navigating people: The antisocial guide to survive social gatherings"
 summary: Guide to being invisible in a crowded party. The subtle art of staying present and mingling with people, at the same time absent without engaging, all without raising suspicion.
 ---
 
-![pop art  painting of a crowded office party with many people](office-party.png)
-
-*[DALL·E](https://openai.com/dall-e) — “pop art  painting of a crowded office party with many people”*
-
-
-
 Parties and social gatherings with many people can be interesting… or a complete nightmare. Either for work or for family, there are times where we’re not up to it and yet, because we couldn’t get away, we must do attend.
 
 Doesn’t matter what the reasons you have to lack enthusiasm on a particular social gathering. You can be a shy person. Or an introvert[^1] that is needing alone time to recharge your batteries. Or even an extrovert[^2] that isn’t keen on being with a particular group of people.
 
 These tips can help you survive such situations…
-
 
 [^1]: See book [Quiet: The Power of Introverts in a World That Can’t Stop Talking by Susan Cain | Goodreads](https://www.goodreads.com/book/show/8520610-quiet)
 [^2]: See book [The Science of Introverts (And Extroverts and Everyone In-Between) by Peter Hollins | Goodreads](https://www.goodreads.com/book/show/35712351-the-science-of-introverts-and-extroverts-and-everyone-in-between)

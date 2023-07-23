@@ -1,4 +1,8 @@
 ---
+cover:
+  image: kashan-iran-unsplash.jpg
+  alt: ceiling of Borujerdis House in Kashan, Iran with a bright light centre and shaded triangles all around it
+  caption: "[Photo](https://unsplash.com/photos/aGxMCcAh2Pw) by [Mohammad Takhsh](https://unsplash.com/@mohammadtkh) on [Unsplash](https://unsplash.com/)"
 date: 2023-04-24
 drafted: 2020-12-14
 lang: en
@@ -6,10 +10,6 @@ tags: [ context, characteristics, decisions, bias, comparison ]
 title: Context is everything, even when you don’t see it
 subtitle: Why nothing has advantages or disadvantages, only characteristics
 ---
-
-![Ceiling of Borujerdis House in Kashan, Iran with a bright light centre and shaded triangles all around it](kashan-iran-unsplash.jpg)
-
-*[Photo](https://unsplash.com/photos/aGxMCcAh2Pw) by [Mohammad Takhsh](https://unsplash.com/@mohammadtkh) on [Unsplash](https://unsplash.com/)*
 
 We have all heard the common sense[^1] saying that “context is everything” at some point of our life. It’s a reminder to consider the circumstances before making judgments or decisions.
 

@@ -1,4 +1,8 @@
 ---
+cover:
+  image: unspash-code-reviews.jpg
+  alt: a pair of glasses sitting on a table facing two blurred screens filled with code
+  caption: "[Photo](https://unsplash.com/photos/w7ZyuGYNpRQ) by [Kevin Ku](https://unsplash.com/@ikukevk) on [Unsplash](https://unsplash.com/)"
 date: 2023-05-08
 drafted: 2020-11 until 2021-02
 lang: en
@@ -66,10 +70,6 @@ There are many ways around personal differences to make pair programming work. I
 We all agreed that several people looking at the same piece of code was essential to ensure code quality. So, our initial change was to use the most common alternative in the industry: **async code reviews**.
 
 ## The problems we faced with async code reviews
-
-![a pair of glasses sitting on a table facing two blurred screens filled with code](unspash-code-reviews.jpg)
-
-*[Photo](https://unsplash.com/photos/w7ZyuGYNpRQ) by [Kevin Ku](https://unsplash.com/@ikukevk) on [Unsplash](https://unsplash.com/)*
 
 Code reviews are easy, right? 
 
