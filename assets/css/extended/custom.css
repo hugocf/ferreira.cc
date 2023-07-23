@@ -1,3 +1,13 @@
+:root {
+  --link-hover-color: #3f84e4;
+  --link-hover-underline-color: #3f84e4;
+}
+
+.dark {
+  --link-hover-color: #58a6ff;
+  --link-hover-underline-color: #58a6ff;
+}
+
 .custom-summary p {
   margin: calc(2 * var(--content-gap));
   font-style: italic;
