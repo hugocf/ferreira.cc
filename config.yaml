@@ -52,6 +52,11 @@ params:
       - name: 🗄️ Archive
         url: /archive
 
+  # search
+  fuseOpts:
+    minMatchCharLength: 2
+    threshold: 0.4
+
   showReadingTime: true
 
   socialIcons:
