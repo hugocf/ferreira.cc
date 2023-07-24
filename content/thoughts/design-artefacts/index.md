@@ -6,8 +6,9 @@ cover:
 date: 2014-03-27
 lang: en
 tags: [ software, ui, ux, design, concepts, tools, sketch, wireframe, mockup, prototype ]
-title: Sketch, Wireframe, Mockup, Prototype
-summary: Compare and contrast different design tools in terms of their fidelity, time, cost and use cases.
+title: UI/UX design artefacts
+subtitle: Comparison of sketch, wireframe, mockup, and prototype
+summary: Compare and contrast different design artefacts (sketch, wireframe, mockup, and prototype) in terms of their fidelity, time, cost and use cases.
 ---
 
 Because this seems to keep popping up in my discussions from time to time:
