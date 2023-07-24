@@ -1,4 +1,7 @@
 ---
+cover:
+  image: carros-queimados.jpg
+  alt: panorama dos 447 carros carbonizados no estacionamento de terra batida do Andanças
 date: 2016-08-13
 lang: pt
 tags: [ … ]
