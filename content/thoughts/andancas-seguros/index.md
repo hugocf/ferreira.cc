@@ -6,6 +6,8 @@ title: "Incêndio no Andanças: Os Números das Seguradoras"
 summary: Análise do impacto do incêndio no Andanças, seguradoras envolvidas e nacionalidade das matrículas.
 ---
 
+_**Update 2016-08-14:** Das 49 matrículas “não encontradas” apenas 7 continuam a não apresentar resultados. As restantes 42 matrículas distribuem-se pelas várias seguradoras de forma equivalente aos resultados anteriores, tendo aparecido uma nova seguradora “Popular Seguros”. O problema inicial deve ter sido uma falha informática temporária na [pesquisa do site da ASF][asfsearch]._
+
 _**Update 2016-08-13:** No dia da [pesquisa no site da ASF][asfsearch] muitas das matrículas estavam a responder como “não encontrado”. Hoje essas mesmas matrículas já respondem com informação de seguros pelo que em breve irei actualizar esta informação com esses novos dados._
 
 ---
