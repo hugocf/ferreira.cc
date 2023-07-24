@@ -48,3 +48,4 @@ See also,
 
 -   [Why It's Important to Sketch Before You Wireframe](http://uxmovement.com/wireframes/why-its-important-to-sketch-before-you-wireframe/)
 -   [Wireframing, Prototyping, Mockuping - What's the Difference?](http://designmodo.com/wireframing-prototyping-mockuping/)
+-   [Wireframe vs Mockup vs Prototype - What's the Difference?](https://www.alphalogicinc.com/blog/sketch-vs-wireframe-vs-mockup-vs-prototype/)
