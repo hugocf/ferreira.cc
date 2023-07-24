@@ -46,5 +46,5 @@ Because this seems to keep popping up in my discussions from time to time:
 
 See also,
 
--   [Why It's Important to Sketch Before You Wireframe](http://hugo.ferreira.cc/post/80906780690/via-why-its-important-to-sketch-before-you)
+-   [Why It's Important to Sketch Before You Wireframe](http://uxmovement.com/wireframes/why-its-important-to-sketch-before-you-wireframe/)
 -   [Wireframing, Prototyping, Mockuping - What's the Difference?](http://designmodo.com/wireframing-prototyping-mockuping/)
