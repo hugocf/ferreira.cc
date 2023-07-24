@@ -6,6 +6,10 @@ title: "Incêndio no Andanças: Os Números das Seguradoras"
 summary: Análise do impacto do incêndio no Andanças, seguradoras envolvidas e nacionalidade das matrículas.
 ---
 
+_**Update 2016-08-13:** No dia da [pesquisa no site da ASF][asfsearch] muitas das matrículas estavam a responder como “não encontrado”. Hoje essas mesmas matrículas já respondem com informação de seguros pelo que em breve irei actualizar esta informação com esses novos dados._
+
+---
+
 Existem uma série de questões difíceis de responder sobre o incêndio no Andanças, dada a dimensão e falta de informação sobre o mesmo:
 
 * Quantas seguradoras estão envolvidas?
