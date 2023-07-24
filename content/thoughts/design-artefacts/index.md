@@ -1,4 +1,10 @@
 ---
+aliases:
+  - sketch-mockup-wireframe # old site
+  - sketch
+  - wireframe
+  - mockup
+  - prototype
 cover:
   image: sketch-wireframe-mockup-prototype.png
   alt: examples of a sketch, wireframe and mockup, side by side
