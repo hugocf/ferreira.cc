@@ -61,6 +61,7 @@ params:
       - name: 🗄️ Archive
         url: /archive
 
+  showCodeCopyButtons: true
   showPostNavLinks: true
   showReadingTime: true
 
