@@ -10,6 +10,7 @@
 
 .custom-summary p {
   margin: calc(2 * var(--content-gap));
+  margin-bottom: 0;
   font-style: italic;
 }
 
