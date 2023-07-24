@@ -5,7 +5,7 @@ cover:
 date: 2023-05-15
 lang: en
 source: "[Springer Nature Slack message, Hugo Ferreira, 2022-07-15](https://springernature.slack.com/archives/C01NT4ECRQ8/p1650618745850389?thread_ts=1650552510.015869&channel=C01NT4ECRQ8&message_ts=1650618745.850389)"
-tags: [ programming, data types, comparison, criterion ]
+tags: [ programming, data types, booleans, enumerates, comparison, criterion ]
 title: Mental model for Booleans vs Enumerates
 subtitle: Choosing between Booleans and Enumerates when the options are binary
 ---
