@@ -1,0 +1,8 @@
+{{- if eq .Params.Type "audio" }}<span title="audio">🔈</span>
+{{- else if eq .Params.Type "chat" }}<span title="chat">💬</span>
+{{- else if eq .Params.Type "image" }}<span title="image">🏞</span>
+{{- else if eq .Params.Type "link" }}<span title="link">🔗</span>
+{{- else if eq .Params.Type "quote" }}<span title="quote">📜</span>
+{{- else if eq .Params.Type "text" }}<span title="text">📋</span>
+{{- else if eq .Params.Type "video" }}<span title="video">📺</span>
+{{- end }}

@@ -12,14 +12,8 @@
       {{- if $isNewsletter -}}
         {{- replace .Title (.Param "titlePrefix") (.Param "titlePrefixReplace") -}}
       {{- else -}}
-        {{- if eq .Params.Type "audio" }}🔈{{ end }}
-        {{- if eq .Params.Type "chat" }}💬{{ end }}
-        {{- if eq .Params.Type "image" }}🏞{{ end }}
-        {{- if eq .Params.Type "link" }}🔗{{ end }}
-        {{- if eq .Params.Type "quote" }}📜{{ end }}
-        {{- if eq .Params.Type "text" }}📋{{ end }}
-        {{- if eq .Params.Type "video" }}📺{{ end }}
-        {{ .Title | safeHTML | markdownify -}}
+        {{- partial "clippings_type.html" . -}}
+        {{- .Title | safeHTML | markdownify -}}
       {{- end -}}
       {{- if .Draft -}}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end -}}
     </h1>
