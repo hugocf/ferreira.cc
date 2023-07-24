@@ -47,6 +47,8 @@ params:
     - thoughts
     - clippings
 
+  paginate: 9 # HF: temporary
+
   profileMode:
     enabled: true
     subtitle: Web clippings & Random thoughts
