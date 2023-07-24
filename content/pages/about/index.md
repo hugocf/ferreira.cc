@@ -2,6 +2,7 @@
 date: 2018-08-23
 lang: en
 title: About
+showPostNavLinks: false
 ---
 
 See what i'm [currently doing now](/now).

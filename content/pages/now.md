@@ -2,6 +2,7 @@
 date: 2023-05-22
 lang: en
 title: What I'm doing now…
+showPostNavLinks: false
 ---
 
 In a word: **“writting”**
