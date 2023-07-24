@@ -39,7 +39,7 @@ params:
 
   cover:
     responsiveImages: false
-    linkFullImages: false
+    linkFullImages: true
 
   defaultTheme: auto
 
