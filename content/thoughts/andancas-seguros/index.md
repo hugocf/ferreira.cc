@@ -4,7 +4,7 @@ cover:
   alt: panorama dos 447 carros carbonizados no estacionamento de terra batida do Andanças
 date: 2016-08-13
 lang: pt
-tags: [ … ]
+tags: [ fires, investigation, insurance companies, nationalities, comparison ]
 title: "Incêndio no Andanças: Os Números das Seguradoras"
 summary: Análise do impacto do incêndio no Andanças, seguradoras envolvidas e nacionalidade das matrículas.
 ---
