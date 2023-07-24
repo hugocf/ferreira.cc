@@ -51,7 +51,7 @@ _Nota: [Seguro Directo](https://www.segurodirecto.pt/info-legal.html) aparece co
 
 Isto não foi só um problema português. Embora dada a dimensão do incidente os veículos estrangeiros estejam em menor número, é de realçar que cerca de **10% dos veículos** não têm matrícula portuguesa, sendo na sua grande maioria espanhóis.
 
-Se em Portugal já têm ocorrido vários problemas de coordenação entre as entidades responsáveis, seguradoras e sinistrados, e tendo em conta ainda a barreira da língua, decerto que para estas pessoas o passeio de férias a Portugal revelou-se um autêntico pesadelo :(
+Se em Portugal já têm ocorrido vários problemas de coordenação entre as entidades responsáveis, seguradoras e sinistrados, e tendo em conta ainda a barreira da língua, decerto que para estas pessoas o passeio de férias a Portugal revelou-se um autêntico pesadelo. 🙁
 
 ![tabela dos países das matrículas afetadas: ~90% Portuguesas e ~10% Estrangeiras](paises-table.png)
 
