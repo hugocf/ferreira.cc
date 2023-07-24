@@ -1,0 +1,9 @@
+<div>
+    <p>{{ with .Get "title" }}{{ . }}{{ end }}</p>
+    <audio
+        controls
+        src="{{ with .Get "src" }}{{ . }}{{ end }}"
+        style="width: 100%">
+        Your browser does not support the <code>audio</code> element.
+    </audio>
+</div>
