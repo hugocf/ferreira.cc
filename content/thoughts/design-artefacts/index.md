@@ -14,45 +14,43 @@ lang: en
 tags: [ software, ui, ux, design, concepts, tools, sketch, wireframe, mockup, prototype ]
 title: UI/UX design artefacts
 subtitle: Comparison of sketch, wireframe, mockup, and prototype
-summary: Compare and contrast different design artefacts (sketch, wireframe, mockup, and prototype) in terms of their fidelity, time, cost and use cases.
+summary: Compare and contrast different design artefacts (sketch, wireframe, mockup, and prototype) in terms of their fidelity, speed, cost and use cases.
 ---
 
 Because this seems to keep popping up in my discussions from time to time:
 
-**1. Sketch**
+| Artefacts | Fidelity | Speed | Cost |
+| --------- | -------- | ----- | ---- |
+| Sketch    | ➖➖ *very low* | ➕➕ *very fast* | 💲 *cheap* |
+| Wireframe | ➖ *low* | ➕ *fast* | 💲💲 *low* |
+| Mockup    | ➕ *medium* | ➖ *slow* | 💲💲💲 *high* |
+| Prototype | ➕➕ *high* | ➖➖ *very slow* | 💲💲💲💲 *expensive* |
 
--   Fidelity: **– –** (very low)
--   Time: **++** (very fast)
--   Cost: **¢** (cheap)
--   Use: quick **brainstorm** of ideias; **easy communication** of
-    purpose; pen & paper rough drawings
+---
 
-**2. Wireframe**
+**Sketch** — pen & paper rough drawings
 
--   Fidelity: **–** (low)
--   Time: **+** (fast)
--   Cost: **$** (low)
--   Use: **quick communication** of interactions; **documenting** the
-    interface; black & grey representation
+- Quick brainstorm of *ideias*
+- Easy communication of purpose
 
-**3. Mockup**
+**Wireframe** — black & grey representation
 
--   Fidelity: **+ / ++** (medium / high)
--   Time: **–** (slow)
--   Cost: **$$** (high)
--   Use: gather **feedback** and **buy-in** from stakeholders;
-    static visualisation
+- Use: quick communication of *interactions*
+- Documenting the interface; 
 
-**4. Prototype**
+**Mockup** — static coloured visualisation
 
--   Fidelity: **+ / ++** (medium / high)
--   Time: **– –** (very slow)
--   Cost: **$$$** (expensive)
--   Use: user **testing**; possibly **reusable** into the product; real
-    interactive implementation
+- Gather rough feedback and buy-in from stakeholders
+
+**Prototype** — real interactive implementation
+
+- User testing in a scenario close to reality
+- Possibly reusable into the product
+
+---
 
 See also,
 
--   [Why It's Important to Sketch Before You Wireframe](http://uxmovement.com/wireframes/why-its-important-to-sketch-before-you-wireframe/)
--   [Wireframing, Prototyping, Mockuping - What's the Difference?](http://designmodo.com/wireframing-prototyping-mockuping/)
--   [Wireframe vs Mockup vs Prototype - What's the Difference?](https://www.alphalogicinc.com/blog/sketch-vs-wireframe-vs-mockup-vs-prototype/)
+- [Why It's Important to Sketch Before You Wireframe](http://uxmovement.com/wireframes/why-its-important-to-sketch-before-you-wireframe/)
+- [Wireframing, Prototyping, Mockuping - What's the Difference?](http://designmodo.com/wireframing-prototyping-mockuping/)
+- [Wireframe vs Mockup vs Prototype - What's the Difference?](https://www.alphalogicinc.com/blog/sketch-vs-wireframe-vs-mockup-vs-prototype/)
