@@ -12,13 +12,13 @@
       {{- if $isNewsletter -}}
         {{- replace .Title (.Param "titlePrefix") (.Param "titlePrefixReplace") -}}
       {{- else -}}
-        {{- .Title -}}
+        {{- .Title | safeHTML | markdownify -}}
       {{- end -}}
       {{- if .Draft -}}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end -}}
     </h1>
     {{- if .Params.Subtitle }}
     <div class="post-description">
-      {{- .Params.Subtitle | safeHTML -}}
+      {{- .Params.Subtitle | safeHTML | markdownify -}}
     </div>
     {{- end }}
     {{- if not (.Param "hideMeta") }}
@@ -31,7 +31,7 @@
     {{- end }}
     {{- if .Params.Summary }}
     <div class="post-content custom-summary">
-      <p>{{- .Params.Summary | safeHTML -}}</p>
+      <p>{{- .Params.Summary | safeHTML | markdownify -}}</p>
     </div>
     {{- end }}
   </header>
