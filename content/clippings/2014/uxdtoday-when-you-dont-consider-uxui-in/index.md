@@ -2,7 +2,7 @@
 date: 2014-03-26
 lang: en
 tags: [ design, fail, oops, ux ]
-title: ""
+title: "(image)"
 type: image
 ---
 

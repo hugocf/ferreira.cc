@@ -2,7 +2,7 @@
 date: 2010-11-04
 lang: en
 tags: [ mobile ]
-title: ""
+title: "(image)"
 type: image
 ---
 

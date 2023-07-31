@@ -2,7 +2,7 @@
 date: 2013-12-17
 lang: en
 tags: [ best practices, development, learning, method, programming, psychology ]
-title: ""
+title: "(image)"
 type: image
 ---
 

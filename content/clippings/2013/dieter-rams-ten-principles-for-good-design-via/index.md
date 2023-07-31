@@ -2,7 +2,7 @@
 date: 2013-07-02
 lang: en
 tags: [ best practices, design, principles, reference ]
-title: ""
+title: "(image)"
 type: image
 ---
 

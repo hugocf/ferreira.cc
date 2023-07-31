@@ -2,7 +2,7 @@
 date: 2013-05-16
 lang: en
 tags: [ app, best practices, launch, marketing, mobile, press release ]
-title: ""
+title: "(image)"
 type: image
 ---
 

@@ -2,7 +2,7 @@
 date: 2013-08-31
 lang: en
 tags: [ competencies, deployment, design, development, ios, mobile ]
-title: ""
+title: "(image)"
 type: image
 ---
 

@@ -2,7 +2,7 @@
 date: 2015-02-16
 lang: en
 tags: [ business, life balance, outsourcing, virtual assistant ]
-title: ""
+title: "(image)"
 type: image
 ---
 

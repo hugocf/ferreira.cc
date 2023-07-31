@@ -2,7 +2,7 @@
 date: 2013-11-06
 lang: en
 tags: [ art, attitude, dress code, life, society ]
-title: ""
+title: "(image)"
 type: image
 ---
 

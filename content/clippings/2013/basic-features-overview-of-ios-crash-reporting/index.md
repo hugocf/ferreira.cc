@@ -2,7 +2,7 @@
 date: 2013-06-15
 lang: en
 tags: [ analytics, android, crash, debug, development, ios, mobile, reporting ]
-title: ""
+title: "(image)"
 type: image
 ---
 

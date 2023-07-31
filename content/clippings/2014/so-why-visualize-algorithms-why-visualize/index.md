@@ -2,7 +2,7 @@
 date: 2014-09-03
 lang: en
 tags: [ algorithms, coding, thought process, visualisation ]
-title: ""
+title: "(image)"
 type: image
 ---
 

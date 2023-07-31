@@ -2,7 +2,7 @@
 date: 2014-06-07
 lang: en
 tags: [ best practice, keynote, powerpoint, presentation, slides ]
-title: ""
+title: "(image)"
 type: image
 ---
 

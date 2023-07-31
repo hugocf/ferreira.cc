@@ -2,7 +2,7 @@
 date: 2013-12-13
 lang: en
 tags: [ computers, history, humility, just do it ]
-title: ""
+title: "(image)"
 type: image
 ---
 

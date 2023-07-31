@@ -2,7 +2,7 @@
 date: 2014-03-27
 lang: en
 tags: [ concepts, design, mockup, prototype, sketch, ui, ux, wireframe ]
-title: ""
+title: "(image)"
 type: image
 ---
 

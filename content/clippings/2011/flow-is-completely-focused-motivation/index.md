@@ -2,7 +2,7 @@
 date: 2011-04-10
 lang: en
 tags: [ focus, productivity, psychology, the zone ]
-title: ""
+title: "(image)"
 type: image
 ---
 

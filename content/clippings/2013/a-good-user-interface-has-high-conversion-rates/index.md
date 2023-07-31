@@ -2,7 +2,7 @@
 date: 2013-07-02
 lang: en
 tags: [ best practices, conversion, design, marketing, tips, ui, ux ]
-title: ""
+title: "(image)"
 type: image
 ---
 

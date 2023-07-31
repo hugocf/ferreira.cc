@@ -2,7 +2,7 @@
 date: 2012-12-04
 lang: en
 tags: [ amazon, apple, business, facebook, google, humor, infographic, mircrosoft, satire, technology ]
-title: ""
+title: "(image)"
 type: image
 ---
 

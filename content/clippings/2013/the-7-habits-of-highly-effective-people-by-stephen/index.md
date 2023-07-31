@@ -2,7 +2,7 @@
 date: 2013-07-17
 lang: en
 tags: [ best practices, habits, life, linchpin, productivity ]
-title: ""
+title: "(image)"
 type: image
 ---
 

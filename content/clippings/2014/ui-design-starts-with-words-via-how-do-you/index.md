@@ -2,7 +2,7 @@
 date: 2014-07-28
 lang: en
 tags: [ design, methodology, ui, use cases, ux, writing ]
-title: ""
+title: "(image)"
 type: image
 ---
 

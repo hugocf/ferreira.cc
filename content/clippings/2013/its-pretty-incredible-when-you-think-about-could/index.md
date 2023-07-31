@@ -2,7 +2,7 @@
 date: 2013-09-19
 lang: en
 tags: [ goals, happiness, life, motivation ]
-title: ""
+title: "(image)"
 type: image
 ---
 

@@ -2,7 +2,7 @@
 date: 2013-08-30
 lang: en
 tags: [ 13, ads, life, luck, natura, smile, superstition ]
-title: ""
+title: "(image)"
 type: image
 ---
 

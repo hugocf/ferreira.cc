@@ -2,7 +2,7 @@
 date: 2014-08-13
 lang: en
 tags: [ analysis, design, psychology, ux ]
-title: ""
+title: "(image)"
 type: image
 ---
 

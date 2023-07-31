@@ -2,7 +2,7 @@
 date: 2012-10-19
 lang: en
 tags: [ pomodoro, productivity, timer, visual ]
-title: ""
+title: "(image)"
 type: image
 ---
 

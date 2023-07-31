@@ -2,7 +2,7 @@
 date: 2013-12-23
 lang: en
 tags: [ feedback, management, overview, project, reporting, status, timeline ]
-title: ""
+title: "(image)"
 type: image
 ---
 

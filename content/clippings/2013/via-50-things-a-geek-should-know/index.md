@@ -2,7 +2,7 @@
 date: 2013-08-28
 lang: en
 tags: [ geek, subculture, techies ]
-title: ""
+title: "(image)"
 type: image
 ---
 

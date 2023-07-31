@@ -2,7 +2,7 @@
 date: 2013-07-17
 lang: en
 tags: [ best practices, presentation, public speaking, stories, storytelling ]
-title: ""
+title: "(image)"
 type: image
 ---
 

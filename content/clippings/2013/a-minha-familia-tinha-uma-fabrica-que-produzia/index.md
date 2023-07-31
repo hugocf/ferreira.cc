@@ -2,7 +2,7 @@
 date: 2013-10-09
 lang: en
 tags: [ alimentacao, azeitonas, saude ]
-title: ""
+title: "(image)"
 type: image
 ---
 

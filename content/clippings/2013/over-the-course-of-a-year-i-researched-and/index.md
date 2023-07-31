@@ -2,7 +2,7 @@
 date: 2013-07-18
 lang: en
 tags: [ big brother, design, font, ocr, privacy, scanners, security, spying, typography ]
-title: ""
+title: "(image)"
 type: image
 ---
 

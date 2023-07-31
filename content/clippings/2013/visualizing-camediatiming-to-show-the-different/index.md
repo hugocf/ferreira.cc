@@ -2,7 +2,7 @@
 date: 2013-11-06
 lang: en
 tags: [ animation, cheat sheet, cocoa, development, ios ]
-title: ""
+title: "(image)"
 type: image
 ---
 

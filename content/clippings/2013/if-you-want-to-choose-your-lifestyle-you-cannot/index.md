@@ -2,7 +2,7 @@
 date: 2013-11-18
 lang: en
 tags: [ career, guidelines, happiness, lessons, life, lifestyle, success ]
-title: ""
+title: "(image)"
 type: image
 ---
 

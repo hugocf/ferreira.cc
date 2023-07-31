@@ -2,7 +2,7 @@
 date: 2013-05-10
 lang: en
 tags: [ funny, gadgets, geek, shop, stuff ]
-title: ""
+title: "(image)"
 type: image
 ---
 

@@ -2,7 +2,7 @@
 date: 2009-03-11
 lang: en
 tags: [ design ]
-title: ""
+title: "(image)"
 type: image
 ---
 

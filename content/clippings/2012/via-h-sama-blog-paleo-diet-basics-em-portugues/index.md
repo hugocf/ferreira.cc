@@ -2,7 +2,7 @@
 date: 2012-08-30
 lang: en
 tags: [ diet, food, paleo, portugues ]
-title: ""
+title: "(image)"
 type: image
 ---
 

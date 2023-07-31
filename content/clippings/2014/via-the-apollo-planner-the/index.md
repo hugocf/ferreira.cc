@@ -2,7 +2,7 @@
 date: 2014-06-15
 lang: en
 tags: [ paper, productivity, template, tools ]
-title: ""
+title: "(image)"
 type: image
 ---
 

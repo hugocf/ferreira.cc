@@ -2,7 +2,7 @@
 date: 2014-03-07
 lang: en
 tags: [ apps, innovation, speed reading, technology, tools ]
-title: ""
+title: "(image)"
 type: image
 ---
 

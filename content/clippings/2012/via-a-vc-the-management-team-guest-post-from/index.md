@@ -2,7 +2,7 @@
 date: 2012-03-16
 lang: en
 tags: [ best practices, bottom up, management ]
-title: ""
+title: "(image)"
 type: image
 ---
 

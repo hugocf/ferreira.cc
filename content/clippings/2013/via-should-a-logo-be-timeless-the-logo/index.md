@@ -2,7 +2,7 @@
 date: 2013-09-23
 lang: en
 tags: [ brand, change, design, evolution, history, logo ]
-title: ""
+title: "(image)"
 type: image
 ---
 

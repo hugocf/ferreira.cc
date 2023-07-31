@@ -2,7 +2,7 @@
 date: 2014-01-29
 lang: en
 tags: [ billable, budgeting, business, consulting, freelancing, math, negotiation, proposals, rates, services ]
-title: ""
+title: "(image)"
 type: image
 ---
 

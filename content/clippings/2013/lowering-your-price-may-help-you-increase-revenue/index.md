@@ -2,7 +2,7 @@
 date: 2013-04-15
 lang: en
 tags: [ app, economics, ios, mac, pricing ]
-title: ""
+title: "(image)"
 type: image
 ---
 

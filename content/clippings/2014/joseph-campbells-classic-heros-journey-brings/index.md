@@ -2,7 +2,7 @@
 date: 2014-01-16
 lang: en
 tags: [ contos, harry potter, hero journey, hollywood, lord of the rings, lotr, narrative, star wars, stories, tales ]
-title: ""
+title: "(image)"
 type: image
 ---
 

@@ -2,7 +2,7 @@
 date: 2014-01-10
 lang: en
 tags: [ adapters, analytics, development, mobile, proxy, tools, web ]
-title: ""
+title: "(image)"
 type: image
 ---
 

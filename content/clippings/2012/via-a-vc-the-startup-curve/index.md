@@ -2,7 +2,7 @@
 date: 2012-03-24
 lang: en
 tags: [ chart, entrepreneur, growth, startup ]
-title: ""
+title: "(image)"
 type: image
 ---
 

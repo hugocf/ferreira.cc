@@ -2,7 +2,7 @@
 date: 2010-01-15
 lang: en
 tags: [ social ]
-title: ""
+title: "(image)"
 type: image
 ---
 

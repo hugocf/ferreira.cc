@@ -2,7 +2,7 @@
 date: 2014-06-07
 lang: en
 tags: [ gratitude, life, optimism ]
-title: ""
+title: "(image)"
 type: image
 ---
 

@@ -2,7 +2,7 @@
 date: 2011-10-21
 lang: en
 tags: [ efficiency, psychology, roles, skills, teams ]
-title: ""
+title: "(image)"
 type: image
 ---
 

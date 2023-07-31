@@ -2,7 +2,7 @@
 date: 2012-08-29
 lang: en
 tags: [ clipart, design, icons, windows 8 ]
-title: ""
+title: "(image)"
 type: image
 ---
 

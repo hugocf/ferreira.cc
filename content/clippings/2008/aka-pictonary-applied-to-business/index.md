@@ -2,7 +2,7 @@
 date: 2008-09-16
 lang: en
 tags: [ business ]
-title: ""
+title: "(image)"
 type: image
 ---
 

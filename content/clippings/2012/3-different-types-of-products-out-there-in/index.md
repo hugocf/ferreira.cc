@@ -2,7 +2,7 @@
 date: 2012-06-15
 lang: en
 tags: [ business models, entrepreneur, pricing, products ]
-title: ""
+title: "(image)"
 type: image
 ---
 

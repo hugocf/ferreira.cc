@@ -2,7 +2,7 @@
 date: 2014-06-25
 lang: en
 tags: [ brasil, design, football, logo, making of ]
-title: ""
+title: "(image)"
 type: image
 ---
 

@@ -2,7 +2,7 @@
 date: 2014-02-23
 lang: en
 tags: [ failure, hardware, hdd, reliability, review, usage ]
-title: ""
+title: "(image)"
 type: image
 ---
 

@@ -2,7 +2,7 @@
 date: 2011-08-12
 lang: en
 tags: [ data, dataviz, debt, gdp, usa, visualisation ]
-title: ""
+title: "(image)"
 type: image
 ---
 

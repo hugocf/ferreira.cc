@@ -2,7 +2,7 @@
 date: 2014-07-28
 lang: en
 tags: [ art, criticism, illustration, politics, social media ]
-title: ""
+title: "(image)"
 type: image
 ---
 

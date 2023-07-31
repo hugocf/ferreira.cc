@@ -2,7 +2,7 @@
 date: 2011-06-01
 lang: en
 tags: [ best practices, design, golden ratio, logo ]
-title: ""
+title: "(image)"
 type: image
 ---
 

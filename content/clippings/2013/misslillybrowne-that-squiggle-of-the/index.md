@@ -2,7 +2,7 @@
 date: 2013-12-11
 lang: en
 tags: [ design, methodology, process, ux ]
-title: ""
+title: "(image)"
 type: image
 ---
 

@@ -2,7 +2,7 @@
 date: 2013-08-27
 lang: en
 tags: [ design, icon, ui, ux ]
-title: ""
+title: "(image)"
 type: image
 ---
 

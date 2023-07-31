@@ -2,7 +2,7 @@
 date: 2013-08-06
 lang: en
 tags: [ emotions, life, marketing, psychology ]
-title: ""
+title: "(image)"
 type: image
 ---
 

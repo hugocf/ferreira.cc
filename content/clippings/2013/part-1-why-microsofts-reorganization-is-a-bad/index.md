@@ -2,7 +2,7 @@
 date: 2013-07-23
 lang: en
 tags: [ business, groups, organization, psychology, strategy ]
-title: ""
+title: "(image)"
 type: image
 ---
 

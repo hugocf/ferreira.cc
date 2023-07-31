@@ -2,7 +2,7 @@
 date: 2013-08-27
 lang: en
 tags: [ apps, development, embed, ios, mobile, preview, web ]
-title: ""
+title: "(image)"
 type: image
 ---
 

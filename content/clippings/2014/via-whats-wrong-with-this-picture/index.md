@@ -2,7 +2,7 @@
 date: 2014-03-27
 lang: en
 tags: [ computer science, development, gap, infographic, jobs, programming, software, statistics ]
-title: ""
+title: "(image)"
 type: image
 ---
 

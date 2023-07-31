@@ -2,7 +2,7 @@
 date: 2011-01-05
 lang: en
 tags: [ clipping, social ]
-title: ""
+title: "(image)"
 type: image
 ---
 

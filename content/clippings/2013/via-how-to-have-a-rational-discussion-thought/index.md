@@ -2,7 +2,7 @@
 date: 2013-02-12
 lang: en
 tags: [ debate, discussion, fallacies, flowchart, reason, trolls ]
-title: ""
+title: "(image)"
 type: image
 ---
 

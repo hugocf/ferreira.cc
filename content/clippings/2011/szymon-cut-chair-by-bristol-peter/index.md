@@ -2,7 +2,7 @@
 date: 2011-06-05
 lang: en
 tags: [ art, design, optical illusion ]
-title: ""
+title: "(image)"
 type: image
 ---
 

@@ -2,7 +2,7 @@
 date: 2012-05-15
 lang: en
 tags: [ behaviour, business, design, people, psychology, technology ]
-title: ""
+title: "(image)"
 type: image
 ---
 

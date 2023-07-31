@@ -2,7 +2,7 @@
 date: 2014-03-18
 lang: en
 tags: [ design, development, diagram, process, ux ]
-title: ""
+title: "(image)"
 type: image
 ---
 

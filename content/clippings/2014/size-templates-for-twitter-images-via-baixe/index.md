@@ -2,7 +2,7 @@
 date: 2014-07-28
 lang: en
 tags: [ design, image size, social media, template, twitter ]
-title: ""
+title: "(image)"
 type: image
 ---
 

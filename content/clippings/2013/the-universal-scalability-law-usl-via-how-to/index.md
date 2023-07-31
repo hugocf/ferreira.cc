@@ -2,7 +2,7 @@
 date: 2013-12-10
 lang: en
 tags: [ computing, math, scalability, theory ]
-title: ""
+title: "(image)"
 type: image
 ---
 

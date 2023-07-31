@@ -2,7 +2,7 @@
 date: 2013-09-19
 lang: en
 tags: [ app, design, ios, mobile, tips ]
-title: ""
+title: "(image)"
 type: image
 ---
 

@@ -2,7 +2,7 @@
 date: 2013-05-22
 lang: en
 tags: [ concierge, customer development, exploration, lean, pitch, startup, validation ]
-title: ""
+title: "(image)"
 type: image
 ---
 

@@ -2,7 +2,7 @@
 date: 2013-07-31
 lang: en
 tags: [ balance, life, patience, psychology ]
-title: ""
+title: "(image)"
 type: image
 ---
 

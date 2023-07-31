@@ -2,7 +2,7 @@
 date: 2011-08-15
 lang: en
 tags: [ cinema, cliches, infographic ]
-title: ""
+title: "(image)"
 type: image
 ---
 

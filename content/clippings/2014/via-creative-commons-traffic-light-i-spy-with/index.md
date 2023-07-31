@@ -2,7 +2,7 @@
 date: 2014-04-27
 lang: en
 tags: [ copyright, creative commons, licenses, public domain, visualisation ]
-title: ""
+title: "(image)"
 type: image
 ---
 

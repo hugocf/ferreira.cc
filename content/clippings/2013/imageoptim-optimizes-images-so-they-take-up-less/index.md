@@ -2,7 +2,7 @@
 date: 2013-12-04
 lang: en
 tags: [ compression, design, development, images, mobile, performance, tools, web ]
-title: ""
+title: "(image)"
 type: image
 ---
 

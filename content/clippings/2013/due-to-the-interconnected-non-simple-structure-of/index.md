@@ -2,7 +2,7 @@
 date: 2013-10-02
 lang: en
 tags: [ android, app, development, ios, ontology, organisation, software, x ray ]
-title: ""
+title: "(image)"
 type: image
 ---
 

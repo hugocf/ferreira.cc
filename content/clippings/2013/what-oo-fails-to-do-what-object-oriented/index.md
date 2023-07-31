@@ -2,7 +2,7 @@
 date: 2013-12-28
 lang: en
 tags: [ architecture, clean code, code, development, software ]
-title: ""
+title: "(image)"
 type: image
 ---
 

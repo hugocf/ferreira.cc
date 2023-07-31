@@ -2,7 +2,7 @@
 date: 2013-12-28
 lang: en
 tags: [ animations, design, development, mockups, prototype, quartz composer, tools ]
-title: ""
+title: "(image)"
 type: image
 ---
 

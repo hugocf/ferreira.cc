@@ -2,7 +2,7 @@
 date: 2009-05-11
 lang: en
 tags: [ reference ]
-title: ""
+title: "(image)"
 type: image
 ---
 

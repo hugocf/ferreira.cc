@@ -2,7 +2,7 @@
 date: 2013-03-14
 lang: en
 tags: [ calvin, comics, violence ]
-title: ""
+title: "(image)"
 type: image
 ---
 

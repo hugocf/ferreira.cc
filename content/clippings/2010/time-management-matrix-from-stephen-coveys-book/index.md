@@ -2,7 +2,7 @@
 date: 2010-01-04
 lang: en
 tags: [ productivity, reference ]
-title: ""
+title: "(image)"
 type: image
 ---
 

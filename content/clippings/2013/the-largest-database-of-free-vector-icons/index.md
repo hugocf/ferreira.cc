@@ -2,7 +2,7 @@
 date: 2013-12-12
 lang: en
 tags: [ design, icons, signs, vector ]
-title: ""
+title: "(image)"
 type: image
 ---
 

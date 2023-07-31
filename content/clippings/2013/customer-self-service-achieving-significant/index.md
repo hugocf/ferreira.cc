@@ -2,7 +2,7 @@
 date: 2013-01-13
 lang: en
 tags: [ business, models, pricing, saas, startups ]
-title: ""
+title: "(image)"
 type: image
 ---
 

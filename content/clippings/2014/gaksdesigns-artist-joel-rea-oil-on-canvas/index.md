@@ -2,7 +2,7 @@
 date: 2014-03-11
 lang: en
 tags: [ art, details, painting, reality ]
-title: ""
+title: "(image)"
 type: image
 ---
 

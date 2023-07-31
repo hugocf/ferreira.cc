@@ -2,7 +2,7 @@
 date: 2009-12-16
 lang: en
 tags: [ health, statistics ]
-title: ""
+title: "(image)"
 type: image
 ---
 

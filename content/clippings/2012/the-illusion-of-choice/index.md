@@ -2,7 +2,7 @@
 date: 2012-04-27
 lang: en
 tags: [ brands, corporations, groups, market, products, retail ]
-title: ""
+title: "(image)"
 type: image
 ---
 

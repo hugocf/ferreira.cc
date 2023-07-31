@@ -2,7 +2,7 @@
 date: 2013-07-15
 lang: en
 tags: [ hapiness, lecture, life balance, performance, productivity, stress ]
-title: ""
+title: "(image)"
 type: image
 ---
 

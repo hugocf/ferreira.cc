@@ -2,7 +2,7 @@
 date: 2014-03-16
 lang: en
 tags: [ design, interaction, ios, rate this app, screen flow, ui, ux ]
-title: ""
+title: "(image)"
 type: image
 ---
 

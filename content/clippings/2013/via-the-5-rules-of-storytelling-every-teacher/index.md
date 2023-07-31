@@ -2,7 +2,7 @@
 date: 2013-11-12
 lang: en
 tags: [ best practices, contos, guidelines, how to, narrative, storytelling ]
-title: ""
+title: "(image)"
 type: image
 ---
 

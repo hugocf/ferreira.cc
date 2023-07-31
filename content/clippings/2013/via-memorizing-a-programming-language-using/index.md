@@ -2,7 +2,7 @@
 date: 2013-03-20
 lang: en
 tags: [ best practices, learning, memory, spaced repetition, techniques ]
-title: ""
+title: "(image)"
 type: image
 ---
 

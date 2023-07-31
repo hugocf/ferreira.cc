@@ -2,7 +2,7 @@
 date: 2012-04-19
 lang: en
 tags: [ education, kids, parenting ]
-title: ""
+title: "(image)"
 type: image
 ---
 

@@ -2,7 +2,7 @@
 date: 2014-02-05
 lang: en
 tags: [ 70s, 80s, fashion, history ]
-title: ""
+title: "(image)"
 type: image
 ---
 

@@ -2,7 +2,7 @@
 date: 2013-07-18
 lang: en
 tags: [ design, font, handwriting, typography ]
-title: ""
+title: "(image)"
 type: image
 ---
 

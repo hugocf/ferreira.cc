@@ -2,7 +2,7 @@
 date: 2014-03-28
 lang: en
 tags: [ administration, devops, distro, linux, maintenance, server ]
-title: ""
+title: "(image)"
 type: image
 ---
 

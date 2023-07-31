@@ -2,7 +2,7 @@
 date: 2011-09-09
 lang: en
 tags: [ dataviz, debt, economy, employment, infographics, salaries, statistics, usa ]
-title: ""
+title: "(image)"
 type: image
 ---
 

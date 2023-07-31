@@ -2,7 +2,7 @@
 date: 2013-11-26
 lang: en
 tags: [ anchoring, beauty, comparison, conversions, copywriting, design, economist, marketing, pricing, psychology ]
-title: ""
+title: "(image)"
 type: image
 ---
 

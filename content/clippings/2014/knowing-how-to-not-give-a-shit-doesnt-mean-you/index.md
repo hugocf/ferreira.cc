@@ -2,7 +2,7 @@
 date: 2014-07-25
 lang: en
 tags: [ attitude, laissez faire, life, psychology ]
-title: ""
+title: "(image)"
 type: image
 ---
 

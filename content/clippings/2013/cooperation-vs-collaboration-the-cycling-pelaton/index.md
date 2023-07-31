@@ -2,7 +2,7 @@
 date: 2013-09-01
 lang: en
 tags: [ collaboration, cooperation, enterprise, organic ]
-title: ""
+title: "(image)"
 type: image
 ---
 

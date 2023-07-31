@@ -2,7 +2,7 @@
 date: 2013-10-04
 lang: en
 tags: [ business development, marketing, mobile, product development, smartphones ]
-title: ""
+title: "(image)"
 type: image
 ---
 

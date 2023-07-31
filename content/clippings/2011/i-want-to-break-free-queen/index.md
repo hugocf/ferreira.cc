@@ -2,7 +2,7 @@
 date: 2011-04-09
 lang: en
 tags: [ art, freedom, sculpture ]
-title: ""
+title: "(image)"
 type: image
 ---
 

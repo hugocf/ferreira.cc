@@ -2,7 +2,7 @@
 date: 2014-09-11
 lang: en
 tags: [ design, displays, iphone, pixels, ppi, resolution, retina, screens ]
-title: ""
+title: "(image)"
 type: image
 ---
 

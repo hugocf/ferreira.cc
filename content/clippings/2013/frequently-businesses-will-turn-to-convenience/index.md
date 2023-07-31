@@ -2,7 +2,7 @@
 date: 2013-12-11
 lang: en
 tags: [ load time, optimisation, performance, response time, statistics, web ]
-title: ""
+title: "(image)"
 type: image
 ---
 

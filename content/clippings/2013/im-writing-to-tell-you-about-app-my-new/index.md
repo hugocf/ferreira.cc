@@ -2,7 +2,7 @@
 date: 2013-08-30
 lang: en
 tags: [ android, app, ios, marketing, mobile, press release ]
-title: ""
+title: "(image)"
 type: image
 ---
 

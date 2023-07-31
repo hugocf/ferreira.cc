@@ -2,7 +2,7 @@
 date: 2012-11-27
 lang: en
 tags: [ amazon, apple, business, ebay, facebook, google, microsoft, profits, yahoo ]
-title: ""
+title: "(image)"
 type: image
 ---
 

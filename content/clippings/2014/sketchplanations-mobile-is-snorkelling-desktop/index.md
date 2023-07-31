@@ -2,7 +2,7 @@
 date: 2014-03-26
 lang: en
 tags: [ desktop, metaphor, mobile, sketch, ux ]
-title: ""
+title: "(image)"
 type: image
 ---
 

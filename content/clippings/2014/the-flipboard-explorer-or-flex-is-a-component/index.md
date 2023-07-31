@@ -2,7 +2,7 @@
 date: 2014-09-30
 lang: en
 tags: [ code, debug, development, ios, software ]
-title: ""
+title: "(image)"
 type: image
 ---
 

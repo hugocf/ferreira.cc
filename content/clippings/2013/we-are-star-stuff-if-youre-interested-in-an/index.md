@@ -2,7 +2,7 @@
 date: 2013-07-31
 lang: en
 tags: [ career, code, development, history, software ]
-title: ""
+title: "(image)"
 type: image
 ---
 

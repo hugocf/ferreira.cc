@@ -2,7 +2,7 @@
 date: 2012-08-16
 lang: en
 tags: [ architecture, best practices, clean code, development, mvc, software ]
-title: ""
+title: "(image)"
 type: image
 ---
 

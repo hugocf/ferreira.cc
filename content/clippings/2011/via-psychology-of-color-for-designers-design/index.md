@@ -2,7 +2,7 @@
 date: 2011-05-02
 lang: en
 tags: [ best practices, color, design, infographic, psychology ]
-title: ""
+title: "(image)"
 type: image
 ---
 

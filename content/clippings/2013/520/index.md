@@ -2,7 +2,7 @@
 date: 2013-03-27
 lang: en
 tags: [ black or white, michael jackson ]
-title: ""
+title: "(image)"
 type: image
 ---
 

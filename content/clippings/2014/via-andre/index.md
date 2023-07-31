@@ -2,7 +2,7 @@
 date: 2014-09-20
 lang: en
 tags: [ adults, calvin, children, growing up, hobbes, life, longing ]
-title: ""
+title: "(image)"
 type: image
 ---
 

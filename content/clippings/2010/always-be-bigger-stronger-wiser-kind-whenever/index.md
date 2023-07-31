@@ -2,7 +2,7 @@
 date: 2010-03-12
 lang: en
 tags: [ children, education, family, kids, reference ]
-title: ""
+title: "(image)"
 type: image
 ---
 

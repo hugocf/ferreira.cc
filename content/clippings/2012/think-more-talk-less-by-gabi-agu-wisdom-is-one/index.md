@@ -2,7 +2,7 @@
 date: 2012-02-20
 lang: en
 tags: [ inspiration, life ]
-title: ""
+title: "(image)"
 type: image
 ---
 

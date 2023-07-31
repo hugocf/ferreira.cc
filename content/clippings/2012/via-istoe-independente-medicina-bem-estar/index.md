@@ -2,7 +2,7 @@
 date: 2012-09-05
 lang: en
 tags: [ fitness, health, movant, tips ]
-title: ""
+title: "(image)"
 type: image
 ---
 

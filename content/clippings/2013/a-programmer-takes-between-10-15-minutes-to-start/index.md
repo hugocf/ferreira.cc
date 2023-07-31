@@ -2,7 +2,7 @@
 date: 2013-11-06
 lang: en
 tags: [ attention, code, development, focus, interruptions, productivity, programming, the zone ]
-title: ""
+title: "(image)"
 type: image
 ---
 

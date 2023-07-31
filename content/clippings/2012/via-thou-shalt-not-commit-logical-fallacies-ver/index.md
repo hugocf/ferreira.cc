@@ -2,7 +2,7 @@
 date: 2012-05-11
 lang: en
 tags: [ bad practices, fallacies, infographic, logic, philosophy ]
-title: ""
+title: "(image)"
 type: image
 ---
 

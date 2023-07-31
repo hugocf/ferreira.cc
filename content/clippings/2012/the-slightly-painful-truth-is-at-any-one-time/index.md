@@ -2,7 +2,7 @@
 date: 2012-12-20
 lang: en
 tags: [ career, curriculum vitae, focus, life, roles ]
-title: ""
+title: "(image)"
 type: image
 ---
 

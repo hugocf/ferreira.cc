@@ -2,7 +2,7 @@
 date: 2014-08-16
 lang: en
 tags: [ architecture, bad practices, best practices, code, design, development, software ]
-title: ""
+title: "(image)"
 type: image
 ---
 

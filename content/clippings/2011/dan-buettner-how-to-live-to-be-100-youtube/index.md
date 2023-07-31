@@ -2,7 +2,7 @@
 date: 2011-07-10
 lang: en
 tags: [ exercise, health, life expectancy, live, relationships ]
-title: ""
+title: "(image)"
 type: image
 ---
 
