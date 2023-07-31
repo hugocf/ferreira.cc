@@ -2,7 +2,7 @@
 date: 2012-02-06
 lang: en
 tags: [ perfection, productivity ]
-title: ""
+title: "Perfeito, é o que está feito!"
 type: quote
 ---
 

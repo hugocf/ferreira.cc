@@ -2,7 +2,7 @@
 date: 2014-03-08
 lang: en
 tags: [ learning, meetings, memory, notes, productivity, remembering ]
-title: ""
+title: "Immediately after every lecture, meeting, or any significant"
 type: quote
 ---
 

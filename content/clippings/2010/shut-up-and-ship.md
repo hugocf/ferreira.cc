@@ -2,7 +2,7 @@
 date: 2010-03-30
 lang: en
 tags: [ productivity, software ]
-title: ""
+title: "Shut up and ship!"
 type: quote
 ---
 

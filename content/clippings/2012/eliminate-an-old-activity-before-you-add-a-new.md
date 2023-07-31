@@ -2,7 +2,7 @@
 date: 2012-12-20
 lang: en
 tags: [ business, career, focus, life, projects ]
-title: ""
+title: "Eliminate an old activity before you add a new one"
 type: quote
 ---
 

@@ -2,7 +2,7 @@
 date: 2013-12-27
 lang: en
 tags: [ distractions, focus, procrastination, productivity, tools ]
-title: ""
+title: "The instinct to produce great work doesn't require a fancy notebook"
 type: quote
 ---
 

@@ -2,7 +2,7 @@
 date: 2013-12-11
 lang: en
 tags: [ choices, deisgn, development, software, technical debt, unix ]
-title: ""
+title: "How many bugs and wasted CPU cycles and instances of human frustration"
 type: quote
 ---
 

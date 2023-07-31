@@ -2,7 +2,7 @@
 date: 2008-04-30
 lang: en
 tags: [ people ]
-title: ""
+title: "Great minds think alike... and fools seldom differ!"
 type: quote
 ---
 

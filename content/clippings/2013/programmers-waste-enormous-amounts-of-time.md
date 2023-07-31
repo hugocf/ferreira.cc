@@ -2,7 +2,7 @@
 date: 2013-07-18
 lang: en
 tags: [ best practices, development, effectiveness, efficiency, focus, optimisation, performance ]
-title: ""
+title: "Programmers waste enormous amounts of time thinking about, or worrying"
 type: quote
 ---
 

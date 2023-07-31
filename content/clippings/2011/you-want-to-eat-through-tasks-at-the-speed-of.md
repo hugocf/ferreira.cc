@@ -2,7 +2,7 @@
 date: 2011-03-16
 lang: en
 tags: [ productivity, task management ]
-title: ""
+title: "You want to eat through tasks at the speed of light; use AF/SF"
 type: quote
 ---
 

@@ -2,7 +2,7 @@
 date: 2013-10-26
 lang: en
 tags: [ attitude, fate, life ]
-title: ""
+title: "It matters not how strait the gate,"
 type: quote
 ---
 

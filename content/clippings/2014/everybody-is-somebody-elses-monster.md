@@ -2,7 +2,7 @@
 date: 2014-03-12
 lang: en
 tags: [ crisis management, empathy, essay, humor, internet, resilience, sanity, social media, thick skin, which hunt ]
-title: ""
+title: "Everybody is somebody else's monster"
 type: quote
 ---
 

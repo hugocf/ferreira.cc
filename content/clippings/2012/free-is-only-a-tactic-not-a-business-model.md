@@ -2,7 +2,7 @@
 date: 2012-08-30
 lang: en
 tags: [ business models, entrepreneur, freemium ]
-title: ""
+title: "Free is *only* a tactic, not a business model"
 type: quote
 ---
 

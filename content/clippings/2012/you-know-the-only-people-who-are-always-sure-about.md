@@ -2,7 +2,7 @@
 date: 2012-03-31
 lang: en
 tags: [ education, kids, parenting, patience ]
-title: ""
+title: "You know the only people who are always sure about the proper way to"
 type: quote
 ---
 

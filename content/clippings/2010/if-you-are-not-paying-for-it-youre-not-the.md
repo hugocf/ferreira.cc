@@ -2,7 +2,7 @@
 date: 2010-09-13
 lang: en
 tags: [ business ]
-title: ""
+title: "If you are not paying for it, you're not the customer; you're the"
 type: quote
 ---
 

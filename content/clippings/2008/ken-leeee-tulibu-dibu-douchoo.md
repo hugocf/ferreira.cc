@@ -2,7 +2,7 @@
 date: 2008-03-17
 lang: en
 tags: [ humor ]
-title: ""
+title: "ken leeee.."
 type: quote
 ---
 

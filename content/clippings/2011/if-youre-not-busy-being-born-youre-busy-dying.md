@@ -2,7 +2,7 @@
 date: 2011-11-14
 lang: en
 tags: [ learning, life ]
-title: ""
+title: "If you're not busy being born, you're busy dying"
 type: quote
 ---
 

@@ -2,7 +2,7 @@
 date: 2011-05-23
 lang: en
 tags: [ goals, life, productivity ]
-title: ""
+title: "Life is 90% maintenance"
 type: quote
 ---
 

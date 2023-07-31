@@ -2,7 +2,7 @@
 date: 2009-07-17
 lang: en
 tags: [ software ]
-title: ""
+title: "Good software ain't cheap and cheap software ain't good"
 type: quote
 ---
 

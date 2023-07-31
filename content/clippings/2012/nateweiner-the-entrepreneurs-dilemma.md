@@ -2,7 +2,7 @@
 date: 2012-07-08
 lang: en
 tags: [ balance, entrepreneur, life ]
-title: ""
+title: "> \"The entrepreneur's dilemma: Maintaining friendships. Building a"
 type: quote
 ---
 

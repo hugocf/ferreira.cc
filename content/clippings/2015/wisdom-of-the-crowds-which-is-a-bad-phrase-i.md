@@ -2,7 +2,7 @@
 date: 2015-01-03
 lang: en
 tags: [ collaboration, crowdsource, people ]
-title: ""
+title: "wisdom of the crowds\" which is a bad phrase, I normally call it"
 type: quote
 ---
 

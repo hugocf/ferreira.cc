@@ -2,7 +2,7 @@
 date: 2010-06-06
 lang: en
 tags: [ business, entrepreneur ]
-title: ""
+title: "If you have the money and you're looking for what'll stick, you're a"
 type: quote
 ---
 

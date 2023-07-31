@@ -2,7 +2,7 @@
 date: 2011-08-26
 lang: en
 tags: [ growth, intelligence, learning, life ]
-title: ""
+title: "If you're the smartest guy in the room, you're in the wrong room"
 type: quote
 ---
 

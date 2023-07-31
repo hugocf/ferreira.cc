@@ -2,7 +2,7 @@
 date: 2013-07-26
 lang: en
 tags: [ best practices, marketing, psychology, tribes ]
-title: ""
+title: "People like us do stuff like this"
 type: quote
 ---
 

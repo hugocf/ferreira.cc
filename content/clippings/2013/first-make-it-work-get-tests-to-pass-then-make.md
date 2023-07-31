@@ -2,7 +2,7 @@
 date: 2013-12-03
 lang: en
 tags: [ best practices, code, development, performance, premature optimisation, tdd ]
-title: ""
+title: "First make it work (get tests to pass)"
 type: quote
 ---
 

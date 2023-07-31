@@ -2,7 +2,7 @@
 date: 2010-03-23
 lang: en
 tags: [ life ]
-title: ""
+title: "Ninguém é perfeito, mas podemos escolher os defeitos com os quais"
 type: quote
 ---
 

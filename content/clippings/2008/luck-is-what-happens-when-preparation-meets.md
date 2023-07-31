@@ -2,7 +2,7 @@
 date: 2008-08-08
 lang: en
 tags: [ life ]
-title: ""
+title: "Luck is what happens when preparation meets opportunity"
 type: quote
 ---
 

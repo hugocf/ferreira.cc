@@ -2,7 +2,7 @@
 date: 2008-07-25
 lang: en
 tags: [ inspiration, life ]
-title: ""
+title: "Porque até um relógio parado está certo duas vezes por dia"
 type: quote
 ---
 

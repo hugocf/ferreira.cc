@@ -2,7 +2,7 @@
 date: 2009-02-15
 lang: en
 tags: [ family, life ]
-title: ""
+title: "Ask yourself: who am I being, that my children's eyes are not"
 type: quote
 ---
 

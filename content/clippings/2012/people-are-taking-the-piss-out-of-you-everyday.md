@@ -2,7 +2,7 @@
 date: 2012-02-29
 lang: en
 tags: [ advertising, manifesto, pop culture ]
-title: ""
+title: "People are taking the piss out of you everyday. They butt into your"
 type: quote
 ---
 

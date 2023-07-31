@@ -2,7 +2,7 @@
 date: 2012-12-20
 lang: en
 tags: [ future, inspiration, life, music, past, progress ]
-title: ""
+title: "If you're lost and alone"
 type: quote
 ---
 

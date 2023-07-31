@@ -2,7 +2,7 @@
 date: 2009-02-24
 lang: en
 tags: [ life ]
-title: ""
+title: "If you do things right, no one will be sure you've done anything at"
 type: quote
 ---
 

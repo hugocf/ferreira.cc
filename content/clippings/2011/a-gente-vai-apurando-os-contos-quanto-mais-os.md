@@ -2,7 +2,7 @@
 date: 2011-11-04
 lang: en
 tags: [ contos, storytelling ]
-title: ""
+title: "A gente vai apurando os contos quanto mais os contar, como as pedras"
 type: quote
 ---
 

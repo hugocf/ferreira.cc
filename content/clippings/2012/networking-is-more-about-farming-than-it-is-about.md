@@ -2,7 +2,7 @@
 date: 2012-10-23
 lang: en
 tags: [ business, clients, networking, rapport, sales ]
-title: ""
+title: "Networking is more about farming than it is about hunting"
 type: quote
 ---
 

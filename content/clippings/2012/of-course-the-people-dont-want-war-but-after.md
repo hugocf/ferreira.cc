@@ -2,7 +2,7 @@
 date: 2012-04-12
 lang: en
 tags: [ democracy, dictatorship, peace, politics, war ]
-title: ""
+title: "Of course the people don't want war. But after all, it's the leaders"
 type: quote
 ---
 

@@ -2,7 +2,7 @@
 date: 2011-09-03
 lang: en
 tags: [ productivity, time management ]
-title: ""
+title: "Effective Projects, Efficient Maintenance"
 type: quote
 ---
 

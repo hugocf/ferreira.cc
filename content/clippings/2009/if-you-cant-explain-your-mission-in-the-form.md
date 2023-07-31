@@ -2,7 +2,7 @@
 date: 2009-11-02
 lang: en
 tags: [ business ]
-title: ""
+title: "... if you can't explain your mission in the form, \"We help"
 type: quote
 ---
 

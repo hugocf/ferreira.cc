@@ -2,7 +2,7 @@
 date: 2010-03-23
 lang: en
 tags: [ life ]
-title: ""
+title: "Forty-five years goes by pretty fast"
 type: quote
 ---
 

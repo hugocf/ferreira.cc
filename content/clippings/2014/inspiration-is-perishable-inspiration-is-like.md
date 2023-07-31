@@ -2,7 +2,7 @@
 date: 2014-02-21
 lang: en
 tags: [ business, focus, ideas, inspiration, just do it, opportunity, procrastination, productivity ]
-title: ""
+title: "Inspiration is perishable... Inspiration is like fresh fruit or milk"
 type: quote
 ---
 

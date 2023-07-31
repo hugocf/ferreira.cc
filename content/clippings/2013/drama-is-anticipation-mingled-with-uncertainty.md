@@ -2,7 +2,7 @@
 date: 2013-11-12
 lang: en
 tags: [ best practices, guidelines, how to, narrative, storytelling ]
-title: ""
+title: "Drama is anticipation mingled with uncertainty"
 type: quote
 ---
 

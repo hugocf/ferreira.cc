@@ -2,7 +2,7 @@
 date: 2011-11-21
 lang: en
 tags: [ internet, meme, saying ]
-title: ""
+title: "The Internet, where men are men, women are men, and kids are FBI"
 type: quote
 ---
 

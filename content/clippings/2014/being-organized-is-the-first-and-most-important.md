@@ -2,7 +2,7 @@
 date: 2014-01-10
 lang: en
 tags: [ best practices, cooking, how to, organisation ]
-title: ""
+title: "Being organized is the first and most important part of cooking (...)"
 type: quote
 ---
 

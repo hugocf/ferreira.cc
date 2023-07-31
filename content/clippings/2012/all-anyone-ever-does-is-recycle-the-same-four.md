@@ -2,7 +2,7 @@
 date: 2012-01-22
 lang: en
 tags: [ literature, plots, writing ]
-title: ""
+title: "... all anyone ever does is recycle the same four themes: a love story"
 type: quote
 ---
 

@@ -2,7 +2,7 @@
 date: 2008-09-08
 lang: en
 tags: [ self ]
-title: ""
+title: "I'm an offline guy in an online world 😉"
 type: quote
 ---
 

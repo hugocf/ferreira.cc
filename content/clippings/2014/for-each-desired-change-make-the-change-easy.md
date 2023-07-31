@@ -2,7 +2,7 @@
 date: 2014-07-03
 lang: en
 tags: [ best practices, code, programming, refactoring, technical debt ]
-title: ""
+title: "for each desired change, make the change easy (warning: this may be"
 type: quote
 ---
 

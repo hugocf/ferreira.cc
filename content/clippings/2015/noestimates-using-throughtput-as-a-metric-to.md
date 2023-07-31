@@ -2,7 +2,7 @@
 date: 2015-01-03
 lang: en
 tags: [ agile, definition, estimation, noestimates, project management ]
-title: ""
+title: "#noestimates: using throughtput as a metric to predict progress"
 type: quote
 ---
 

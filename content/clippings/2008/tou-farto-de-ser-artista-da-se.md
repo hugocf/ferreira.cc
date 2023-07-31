@@ -2,7 +2,7 @@
 date: 2008-07-25
 lang: en
 tags: [ inspiration, life ]
-title: ""
+title: "Tou farto de ser artista, **da-se"
 type: quote
 ---
 

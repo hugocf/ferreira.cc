@@ -2,7 +2,7 @@
 date: 2009-09-17
 lang: en
 tags: [ software ]
-title: ""
+title: "Rails is magical and sexy, it's the Ferrari of web frameworks, it's"
 type: quote
 ---
 

@@ -2,7 +2,7 @@
 date: 2011-08-29
 lang: en
 tags: [ innovation, steve jobs ]
-title: ""
+title: "... innovation comes from people meeting up in the hallways or calling"
 type: quote
 ---
 

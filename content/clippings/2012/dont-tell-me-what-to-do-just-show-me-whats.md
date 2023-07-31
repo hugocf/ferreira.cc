@@ -2,7 +2,7 @@
 date: 2012-01-07
 lang: en
 tags: [ productivity, systems ]
-title: ""
+title: "Don't tell me what to do, just show me what's true"
 type: quote
 ---
 

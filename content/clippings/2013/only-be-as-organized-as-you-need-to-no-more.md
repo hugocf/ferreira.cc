@@ -2,7 +2,7 @@
 date: 2013-01-31
 lang: en
 tags: [ life, productivity, task management ]
-title: ""
+title: "Only be as organized as you need to. No more"
 type: quote
 ---
 

@@ -2,7 +2,7 @@
 date: 2011-11-21
 lang: en
 tags: [ balance, health, life ]
-title: ""
+title: "O nosso corpo fala connosco. Se não ouves, ele GRITA!"
 type: quote
 ---
 

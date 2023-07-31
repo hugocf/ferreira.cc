@@ -2,7 +2,7 @@
 date: 2011-09-10
 lang: en
 tags: [ goals, motivation, productivity, time management ]
-title: ""
+title: "The secret of all progress and every virtue is, in fact, to know how"
 type: quote
 ---
 

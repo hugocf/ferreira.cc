@@ -2,7 +2,7 @@
 date: 2011-07-08
 lang: en
 tags: [ goals, life ]
-title: ""
+title: "It's never too late to be who you might have been"
 type: quote
 ---
 

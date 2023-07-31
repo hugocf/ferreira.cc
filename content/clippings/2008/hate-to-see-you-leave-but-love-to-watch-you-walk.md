@@ -2,7 +2,7 @@
 date: 2008-10-02
 lang: en
 tags: [ humor ]
-title: ""
+title: "Hate to see you leave, but love to watch you walk away"
 type: quote
 ---
 

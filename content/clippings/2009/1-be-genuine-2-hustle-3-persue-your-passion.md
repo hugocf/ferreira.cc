@@ -2,7 +2,7 @@
 date: 2009-04-17
 lang: en
 tags: [ business, inspiration ]
-title: ""
+title: "1. Be Genuine"
 type: quote
 ---
 

@@ -2,7 +2,7 @@
 date: 2010-02-21
 lang: en
 tags: [ business ]
-title: ""
+title: "the amount of time an organization spends discussing an issue is"
 type: quote
 ---
 

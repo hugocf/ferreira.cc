@@ -2,7 +2,7 @@
 date: 2012-07-28
 lang: en
 tags: [ goals, life, utopia ]
-title: ""
+title: "Pues la utopía sirve para eso, para caminar!"
 type: quote
 ---
 

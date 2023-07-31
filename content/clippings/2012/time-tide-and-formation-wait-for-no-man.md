@@ -2,7 +2,7 @@
 date: 2012-02-08
 lang: en
 tags: [ management, productivity, time ]
-title: ""
+title: "Time, tide and formation wait for no man"
 type: quote
 ---
 

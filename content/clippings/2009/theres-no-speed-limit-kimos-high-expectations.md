@@ -2,7 +2,7 @@
 date: 2009-12-07
 lang: en
 tags: [ education ]
-title: ""
+title: "There's no speed limit! --- Kimo's high expectations set a new pace"
 type: quote
 ---
 

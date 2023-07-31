@@ -2,7 +2,7 @@
 date: 2013-07-04
 lang: en
 tags: [ character, choices, life, pressure, stress ]
-title: ""
+title: "You can measure a man's character by the choices he makes under"
 type: quote
 ---
 

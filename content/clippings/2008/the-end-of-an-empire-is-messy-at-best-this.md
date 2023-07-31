@@ -2,7 +2,7 @@
 date: 2008-01-17
 lang: en
 tags: [ life ]
-title: ""
+title: "The end of an empire"
 type: quote
 ---
 

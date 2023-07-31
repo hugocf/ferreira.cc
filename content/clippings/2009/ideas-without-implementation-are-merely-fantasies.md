@@ -2,7 +2,7 @@
 date: 2009-06-09
 lang: en
 tags: [ entrepreneur, ideas, self ]
-title: ""
+title: "Ideas without implementation are merely fantasies"
 type: quote
 ---
 

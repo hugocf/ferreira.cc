@@ -2,7 +2,7 @@
 date: 2012-12-20
 lang: en
 tags: [ career, family, focus, life, parenting ]
-title: ""
+title: "#1 Are you proud of the choices you are making at home?"
 type: quote
 ---
 

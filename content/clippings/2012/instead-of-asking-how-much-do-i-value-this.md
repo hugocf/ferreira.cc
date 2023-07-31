@@ -2,7 +2,7 @@
 date: 2012-12-20
 lang: en
 tags: [ business, career, focus, life, projects ]
-title: ""
+title: "Instead of asking, \"How much do I value this item?\" we should ask \"If"
 type: quote
 ---
 

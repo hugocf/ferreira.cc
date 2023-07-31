@@ -2,7 +2,7 @@
 date: 2011-08-18
 lang: en
 tags: [ banking, economy, loans, subprime ]
-title: ""
+title: "NINJA: No Income, No Jobs or Assets"
 type: quote
 ---
 

@@ -2,7 +2,7 @@
 date: 2011-08-19
 lang: en
 tags: [ business, english, grammar ]
-title: ""
+title: "An apostrophe is the difference between a business that knows its shit"
 type: quote
 ---
 

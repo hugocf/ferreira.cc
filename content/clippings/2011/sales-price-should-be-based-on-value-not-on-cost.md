@@ -2,7 +2,7 @@
 date: 2011-11-15
 lang: en
 tags: [ business, sales ]
-title: ""
+title: "Sales price should be based on value, not on cost"
 type: quote
 ---
 

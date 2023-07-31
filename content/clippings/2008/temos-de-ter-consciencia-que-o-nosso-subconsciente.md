@@ -2,7 +2,7 @@
 date: 2008-02-11
 lang: en
 tags: [ life, people ]
-title: ""
+title: "temos de ter consciencia que o nosso subconsciente é que manda... nós"
 type: quote
 ---
 

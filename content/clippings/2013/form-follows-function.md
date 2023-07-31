@@ -2,7 +2,7 @@
 date: 2013-12-28
 lang: en
 tags: [ design, motto, principles ]
-title: ""
+title: "Form follows function"
 type: quote
 ---
 

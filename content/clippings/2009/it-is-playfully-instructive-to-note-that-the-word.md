@@ -2,7 +2,7 @@
 date: 2009-07-13
 lang: en
 tags: [ productivity ]
-title: ""
+title: "It is playfully instructive to note that the word 'reactive' and the"
 type: quote
 ---
 

@@ -2,7 +2,7 @@
 date: 2011-08-30
 lang: en
 tags: [ goals, lady gaga, motivation ]
-title: ""
+title: "That's good that you won a lot of trophies, it's nice, but you know"
 type: quote
 ---
 

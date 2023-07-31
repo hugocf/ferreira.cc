@@ -2,7 +2,7 @@
 date: 2013-08-28
 lang: en
 tags: [ discovery, education, exploration, kids, learning, life, motivation, patience, tolerance ]
-title: ""
+title: "It's a great day to make a mistake"
 type: quote
 ---
 

@@ -2,7 +2,7 @@
 date: 2008-09-18
 lang: en
 tags: [ people ]
-title: ""
+title: "Genius is the ability to reduce the complicated to the simple"
 type: quote
 ---
 

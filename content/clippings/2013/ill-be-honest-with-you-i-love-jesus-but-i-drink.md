@@ -2,7 +2,7 @@
 date: 2013-01-31
 lang: en
 tags: [ funny, life ]
-title: ""
+title: "I'll be honest with﻿ you. I love Jesus but I drink a little. 😃"
 type: quote
 ---
 

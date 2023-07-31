@@ -2,7 +2,7 @@
 date: 2014-01-12
 lang: en
 tags: [ css, design, development, glossary, satire, web ]
-title: ""
+title: "CSS = California Style Sheets"
 type: quote
 ---
 

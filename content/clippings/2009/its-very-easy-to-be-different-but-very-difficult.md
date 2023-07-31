@@ -2,7 +2,7 @@
 date: 2009-11-22
 lang: en
 tags: [ life ]
-title: ""
+title: "It's very easy to be different, but very difficult to be better"
 type: quote
 ---
 

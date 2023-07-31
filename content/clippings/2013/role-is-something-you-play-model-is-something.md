@@ -2,7 +2,7 @@
 date: 2013-06-25
 lang: en
 tags: [ conventions, inspiration, life, reality, society ]
-title: ""
+title: "Role is something you play, model is something that you make. Both of"
 type: quote
 ---
 

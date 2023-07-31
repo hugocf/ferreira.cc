@@ -2,7 +2,7 @@
 date: 2013-03-03
 lang: en
 tags: [ focus, leadership, management, planning, project ]
-title: ""
+title: "90% of the decisions you make don't matter; real success comes in"
 type: quote
 ---
 

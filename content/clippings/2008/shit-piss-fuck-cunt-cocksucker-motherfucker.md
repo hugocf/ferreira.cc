@@ -2,7 +2,7 @@
 date: 2008-07-16
 lang: en
 tags: [ humor ]
-title: ""
+title: "shit, piss, fuck, cunt, cocksucker, motherfucker, and tits"
 type: quote
 ---
 

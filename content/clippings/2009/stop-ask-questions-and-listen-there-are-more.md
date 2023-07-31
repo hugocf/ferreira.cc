@@ -2,7 +2,7 @@
 date: 2009-04-17
 lang: en
 tags: [ life, note to self, self ]
-title: ""
+title: "Stop, ask questions and listen! There are more important things in"
 type: quote
 ---
 

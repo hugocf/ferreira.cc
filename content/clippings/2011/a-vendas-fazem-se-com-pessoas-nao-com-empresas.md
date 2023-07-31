@@ -2,7 +2,7 @@
 date: 2011-11-04
 lang: en
 tags: [ business, people, sales ]
-title: ""
+title: "A vendas fazem-se com pessoas, não com empresas"
 type: quote
 ---
 

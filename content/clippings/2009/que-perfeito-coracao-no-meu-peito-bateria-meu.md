@@ -2,7 +2,7 @@
 date: 2009-06-27
 lang: en
 tags: [ musings ]
-title: ""
+title: "Que perfeito coração"
 type: quote
 ---
 

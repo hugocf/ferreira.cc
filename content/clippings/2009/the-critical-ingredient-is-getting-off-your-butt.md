@@ -2,7 +2,7 @@
 date: 2009-04-17
 lang: en
 tags: [ inspiration, productivity ]
-title: ""
+title: "The critical ingredient is getting off your butt and doing something"
 type: quote
 ---
 

@@ -2,7 +2,7 @@
 date: 2014-01-22
 lang: en
 tags: [ app, business models, mobile ]
-title: ""
+title: "The future of sustainable app development is to give away as much"
 type: quote
 ---
 

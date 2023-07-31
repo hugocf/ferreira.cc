@@ -2,7 +2,7 @@
 date: 2009-04-01
 lang: en
 tags: [ life ]
-title: ""
+title: "Never attribute to malice that which can be explained by ignorance"
 type: quote
 ---
 

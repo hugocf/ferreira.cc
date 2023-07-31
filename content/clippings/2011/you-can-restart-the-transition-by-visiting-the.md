@@ -2,7 +2,7 @@
 date: 2011-03-14
 lang: en
 tags: [ google apps, migration ]
-title: ""
+title: "You can restart the transition by visiting the following URL"
 type: quote
 ---
 

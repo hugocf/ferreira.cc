@@ -2,7 +2,7 @@
 date: 2009-08-28
 lang: en
 tags: [ entitlement, productivity, time, waste ]
-title: ""
+title: "You alone have control over your time"
 type: quote
 ---
 

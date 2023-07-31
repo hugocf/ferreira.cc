@@ -2,7 +2,7 @@
 date: 2011-08-22
 lang: en
 tags: [ definition, drinks, vodka ]
-title: ""
+title: "No color, no taste, no smell"
 type: quote
 ---
 
