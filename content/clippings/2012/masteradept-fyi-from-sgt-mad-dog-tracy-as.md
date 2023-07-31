@@ -2,12 +2,11 @@
 date: 2012-03-27
 lang: en
 tags: [ airport, insanity, security, tsa ]
-title: ""
+title: "TSA: Assault rifles vs Nail clippers"
 type: text
 ---
 
-[masteradept](http://masteradept.tumblr.com/post/19862503088/fyi-from-sgt-mad-dog-tracy-as-the-chalk)
-:
+[masteradept](http://masteradept.tumblr.com/post/19862503088/fyi-from-sgt-mad-dog-tracy-as-the-chalk):
 
 > FYI -- from Sgt. Mad Dog Tracy -- As the Chalk Leader for my flight
 > home from Afghanistan, I witnessed the following: When we were on our
@@ -54,7 +53,7 @@ type: text
 >
 > TSA Guy: They can be used as a weapon.
 >
-> Soldier: \[touches butt stock of the rifle\] But this actually is a
+> Soldier: [touches butt stock of the rifle] But this actually is a
 > weapon. And I'm allowed to take it on.
 >
 > TSA Guy: Yeah but you can't use it to take over the plane. You don't
@@ -62,7 +61,7 @@ type: text
 >
 > Soldier: And I can take over the plane with nail clippers?
 >
-> TSA Guy: \[awkward silence\]
+> TSA Guy: [awkward silence]
 >
 > Me: Dude, just give him your F\*\*K\*\*G nail clippers so we can get
 > the F\*\*K out of here. I'll buy you a new set.
@@ -70,11 +69,11 @@ type: text
 > Soldier: \[hands nail clippers to TSA guy, makes it through security\]
 >
 > To top it off, the TSA demanded we all be swabbed for "explosive
-> residue" detection. Everyone failed, \[go figure, we just came home
-> from a war zone\], because we tested positive for "Gun Powder
+> residue" detection. Everyone failed, [go figure, we just came home
+> from a war zone], because we tested positive for "Gun Powder
 > Residue". Who the Hell is hiring these people? This might be a good
 > time to remind everyone that approximately 233 people re-boarded that
 > plane with assault rifles, pistols, and machine guns-but nothing that
-> could have been used as a weapon. **Can someone please tell me What
+> could have been used as a weapon. **Can someone please tell what
 > the hell happened to OUR country while we were gone?**
 

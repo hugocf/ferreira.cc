@@ -1,8 +1,8 @@
 ---
 date: 2012-11-05
-lang: en
+lang: pt
 tags: [ lengalenga, popular, tradition ]
-title: ""
+title: "Arre burrinho"
 type: text
 ---
 
@@ -14,5 +14,5 @@ Carregadinho de feijão\
 O meu cão não está cá\
 Está à porta de um navio\
 Dá-lhe o vento, dá-lhe o frio\
-Fá-lo andar de arrepio! *(... "Mas que grande corrupio"?)*
+Fá-lo andar de arrepio! *["Mas que grande corrupio"?]*
 

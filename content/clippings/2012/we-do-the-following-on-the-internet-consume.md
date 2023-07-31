@@ -2,7 +2,7 @@
 date: 2012-02-01
 lang: en
 tags: [ consuming, content, producing, publishing, statistics, wordpress ]
-title: ""
+title: "What we do on the internet"
 type: text
 ---
 
@@ -22,8 +22,5 @@ type: text
 > much so that we produce content as we consume -- tweets, comments,
 > facebook 'likes', etc.
 
-[Umang](http://umangjaipuria.blogspot.com/) (comment on [The future of
-WordPress « Scott
-Berkun](http://www.scottberkun.com/blog/2010/the-future-of-wordpress-help-wanted/#comment-670152)
-)
+[Umang](http://umangjaipuria.blogspot.com/) (comment on [The future of WordPress « Scott Berkun](http://www.scottberkun.com/blog/2010/the-future-of-wordpress-help-wanted/#comment-670152))
 

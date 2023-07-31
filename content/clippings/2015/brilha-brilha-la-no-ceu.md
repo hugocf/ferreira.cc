@@ -1,6 +1,6 @@
 ---
 date: 2015-01-02
-lang: en
+lang: pt
 tags: [ lengalenga, popular, song, tradition, xmas ]
 title: "Brilha, Brilha Lá No Céu"
 type: text

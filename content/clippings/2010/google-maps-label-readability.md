@@ -6,8 +6,7 @@ title: "Google Maps & Label Readability"
 type: text
 ---
 
-[41latitude](http://www.41latitude.com/post/2072504768/google-maps-label-readability)
-:
+[41latitude](http://www.41latitude.com/post/2072504768/google-maps-label-readability):
 
 > **Why Do Google Maps's City Labels Seem Much More "Readable" Than
 > Those of Its Competitors?**

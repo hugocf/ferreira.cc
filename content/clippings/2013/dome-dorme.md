@@ -1,6 +1,6 @@
 ---
 date: 2013-10-04
-lang: en
+lang: pt
 tags: [ kids, lengalenga, lullaby, music, song ]
 title: "Dorme, dorme..."
 type: text

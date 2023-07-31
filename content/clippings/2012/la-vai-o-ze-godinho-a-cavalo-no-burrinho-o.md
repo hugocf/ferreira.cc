@@ -1,6 +1,6 @@
 ---
 date: 2012-07-04
-lang: en
+lang: pt
 tags: [ lengalenga, popular, tradition ]
 title: "Zé Godinho"
 type: text

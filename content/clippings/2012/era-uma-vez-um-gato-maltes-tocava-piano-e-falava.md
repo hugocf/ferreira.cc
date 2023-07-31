@@ -1,8 +1,8 @@
 ---
 date: 2012-07-24
-lang: en
+lang: pt
 tags: [ lengalenga, popular, tradicional ]
-title: ""
+title: "Um gato maltês"
 type: text
 ---
 
@@ -14,7 +14,7 @@ Queres que te conte outra vez?
 
 Era uma vez\
 Um gato maltês\
-Saltou-te às barbas *(... "Fez xixi na cuecas"?)*\
+Saltou-te às barbas *["Fez xixi na cuecas"?]*\
 Não soube o que fez\
 Queres que te conte outra vez?
 
