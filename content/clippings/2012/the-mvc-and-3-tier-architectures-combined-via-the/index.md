@@ -18,4 +18,4 @@ Development «
 mvalente.eu/mv.\*](http://mvalente.eu/2007/05/19/the-future-of-web-development/)
 )
 
-[best
+

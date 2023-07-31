@@ -27,8 +27,7 @@ Jury.me](http://jury.me/blog/2013/3/31/understanding-app-store-pricing-part-3)
 > percentage change in price leads to a smaller percentage change in
 > quantity sold as inelastic.
 
-[Part
-4](http://jury.me/blog/2013/3/31/understanding-app-store-pricing-part-4):
+[Part 4](http://jury.me/blog/2013/3/31/understanding-app-store-pricing-part-4):
 
 > Generally speaking, the elasticity of demand is affected by factors
 > such as:

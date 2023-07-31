@@ -28,4 +28,4 @@ See also the related TED presentation: [Nancy Duarte: The secret
 structure of great talks  |  Video on
 TED.com](http://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks.html)
 
-[public
+

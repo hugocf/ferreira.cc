@@ -22,4 +22,4 @@ Debt](https://sites.google.com/site/unclebobconsultingllc/a-mess-is-not-a-techni
 [TechnicalDebtQuadrant](http://martinfowler.com/bliki/TechnicalDebtQuadrant.html)
 )
 
-[best
+

@@ -44,4 +44,4 @@ See also [Tips on choosing your customer learning
 method](http://www.saintsal.com/2012/10/how-to-choose-your-customer-learning-method/)
 for help on how to choose which method is appropriate.
 
-[customer
+

@@ -38,11 +38,10 @@ via [The Clean Architecture  |  8th Light](http://blog.8thlight.com/uncle-bob/20
 > So when we pass data across a boundary, it is always in the form that
 > is most convenient for the inner circle.
 
-See also " *[I've noticed a surprising resistance to the idea.
+See also "*[I've noticed a surprising resistance to the idea.
 Apparently the notion that it's a good idea to hide the framework, UI,
 or database from the application code is not universally
-accepted.](http://blog.8thlight.com/uncle-bob/2011/11/22/Clean-Architecture.html)
-"*
+accepted.](http://blog.8thlight.com/uncle-bob/2011/11/22/Clean-Architecture.html)*"
 
 **Update 2013-11-11:\
 ** See also this interesting series of posts about application
@@ -59,4 +58,4 @@ Applications --- Whitewashing\
 4.  [Command-Query-Responsibility-Segregation
     (CQRS)](http://whitewashing.de/2012/08/18/oop_business_applications__command_query_responsibility_seggregation.html)
 
-[best
+

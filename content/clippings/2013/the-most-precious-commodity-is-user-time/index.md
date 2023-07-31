@@ -26,4 +26,4 @@ Map](http://stratechery.com/2013/instagram-direct-twitter-dms-socialcommunicatio
 This certainly applies to all ad-based businesses, where volume is key!
 But there are other ways to build successful businesses though...
 
-[cognitive
+

@@ -16,4 +16,4 @@ width="150" height="150" /></a></figure>
 (via [Creative Commons traffic light  |  I spy with my little
 eye](http://ikusimakusi.net/en/2012/creative-commons-traffic-light/) )
 
-[creative
+
