@@ -38,7 +38,7 @@ Com <del datetime="2016-08-14T14:00:00Z">22</del> **23 seguradoras** envolvidas 
 
 No entanto uma seguradora, a **Liberty Seguros**, destaca-se de todas pela sua [atitude solidária][pressrelease] de “assumir a reparação dos danos dos seus clientes mesmo que estes apenas tenham contratado apólices de responsabilidade civil contra danos a terceiros”.
 
-[pressrelease]: http://hugo.ferreira.cc/wp-content/uploads/Press-Liberty-Seguros-Festival-Andanças-2016-08-08.pdf
+[pressrelease]: Press-Liberty-Seguros-Festival-Andanças-2016-08-08.pdf
 
 Confesso que à primeira vista pensei que se tratasse de apenas mais uma manobra de marketing, com apenas uma mão cheia de veículos afetos a essa seguradora, mas olhando para a tabela abaixo percebe-se que **outras seguradoras teriam também condições** para oferecer essa benesse.
 
