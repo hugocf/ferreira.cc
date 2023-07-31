@@ -24,8 +24,7 @@ type: video
 
 ✗ Don't communicate with: what =\> how =\> why
 
-[![( ( ( why ) how ) what
-)](http://www.startwithwhy.com/Portals/0/CVStoreImages/SWW_presentation_cart_600.jpg)](http://www.startwithwhy.com)
+[![( ( ( why ) how ) what)](the-golden-circle.jpg)](http://www.startwithwhy.com)
 
 ( Source: <http://video.ted.com/> )
 

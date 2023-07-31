@@ -13,5 +13,5 @@ type: link
 > allows through a logical "mental game", an overall Color
 > interpretation, for ALL!
 
-![](http://media-cache-ec2.pinimg.com/736x/17/bc/65/17bc65d8a88ad3555c04168e28b50dbb.jpg)
+![](coloradd.jpg)
 

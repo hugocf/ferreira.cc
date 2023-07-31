@@ -13,5 +13,5 @@ A [cool geek moment](http://pdvel.com/happy1234567890/), by [pdvel](http://twitt
 
 **Update:** The fireworks! Snapshot of the above script in action:
 
-![](http://media.tumblr.com/tumblr_kz644aCmku1qz81r1.png)
+![](snapshot.png)
 
