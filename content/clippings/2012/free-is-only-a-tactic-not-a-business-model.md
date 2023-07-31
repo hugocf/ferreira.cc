@@ -8,6 +8,6 @@ type: quote
 
 > Free is *only* a tactic, not a business model.
 
-[Free: a Tactic, not a Business Model \| Tech News and
+[Free: a Tactic, not a Business Model  |  Tech News and
 Analysis](http://gigaom.com/2007/03/13/free-a-tactic-not-a-business-model/)
 

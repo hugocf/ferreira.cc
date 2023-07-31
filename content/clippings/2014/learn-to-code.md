@@ -8,7 +8,7 @@ type: text
 
 Online interactive resources to learn programming:
 
--   [Learn \| Code.org](http://code.org/learn) --- Beginners (concepts),
+-   [Learn  |  Code.org](http://code.org/learn) --- Beginners (concepts),
     HTML/CSS, JavaScript, Python,
 -   [Codecademy](http://www.codecademy.com/learn) --- HTML/CSS,
     JavaScript, jQuery, PHP, Python, Ruby

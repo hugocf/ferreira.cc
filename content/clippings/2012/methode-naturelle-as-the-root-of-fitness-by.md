@@ -84,7 +84,7 @@ Naturelle" « MovNat](http://movnat.com/the-roots-of-methode-naturelle/)*
 
 *Update 2: Interesting tale of Erwan Le Corre's encounter with Carlos
 Zuqueto (Jiu Jitsu world champion) in the Brazilian rain forest...
-[Fitness to Survive in the Wild \| Men's
+[Fitness to Survive in the Wild  |  Men's
 Health](http://www.menshealth.com/fitness/fitness-survive-wild) (by
 [Christopher McDougall](http://www.chrismcdougall.com/) of [Born To
 Run](http://amzn.com/0307266303) fame)*

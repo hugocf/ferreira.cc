@@ -7,7 +7,6 @@ type: video
 ---
 
 <figure>
-<div>
 <a
 href="https://hugo.ferreira.cc/jornal-das-8-23-mar-13-parte-ii-7155/attachment/532/"
 rel="attachment"><img

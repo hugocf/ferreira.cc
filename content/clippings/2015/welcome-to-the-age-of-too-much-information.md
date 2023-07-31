@@ -54,6 +54,6 @@ over the web.
 > leading a healthier, happier and emotionally stable life.
 >
 > — joski65 (in [Comments on Healthy eating: The case for eating steak
-> and cream \| The
+> and cream  |  The
 > Economist](http://www.economist.com/comment/2395461#comment-2395461) )
 

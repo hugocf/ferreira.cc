@@ -9,7 +9,7 @@ type: text
 Today, suddenly two companies in the same space crossed [my
 radar](http://twitter.com/hugocf) :
 
--   [Bondable \| The Cloud Integration Enablement
+-   [Bondable  |  The Cloud Integration Enablement
     Platform](http://bondable.com)
 -   [Zapier -- Automate the Web](http://zapier.com)
 

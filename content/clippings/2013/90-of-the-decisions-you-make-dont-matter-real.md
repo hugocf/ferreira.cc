@@ -11,6 +11,6 @@ type: quote
 
 via [Charlie
 Kindel](http://ceklog.kindel.com/2011/08/06/90-of-the-decisions-you-make-dont-matter/)
-[\|
+[ | 
 cek.log](http://ceklog.kindel.com/2011/08/06/90-of-the-decisions-you-make-dont-matter/)
 

@@ -10,7 +10,7 @@ type: quote
 > character has an inner motor, a dominant, unconscious goal that
 > they're striving for, an itch that they can't scratch.
 
-Judith Weston (via [Andrew Stanton: The clues to a great story \|
+Judith Weston (via [Andrew Stanton: The clues to a great story  | 
 TED.com](http://www.ted.com/talks/andrew_stanton_the_clues_to_a_great_story.html)
 )
 
