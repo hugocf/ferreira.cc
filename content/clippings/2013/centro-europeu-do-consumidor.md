@@ -1,6 +1,6 @@
 ---
 date: 2013-01-14
-lang: en
+lang: pt
 tags: [ consumer, europe, legislation, rights ]
 title: "Centro Europeu do Consumidor"
 type: link

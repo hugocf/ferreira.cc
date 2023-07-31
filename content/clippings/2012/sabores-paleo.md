@@ -1,6 +1,6 @@
 ---
 date: 2012-08-30
-lang: en
+lang: pt
 tags: [ diet, food, paleo, portugues, recipes ]
 title: "Sabores Paleo"
 type: link

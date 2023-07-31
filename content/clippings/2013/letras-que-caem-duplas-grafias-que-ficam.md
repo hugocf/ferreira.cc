@@ -1,13 +1,12 @@
 ---
 date: 2013-05-17
-lang: en
+lang: pt
 tags: [ acordo ortografico, portugues, resumo ]
 title: "Letras que caem, duplas grafias que ficam -- Ciberdúvidas da Língua Portuguesa"
 type: link
 ---
 
-[Letras que caem, duplas grafias que ficam -- Ciberdúvidas da Língua
-Portuguesa](http://ciberduvidas.pt/textos/controversias/11052)
+[Letras que caem, duplas grafias que ficam -- Ciberdúvidas da Língua Portuguesa](http://ciberduvidas.pt/textos/controversias/11052)
 
 > O Acordo Ortográfico prevê alterações em cerca de 1,6 por cento das
 > palavras que constituem o léxico da chamada variante luso-africana do

@@ -1,6 +1,6 @@
 ---
 date: 2013-11-22
-lang: en
+lang: pt
 tags: [ giria, glossario, jornalismo, termos ]
 title: "Glossário de Jornalismo"
 type: link
