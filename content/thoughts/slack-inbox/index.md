@@ -12,7 +12,7 @@ via: "[John Rae](https://springernature.slack.com/archives/C04HV45EZ4H/p16728501
 
 > That “zero?” It’s not how many mes­sages are in your inbox–it’s how much of your own *brain* is in that inbox. Especially when you don’t want it to be. That’s it.
 >
-> — [Internet Archive’s Wayback (2011-07-12)](https://web.archive.org/web/20110712000524/http://inboxzero.com:80/)
+> — [Internet Archive’s Wayback Machine (2011-07-12)](https://web.archive.org/web/20110712000524/http://inboxzero.com:80/)
 
 It was not about “perfection” but rather a way for us to take back control of our time and avoid being reactive. To do that, you triage messages to focus on what matters:
 
