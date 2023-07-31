@@ -16,8 +16,7 @@ type: link
 > ![](https://31.media.tumblr.com/81c31218829ec9a4ee03348dba98a6a9/tumblr_inline_n3kyc2AjXC1qh9cw7.png)
 >
 > In Alcatraz, you'll find plugins, color schemes and templates for code
-> fragments. You can install it by visiting
-> [alcatraz.io](http://alcatraz.io/){target="_blank"} .
+> fragments. You can install it by visiting [alcatraz.io](http://alcatraz.io/).
 >
 > Here are some of the best Xcode plugins available in Alcatraz to boost
 > your productivity:

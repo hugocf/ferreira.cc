@@ -6,11 +6,9 @@ title: "How emotional design can give your website much more impact"
 type: link
 ---
 
-[How emotional design can give your website much more
-impact](http://thenextweb.com/dd/2013/08/23/more-impact-through-emotional-design/?utm_campaign=social%20media&utm_medium=Spreadus&utm_source=Twitter&awesm=tnw.to_h0hoJ)
+[How emotional design can give your website much more impact](http://thenextweb.com/dd/2013/08/23/more-impact-through-emotional-design/?utm_campaign=social%20media&utm_medium=Spreadus&utm_source=Twitter&awesm=tnw.to_h0hoJ)
 
-![Plutchik's index of
-emotions](http://thenextweb.com/wp-content/blogs.dir/1/files/2013/08/plutchik-wheel-emotion.png){width="450px"}
+![Plutchik's index of emotions](http://thenextweb.com/wp-content/blogs.dir/1/files/2013/08/plutchik-wheel-emotion.png)
 
 > In this article I'll give you an idea of the potential of emotional
 > design. We'll be looking at copywriting and visuals but especially

@@ -6,8 +6,7 @@ title: "Burn Your Business Plan! -- Forbes"
 type: link
 ---
 
-[Burn Your Business Plan! --
-Forbes](http://www.forbes.com/sites/nathanfurr/2012/02/24/burn-your-business-plan/)
+[Burn Your Business Plan! -- Forbes](http://www.forbes.com/sites/nathanfurr/2012/02/24/burn-your-business-plan/)
 
 > Now let's be careful, I'm not saying business plans have no place in
 > the universe, but I am saying they are a bad place to start. There is
@@ -16,9 +15,7 @@ Forbes](http://www.forbes.com/sites/nathanfurr/2012/02/24/burn-your-business-pla
 
 See practical example from [XoomPark](http://xoompark.com) :
 
-**[Xoom park bmc_international_new_sp
-\[autosaved\]](http://www.slideshare.net/sblank/xoom-park-bmcinternationalnewsp-autosaved "Xoom park bmc_international_new_sp [autosaved]"){target="_blank"}**
+**[Xoom park bmc_international_new_sp [autosaved]](http://www.slideshare.net/sblank/xoom-park-bmcinternationalnewsp-autosaved)**
 
-View more presentations from [steve
-blank](http://www.slideshare.net/sblank){target="_blank"}
+View more presentations from [Steve Blank](http://www.slideshare.net/sblank)
 
