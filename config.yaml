@@ -47,7 +47,7 @@ params:
     - thoughts
     - clippings
 
-  paginate: 9 # HF: temporary
+  paginate: 20
 
   profileMode:
     enabled: true
