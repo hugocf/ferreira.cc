@@ -10,8 +10,8 @@ type: image
 <a
 href="https://hugo.ferreira.cc/dieter-rams-ten-principles-for-good-design-via/attachment/457/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2013/07/tumblr_mpby8wqNQF1qz82meo1_400-150x150.jpg"
-srcset="https://hugo.ferreira.cc/wp-content/uploads/2013/07/tumblr_mpby8wqNQF1qz82meo1_400-150x150.jpg 150w, https://hugo.ferreira.cc/wp-content/uploads/2013/07/tumblr_mpby8wqNQF1qz82meo1_400-300x300.jpg 300w, https://hugo.ferreira.cc/wp-content/uploads/2013/07/tumblr_mpby8wqNQF1qz82meo1_400.jpg 350w"
+src="/wp-content/uploads/2013/07/tumblr_mpby8wqNQF1qz82meo1_400-150x150.jpg"
+srcset="/wp-content/uploads/2013/07/tumblr_mpby8wqNQF1qz82meo1_400-150x150.jpg 150w, /wp-content/uploads/2013/07/tumblr_mpby8wqNQF1qz82meo1_400-300x300.jpg 300w, /wp-content/uploads/2013/07/tumblr_mpby8wqNQF1qz82meo1_400.jpg 350w"
 sizes="(max-width: 150px) 100vw, 150px" width="150" height="150" /></a></figure>
 
 **Dieter Rams: ten principles for good design\

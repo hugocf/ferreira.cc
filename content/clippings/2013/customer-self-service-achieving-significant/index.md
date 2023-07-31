@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/customer-self-service-achieving-significant/attachment/570/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2013/01/tumblr_mgkpmiFaca1qz82meo1_500-150x150.png"
+src="/wp-content/uploads/2013/01/tumblr_mgkpmiFaca1qz82meo1_500-150x150.png"
 width="150" height="150" /></a></figure>
 
 > **Customer Self Service**\

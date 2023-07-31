@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/sketchplanations-mobile-is-snorkelling-desktop/attachment/148/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2014/03/tumblr_n2rbf6HGVc1su40qeo1_500-150x150.jpg"
+src="/wp-content/uploads/2014/03/tumblr_n2rbf6HGVc1su40qeo1_500-150x150.jpg"
 width="150" height="150" /></a></figure>
 
 [sketchplanations](http://www.sketchplanations.com/post/80525301819/mobile-is-snorkelling-desktop-is-diving):

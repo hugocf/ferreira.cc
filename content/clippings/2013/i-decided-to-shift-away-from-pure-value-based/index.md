@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/i-decided-to-shift-away-from-pure-value-based/attachment/379/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2013/09/tumblr_mtdg6qYvhq1qz82meo1_1280-150x150.jpg"
+src="/wp-content/uploads/2013/09/tumblr_mtdg6qYvhq1qz82meo1_1280-150x150.jpg"
 width="150" height="150" /></a></figure>
 
 > I decided to shift away from pure value-based tables about sizes of

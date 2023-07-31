@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/a-minha-familia-tinha-uma-fabrica-que-produzia/attachment/354/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2013/10/tumblr_mufdvlmi6k1qz82meo1_250-150x150.jpg"
+src="/wp-content/uploads/2013/10/tumblr_mufdvlmi6k1qz82meo1_250-150x150.jpg"
 width="150" height="150" /></a></figure>
 
 > A minha família tinha uma fábrica que produzia azeite e azeitonas. As

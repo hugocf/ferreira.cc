@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/3-different-types-of-products-out-there-in/attachment/738/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2012/06/tumblr_m5nng41AsU1qz82meo1_1280-150x150.png"
+src="/wp-content/uploads/2012/06/tumblr_m5nng41AsU1qz82meo1_1280-150x150.png"
 width="150" height="150" /></a></figure>
 
 > (...) 3 different types of products out there:

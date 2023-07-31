@@ -10,21 +10,21 @@ type: image
 <a
 href="https://hugo.ferreira.cc/via-6-proven-ways-to-boost-the-conversion-rates/attachment/309/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2013/11/tumblr_mwvqc7saMj1qz82meo1_1280-150x150.png"
+src="/wp-content/uploads/2013/11/tumblr_mwvqc7saMj1qz82meo1_1280-150x150.png"
 width="150" height="150" /></a></figure>
 
 <figure>
 <a
 href="https://hugo.ferreira.cc/via-6-proven-ways-to-boost-the-conversion-rates/attachment/310/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2013/11/tumblr_mwvqc7saMj1qz82meo2_r1_1280-150x150.png"
+src="/wp-content/uploads/2013/11/tumblr_mwvqc7saMj1qz82meo2_r1_1280-150x150.png"
 width="150" height="150" /></a></figure>
 
 <figure>
 <a
 href="https://hugo.ferreira.cc/via-6-proven-ways-to-boost-the-conversion-rates/attachment/311/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2013/11/tumblr_mwvqc7saMj1qz82meo3_r1_1280-150x150.png"
+src="/wp-content/uploads/2013/11/tumblr_mwvqc7saMj1qz82meo3_r1_1280-150x150.png"
 width="150" height="150" /></a></figure>
 
 (via [6 Proven Ways to Boost the Conversion Rates of Your Call-to-Action

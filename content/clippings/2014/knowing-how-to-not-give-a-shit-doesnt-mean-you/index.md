@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/knowing-how-to-not-give-a-shit-doesnt-mean-you/attachment/107/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2014/07/tumblr_n98xkmjJpQ1qz82meo1_1280-150x150.png"
+src="/wp-content/uploads/2014/07/tumblr_n98xkmjJpQ1qz82meo1_1280-150x150.png"
 width="150" height="150" /></a></figure>
 
 > Knowing how to not give a shit doesn't mean you never give a shit

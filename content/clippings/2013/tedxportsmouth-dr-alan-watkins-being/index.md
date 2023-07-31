@@ -10,14 +10,14 @@ type: image
 <a
 href="https://hugo.ferreira.cc/tedxportsmouth-dr-alan-watkins-being/attachment/442/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2013/07/tumblr_mpzmr0K7br1qz82meo1_1280-150x150.png"
+src="/wp-content/uploads/2013/07/tumblr_mpzmr0K7br1qz82meo1_1280-150x150.png"
 width="150" height="150" /></a></figure>
 
 <figure>
 <a
 href="https://hugo.ferreira.cc/tedxportsmouth-dr-alan-watkins-being/attachment/443/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2013/07/tumblr_mpzmr0K7br1qz82meo2_1280-150x150.png"
+src="/wp-content/uploads/2013/07/tumblr_mpzmr0K7br1qz82meo2_1280-150x150.png"
 width="150" height="150" /></a></figure>
 
 TEDxPortsmouth -- Dr. Alan Watkins -- Being Brilliant Every Single Day:

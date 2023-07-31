@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/via-istoe-independente-medicina-bem-estar/attachment/657/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2012/09/tumblr_m9vf5np74h1qz82meo1_1280-150x150.jpg"
+src="/wp-content/uploads/2012/09/tumblr_m9vf5np74h1qz82meo1_1280-150x150.jpg"
 width="150" height="150" /></a></figure>
 
 (via [ISTOÉ Independente -- Medicina &

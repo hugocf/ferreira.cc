@@ -26,4 +26,4 @@ characters](https://hugo.ferreira.cc/hyphen-ndash-mdash/) via the
 In the case of an **English (British) keyboard layout** , the common
 Portuguese accents are also accessible via the ` alt ` key:
 
-![alternative characters in the British keyboard layout with the `alt` key pressed](https://hugo.ferreira.cc/wp-content/uploads/Keyboard-Layout-British-Alt-1024x412.png)
+![alternative characters in the British keyboard layout with the `alt` key pressed](keyboard-layout-british-alt.png)

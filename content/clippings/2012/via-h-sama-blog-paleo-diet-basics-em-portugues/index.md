@@ -10,8 +10,8 @@ type: image
 <a
 href="https://hugo.ferreira.cc/via-h-sama-blog-paleo-diet-basics-em-portugues/attachment/665/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2012/08/tumblr_m9ksbjNA8e1qz82meo1_r1_500-150x150.jpg"
-srcset="https://hugo.ferreira.cc/wp-content/uploads/2012/08/tumblr_m9ksbjNA8e1qz82meo1_r1_500-150x150.jpg 150w, https://hugo.ferreira.cc/wp-content/uploads/2012/08/tumblr_m9ksbjNA8e1qz82meo1_r1_500-300x300.jpg 300w, https://hugo.ferreira.cc/wp-content/uploads/2012/08/tumblr_m9ksbjNA8e1qz82meo1_r1_500.jpg 500w"
+src="/wp-content/uploads/2012/08/tumblr_m9ksbjNA8e1qz82meo1_r1_500-150x150.jpg"
+srcset="/wp-content/uploads/2012/08/tumblr_m9ksbjNA8e1qz82meo1_r1_500-150x150.jpg 150w, /wp-content/uploads/2012/08/tumblr_m9ksbjNA8e1qz82meo1_r1_500-300x300.jpg 300w, /wp-content/uploads/2012/08/tumblr_m9ksbjNA8e1qz82meo1_r1_500.jpg 500w"
 sizes="(max-width: 150px) 100vw, 150px" width="150" height="150" /></a></figure>
 
 (via [H-SAMA blog: Paleo Diet Basics em

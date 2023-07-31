@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/via-hakiri-was-huxley-right-i-stumbled-upon/attachment/223/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2014/01/tumblr_mzc99ftwnh1qz82meo1_r4_1280-150x150.jpg"
+src="/wp-content/uploads/2014/01/tumblr_mzc99ftwnh1qz82meo1_r4_1280-150x150.jpg"
 width="150" height="150" /></a></figure>
 
 (via [Hakiri » Was Huxley

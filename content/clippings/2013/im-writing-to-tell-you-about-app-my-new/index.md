@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/im-writing-to-tell-you-about-app-my-new/attachment/389/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2013/08/tumblr_mscs9ifiGT1qz82meo1_1280-150x150.jpg"
+src="/wp-content/uploads/2013/08/tumblr_mscs9ifiGT1qz82meo1_1280-150x150.jpg"
 width="150" height="150" /></a></figure>
 
 > "I'm writing to tell you about \_\_APP\_\_, my new \_\_PRICE\_\_ app

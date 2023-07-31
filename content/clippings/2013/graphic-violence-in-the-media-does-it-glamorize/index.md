@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/graphic-violence-in-the-media-does-it-glamorize/attachment/542/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2013/03/tumblr_mjo99aMvsW1qz82meo1_1280-150x150.gif"
+src="/wp-content/uploads/2013/03/tumblr_mjo99aMvsW1qz82meo1_1280-150x150.gif"
 width="150" height="150" /></a></figure>
 
 > **Graphic violence in the media**

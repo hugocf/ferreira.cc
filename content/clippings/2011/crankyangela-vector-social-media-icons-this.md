@@ -10,7 +10,7 @@ type: link
 <a
 href="https://hugo.ferreira.cc/crankyangela-vector-social-media-icons-this/attachment/1031/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2011/06/tumblr_lnahaqnrKV1qanj4so1_1280-150x150.jpg"
+src="/wp-content/uploads/2011/06/tumblr_lnahaqnrKV1qanj4so1_1280-150x150.jpg"
 width="150" height="150" /></a></figure>
 
 [crankyangela](http://crankyangela.tumblr.com/post/6860841181) :

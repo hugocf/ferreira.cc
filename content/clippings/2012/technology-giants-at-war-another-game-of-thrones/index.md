@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/technology-giants-at-war-another-game-of-thrones/attachment/601/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2012/12/tumblr_mei80cCeQN1qz82meo1_1280-150x150.png"
+src="/wp-content/uploads/2012/12/tumblr_mei80cCeQN1qz82meo1_1280-150x150.png"
 width="150" height="150" /></a></figure>
 
 [Technology giants at war: Another game of thrones  |  The

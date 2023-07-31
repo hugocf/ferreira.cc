@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/via-a-vc-the-management-team-guest-post-from/attachment/845/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2012/03/tumblr_m0zlmwQWpL1qz82meo1_500-150x150.png"
+src="/wp-content/uploads/2012/03/tumblr_m0zlmwQWpL1qz82meo1_500-150x150.png"
 width="150" height="150" /></a></figure>
 
 (via [A VC: The Management Team -- Guest Post From Joel

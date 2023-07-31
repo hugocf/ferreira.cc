@@ -6,14 +6,9 @@ title: "Keynote: Architecture the Lost Years"
 type: image
 ---
 
-![](https://hugo.ferreira.cc/wp-content/uploads/2012/07/tumblr_m7wjx4QuLX1qz82meo1_1280.png){width="847"
-height="436"
-srcset="https://hugo.ferreira.cc/wp-content/uploads/2012/07/tumblr_m7wjx4QuLX1qz82meo1_1280.png 847w, https://hugo.ferreira.cc/wp-content/uploads/2012/07/tumblr_m7wjx4QuLX1qz82meo1_1280-300x154.png 300w"
-sizes="(max-width: 847px) 100vw, 847px"}
+![](entity-relationship-diagram.png)
 
-[Keynote: Architecture the Lost
-Years](http://www.confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years)
-by Robert Martin @ Ruby Midwest 2011
+[Keynote: Architecture the Lost Years](http://www.confreaks.com/videos/759-rubymidwest2011-keynote-architecture-the-lost-years) by Robert Martin @ Ruby Midwest 2011
 
 *(also on
 [YouTube](http://www.youtube.com/watch?v=WpkDN78P884&feature=player_detailpage#t=2546s)
@@ -60,4 +55,4 @@ Elements summary:
 See also [Where's Your Business
 Logic?](http://collectiveidea.com/blog/archives/2012/06/28/wheres-your-business-logic/)
 
-[best
+

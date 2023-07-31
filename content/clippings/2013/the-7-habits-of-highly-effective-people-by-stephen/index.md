@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/the-7-habits-of-highly-effective-people-by-stephen/attachment/439/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2013/07/tumblr_mq3d8pfAIf1qz82meo1_1280-150x150.png"
+src="/wp-content/uploads/2013/07/tumblr_mq3d8pfAIf1qz82meo1_1280-150x150.png"
 width="150" height="150" /></a></figure>
 
 > The **7 Habits of Highly Effective People** by Stephen Covey

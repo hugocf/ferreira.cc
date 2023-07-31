@@ -10,7 +10,7 @@ type: link
 <a
 href="https://hugo.ferreira.cc/linkedin-networks-webmethods-ams-solid-reason/attachment/209/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2014/01/tumblr_mzsyd0P8yy1qz82meo1_r1_1280-150x150.png"
+src="/wp-content/uploads/2014/01/tumblr_mzsyd0P8yy1qz82meo1_r1_1280-150x150.png"
 width="150" height="150" /></a></figure>
 
 > LinkedIn networks:

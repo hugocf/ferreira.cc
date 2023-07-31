@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/inspired-by-a-shared-interest-in-the-striking/attachment/333/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2013/11/tumblr_mvuqn0mtUH1qz82meo1_r1_500-150x150.png"
+src="/wp-content/uploads/2013/11/tumblr_mvuqn0mtUH1qz82meo1_r1_500-150x150.png"
 width="150" height="150" /></a></figure>
 
 > Inspired by a shared interest in the striking dress codes of various

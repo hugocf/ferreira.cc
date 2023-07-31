@@ -10,14 +10,14 @@ type: image
 <a
 href="https://hugo.ferreira.cc/what-oo-fails-to-do-what-object-oriented/attachment/251/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2013/12/tumblr_myio62LyWm1qz82meo1_540-150x150.png"
+src="/wp-content/uploads/2013/12/tumblr_myio62LyWm1qz82meo1_540-150x150.png"
 width="150" height="150" /></a></figure>
 
 <figure>
 <a
 href="https://hugo.ferreira.cc/what-oo-fails-to-do-what-object-oriented/attachment/252/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2013/12/tumblr_myio62LyWm1qz82meo2_r1_540-150x150.png"
+src="/wp-content/uploads/2013/12/tumblr_myio62LyWm1qz82meo2_r1_540-150x150.png"
 width="150" height="150" /></a></figure>
 
 > **What OO Fails to Do**

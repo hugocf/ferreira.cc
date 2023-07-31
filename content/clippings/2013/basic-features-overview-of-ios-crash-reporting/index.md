@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/basic-features-overview-of-ios-crash-reporting/attachment/462/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2013/06/tumblr_mog40eBVmP1qz82meo1_1280-150x150.png"
+src="/wp-content/uploads/2013/06/tumblr_mog40eBVmP1qz82meo1_1280-150x150.png"
 width="150" height="150" /></a></figure>
 
 Basic Features: [Overview of iOS Crash Reporting Tools: Part ½  |  Ray

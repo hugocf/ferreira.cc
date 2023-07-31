@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/a-good-user-interface-has-high-conversion-rates/attachment/454/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2013/07/tumblr_mpc16ilQrj1qz82meo1_1280-150x150.png"
+src="/wp-content/uploads/2013/07/tumblr_mpc16ilQrj1qz82meo1_1280-150x150.png"
 width="150" height="150" /></a></figure>
 
 > A **Good User Interface** has **high conversion rates** and is **easy

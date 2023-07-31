@@ -6,14 +6,9 @@ title: "(image)"
 type: image
 ---
 
-![](https://hugo.ferreira.cc/wp-content/uploads/2012/08/tumblr_m8v54dIOud1qz82meo1_1280.jpg){width="772"
-height="567"
-srcset="https://hugo.ferreira.cc/wp-content/uploads/2012/08/tumblr_m8v54dIOud1qz82meo1_1280.jpg 772w, https://hugo.ferreira.cc/wp-content/uploads/2012/08/tumblr_m8v54dIOud1qz82meo1_1280-300x220.jpg 300w"
-sizes="(max-width: 772px) 100vw, 772px"}
+![](the-clean-architecture.jpg)
 
-via [The Clean Architecture  |  8th
-Light](http://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html)
-by ["Uncle" Bob Martin](http://www.8thlight.com/our-team/robert-martin)
+via [The Clean Architecture  |  8th Light](http://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html) by ["Uncle" Bob Martin](http://www.8thlight.com/our-team/robert-martin)
 
 >
 > The outer circles are mechanisms. The inner circles are policies.

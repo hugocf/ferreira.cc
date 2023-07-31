@@ -10,7 +10,7 @@ type: link
 <a
 href="https://hugo.ferreira.cc/a-quick-and-simple-image-placeholder-service/attachment/288/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2013/12/tumblr_mxnpy7CX0V1qz82meo1_500-150x150.gif"
+src="/wp-content/uploads/2013/12/tumblr_mxnpy7CX0V1qz82meo1_500-150x150.gif"
 width="150" height="150" /></a></figure>
 
 > A quick and simple image placeholder service.

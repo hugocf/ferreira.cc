@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/this-brings-us-to-the-magical-three-step-process/attachment/271/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2013/12/tumblr_mxy65viGsM1qz82meo1_1280-150x150.jpg"
+src="/wp-content/uploads/2013/12/tumblr_mxy65viGsM1qz82meo1_1280-150x150.jpg"
 width="150" height="150" /></a></figure>
 
 > This brings us to the magical three step process for becoming an

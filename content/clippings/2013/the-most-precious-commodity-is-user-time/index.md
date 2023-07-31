@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/the-most-precious-commodity-is-user-time/attachment/263/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2013/12/tumblr_my44p6wQ7n1qz82meo1_1280-150x150.jpg"
+src="/wp-content/uploads/2013/12/tumblr_my44p6wQ7n1qz82meo1_1280-150x150.jpg"
 width="150" height="150" /></a></figure>
 
 > **The most precious commodity is user time**

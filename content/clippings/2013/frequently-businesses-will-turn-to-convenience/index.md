@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/frequently-businesses-will-turn-to-convenience/attachment/286/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2013/12/tumblr_mxnzit0X9d1qz82meo1_1280-150x150.png"
+src="/wp-content/uploads/2013/12/tumblr_mxnzit0X9d1qz82meo1_1280-150x150.png"
 width="150" height="150" /></a></figure>
 
 > Frequently, businesses will turn to "convenience metrics" average (or

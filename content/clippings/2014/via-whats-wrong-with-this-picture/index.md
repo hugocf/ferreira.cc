@@ -10,14 +10,14 @@ type: image
 <a
 href="https://hugo.ferreira.cc/via-whats-wrong-with-this-picture/attachment/142/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2014/03/tumblr_n33dqjHMxU1qz82meo1_r1_1280-150x150.png"
+src="/wp-content/uploads/2014/03/tumblr_n33dqjHMxU1qz82meo1_r1_1280-150x150.png"
 width="150" height="150" /></a></figure>
 
 <figure>
 <a
 href="https://hugo.ferreira.cc/via-whats-wrong-with-this-picture/attachment/143/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2014/03/tumblr_n33dqjHMxU1qz82meo2_r1_1280-150x150.png"
+src="/wp-content/uploads/2014/03/tumblr_n33dqjHMxU1qz82meo2_r1_1280-150x150.png"
 width="150" height="150" /></a></figure>
 
 (via [What's wrong with this picture?  | 

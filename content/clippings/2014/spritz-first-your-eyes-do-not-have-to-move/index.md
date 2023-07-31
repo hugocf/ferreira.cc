@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/spritz-first-your-eyes-do-not-have-to-move/attachment/170/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2014/03/tumblr_n22ts42z9D1qz82meo1_400-150x111.gif"
+src="/wp-content/uploads/2014/03/tumblr_n22ts42z9D1qz82meo1_400-150x111.gif"
 width="150" height="111" /></a></figure>
 
 \

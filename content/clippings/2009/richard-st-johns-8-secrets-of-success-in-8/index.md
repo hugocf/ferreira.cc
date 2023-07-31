@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/richard-st-johns-8-secrets-of-success-in-8/attachment/1217/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2009/05/buAmlI5IVn64lnk8fspheSUXo1_400-150x150.png"
+src="/wp-content/uploads/2009/05/buAmlI5IVn64lnk8fspheSUXo1_400-150x150.png"
 width="150" height="150" /></a></figure>
 
 [Richard St. John's 8 secrets of

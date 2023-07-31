@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/cooperation-vs-collaboration-the-cycling-pelaton/attachment/384/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2013/09/tumblr_msgfooUJy81qz82meo1_250-150x150.jpg"
+src="/wp-content/uploads/2013/09/tumblr_msgfooUJy81qz82meo1_250-150x150.jpg"
 width="150" height="150" /></a></figure>
 
 # Cooperation vs. Collaboration

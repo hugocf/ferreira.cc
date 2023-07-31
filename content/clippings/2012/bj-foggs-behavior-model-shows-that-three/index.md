@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/bj-foggs-behavior-model-shows-that-three/attachment/758/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2012/05/tumblr_m41ljuapMU1qz82meo1_500-150x150.jpg"
+src="/wp-content/uploads/2012/05/tumblr_m41ljuapMU1qz82meo1_500-150x150.jpg"
 width="150" height="150" /></a></figure>
 
 > \[BJ Fogg's\] Behavior Model shows that **three elements must converge

@@ -10,7 +10,7 @@ type: link
 <a
 href="https://hugo.ferreira.cc/placeholder-images-for-every-case-webdesign-or/attachment/265/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2013/12/tumblr_my41xx2GL01qz82meo1_1280-150x150.png"
+src="/wp-content/uploads/2013/12/tumblr_my41xx2GL01qz82meo1_1280-150x150.png"
 width="150" height="150" /></a></figure>
 
 > Placeholder Images for every case. Webdesign or Print. It's simple and

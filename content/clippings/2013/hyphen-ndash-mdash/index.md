@@ -8,10 +8,10 @@ type: image
 
 <figure>
 <a
-href="https://hugo.ferreira.cc/wp-content/uploads/2013/12/tumblr_mxc5aane7G1qz82meo1_400.jpg"
+href="/wp-content/uploads/2013/12/tumblr_mxc5aane7G1qz82meo1_400.jpg"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2013/12/tumblr_mxc5aane7G1qz82meo1_400.jpg"
-srcset="https://hugo.ferreira.cc/wp-content/uploads/2013/12/tumblr_mxc5aane7G1qz82meo1_400.jpg 378w, https://hugo.ferreira.cc/wp-content/uploads/2013/12/tumblr_mxc5aane7G1qz82meo1_400-300x175.jpg 300w"
+src="/wp-content/uploads/2013/12/tumblr_mxc5aane7G1qz82meo1_400.jpg"
+srcset="/wp-content/uploads/2013/12/tumblr_mxc5aane7G1qz82meo1_400.jpg 378w, /wp-content/uploads/2013/12/tumblr_mxc5aane7G1qz82meo1_400-300x175.jpg 300w"
 sizes="(max-width: 378px) 100vw, 378px" width="378" height="220" /></a></figure>
 
 -   --

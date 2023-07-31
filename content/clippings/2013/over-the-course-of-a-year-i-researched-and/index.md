@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/over-the-course-of-a-year-i-researched-and/attachment/429/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2013/07/tumblr_mq5d2hZLtq1qz82meo1_1280-150x150.jpg"
+src="/wp-content/uploads/2013/07/tumblr_mq5d2hZLtq1qz82meo1_1280-150x150.jpg"
 width="150" height="150" /></a></figure>
 
 > Over the course of a year, I researched and created

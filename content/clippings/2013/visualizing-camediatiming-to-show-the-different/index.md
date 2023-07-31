@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/visualizing-camediatiming-to-show-the-different/attachment/336/"
 rel="attachment"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/2013/11/tumblr_mvucxfnheC1qz82meo1_1280-150x150.jpg"
+src="/wp-content/uploads/2013/11/tumblr_mvucxfnheC1qz82meo1_1280-150x150.jpg"
 width="150" height="150" /></a></figure>
 
 > **Visualizing CAMediaTiming**
