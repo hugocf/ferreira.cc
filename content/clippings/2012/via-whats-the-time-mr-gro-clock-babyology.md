@@ -2,13 +2,13 @@
 date: 2012-10-19
 lang: en
 tags: [ kids, sleep, tips ]
-title: ""
+title: "What's the time, Mr Gro-clock"
 type: link
 ---
 
-(via [What's the time, Mr Gro-clock? --
-Babyology](http://babyology.com.au/gadgets/whats-the-time-mr-gro-clock.html)
-)
+(via [What's the time, Mr Gro-clock? -- Babyology](http://babyology.com.au/gadgets/whats-the-time-mr-gro-clock.html))
+
+_**Update 2023-07-31**: [Internet Archive’s Wayback Machine (2013-07-07)](https://web.archive.org/web/20130707161529/http://babyology.com.au/gadgets/whats-the-time-mr-gro-clock.html)_
 
 > The Gro-clock, priced at £39.99, uses fun images of the sun and the
 > moon to let them know just when it's acceptable to go bounding out of

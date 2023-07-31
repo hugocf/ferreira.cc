@@ -2,7 +2,7 @@
 date: 2013-12-11
 lang: en
 tags: [ design, design, images, placeholders ]
-title: ""
+title: "Placehold.it"
 type: link
 ---
 

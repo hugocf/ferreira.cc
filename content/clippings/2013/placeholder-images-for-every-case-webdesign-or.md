@@ -2,7 +2,7 @@
 date: 2013-12-20
 lang: en
 tags: [ design, images, placeholders ]
-title: ""
+title: "Placeholder Images"
 type: link
 ---
 
