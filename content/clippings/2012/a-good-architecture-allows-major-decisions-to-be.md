@@ -1,7 +1,7 @@
 ---
 date: 2012-07-28
 lang: en
-tags: [ quote, architecture, best practices, clean code, mvc, software ]
+tags: [ architecture, best practices, clean code, mvc, software ]
 title: "Good architecture"
 type: quote
 ---
