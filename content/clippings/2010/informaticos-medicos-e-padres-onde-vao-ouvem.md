@@ -1,6 +1,6 @@
 ---
 date: 2010-09-20
-lang: en
+lang: pt
 tags: [ behaviour, favours, jobs, self ]
 title: "Informáticos, médicos e padres: onde vão ouvem sempre \"olhe lá, já"
 type: quote

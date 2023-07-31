@@ -1,6 +1,6 @@
 ---
 date: 2014-01-13
-lang: en
+lang: pt
 tags: [ education, kids, portugues, shouting, yelling ]
 title: "Se educas o teu cavalo aos gritos, não esperes que te obedeça quando"
 type: quote

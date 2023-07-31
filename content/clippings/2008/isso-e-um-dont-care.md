@@ -1,6 +1,6 @@
 ---
 date: 2008-08-04
-lang: en
+lang: pt
 tags: [ business, people ]
 title: "Isso é um \"don't care\"!"
 type: quote

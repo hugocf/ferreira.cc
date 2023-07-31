@@ -1,6 +1,6 @@
 ---
 date: 2012-01-30
-lang: en
+lang: pt
 tags: [ failure, growth, learning, life, persistence, sucess ]
 title: "À primeira cai quem não sabe, à segunda quem se esquece, à terceira"
 type: quote

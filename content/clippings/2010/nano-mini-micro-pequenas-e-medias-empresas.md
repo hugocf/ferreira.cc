@@ -1,6 +1,6 @@
 ---
 date: 2010-01-27
-lang: en
+lang: pt
 tags: [ business, humor ]
 title: "nano, mini, micro, pequenas e médias empresas"
 type: quote

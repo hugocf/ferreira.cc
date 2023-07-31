@@ -1,6 +1,6 @@
 ---
 date: 2009-06-27
-lang: en
+lang: pt
 tags: [ musings ]
 title: "Que perfeito coração"
 type: quote

@@ -1,6 +1,6 @@
 ---
 date: 2013-07-15
-lang: en
+lang: pt
 tags: [ anatomy, children, fimose, growing up, penis, phimosis ]
 title: "Apenas na adolescência a criança apresentará a anatomia do pênis de um"
 type: quote
