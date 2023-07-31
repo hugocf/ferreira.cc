@@ -1,7 +1,7 @@
 ---
 date: 2014-01-22
 lang: en
-tags: [ photo, map, network, social media, visualisation ]
+tags: [ map, network, social media, visualisation ]
 title: "LinkedIn networks"
 type: link
 ---
