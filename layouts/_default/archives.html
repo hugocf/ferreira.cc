@@ -30,6 +30,7 @@
       {{- range .Pages }}
       <div class="archive-entry">
         <h3 class="archive-entry-title">
+          {{- partial "clippings_type.html" . -}}
           {{- .Title | markdownify }}
           {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end }}
         </h3>
