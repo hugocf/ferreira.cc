@@ -1,0 +1,22 @@
+---
+date: 2014-02-21
+lang: en
+tags: [ focus, inspiration, just do it ]
+title: ""
+type: quote
+---
+
+> Inspiration is perishable... Inspiration is like fresh fruit or milk:
+> It has an expiration date.
+
+Jason Fried & David Heinemeier Hansson (via [REWORK: The new business
+book from 37signals.](http://37signals.com/rework/) )
+
+> <div>
+>
+> If you want to do something, you've got to do it now. You can't put it
+> on a shelf and wait two months to get around to it. You can't just say
+> you'll do it later. Later, you won't be pumped up about it anymore.
+>
+> </div>
+

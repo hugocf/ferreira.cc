@@ -1,0 +1,14 @@
+---
+date: 2009-08-28
+lang: en
+tags: [ entitlement, productivity, time, waste ]
+title: ""
+type: quote
+---
+
+> You alone have control over your time.
+
+[NaturalContradiction](http://www.youtube.com/user/NaturalContradiction)
+(in [Play Yourself Off, damn Keyboard
+Cat!](https://www.youtube.com/watch?v=1p1VMPDCxVs) )
+

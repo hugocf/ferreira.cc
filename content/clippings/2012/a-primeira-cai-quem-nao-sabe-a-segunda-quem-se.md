@@ -1,0 +1,14 @@
+---
+date: 2012-01-30
+lang: en
+tags: [ failure, growth, learning, life, persistence, sucess ]
+title: ""
+type: quote
+---
+
+> À primeira cai quem não sabe, à segunda quem se esquece, à terceira
+> quem merece!
+
+[Hugo Ferreira](http://ferreira.cc)\
+(adapted)
+

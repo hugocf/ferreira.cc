@@ -1,0 +1,13 @@
+---
+date: 2014-07-03
+lang: en
+tags: [ best practices, code, programming, refactoring, technical debt ]
+title: ""
+type: quote
+---
+
+> for each desired change, make the change easy (warning: this may be
+> hard), then make the easy change.
+
+[Kent Beck](https://twitter.com/KentBeck/status/250733358307500032)
+

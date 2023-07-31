@@ -1,0 +1,13 @@
+---
+date: 2008-08-08
+lang: en
+tags: [ life ]
+title: ""
+type: quote
+---
+
+> Luck is what happens when preparation meets opportunity.
+
+Seneca (5BC-6AD)\
+*Roman dramatist, philosopher & politician*
+
