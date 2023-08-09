@@ -44,7 +44,8 @@ params:
   defaultTheme: auto
 
   editPost:
-    url: "https://github.com/hugocf/ferreira.cc/content"
+    url: "https://github.com/hugocf/ferreira.cc/blob/main/content"
+    text: Source
     appendFilePath: true
 
   mainSections:
