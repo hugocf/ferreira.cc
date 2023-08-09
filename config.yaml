@@ -43,6 +43,10 @@ params:
 
   defaultTheme: auto
 
+  editPost:
+    url: "https://github.com/hugocf/ferreira.cc/content"
+    appendFilePath: true
+
   mainSections:
     - thoughts
     - clippings
