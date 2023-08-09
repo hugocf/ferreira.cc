@@ -2,7 +2,7 @@
 date: 2023-08-09
 lang: en
 tags: [ creativity, writing, feedback, suggestions ]
-title: If they tell you how they think or feel
+title: Creativity feedback
 type: quote
 ---
 
