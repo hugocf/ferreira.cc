@@ -20,11 +20,11 @@ markup:
 
 menu:
   main:
-    - name: 💭 Thoughts
-      url: /thoughts
-      weight: 10
     - name: 📎 Clippings
       url: /clippings
+      weight: 10
+    - name: 💭 Thoughts
+      url: /thoughts
       weight: 20
     - name: 👤 About
       url: /about
