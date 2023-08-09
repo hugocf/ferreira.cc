@@ -19,6 +19,8 @@ Cultures](http://phinze.github.io/2013/12/08/pairing-vs-code-review.html)
 > -   Agreement on the importance of code quality
 > -   Iterative self-organization
 
+---
+
 > **The joys of pairing**
 >
 > -   Everybody gets better together
@@ -34,6 +36,8 @@ Cultures](http://phinze.github.io/2013/12/08/pairing-vs-code-review.html)
 > -    Pairing does not lend itself to hammock problems *\[decisions
 >     that require more deep thought or creativity\]*
 > -    Sometimes you end up needing code review anyways
+
+---
 
 > **The joys of code review**
 >
