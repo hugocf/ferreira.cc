@@ -18,10 +18,9 @@
 {{- $pages := where (where site.RegularPages "Section" "in" $sections) "Params.hidden" "!=" true }}
 
 {{- range $pages.GroupByPublishDate "2006" }}
-{{- if ne .Key "0001" }}
 <div class="archive-year">
   <h2 class="archive-year-header">
-    {{- replace .Key "0001" "" }}<sup class="archive-count">&nbsp;&nbsp;{{ len .Pages }}</sup>
+    {{- replace .Key "0001" "no date" }}<sup class="archive-count">&nbsp;&nbsp;{{ len .Pages }}</sup>
   </h2>
   {{- range .Pages.GroupByDate "January" }}
   <div class="archive-month">
@@ -44,7 +43,6 @@
   </div>
   {{- end }}
 </div>
-{{- end }}
 {{- end }}
 
 {{- end }}{{/* end main */}}
