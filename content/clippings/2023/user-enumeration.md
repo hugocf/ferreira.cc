@@ -18,6 +18,8 @@ via: "[Gerald Benischke](https://equalexperts.slack.com/archives/C6PUCB37E/p1692
 >
 > Microsoft has decided that user enumeration does not qualify as a vulnerability.
 
+---
+
 > **What is User Enumeration?**
 >
 > * Enables an attacker to identify VALID accounts, and INVALID accounts based on server response
@@ -34,6 +36,8 @@ via: "[Gerald Benischke](https://equalexperts.slack.com/archives/C6PUCB37E/p1692
 >     * [404] http://fakedomain.com/application/users/tom
 >     * [403] http://fakedomain.com/application/users/john
 
+---
+
 > User Enumeration is a Security Flaw
 >
 > * ENABLES:
@@ -46,5 +50,5 @@ via: "[Gerald Benischke](https://equalexperts.slack.com/archives/C6PUCB37E/p1692
 > * Allows identification and targeting of users directly
 >     * Often includes full names (john.smith or john.j.smith formats)
 >     * Durable lists - names change infrequently in a lifetime
-
+>
 > * Can't hit what you can't see (or at least it's harder
