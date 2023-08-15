@@ -1,5 +1,5 @@
 ---
-date: 2023-08/15
+date: 2023-08-15
 lang: en
 tags: [ software, security, passwords, behaviours, dates ]
 title: Weak Passwords
