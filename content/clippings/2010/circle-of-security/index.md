@@ -1,4 +1,6 @@
 ---
+aliases:
+  - always-be-bigger-stronger-wiser-kind-whenever
 date: 2010-03-12
 lang: en
 tags: [ children, education, family, kids, reference ]
