@@ -17,3 +17,7 @@ Ways to help choosing which liberating structure best applies to a particular si
 * [Menu - Liberating Structures](https://www.liberatingstructures.com/ls-menu/)
 * [Matching Matrix - Liberating Structures](https://www.liberatingstructures.com/matching-matrix/)
 * [Liberating Structures Finder | finders](https://gphiliprogers.github.io/finders/lsfinder)
+
+---
+
+See also [Management 3.0](/management-30) practices.
