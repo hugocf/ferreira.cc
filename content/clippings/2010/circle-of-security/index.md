@@ -4,20 +4,14 @@ aliases:
 date: 2010-03-12
 lang: en
 tags: [ children, education, family, kids, reference ]
-title: "(image)"
+title: Circle of security
 type: image
 ---
 
-<figure>
-<a
-href="https://hugo.ferreira.cc/always-be-bigger-stronger-wiser-kind-whenever/attachment/1168/"
-rel="attachment"><img
-src="/wp-content/uploads/2010/03/tumblr_kz62gqQwT91qz82meo1_1280-150x150.png"
-width="150" height="150" /></a></figure>
+{{< figure src="circle-of-security.png" alt="a diagram of the circle of security, with chidren leaving, exploring, and returning to parenting care" caption="Circle of Security" link="http://www.circleofsecurity.net/" attr="(source)" attrlink="http://www.circleofsecurity.net/" >}}
 
-> Always : be **Bigger** , **Stronger** , **Wiser** , **Kind**
+> *Always:* be **Bigger**, **Stronger**, **Wiser**, **Kind**
 >
-> Whenever possible : *Follow your child's need...*
+> *Whenever possible:* Follow your child's need.
 >
-> Whenever necessary : *Take charge.*
-
+> *Whenever necessary:* Take charge.
