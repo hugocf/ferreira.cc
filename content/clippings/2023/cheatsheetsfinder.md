@@ -3,6 +3,7 @@ date: 2023-08-24
 lang: en
 tags: [ cheat sheets, productivity, psychology, safety, software, development, kanban, xp, scrum ]
 title: Cheat Sheets Finder
+type: link
 ---
 
 [Cheat Sheet Finder | finders](https://gphiliprogers.github.io/finders/cheatsheetfinder)
