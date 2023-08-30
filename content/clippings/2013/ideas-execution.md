@@ -1,4 +1,6 @@
 ---
+aliases:
+  - ideas-are-just-a-multiplier-of-execution-derek # old site
 date: 2013-12-12
 lang: en
 tags: [ business, commitment, effort, entrepreneur, execution, ideas ]
