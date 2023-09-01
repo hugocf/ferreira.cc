@@ -2,7 +2,7 @@
 date: 2023-08-31
 lang: en
 tags: [ tools, video, transcript, captions ]
-title: …
+title: Youtube to Webpage
 type: link
 via: "[Tom Grace](https://equalexperts.slack.com/archives/C02QA1EC2/p1693481604853969)"
 ---
