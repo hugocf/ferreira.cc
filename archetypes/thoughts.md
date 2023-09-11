@@ -11,12 +11,8 @@ source: "[What, Who, 2000-00-00](http://example.com)"
 tags: [ … ]
 title: {{ .Name | humanize }}
 subtitle: …
-summary: …
+summary: "[purpose statement?]"
 ---
-
-*In this post… [purpose statement?]*
-
-[TOC]
 
 ## Section title
 
