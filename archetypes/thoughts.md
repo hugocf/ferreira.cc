@@ -21,4 +21,3 @@ summary: …
 ## Section title
 
 The text.
-

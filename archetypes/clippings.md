@@ -59,4 +59,3 @@ Context
 {{< vimeo id="38772314#t=10s" title="Blank Video Placeholder (HD)" >}}
 
 > Snippet
-
