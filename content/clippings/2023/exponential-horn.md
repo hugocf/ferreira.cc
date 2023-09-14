@@ -15,4 +15,4 @@ via: "[Nigel 'Fox' Runnels-Moss](https://equalexperts.slack.com/archives/C03L485
 >
 > So if the height h goes from 1 to 2 to 3 then we have 1 E2E test to 100 service tests to 10,000 unit tests.
 >
-> There is a physical object which has these properties, it is called an [exponential horn](https://robinthefog.com/tag/exponential-horn/)
+> There is a physical object which has these properties, it is called an [exponential horn](https://robinthefog.com/tag/exponential-horn/).
