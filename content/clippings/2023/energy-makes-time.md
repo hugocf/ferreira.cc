@@ -2,7 +2,7 @@
 date: 2023-09-10
 lang: en
 tags: [ time, energy, productivity, work, life, balance ]
-title: Energy makes time | everything changes
+title: Energy makes time
 type: link
 via: "[Teresa Torres](https://x.com/ttorres/status/1700920571343626401?s=46)"
 ---
