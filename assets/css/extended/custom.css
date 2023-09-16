@@ -9,6 +9,13 @@
   --link-hover-underline-color: #58a6ff;
 }
 
+/* Main profile */
+.main.main .profile .button {
+  padding-left: 18px;
+  text-align: left;
+  width: 155px;
+}
+
 /* Posts summary */
 .custom-summary p {
   margin: calc(2 * var(--content-gap));
@@ -16,11 +23,10 @@
   font-style: italic;
 }
 
-/* Main profile */
-.main.main .profile .button {
-  padding-left: 18px;
-  text-align: left;
-  width: 155px;
+/* Posts cover image */
+figure.entry-cover p {
+  padding-left: 10%;
+  padding-right: 10%;
 }
 
 /* Posts <hr> as dots */
@@ -34,10 +40,4 @@
   content: '•   •   •';
   display: block;
   text-align: center;
-}
-
-/* Posts cover image */
-figure.entry-cover p {
-  padding-left: 10%;
-  padding-right: 10%;
 }
