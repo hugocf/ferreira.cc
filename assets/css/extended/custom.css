@@ -9,6 +9,11 @@
   --link-hover-underline-color: #58a6ff;
 }
 
+mark {
+  padding-bottom: .5em;
+  padding-top: .5em;
+}
+
 /* Main profile */
 .main.main .profile .button {
   padding-left: 18px;
