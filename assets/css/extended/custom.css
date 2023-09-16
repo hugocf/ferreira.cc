@@ -1,3 +1,4 @@
+/* Overall theme */
 :root {
   --link-hover-color: #3f84e4;
   --link-hover-underline-color: #3f84e4;
@@ -8,18 +9,21 @@
   --link-hover-underline-color: #58a6ff;
 }
 
+/* Posts summary */
 .custom-summary p {
   margin: calc(2 * var(--content-gap));
   margin-bottom: 0;
   font-style: italic;
 }
 
+/* Main profile */
 .main.main .profile .button {
   padding-left: 18px;
   text-align: left;
   width: 155px;
 }
 
+/* Posts <hr> as dots */
 .main.post .post-content hr {
   background: none;
   border: none;
@@ -32,6 +36,7 @@
   text-align: center;
 }
 
+/* Posts cover image */
 figure.entry-cover p {
   padding-left: 10%;
   padding-right: 10%;
