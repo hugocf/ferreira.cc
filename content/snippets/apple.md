@@ -26,15 +26,15 @@ tocSide: right
     <LNEntity: 0x123456789, identifier: NoteEntity/applenotes:note/12345678-abcd-bcde-cdef-123456789012, ...
     ```
 
-    <mark>UUID = `12345678-abcd-bcde-cdef-123456789012`</mark>
+    <mark>➔`12345678-abcd-bcde-cdef-123456789012`</mark>
 
 3. Convert the UUID to ALL CAPS (*for example, using [Convert Case](https://convertcase.net/) or the **Pages** app*)
 
-    <mark>UUID = `12345678-ABCD-BCDE-CDEF-123456789012`</mark>
+    <mark>➔`12345678-ABCD-BCDE-CDEF-123456789012`</mark>
 
 4. Append it to the url sheme to open Notes:
 
-    <mark>`applenotes://showNote?identifier=12345678-ABCD-BCDE-CDEF-123456789012`</mark>
+    <mark>➔`applenotes://showNote?identifier=12345678-ABCD-BCDE-CDEF-123456789012`</mark>
 
 ---
 
