@@ -30,32 +30,24 @@
 {{- end }}
 
 
-{{- $pages := .Pages }}
+{{- $pages := .Pages.ByTitle }}
 {{- if .IsHome }}
   {{/* get all regular pages instead of pages in a section */}}
   {{- $pages = where site.RegularPages "Section" "in" site.Params.mainSections }}
 {{- end }}
 {{- $pages = where $pages "Params.hidden" "!=" true }}
 
-{{/* related issue: https://github.com/gohugoio/hugo/issues/9003 */}}
-{{ $paginator := "" }}
-{{ if (.Param "paginate") }}
-  {{- $paginator = .Paginate $pages (.Param "paginate") }}
-{{ else }}
-  {{- $paginator = .Paginate $pages }}
-{{ end }}
-
-{{- if and .IsHome site.Params.homeInfoParams (eq $paginator.PageNumber 1) }}
+{{- if and .IsHome }}
 {{- partial "home_info.html" . }}
 {{- end }}
 
 {{- $term := .Data.Term }}
-{{- range $index, $page := $paginator.Pages }}
+{{- range $index, $page := $pages }}
 
 {{- $class := "post-entry" }}
 
 {{- $user_preferred := or site.Params.disableSpecial1stPost site.Params.homeInfoParams }}
-{{- if (and $.IsHome (eq $paginator.PageNumber 1) (eq $index 0) (not $user_preferred)) }}
+{{- if (and $.IsHome (eq $index 0) (not $user_preferred)) }}
 {{- $class = "first-entry" }}
 {{- else if $term }}
 {{- $class = "post-entry tag-entry" }}
@@ -87,19 +79,6 @@
   {{- end }}
   <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
 </article>
-{{- end }}
-
-{{- if gt $paginator.TotalPages 1 }}
-<footer class="page-footer">
-  <nav class="pagination">
-    {{- if $paginator.HasPrev }}
-    <a class="prev" href="{{ $paginator.Prev.URL | absURL }}">« {{ i18n "prev_page" }}</a>
-    {{- end }}
-    {{- if $paginator.HasNext }}
-    <a class="next" href="{{ $paginator.Next.URL | absURL }}">{{ i18n "next_page" }} »</a>
-    {{- end }}
-  </nav>
-</footer>
 {{- end }}
 
 {{- end }}{{/* end profileMode */}}
