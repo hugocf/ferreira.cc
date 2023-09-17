@@ -3,6 +3,7 @@ aliases:
 - ios
 - macos
 date: 2023-01-01
+description: Small information nuggets and recipies about Apple
 lang: en
 tags: [ apple, ios, macos, info, tips, tricks, how to ]
 title: Apple

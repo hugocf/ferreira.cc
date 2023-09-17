@@ -1,6 +1,7 @@
 ---
 date: {{ .Date | dateFormat "2006-01-02" }}
 draft: true
+description: Small information nuggets and recipies about {{ .Name | humanize }}
 lang: en
 tags: [ {{ .Name | lower }}, info, tips, tricks, how to ]
 title: {{ .Name | humanize }}

@@ -1,5 +1,6 @@
 ---
 date: 2019-02-28
+description: Small information nuggets and recipies about Unix
 lang: en
 tags: [ unix, bsd, linux, bash, zsh, info, tips, tricks, how to ]
 title: Unix

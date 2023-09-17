@@ -1,5 +1,6 @@
 ---
 date: 2022-05-06
+description: Small information nuggets and recipies about IntelliJ
 lang: en
 tags: [ intellij, info, tips, tricks, how to ]
 title: IntelliJ

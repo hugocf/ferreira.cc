@@ -1,5 +1,6 @@
 ---
 date: 2020-09-22
+description: Small information nuggets and recipies about HTML
 lang: en
 tags: [ html, info, tips, tricks, how to ]
 title: HTML
