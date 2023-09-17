@@ -46,3 +46,9 @@ figure.entry-cover p {
   display: block;
   text-align: center;
 }
+
+/* Posts inline code */
+.main.post .post-content code {
+  padding-bottom: 0px;
+  padding-top: 0px;
+}
