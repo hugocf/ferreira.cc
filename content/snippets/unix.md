@@ -11,10 +11,12 @@ tocSide: right
 
 <!--more-->
 
-*(most recent on top)*
-
 * [bash cheatsheet](https://devhints.io/bash)
 * [zsh cheatsheet](https://devhints.io/zsh)
+
+---
+
+*(most recent on top)*
 
 ## Quick `curl` recipes
 
