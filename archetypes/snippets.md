@@ -27,13 +27,29 @@ tocSide: right
 
 - [Example link](http://example.com)
 
-*… section*
+*… notes*
 
 ```text     # https://gohugo.io/content-management/syntax-highlighting/#list-of-chroma-highlighting-languages
 # one code snippet
 ```
 
-*… section*
+*… notes*
+
+```text     # https://gohugo.io/content-management/syntax-highlighting/#list-of-chroma-highlighting-languages
+# another code snippet
+```
+
+## What something else does
+
+- [Example link](http://example.com)
+
+### Section
+
+```text     # https://gohugo.io/content-management/syntax-highlighting/#list-of-chroma-highlighting-languages
+# one code snippet
+```
+
+### Section
 
 ```text     # https://gohugo.io/content-management/syntax-highlighting/#list-of-chroma-highlighting-languages
 # another code snippet
