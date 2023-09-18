@@ -1,5 +1,5 @@
 ---
-date: 2021-11-08
+date: 2020-10-12
 description: Small information nuggets and recipies about Git
 lang: en
 tags: [ git, info, tips, tricks, how to ]
