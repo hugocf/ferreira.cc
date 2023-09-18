@@ -16,7 +16,7 @@ tocSide: right
 
 ## What this thing does
 
-- [Example link](http://example.com)
+* [Example link](http://example.com)
 
 ```text     # https://gohugo.io/content-management/syntax-highlighting/#list-of-chroma-highlighting-languages
 # the
@@ -26,7 +26,7 @@ tocSide: right
 
 ## What another thing does
 
-- [Example link](http://example.com)
+* [Example link](http://example.com)
 
 *… notes*
 
@@ -42,7 +42,7 @@ tocSide: right
 
 ## What something else does
 
-- [Example link](http://example.com)
+* [Example link](http://example.com)
 
 ### Section
 
