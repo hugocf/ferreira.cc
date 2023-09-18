@@ -61,19 +61,6 @@ sRGB: 184; 29; 19
 Hex:  #B81D13
 ```
 
-## Github colors used in the repo's language statistics bar
+## GitHub colors used in the repo's language statistics bar
 
-```css
-.language-color {
-    background-color: #555555;  /* C */
-    background-color: #f34b7d;  /* C++ */
-    background-color: #b07219;  /* Java */
-    background-color: #f15501;  /* JavaScript */
-    background-color: #438eff;  /* Objective-C */
-    background-color: #6e03c1;  /* PHP */
-    background-color: #3581ba;  /* Python */
-    background-color: #701516;  /* Ruby */
-    background-color: #dc322f;  /* Scala */
-    background-color: #ffac45;  /* Swift */
-}
-```
+Moved to [GitHub](/github#github-colors-used-in-the-repos-language-statistics-bar) snippets.
