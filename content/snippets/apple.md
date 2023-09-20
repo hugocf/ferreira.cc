@@ -51,8 +51,10 @@ I haven’t found any way around it other than trying again some other time 🤷
 * [Quick Tip: Enable Touch ID for sudo – Six Colors](https://sixcolors.com/post/2020/11/quick-tip-enable-touch-id-for-sudo/)
 
 ```shell
-$ cd /etc/pam.d/ && sudo chmod a+w sudo && vi sudo && sudo chmod a-w sudo && cd -
+cd /etc/pam.d/ && sudo chmod a+w sudo && vi sudo && sudo chmod a-w sudo && cd -
+```
 
+```shell
 # sudo: auth account password session
 auth       sufficient     pam_tid.so        # <= add this line here
 auth       sufficient     pam_smartcard.so
