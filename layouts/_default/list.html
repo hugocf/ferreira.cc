@@ -67,7 +67,7 @@
   <header class="entry-header">
     <h2>
       {{- partial "clippings_type.html" . -}}
-      {{- .Title }}
+      {{- .Title | markdownify }}
       {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[Draft]</span></sup>{{- end }}
       {{- if .Weight }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[Pinned]</span></sup>{{- end }}
     </h2>
