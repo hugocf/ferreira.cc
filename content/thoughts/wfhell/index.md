@@ -122,3 +122,13 @@ To be honest, this was a pretty typical day, similar to most other lockdown days
 ⏹️ 🫠 *(enough for the day)*
 
 <img style="margin-left: 1.5rem" src="https://emojis.slackmojis.com/emojis/images/1643514169/1340/try_not_to_cry.gif" alt="try not to cry: person rocking on the flow huging their knees ">
+
+---
+
+Shared to:
+
+* [Medium](https://hugocf.medium.com/working-from-hell-b6d2e371cf0e)
+
+🔒 *(groups)*
+
+* [Telegram](https://t.me/c/1363309933/9341)
