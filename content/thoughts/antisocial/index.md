@@ -2,7 +2,7 @@
 cover:
   image: office-party.png
   alt: pop art painting of a crowded office party with many people
-  caption: "[DALL·E](https://openai.com/dall-e) — “pop art  painting of a crowded office party with many people”"
+  caption: "[DALL·E](https://openai.com/dall-e) — “pop art painting of a crowded office party with many people”"
 date: 2023-07-10
 drafted: 2022-07-03
 lang: en
