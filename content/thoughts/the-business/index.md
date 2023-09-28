@@ -37,7 +37,7 @@ Behind this expression there’s **always people**: *someone* who wants somethin
 
 To be effective in our jobs, we must know who are the people at the source of a decision or request. It’s the only way to sidestep all the “[broken telephone](https://en.wikipedia.org/w/index.php?title=Broken_telephone)” effect that exists in any chain of requests.
 
-Being able to ask clarifying questions to the source is essential to get an accurate context. And as we know, [context is everything](https://hugocf.medium.com/context-is-everything-even-when-you-dont-see-it-8d56715c7c32) for the decisions that affect us and requests we're asked to fulfil.
+Being able to ask clarifying questions to the source is essential to get an accurate context. And as we know, [context is everything](/implicit-context) for the decisions that affect us and requests we're asked to fulfil.
 
 ---
 
@@ -66,13 +66,13 @@ Be prepared for the possibility of some interactions to become something like th
 > X: VP of Tech and VP of Product, and now the CFO and CEO as well  
 > Me: Ok, thanks *[\*sigh\* I guess I can get those last titles from the org chart now]*
 
-Now we know who to ask for clarification on the rationale behind the Foo decision. I'd bet that decision more nuanced than the “use Foo for *everything*” you got at the start.
+Now we know who to ask for clarification on the rationale behind the Foo decision. I'd bet that decision is more nuanced than the “use Foo for *everything*” you got at the start.
 
 ---
 
 **Why go through all this trouble?**
 
-Because [context is everything](https://hugocf.medium.com/context-is-everything-even-when-you-dont-see-it-8d56715c7c32)…  
+Because [context is everything](/implicit-context)…  
 Because people are the link to context…
 
 So, remember to always ask:
