@@ -1,4 +1,6 @@
 ---
+aliases:
+  - bret-victor-inventing-on-principle-by-cusec  # old site
 date: 2014-01-13
 lang: en
 tags: [ art, code, creation, development, ide, life, principles, software, visualisation ]
