@@ -34,7 +34,7 @@ Thanks to the wonderful [**iFixIt** guides](https://www.ifixit.com/Device/MacBoo
 
 ---
 
-The results were striking and these images speak more loudly that any words could every do:
+The results were striking and these images speak more loudly that any words could ever do:
 
 ***Before***
 
@@ -50,4 +50,4 @@ The results were striking and these images speak more loudly that any words coul
 
 Suffice to say that it works and feels like a brand new laptop now. 🎉
 
-[^fn1]: The recommended way to clean these fans is using a “spray can” of compressed air. In my particular case, having none of those around, I used a [very low suction hand vacuum and a small brush](tools.jpg) (to loosen the harder bits).
+[^fn1]: The recommended way to clean these fans is using a “spray can” of compressed air. In my particular case, having none of those around, I used a [very low suction portable vacuum and a small brush](tools.jpg) (to loosen the harder bits).
