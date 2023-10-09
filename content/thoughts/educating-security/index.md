@@ -6,10 +6,15 @@ cover:
 date: 2019-03-18
 lang: en
 source: "[Equal Experts Slack, Hugo Ferreira, 2019-02-21](https://equalexperts.slack.com/archives/C3SE8M0CB/p1550750315004700)"
-tags: [ children, educations, software, security, passwords ]
+tags: [ children, educations, software, security, passwords, schools ]
 title: Educating security
 subtitle: Slowly spreading good security practices from a tender age
 summary: "A real story of how following good security practices is both easier to do than ad-hoc methods, and it spreads quickly to others."
+shared:
+  private:
+    - "[Telegram](https://t.me/c/1363309933/9438)"
+  public:
+    - "[Medium](https://hugocf.medium.com/educating-security-fc8cb016bb7a)"
 ---
 
 *For a bit of context…*
