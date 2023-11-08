@@ -10,6 +10,15 @@ lang: en
 tags: [ diversity, inclusion, relationships, recruitment, transformation ]
 title: "Diversity and Inclusion: Reflections on Empathy, Hiring, and Transformation"
 summary: "Thoughts about 3 aspects of promoting diversity and inclusion in the workplace: the need to understand each other, for companies to reveal themselves, and getting a seat at the table."
+shared:
+  private:
+     - "[Springer Nature Slack](https://springernature.slack.com/archives/D01ET09HNUF/p1699465274168999)"
+     - "[Telegram](https://t.me/c/1363309933/9646)"
+  public:
+    - "[LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7128074657089400832/)"
+    - "[Mastodon](https://mastodon.online/@hugocf/111376168405027516)"
+    - "[Medium](https://hugocf.medium.com/diversity-and-inclusion-reflections-on-empathy-hiring-and-transformation-1685ff8c1196)"
+    - "[Twitter](https://twitter.com/hugocf/status/1722309576865829222)"
 ---
 
 A few days ago, I had the privilege of participating in a group discussion about diversity and inclusion in the workplace. This insightful conversation was quite enriching and eye opening. It left me with a few things to ponder.
@@ -75,3 +84,12 @@ When he was in a consultant’s role, he could only offer guidance and suggestio
 In contrast, as a director of engineering, he could influence the teams’ incentives and structures in a direct manner. It led to quicker and more effective transformations than when we was not as empowered.
 
 This same principle applies to diversity and inclusion efforts. We need people with diverse mindsets and perspectives sitting at the decision-making table. Otherwise, attempting to drive change from the sidelines will be much more frustrating and less effective.
+
+---
+
+Shared to:
+
+* [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7128074657089400832/)
+* [Mastodon](https://mastodon.online/@hugocf/111376168405027516)
+* [Medium](https://hugocf.medium.com/diversity-and-inclusion-reflections-on-empathy-hiring-and-transformation-1685ff8c1196)
+* [Twitter](https://twitter.com/hugocf/status/1722309576865829222)
