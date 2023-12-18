@@ -59,7 +59,7 @@ params:
 
   profileMode:
     enabled: true
-    subtitle: Web clippings & Random thoughts
+    subtitle: "<p>Tech leader. Software engineering. Generalist. Treble dad.</p><br>"
     imageUrl: hf-bw.jpg
     imageWidth: 240
     imageHeight: 240
