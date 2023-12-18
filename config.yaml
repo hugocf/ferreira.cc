@@ -92,6 +92,8 @@ params:
       url: https://www.youtube.com/@hugocf
     - name: Medium
       url: https://hugocf.medium.com
+    - name: Threads
+      url: https://threads.net/hugocf
     - name: RSS
       url: index.xml
 
