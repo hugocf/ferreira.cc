@@ -15,6 +15,6 @@ via: "[Dániel Gulyás](https://equalexperts.slack.com/archives/C6PUCB37E/p17006
 >
 > I got the idea from [The Password Game](https://neal.fun/password-game/) which I highly recommend checking out. 
 
---
+---
 
 > Since implementing The Frustration Loop the amount of spam has dropped from about 30% of new blogs, to less than 5% (nothing is perfect). There are a few improvements to be made, and some holes to patch, but it's working well.
