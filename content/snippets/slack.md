@@ -6,7 +6,6 @@ tags: [ slack, info, tips, tricks, how to ]
 title: Slack
 showToc: true
 tocOpen: true
-tocSide: right
 ---
 
 <!--more-->

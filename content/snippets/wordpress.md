@@ -6,7 +6,6 @@ tags: [ wordpress, info, tips, tricks, how to ]
 title: WordPress
 showToc: true
 tocOpen: true
-tocSide: right
 ---
 
 <!--more-->

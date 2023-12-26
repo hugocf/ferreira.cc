@@ -8,7 +8,6 @@ tags: [ objc, info, tips, tricks, how to ]
 title: Objective-C
 showToc: true
 tocOpen: true
-tocSide: right
 ---
 
 <!--more-->

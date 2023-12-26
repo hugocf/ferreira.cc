@@ -6,7 +6,6 @@ tags: [ aws, info, tips, tricks, how to ]
 title: AWS
 showToc: true
 tocOpen: true
-tocSide: right
 ---
 
 <!--more-->

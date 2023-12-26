@@ -6,7 +6,6 @@ tags: [ sqlite, info, tips, tricks, how to ]
 title: SQLite
 showToc: true
 tocOpen: true
-tocSide: right
 ---
 
 <!--more-->

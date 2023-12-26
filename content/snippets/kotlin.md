@@ -6,7 +6,6 @@ tags: [ kotlin, info, tips, tricks, how to ]
 title: Kotlin
 showToc: true
 tocOpen: true
-tocSide: right
 ---
 
 <!--more-->

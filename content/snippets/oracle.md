@@ -6,7 +6,6 @@ tags: [ oracle, info, tips, tricks, how to ]
 title: Oracle
 showToc: true
 tocOpen: true
-tocSide: right
 ---
 
 <!--more-->

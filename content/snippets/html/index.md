@@ -6,7 +6,6 @@ tags: [ html, info, tips, tricks, how to ]
 title: HTML
 showToc: true
 tocOpen: true
-tocSide: right
 ---
 
 <!--more-->

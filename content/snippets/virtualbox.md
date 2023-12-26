@@ -6,7 +6,6 @@ tags: [ virtualbox, info, tips, tricks, how to ]
 title: VirtualBox
 showToc: true
 tocOpen: true
-tocSide: right
 ---
 
 <!--more-->

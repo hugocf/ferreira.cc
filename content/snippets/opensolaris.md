@@ -6,7 +6,6 @@ tags: [ opensolaris, info, tips, tricks, how to ]
 title: OpenSolaris
 showToc: true
 tocOpen: true
-tocSide: right
 ---
 
 <!--more-->

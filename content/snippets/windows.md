@@ -6,7 +6,6 @@ tags: [ windows, info, tips, tricks, how to ]
 title: Windows
 showToc: true
 tocOpen: true
-tocSide: right
 ---
 
 <!--more-->

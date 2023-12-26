@@ -6,7 +6,6 @@ tags: [ intellij, info, tips, tricks, how to ]
 title: IntelliJ
 showToc: true
 tocOpen: true
-tocSide: right
 ---
 
 <!--more-->

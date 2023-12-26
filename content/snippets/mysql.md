@@ -6,7 +6,6 @@ tags: [ mysql, info, tips, tricks, how to ]
 title: MySQL
 showToc: true
 tocOpen: true
-tocSide: right
 ---
 
 <!--more-->

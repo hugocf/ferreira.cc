@@ -6,7 +6,6 @@ tags: [ rest, info, tips, tricks, how to ]
 title: REST
 showToc: true
 tocOpen: true
-tocSide: right
 ---
 
 <!--more-->

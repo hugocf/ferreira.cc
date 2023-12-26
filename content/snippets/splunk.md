@@ -6,7 +6,6 @@ tags: [ splunk, info, tips, tricks, how to ]
 title: Splunk
 showToc: true
 tocOpen: true
-tocSide: right
 ---
 
 <!--more-->

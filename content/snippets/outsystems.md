@@ -6,7 +6,6 @@ tags: [ outsystems, info, tips, tricks, how to ]
 title: OutSystems
 showToc: true
 tocOpen: true
-tocSide: right
 ---
 
 <!--more-->

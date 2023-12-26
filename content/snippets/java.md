@@ -6,7 +6,6 @@ tags: [ java, info, tips, tricks, how to ]
 title: Java
 showToc: true
 tocOpen: true
-tocSide: right
 ---
 
 <!--more-->

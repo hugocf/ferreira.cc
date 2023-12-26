@@ -6,7 +6,6 @@ tags: [ webmethods, info, tips, tricks, how to ]
 title: webMethods
 showToc: true
 tocOpen: true
-tocSide: right
 ---
 
 <!--more-->

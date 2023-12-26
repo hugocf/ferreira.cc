@@ -6,7 +6,6 @@ tags: [ markdown, info, tips, tricks, how to ]
 title: Markdown
 showToc: true
 tocOpen: true
-tocSide: right
 ---
 
 <!--more-->

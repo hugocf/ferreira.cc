@@ -6,7 +6,6 @@ tags: [ git, info, tips, tricks, how to ]
 title: Git
 showToc: true
 tocOpen: true
-tocSide: right
 ---
 
 <!--more-->

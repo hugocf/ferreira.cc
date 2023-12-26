@@ -8,7 +8,6 @@ tags: [ colors, info, tips, tricks, how to ]
 title: Colors
 showToc: true
 tocOpen: true
-tocSide: right
 ---
 
 <!--more-->

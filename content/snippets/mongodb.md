@@ -6,7 +6,6 @@ tags: [ mongodb, info, tips, tricks, how to ]
 title: MongoDB
 showToc: true
 tocOpen: true
-tocSide: right
 ---
 
 <!--more-->

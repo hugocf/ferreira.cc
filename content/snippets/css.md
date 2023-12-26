@@ -6,7 +6,6 @@ tags: [ css, info, tips, tricks, how to ]
 title: CSS
 showToc: true
 tocOpen: true
-tocSide: right
 ---
 
 <!--more-->

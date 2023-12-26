@@ -6,7 +6,6 @@ tags: [ github, info, tips, tricks, how to ]
 title: GitHub
 showToc: true
 tocOpen: true
-tocSide: right
 ---
 
 <!--more-->

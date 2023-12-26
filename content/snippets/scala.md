@@ -6,7 +6,6 @@ tags: [ scala, info, tips, tricks, how to ]
 title: Scala
 showToc: true
 tocOpen: true
-tocSide: right
 ---
 
 <!--more-->

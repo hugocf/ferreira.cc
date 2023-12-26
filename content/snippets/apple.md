@@ -9,7 +9,6 @@ tags: [ apple, ios, macos, info, tips, tricks, how to ]
 title: Apple
 showToc: true
 tocOpen: true
-tocSide: right
 ---
 
 <!--more-->

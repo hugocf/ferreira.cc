@@ -6,7 +6,6 @@ tags: [ skype, info, tips, tricks, how to ]
 title: Skype
 showToc: true
 tocOpen: true
-tocSide: right
 ---
 
 <!--more-->

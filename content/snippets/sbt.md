@@ -6,7 +6,6 @@ tags: [ sbt, info, tips, tricks, how to ]
 title: sbt
 showToc: true
 tocOpen: true
-tocSide: right
 ---
 
 <!--more-->

@@ -5,7 +5,6 @@ title: Scala Enumerations Summary
 summary: Comparison between different ways of doing enumerates, with `scala.Enumeration`, `case object` and Java’s `Enum`.
 showToc: true
 tocOpen: true
-tocSide: right
 ---
 
 _**Update 2017-07-01**: [“Add enum construct”](https://github.com/lampepfl/dotty/issues/1970) is a new proposal by Martin Odersky to add the keyword `enum` to Dotty, which might render many of these considerations irrelevant._

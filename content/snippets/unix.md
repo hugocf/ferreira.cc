@@ -6,7 +6,6 @@ tags: [ unix, bsd, linux, bash, zsh, info, tips, tricks, how to ]
 title: Unix
 showToc: true
 tocOpen: true
-tocSide: right
 ---
 
 <!--more-->

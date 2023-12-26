@@ -7,7 +7,6 @@ tags: [ {{ .Name | lower }}, info, tips, tricks, how to ]
 title: {{ .Name | humanize }}
 showToc: true
 tocOpen: true
-tocSide: right
 ---
 
 <!--more-->

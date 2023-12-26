@@ -6,7 +6,6 @@ tags: [ spring-boot, info, tips, tricks, how to ]
 title: Spring Boot
 showToc: true
 tocOpen: true
-tocSide: right
 ---
 
 <!--more-->

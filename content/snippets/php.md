@@ -6,7 +6,6 @@ tags: [ php, info, tips, tricks, how to ]
 title: PHP
 showToc: true
 tocOpen: true
-tocSide: right
 ---
 
 <!--more-->

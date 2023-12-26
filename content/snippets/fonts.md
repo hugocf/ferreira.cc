@@ -6,7 +6,6 @@ tags: [ fonts, info, tips, tricks, how to ]
 title: Fonts
 showToc: true
 tocOpen: true
-tocSide: right
 ---
 
 <!--more-->
