@@ -10,18 +10,18 @@ via: "[Chris James](https://springernature.slack.com/archives/C0313HRJVL7/p16944
 [Hate OKRs? Avoid these 7 mistakes | by Sarah Goff-Dupont | Smells Like Team Spirit | Medium](https://medium.com/smells-like-team-spirit/hate-okrs-avoid-these-7-mistakes-193ddf5091be)
 
 > Mistake #1: confusing themes with objectives
-
-Mistake #2: capturing all your work as OKRs
-
-Mistake #3: confusing key results with tasks
-
-Mistake #4: scoring key results by gut-feel
-
-Mistake #5: scoring key results on the wrong scale
-
-Mistake #6: consistently scoring 1s on every OKR
-
-Mistake #7: doggedly pursuing a bogus OKR
+>
+> Mistake #2: capturing all your work as OKRs
+>
+> Mistake #3: confusing key results with tasks
+>
+> Mistake #4: scoring key results by gut-feel
+>
+> Mistake #5: scoring key results on the wrong scale
+>
+> Mistake #6: consistently scoring 1s on every OKR
+>
+> Mistake #7: doggedly pursuing a bogus OKR
 
 ---
 
