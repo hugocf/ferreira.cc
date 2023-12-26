@@ -2,7 +2,7 @@ baseURL: https://hugo.ferreira.cc/
 languageCode: en
 title: Hugo Ferreira
 
-theme: "PaperModX"
+theme: "PaperMod"
 
 enableRobotsTXT: true
 

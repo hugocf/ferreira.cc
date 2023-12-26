@@ -9,4 +9,4 @@ cd $SCRIPT_DIR/..
 
 git submodule update --remote --merge
 
-time diff -ur themes/PaperModX/layouts/ layouts/ | grep -v "Only in themes"
+time diff -ur themes/PaperMod/layouts/ layouts/ | grep -v "Only in themes"
