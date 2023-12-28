@@ -55,7 +55,7 @@
       {{- if eq .Kind "page" }}
       <div class="archive-entry">
         <h3 class="archive-entry-title entry-hint-parent">
-          {{- .Title | markdownify }}
+          {{- .Title | safeHTML | markdownify }}
           {{- if .Draft }}
           <span class="entry-hint" title="Draft">
             <svg xmlns="http://www.w3.org/2000/svg" height="15" viewBox="0 -960 960 960" fill="currentColor">
