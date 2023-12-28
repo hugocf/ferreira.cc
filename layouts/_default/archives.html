@@ -55,6 +55,7 @@
       {{- if eq .Kind "page" }}
       <div class="archive-entry">
         <h3 class="archive-entry-title entry-hint-parent">
+          {{- partial "clippings_type.html" . -}}
           {{- .Title | safeHTML | markdownify }}
           {{- if .Draft }}
           <span class="entry-hint" title="Draft">
