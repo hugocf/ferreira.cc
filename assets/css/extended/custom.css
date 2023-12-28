@@ -9,9 +9,15 @@
   --link-hover-underline-color: #58a6ff;
 }
 
+/* Make highligths higher */
 mark {
   padding-bottom: .5em;
   padding-top: .5em;
+}
+
+/* Fix highlighted inline code contrast in dark mode */
+.dark mark code {
+  color: var(--primary);
 }
 
 /* Main profile */
