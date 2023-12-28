@@ -28,6 +28,13 @@
       {{- partial "post_canonical.html" . -}}
     </div>
     {{- end }}
+    {{- if .Params.Summary }}
+    <div class="post-content custom-summary">
+      <p>{{- .Params.Summary | safeHTML | markdownify -}}</p>
+      {{- $hiddenCoverImage := .Params.cover.hidden | default site.Params.cover.hiddenInSingle | default site.Params.cover.hidden }}
+      {{- if (or (not .Params.cover.image) $hiddenCoverImage) }}<hr>{{- end }}
+    </div>
+    {{- end }}
   </header>
   {{- $isHidden := (.Param "cover.hiddenInSingle") | default (.Param "cover.hidden") | default false }}
   {{- partial "cover.html" (dict "cxt" . "IsSingle" true "isHidden" $isHidden) }}
