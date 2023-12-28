@@ -1,14 +1,12 @@
 ---
 date: 2020-06-18
-description: Small information nuggets and recipies about Spring Boot
 lang: en
 tags: [ spring-boot, info, tips, tricks, how to ]
 title: Spring Boot
+summary: Small information nuggets and recipies about Spring Boot
 showToc: true
 tocOpen: true
 ---
-
-<!--more-->
 
 *(most recent on top)*
 

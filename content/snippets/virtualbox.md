@@ -1,14 +1,12 @@
 ---
 date: 2018-02-23
-description: Small information nuggets and recipies about VirtualBox
 lang: en
 tags: [ virtualbox, info, tips, tricks, how to ]
 title: VirtualBox
+summary: Small information nuggets and recipies about VirtualBox
 showToc: true
 tocOpen: true
 ---
-
-<!--more-->
 
 *(most recent on top)*
 

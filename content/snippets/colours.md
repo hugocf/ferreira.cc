@@ -2,15 +2,13 @@
 aliases:
   - colors
 date: 2017-04-02
-description: Small information nuggets and recipies about Colors
 lang: en
 tags: [ colors, info, tips, tricks, how to ]
 title: Colors
+summary: Small information nuggets and recipies about Colors
 showToc: true
 tocOpen: true
 ---
-
-<!--more-->
 
 *(most recent on top)*
 

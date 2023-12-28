@@ -1,14 +1,12 @@
 ---
 date: 2019-01-31
-description: Small information nuggets and recipies about sbt
 lang: en
 tags: [ sbt, info, tips, tricks, how to ]
 title: sbt
+summary: Small information nuggets and recipies about sbt
 showToc: true
 tocOpen: true
 ---
-
-<!--more-->
 
 * `commandName` == `command-name`
 

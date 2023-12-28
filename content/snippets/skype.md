@@ -1,14 +1,12 @@
 ---
 date: 2015-12-10
-description: Small information nuggets and recipies about Skype
 lang: en
 tags: [ skype, info, tips, tricks, how to ]
 title: Skype
+summary: Small information nuggets and recipies about Skype
 showToc: true
 tocOpen: true
 ---
-
-<!--more-->
 
 *(most recent on top)*
 

@@ -1,14 +1,12 @@
 ---
 date: 2015-10-15
-description: Small information nuggets and recipies about OutSystems
 lang: en
 tags: [ outsystems, info, tips, tricks, how to ]
 title: OutSystems
+summary: Small information nuggets and recipies about OutSystems
 showToc: true
 tocOpen: true
 ---
-
-<!--more-->
 
 *(most recent on top)*
 

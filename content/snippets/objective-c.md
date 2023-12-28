@@ -2,15 +2,13 @@
 aliases:
   - objc
 date: 2014-03-01
-description: Small information nuggets and recipies about Objective-C
 lang: en
 tags: [ objc, info, tips, tricks, how to ]
 title: Objective-C
+summary: Small information nuggets and recipies about Objective-C
 showToc: true
 tocOpen: true
 ---
-
-<!--more-->
 
 *(most recent on top)*
 

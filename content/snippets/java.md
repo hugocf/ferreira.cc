@@ -1,14 +1,12 @@
 ---
 date: 2015-11-02
-description: Small information nuggets and recipies about Java
 lang: en
 tags: [ java, info, tips, tricks, how to ]
 title: Java
+summary: Small information nuggets and recipies about Java
 showToc: true
 tocOpen: true
 ---
-
-<!--more-->
 
 *(most recent on top)*
 

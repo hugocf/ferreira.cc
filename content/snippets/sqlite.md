@@ -1,14 +1,12 @@
 ---
 date: 2023-09-21
-description: Small information nuggets and recipies about SQLite
 lang: en
 tags: [ sqlite, info, tips, tricks, how to ]
 title: SQLite
+summary: Small information nuggets and recipies about SQLite
 showToc: true
 tocOpen: true
 ---
-
-<!--more-->
 
 *(most recent on top)*
 

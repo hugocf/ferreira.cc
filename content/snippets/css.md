@@ -1,14 +1,12 @@
 ---
 date: 2016-01-10
-description: Small information nuggets and recipies about CSS
 lang: en
 tags: [ css, info, tips, tricks, how to ]
 title: CSS
+summary: Small information nuggets and recipies about CSS
 showToc: true
 tocOpen: true
 ---
-
-<!--more-->
 
 *(most recent on top)*
 

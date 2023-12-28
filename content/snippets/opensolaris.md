@@ -1,14 +1,12 @@
 ---
 date: 2011-07-15
-description: Small information nuggets and recipies about OpenSolaris
 lang: en
 tags: [ opensolaris, info, tips, tricks, how to ]
 title: OpenSolaris
+summary: Small information nuggets and recipies about OpenSolaris
 showToc: true
 tocOpen: true
 ---
-
-<!--more-->
 
 *(most recent on top)*
 

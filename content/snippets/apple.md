@@ -3,15 +3,13 @@ aliases:
   - ios
   - macos
 date: 2008-01-01
-description: Small information nuggets and recipies about Apple OS’s
 lang: en
 tags: [ apple, ios, macos, info, tips, tricks, how to ]
 title: Apple
+summary: Small information nuggets and recipies about Apple OS’s
 showToc: true
 tocOpen: true
 ---
-
-<!--more-->
 
 *(most recent on top)*
 

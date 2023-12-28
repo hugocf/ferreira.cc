@@ -1,14 +1,12 @@
 ---
 date: 2007-02-26
-description: Small information nuggets and recipies about webMethods
 lang: en
 tags: [ webmethods, info, tips, tricks, how to ]
 title: webMethods
+summary: Small information nuggets and recipies about webMethods
 showToc: true
 tocOpen: true
 ---
-
-<!--more-->
 
 *(most recent on top)*
 

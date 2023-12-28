@@ -1,14 +1,12 @@
 ---
 date: 2015-08-23
-description: Small information nuggets and recipies about Fonts
 lang: en
 tags: [ fonts, info, tips, tricks, how to ]
 title: Fonts
+summary: Small information nuggets and recipies about Fonts
 showToc: true
 tocOpen: true
 ---
-
-<!--more-->
 
 *(most recent on top)*
 

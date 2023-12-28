@@ -1,14 +1,12 @@
 ---
 date: 2015-06-17
-description: Small information nuggets and recipies about PHP
 lang: en
 tags: [ php, info, tips, tricks, how to ]
 title: PHP
+summary: Small information nuggets and recipies about PHP
 showToc: true
 tocOpen: true
 ---
-
-<!--more-->
 
 *(most recent on top)*
 

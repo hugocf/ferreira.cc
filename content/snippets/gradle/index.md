@@ -1,14 +1,12 @@
 ---
 date: 2021-09-17
-description: Small information nuggets and recipies about Gradle
 lang: en
 tags: [ gradle, info, tips, tricks, how to ]
 title: Gradle
+summary: Small information nuggets and recipies about Gradle
 showToc: true
 tocOpen: true
 ---
-
-<!--more-->
 
 *(most recent on top)*
 

@@ -1,14 +1,12 @@
 ---
 date: 2015-06-17
-description: Small information nuggets and recipies about Windows
 lang: en
 tags: [ windows, info, tips, tricks, how to ]
 title: Windows
+summary: Small information nuggets and recipies about Windows
 showToc: true
 tocOpen: true
 ---
-
-<!--more-->
 
 *(most recent on top)*
 

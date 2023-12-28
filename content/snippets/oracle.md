@@ -1,14 +1,12 @@
 ---
 date: 2005-01-15
-description: Small information nuggets and recipies about Oracle
 lang: en
 tags: [ oracle, info, tips, tricks, how to ]
 title: Oracle
+summary: Small information nuggets and recipies about Oracle
 showToc: true
 tocOpen: true
 ---
-
-<!--more-->
 
 *(most recent on top)*
 

@@ -1,14 +1,12 @@
 ---
 date: 2021-05-11
-description: Small information nuggets and recipies about Kotlin
 lang: en
 tags: [ kotlin, info, tips, tricks, how to ]
 title: Kotlin
+summary: Small information nuggets and recipies about Kotlin
 showToc: true
 tocOpen: true
 ---
-
-<!--more-->
 
 *(most recent on top)*
 

@@ -1,14 +1,12 @@
 ---
 date: 2019-11-09
-description: Small information nuggets and recipies about AWS
 lang: en
 tags: [ aws, info, tips, tricks, how to ]
 title: AWS
+summary: Small information nuggets and recipies about AWS
 showToc: true
 tocOpen: true
 ---
-
-<!--more-->
 
 *(most recent on top)*
 

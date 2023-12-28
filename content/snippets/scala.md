@@ -1,14 +1,12 @@
 ---
 date: 2019-02-28
-description: Small information nuggets and recipies about Scala
 lang: en
 tags: [ scala, info, tips, tricks, how to ]
 title: Scala
+summary: Small information nuggets and recipies about Scala
 showToc: true
 tocOpen: true
 ---
-
-<!--more-->
 
 * [The Scala Language Specification](http://www.scala-lang.org/files/archive/nightly/pdfs/ScalaReference.pdf)
 * [Scala Style Guide - Scala Documentation](http://docs.scala-lang.org/style/)

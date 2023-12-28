@@ -1,14 +1,12 @@
 ---
 date: 2015-06-17
-description: Small information nuggets and recipies about WordPress
 lang: en
 tags: [ wordpress, info, tips, tricks, how to ]
 title: WordPress
+summary: Small information nuggets and recipies about WordPress
 showToc: true
 tocOpen: true
 ---
-
-<!--more-->
 
 *(most recent on top)*
 

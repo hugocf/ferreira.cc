@@ -1,14 +1,12 @@
 ---
 date: 2020-10-12
-description: Small information nuggets and recipies about Git
 lang: en
 tags: [ git, info, tips, tricks, how to ]
 title: Git
+summary: Small information nuggets and recipies about Git
 showToc: true
 tocOpen: true
 ---
-
-<!--more-->
 
 See also:
 

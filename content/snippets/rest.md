@@ -1,14 +1,12 @@
 ---
 date: 2016-09-26
-description: Small information nuggets and recipies about REST
 lang: en
 tags: [ rest, info, tips, tricks, how to ]
 title: REST
+summary: Small information nuggets and recipies about REST
 showToc: true
 tocOpen: true
 ---
-
-<!--more-->
 
 *(most recent on top)*
 

@@ -1,14 +1,12 @@
 ---
 date: 2019-02-15
-description: Small information nuggets and recipies about Splunk
 lang: en
 tags: [ splunk, info, tips, tricks, how to ]
 title: Splunk
+summary: Small information nuggets and recipies about Splunk
 showToc: true
 tocOpen: true
 ---
-
-<!--more-->
 
 *(most recent on top)*
 

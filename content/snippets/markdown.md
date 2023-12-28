@@ -1,14 +1,12 @@
 ---
 date: 2021-04-07
-description: Small information nuggets and recipies about Markdown
 lang: en
 tags: [ markdown, info, tips, tricks, how to ]
 title: Markdown
+summary: Small information nuggets and recipies about Markdown
 showToc: true
 tocOpen: true
 ---
-
-<!--more-->
 
 *(most recent on top)*
 

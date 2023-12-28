@@ -1,14 +1,12 @@
 ---
 date: 2016-04-05
-description: Small information nuggets and recipies about MySQL
 lang: en
 tags: [ mysql, info, tips, tricks, how to ]
 title: MySQL
+summary: Small information nuggets and recipies about MySQL
 showToc: true
 tocOpen: true
 ---
-
-<!--more-->
 
 *(most recent on top)*
 

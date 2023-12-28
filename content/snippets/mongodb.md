@@ -1,14 +1,12 @@
 ---
 date: 2015-11-17
-description: Small information nuggets and recipies about MongoDB
 lang: en
 tags: [ mongodb, info, tips, tricks, how to ]
 title: MongoDB
+summary: Small information nuggets and recipies about MongoDB
 showToc: true
 tocOpen: true
 ---
-
-<!--more-->
 
 *(most recent on top)*
 
