@@ -5,6 +5,7 @@ title: Hugo Ferreira
 theme: "PaperMod"
 
 enableRobotsTXT: true
+paginate: 20
 
 permalinks:
   pages: /:filename/
@@ -54,8 +55,6 @@ params:
   mainSections:
     - thoughts
     - clippings
-
-  paginate: 20
 
   profileMode:
     enabled: true
