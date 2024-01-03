@@ -78,6 +78,7 @@ params:
   showPostNavLinks: true
   showReadingTime: true
   showRssButtonInSectionTermList: true
+  showWordCount: true
 
   socialIcons:
     - name: Facebook
