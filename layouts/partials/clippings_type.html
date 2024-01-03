@@ -5,4 +5,6 @@
 {{- else if eq .Params.Type "quote" }}📜 
 {{- else if eq .Params.Type "text" }}📋 
 {{- else if eq .Params.Type "video" }}📺 
+{{- else if eq .Section "thoughts" }}💭 
+{{- else if eq .Section "snippets" }}✂️ 
 {{- end }}
