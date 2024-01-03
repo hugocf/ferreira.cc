@@ -72,6 +72,7 @@ params:
       - name: 🗄️ Archive
         url: /archive
 
+  hideAuthor: true
   showAllPagesInArchive: true
   showCodeCopyButtons: true
   showPostNavLinks: true
