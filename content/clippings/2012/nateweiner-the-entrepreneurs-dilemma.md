@@ -2,7 +2,7 @@
 date: 2012-07-08
 lang: en
 tags: [ balance, entrepreneur, life ]
-title: "> \"The entrepreneur's dilemma: Maintaining friendships. Building a"
+title: "The entrepreneur's dilemma"
 type: quote
 ---
 
@@ -18,4 +18,3 @@ type: quote
 
 Replace "getting sleep" with "eating" or any other body function and
 that part stops making much sense.
-
