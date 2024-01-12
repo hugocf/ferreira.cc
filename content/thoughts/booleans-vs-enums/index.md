@@ -41,7 +41,7 @@ A Boolean fits the 1st scenario. A light switch is either on (have light) or off
 
 ![a coaxial selector with the input on the bottom, an A and B position of top, and the central nob set to the A position](selector.jpg)
 
-An Enumerate fits the 2nd scenario. A coaxial selector is either on position A or on position B . It lets you choose between two options. There is a clear meaning associated with each position.
+An Enumerate fits the 2nd scenario. A coaxial selector is either on position A or on position B. It lets you choose between two options. There is a clear meaning associated with each position.
 
 ---
 
