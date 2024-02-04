@@ -17,7 +17,7 @@ tocOpen: true
 ```markdown
 > Quote with citation.
 > 
-> — <cite>Author</cite> in <cite>[Source](http://example.com)</cite>
+> — Author in <cite>[Source](http://example.com)</cite>
 ```
 
 ## Footnotes
