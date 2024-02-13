@@ -10,7 +10,9 @@ showToc: true
 tocOpen: true
 ---
 
-***Update 2024-02-13:** Restructure to introduce headings and highlight the core problem with messaging apps.*
+***Update 2024-02-13:** Restructure to introduce headings and highlight [the core problem](#problem) with messaging apps.*
+
+***Update 2023-10-17:** Replace simplistic “Channels/Someday” channel organisation with a [MoSCoW](https://en.wikipedia.org/wiki/MoSCoW_method)-inspired [sections structure](#sections) optimised for fast processing.*
 
 ## 📥 Inbox zero {#inbox-zero}
 
@@ -58,7 +60,22 @@ This is how I setup my **Slack** channels *sections* to make them behave more li
 
 ![Slack context menu displaying the “Show and sort” details of a sidebar section](slack-section-inbox.png)
 
+## 🗂️ Organise for fast processing {#sections}
+
+As for which sections to use, I’ve ended up with a MoSCoW-inspired list where I essentially answer the question for each channel:
+
+* How directly related to my work/role is it?
+  * ☑️ Yes; ⚠️ Kinda; ℹ️ Not really
+* Am I keen on reading/seeing new messages on it?
+  * 👀 Yes; 🙈 Nope
+
+This is now the most battle tested setup I have stayed with for many months. Most past setups broke down on the “coming back from holidays” huge backlog of stuff to read. This one lets me manage my time/energy more effectively and use the “mark all as read” more often, once the core ones are cleared.
+
+![Slack sidebar view of sections: Must, Should, Want, Nice, Could, Maybe](slack-section-list.png)
+
 ## 🚧 Full setup {#setup}
+
+* [ ] TODO: Update according to the new sections format
 
 The sidebar consists of the following sections, in this order:
 
@@ -85,6 +102,8 @@ The sidebar consists of the following sections, in this order:
     * Easy access to apps I use on occasion but not so often that I remember their name
 
 ## 📨 Processing inboxes {#processing}
+
+* [ ] TODO: Update according to the new sections format
 
 With this, my daily process becomes, at specific times during the day:
 
@@ -155,4 +174,3 @@ Shared to:
 * [iOS PT Slack](https://ios.slack.com/archives/C0721L3CL/p1681834179011219)
 * [Springer Nature Slack](https://springernature.slack.com/archives/C04HV45EZ4H/p1681834348685239?thread_ts=1672850109.129719&cid=C04HV45EZ4H)
 * [Telegram](https://t.me/c/1363309933/8632)
-
