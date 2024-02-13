@@ -6,9 +6,15 @@ tags: [ communications, productivity, inboxes, clutter, overwhelm, how to, expla
 title: Slack Overload? Regain control with Inbox Zero principles
 subtitle: Get control of your Slack inbox with Inbox Zero principles and enjoy a clutter-free workspace.
 via: "[John Rae](https://springernature.slack.com/archives/C04HV45EZ4H/p1672850152593449)"
+showToc: true
+tocOpen: true
 ---
 
-“Inbox zero” is a pivotal concept to deal with the constant influx of information we have nowadays. [Merlin Mann coined it](https://en.wikipedia.org/wiki/Merlin_Mann#Writing) in 2006, during a [series of posts on 43Folders](http://www.43folders.com/2006/04/05/wrapup).
+***Update 2024-02-13:** Restructure to introduce headings and highlight the core problem with messaging apps.*
+
+## 📥 Inbox zero {#inbox-zero}
+
+“Inbox zero” is a pivotal concept to deal with the constant influx of information of modern life. [Merlin Mann coined it](https://en.wikipedia.org/wiki/Merlin_Mann#Writing) in 2006, during a [series of posts on 43Folders](http://www.43folders.com/2006/04/05/wrapup).
 
 > That “zero?” It’s not how many mes­sages are in your inbox–it’s how much of your own *brain* is in that inbox. Especially when you don’t want it to be. That’s it.
 >
@@ -19,34 +25,49 @@ It was not about “perfection” but rather a way for us to take back control o
 1. Take fixed times in the day to go through your inboxes — close or ignore them outside of those times
 2. Make decisions, not actions — triage fast and act later, so you’re not derailed into a long essays
 
-Once you’re done for the time slot, you can get out of that “new unread” mind space. Go back to doing your actions, according to which criteria you think should do first.
+Once you’re done for the time slot, you can get out of that “new/unread” mind space. Go back to doing your actions, according to whichever criteria you think fits best.
 
 At the time, this concept appeared to deal with the problems of overwhelmed email inboxes. Its core principles expand beyond email though. They are essential to get out of a reactivity loop and quite generic that they apply to other areas or our life:
 
 > Accept that almost everything in your life is an inbox
 >
-> — [Natasha Bernal](https://www.wired.co.uk/profile/natasha-bernal) on  [Everything you thought you knew about inbox zero is wrong | WIRED UK](https://www.wired.co.uk/article/inbox-zero-mentality) 
+> — [Natasha Bernal](https://www.wired.co.uk/profile/natasha-bernal) on [Everything you thought you knew about inbox zero is wrong | WIRED UK](https://www.wired.co.uk/article/inbox-zero-mentality)
 
----
+## 💬 Messaging apps problem {#problem}
 
-Nowadays work happens on instant message applications, not email.
+Nowadays work happens on instant message applications, not email. These types of applications are quite bad in letting us apply these concepts:
 
-These types of applications are quite bad in letting us apply these concepts. Their structure is around immediacy and synchronous messages & responses. **Slack**, in particular, is one of the worst offenders in this matter.
+* Their structure revolves around immediacy of synchronous messages and responses
+* Their core unit to manipulate is the *channel*, not individual *messages*
 
-This is how I setup my **Slack** channels list to make it behave more like an inbox. The goal is to apply the “inbox zero” concepts outlined above and mitigate the pressures to “respond immediately”.
+**Slack**, in particular, is one of the worst offenders in this matter. Many of of their design decisions reinforce the notion of immediacy and having to “keep up” with it. For example:
+
+* The frequent “X is typing” notices
+* The inability to read recent messages and keep older ones unread for later
+
+## ⏱️ The gist of the solution {#solution}
+
+The goal is to apply the “inbox zero” concepts outlined above and mitigate the pressures to “respond immediately”.
+
+The realisation is that *sections* can become a pseudo-inbox of *channels* that need reading (as opposed to consider *messages* as the unit to manipulate).
+
+This is how I setup my **Slack** channels *sections* to make them behave more like an inbox:
+
+* Show channels with [Unread messages only](https://slack.com/help/articles/212596808-Adjust-your-sidebar-preferences#choose-which-conversations-to-show)
+* Sorted [By most recent](https://slack.com/help/articles/212596808-Adjust-your-sidebar-preferences#sort-your-conversations)
 
 ![Slack context menu displaying the “Show and sort” details of a sidebar section](slack-section-inbox.png)
 
-🚧 **Setup**
+## 🚧 Full setup {#setup}
 
 The sidebar consists of the following sections, in this order:
 
 1. **Starred** default section
     * Sorted [Alphabetically](https://slack.com/help/articles/212596808-Adjust-your-sidebar-preferences#sort-your-conversations) and showing [All](https://slack.com/help/articles/212596808-Adjust-your-sidebar-preferences#choose-which-conversations-to-show) channels
     * *Expanded* all the time
-    * Contains channels that I want to remain “pinned” on the top of the sidebar for a short time, regardless of read or not
-    * Used for ongoing group message or temporary channel with an active conversation for a few days or so
-    * `@Slackbot` and my own user `@me` direct messages are always starred here
+    * Contains conversations that I want to remain “pinned” on the top of the sidebar for a short time, regardless of read or not
+    * Used for ongoing group messages or temporary channels with an active conversation for a few days or so
+    * Direct messages of `@Slackbot` (notices and some mentions) and my own user `@me` (for scratch notes) are always starred here
 2. **Direct messages** default section
     * Sorted [By most recent](https://slack.com/help/articles/212596808-Adjust-your-sidebar-preferences#sort-your-conversations) and showing channels with [Unread messages only](https://slack.com/help/articles/212596808-Adjust-your-sidebar-preferences#choose-which-conversations-to-show)
     * *Expanded* all the time
@@ -63,7 +84,7 @@ The sidebar consists of the following sections, in this order:
     * *Collapsed* most of the time
     * Easy access to apps I use on occasion but not so often that I remember their name
 
-📨 **Processing**
+## 📨 Processing inboxes {#processing}
 
 With this, my daily process becomes, at specific times during the day:
 
@@ -76,7 +97,7 @@ When I have some more relaxed time, usually at the end of the day:
 4. Cherry-pick from the **Someday** channels some that spark my curiosity
 5. `Shift-Esc` to “mark all as read” and have an clean slate for next day
 
-ℹ️ **Tips**
+## ℹ️ Tips and tricks {#tips}
 
 With this, channels and conversations disappeared from the sidebar once we read them. There are few options to navigate around and finding previous channels or conversations:
 
@@ -91,25 +112,25 @@ Also, to keep usage of the sidebar **Unread messages** aligned with this concept
 * Display only the **Channels** section
 * Sorted from newest to oldest
 
----
+## ❓ Questions {#questions}
 
-**Does it mean that with this you have Slack under control, almost empty, and you’re very responsive?**
+### Does it mean that with this you have Slack under control, almost empty, and you’re very responsive?
 
 Of course not 🙂
 
-Days still go haywire and messages backlog accumulates. and quite often it all becomes chaotic. That’s a consequent of the environments we work in.
+Days still go haywire and messages backlog accumulates. And quite often it all becomes chaotic. That’s a consequent of the environments we work in.
 
-With this setup, I’m able to take care of the most urgent and important messages in those chaotic days. Also, it’s easier to recover from a crazy week without the fear of missing out (<abbr title="Fear Of Missing Out">FOMO</abbr>) some interesting message.
+With this setup though, I’m able to take care of the most urgent and important messages in those chaotic days. Also, it’s easier to recover from a crazy week without the fear of missing out (<abbr title="Fear Of Missing Out">FOMO</abbr>) some interesting message.
 
-**What about using sections to organise and classify channels? For example, by type, scope, urgency, etc.**
+### What about using sections to organise and classify channels by type, scope, urgency, category, etc.?
 
-Before, I was using different sections to categorise and classify channels. This way I was able to scratch my itch for having everything organised and their “right” places.
+Before, I was using different sections to categorise and classify channels by themes, scope, etc. It was a way to scratch my itch for having everything well organised and in their “right” places.
 
 I stopped doing it because it was getting hard for me to maintain them and was getting lost on too many places to check. There was no easy way to triage what was recent vs old and important vs secondary.
 
-It was a hard to kill all those sections curated with care, after lots of time invested. This was quite scary 😬) but the benefits from the gained simplicity have made up for it.
+It was a hard to kill all those sections curated with much care, after lots of time invested. This was quite scary to do 😬 but the benefits and simplicity gained from switching to a setup optimised for *processing new stuff* have more than made up for it.
 
-**What about the mobile app “Newest to oldest” view?**
+### What about the mobile app “Newest to oldest” view?
 
 This inbox approach started in the Slack mobile app. I switched my channels list to [sort by “Newest to oldest”](https://slack.com/help/articles/212596808-Adjust-your-sidebar-preferences#sort-your-conversations) (previously called “Recent activity”). This lists updated channels under “Today”, “Yesterday”, and “Last 7 days” groupings.
 
