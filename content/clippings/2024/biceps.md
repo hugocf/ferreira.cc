@@ -1,9 +1,8 @@
 ---
 date: 2024-02-08
-draft: true
 lang: en
-tags: [ … ]
-title: BICEPS — PALOMA MEDINA
+tags: [ people, teams, psychology, needs, productivity ]
+title: "Core Needs: BICEPS — PALOMA MEDINA"
 type: link
 via: "[Chris James](https://springernature.slack.com/archives/D04SWSK4B09/p1707409311316939)"
 ---
@@ -23,3 +22,8 @@ via: "[Chris James](https://springernature.slack.com/archives/D04SWSK4B09/p17074
 > Predictability
 >
 > Significance
+
+See also:
+
+* [Coaching Questions Cheat Sheet - Google Docs](https://docs.google.com/document/d/1nP2F9blSjA-PI6AYMwgeSUTDA0m-3RLqwPRmd5ED8T8/edit)
+* [Getting to Know Others’ BICEPS Core Needs](https://www.palomamedina.com/s/_BICEPS-Core-Needs-at-Work-for-Teams.pdf)
