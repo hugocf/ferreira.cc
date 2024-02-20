@@ -3,7 +3,7 @@ date: 2024-02-20
 lang: en
 tags: [ planning, strategy, organisations, definitions, markets, customers, business ]
 title: A plan is not a strategy
-type: link
+type: video
 via: "[Adam Straughan](https://equalexperts.slack.com/archives/C01FW8G0N0H/p1703238745944669)"
 ---
 
