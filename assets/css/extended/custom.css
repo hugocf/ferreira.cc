@@ -52,3 +52,14 @@ figure.entry-cover p {
   display: block;
   text-align: center;
 }
+
+/* Custom footer */
+.footer a#icon {
+  border-bottom: none;
+}
+
+.footer a svg {
+  height: 14px;
+  width: 14px;
+  vertical-align: middle;
+}
