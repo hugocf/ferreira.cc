@@ -83,6 +83,8 @@ params:
   socialIcons:
     - name: Facebook
       url: https://facebook.com/hugocf
+    - name: GitHub
+      url: https://github.com/hugocf
     - name: Instagram
       url: http://instagram.com/hugocf
     - name: LinkedIn
