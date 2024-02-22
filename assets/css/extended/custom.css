@@ -52,18 +52,3 @@ figure.entry-cover p {
   display: block;
   text-align: center;
 }
-
-/* Extended footer */
-.extended-footer {
-  padding-top: 0px;
-}
-
-.extended-footer a {
-  padding-top: 0px;
-  border-bottom: none;
-}
-
-.extended-footer a svg {
-  height: 14px;
-  width: 14px;
-}
