@@ -49,7 +49,7 @@ params:
 
   editPost:
     url: "https://github.com/hugocf/ferreira.cc/blob/main/content"
-    text: Source
+    text: source
     appendFilePath: true
 
   mainSections:
