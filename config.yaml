@@ -71,7 +71,7 @@ params:
 
   profileMode:
     enabled: true
-    subtitle: "<p>Tech leader. Software engineering. Generalist. Treble dad.</p><br>"
+    subtitle: "<p><small>ˈuɡu feˈʁejɾɐ <em>(pronounced ‘u-gu’ as in ‘flu’)</em></small></p><p>Tech leader. Software engineering. Generalist. Treble dad.</p><br>"
     imageUrl: hf-bw.jpg
     imageWidth: 240
     imageHeight: 240
