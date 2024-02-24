@@ -1,15 +1,16 @@
 ---
-date: 2023-05-22
+date: 2024-02-24
 lang: en
 title: What I'm doing now…
 showPostNavLinks: false
 ---
 
-In a word: **“writing”**
+In a word: **soul searching**
 
-* Finally managed to “hack” my brain (with self-inflicted peer pressure) into dusting off the dozens of rough drafts accumulating in my “virtual” drawer over the years 😅
-    - Started posting with some regularity in my [Hugo Ferreira – Medium](https://hugocf.medium.com) account
-    - Reviving this website with [Hugo](https://gohugo.io/) into something that is easy for me to update
-* Revamping some communication patterns and trying to instil a better documentation culture at work, heavily inspired by the [Diátaxis framework](https://diataxis.fr/)
+* Still following up from the new year induced self-reflection musings and the big 5-Oh fast approaching
+* Revisiting old assumptions about personal organisation, interiorising that reality is chaotic and we must:
+    - “Ride the waves” instead of “trying to control the ocean”
+    - “Start by scaffolding” instead of “doing the whole building”
+    - “Say it’s not a priority” instead of “I don’t have time”
 
 *(via [The /now page movement | Derek Sivers](http://sivers.org/nowff))*
