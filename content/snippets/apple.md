@@ -209,6 +209,7 @@ ifconfig en0 |grep ether  # check
 ## Consult timestamps on Safari history
 
 * [sqlite - What format is the Safari History.db history_visits.visit_time in? - Stack Overflow](http://stackoverflow.com/a/34546556/1380781)
+* [See website visit time in Safari history - Ask Different](https://apple.stackexchange.com/a/313670/66527)
 
 ```shell
 $ sqlite3 ~/Library/Safari/History.db
@@ -220,6 +221,12 @@ select datetime(v.visit_time + 978307200, 'unixepoch', 'localtime') as date, v.v
 from history_items i left join history_visits v on i.id = v.history_item
 order by i.id desc
 limit 100;
+```
+
+Quick one-liner to paste into the Terminal:
+
+```shell
+sqlite3 ~/Library/Safari/History.db "select datetime(v.visit_time + 978307200, 'unixepoch', 'localtime') as date, v.title, i.url from history_items i left join history_visits v on i.id = v.history_item order by v.visit_time desc;" | less
 ```
 
 ## Homebrew: Remove formula and its dependencies, if not in use
