@@ -1,5 +1,6 @@
 ---
 cover:
+  relative: true
   image: unspash-code-reviews.jpg
   alt: a pair of glasses sitting on a table facing two blurred screens filled with code
   caption: "[Photo](https://unsplash.com/photos/w7ZyuGYNpRQ) by [Kevin Ku](https://unsplash.com/@ikukevk) on [Unsplash](https://unsplash.com/)"

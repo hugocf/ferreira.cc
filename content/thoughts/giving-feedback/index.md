@@ -1,5 +1,6 @@
 ---
 cover:
+  relative: true
   image: eye-hammer-question.jpeg
   alt: an eye, a hammer and question mark, side-by-side next to each other in graffiti style
   caption: "[Image Creator from Microsoft Bing](https://www.bing.com/images/create) — “an eye, a hammer and question mark, side-by-side in random painting art styles”"

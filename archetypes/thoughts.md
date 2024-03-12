@@ -1,5 +1,6 @@
 ---
 cover:
+  relative: true
   image: example.png
   alt: example description
   caption: "[Source](https://example.com)"

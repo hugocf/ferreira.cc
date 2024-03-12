@@ -1,5 +1,6 @@
 ---
 cover:
+  relative: true
   image: baby-shoes.webp
   alt: watercolor painting of baby shoes
   caption: "[DALL·E](https://openai.com/dall-e) “watercolor painting of baby shoes, never worn”"

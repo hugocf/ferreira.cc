@@ -1,5 +1,6 @@
 ---
 cover:
+  relative: true
   image: switch-selector.jpg
   alt: on the left, red switch with a 1 on top, a 0 on the bottom, and turned to the 1 position + on the right a coaxial selector with the input on the bottom, an A and B position of top, and the central nob set to the A position
 date: 2023-05-15

@@ -1,5 +1,6 @@
 ---
 cover:
+  relative: true
   image: unsplash-firefighter.jpg
   alt: a firefighter using a hose to extinguish a fire in training
   caption: "[Photo](https://unsplash.com/photos/e5s4jQxEExo) by [Hush Naidoo Jade Photography](https://unsplash.com/@hush52) on [Unsplash](https://unsplash.com/)"

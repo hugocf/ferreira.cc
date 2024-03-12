@@ -6,6 +6,7 @@ aliases:
   - mockup
   - prototype
 cover:
+  relative: true
   image: sketch-wireframe-mockup-prototype.png
   alt: examples of a sketch, wireframe and mockup, side by side
   caption: "[Sketch](sketch.jpg) &nbsp; ➤ &nbsp; [Wireframe](wireframe.jpg) &nbsp; ➤ &nbsp; [Mockup](mockup.jpg) &nbsp; ➤ &nbsp; [Prototype](prototype.png)"

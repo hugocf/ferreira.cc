@@ -1,5 +1,6 @@
 ---
 cover:
+  relative: true
   image: work-from-hell.png
   alt: cubism painting about a person with red eyes, working with their laptop in hell, looking upset
   caption: "[DALL·E](https://openai.com/dall-e) — “cubism painting about a person working with their laptop in hell”"

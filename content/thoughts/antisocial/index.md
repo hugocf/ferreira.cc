@@ -1,5 +1,6 @@
 ---
 cover:
+  relative: true
   image: office-party.png
   alt: pop art painting of a crowded office party with many people
   caption: "[DALL·E](https://openai.com/dall-e) — “pop art painting of a crowded office party with many people”"

@@ -1,5 +1,6 @@
 ---
 cover:
+  relative: true
   image: kashan-iran-unsplash.jpg
   alt: ceiling of Borujerdis House in Kashan, Iran with a bright light centre and shaded triangles all around it
   caption: "[Photo](https://unsplash.com/photos/aGxMCcAh2Pw) by [Mohammad Takhsh](https://unsplash.com/@mohammadtkh) on [Unsplash](https://unsplash.com/)"

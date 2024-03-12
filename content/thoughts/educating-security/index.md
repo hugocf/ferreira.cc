@@ -1,5 +1,6 @@
 ---
 cover:
+  relative: true
   image: chalk-board.png
   alt: father pointing to a slate board with a lock drawn in chalk and his 2 twin sons looking at it, in black and white crayons
   caption: "[DALL·E](https://openai.com/dall-e) — “father pointing to a slate board with a lock drawn in chalk and his 2 twin sons looking at it, in black and white crayons”"
