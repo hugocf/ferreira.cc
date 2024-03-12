@@ -15,6 +15,6 @@ diff -u themes/PaperMod/layouts/_default/list.html layouts/snippets/list.html > 
 
 # Report changes
 echo "Default overrides"
-diff "$SCRIPT_DIR"/theme-update-default.approved /tmp/theme-update-default.diff
+diff --color=always "$SCRIPT_DIR"/theme-update-default.approved /tmp/theme-update-default.diff
 echo "Snippets list"
-diff "$SCRIPT_DIR"/theme-update-snippets.approved /tmp/theme-update-snippets.diff
+diff --color=always "$SCRIPT_DIR"/theme-update-snippets.approved /tmp/theme-update-snippets.diff
