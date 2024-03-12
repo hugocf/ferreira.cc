@@ -46,8 +46,8 @@ diff -ur themes/PaperMod/layouts/_default/list.html layouts/_default/list.html
        <span class="entry-hint" title="Draft">
          <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
 diff -ur themes/PaperMod/layouts/_default/rss.xml layouts/_default/rss.xml
---- themes/PaperMod/layouts/_default/rss.xml	2023-12-26 12:14:43
-+++ layouts/_default/rss.xml	2023-12-28 03:38:34
+--- themes/PaperMod/layouts/_default/rss.xml	2024-03-12 21:52:41
++++ layouts/_default/rss.xml	2024-03-12 21:54:31
 @@ -67,7 +67,7 @@
      {{- range $pages }}
      {{- if and (ne .Layout `search`) (ne .Layout `archives`) }}
@@ -59,7 +59,7 @@ diff -ur themes/PaperMod/layouts/_default/rss.xml layouts/_default/rss.xml
        {{- with $authorEmail }}<author>{{ . }}{{ with $authorName }} ({{ . }}){{ end }}</author>{{ end }}
 diff -ur themes/PaperMod/layouts/_default/single.html layouts/_default/single.html
 --- themes/PaperMod/layouts/_default/single.html	2023-12-26 12:14:43
-+++ layouts/_default/single.html	2023-12-28 05:15:58
++++ layouts/_default/single.html	2024-01-03 23:30:23
 @@ -4,7 +4,8 @@
    <header class="post-header">
      {{ partial "breadcrumbs.html" . }}
@@ -97,5 +97,14 @@ diff -ur themes/PaperMod/layouts/_default/single.html layouts/_default/single.ht
      {{- end }}
    </header>
 Only in layouts/partials: clippings_type.html
+diff -ur themes/PaperMod/layouts/partials/post_nav_links.html layouts/partials/post_nav_links.html
+--- themes/PaperMod/layouts/partials/post_nav_links.html	2024-01-03 22:55:47
++++ layouts/partials/post_nav_links.html	2024-01-03 23:30:37
+@@ -1,4 +1,4 @@
+-{{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
++{{- $pages := where site.RegularPages "Section" .Section }}
+ {{- if and (gt (len $pages) 1) (in $pages . ) }}
+ <nav class="paginav">
+   {{- with $pages.Next . }}
 Only in layouts/shortcodes: audio.html
 Only in layouts: snippets
