@@ -53,6 +53,8 @@ menu:
 params:
   author: Hugo Ferreira
   description: Web clippings & Random thoughts
+  images: # for opengraph and twitter-cards
+    - hf-bw.jpg
 
   cover:
     responsiveImages: false
