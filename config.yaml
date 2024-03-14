@@ -90,6 +90,7 @@ params:
   hideAuthor: true
   showAllPagesInArchive: true
   showCodeCopyButtons: true
+  showFullTextinRSS: true
   showPostNavLinks: true
   showReadingTime: true
   showRssButtonInSectionTermList: true
