@@ -47,8 +47,20 @@ diff -ur themes/PaperMod/layouts/_default/list.html layouts/_default/list.html
          <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
 diff -ur themes/PaperMod/layouts/_default/rss.xml layouts/_default/rss.xml
 --- themes/PaperMod/layouts/_default/rss.xml	2024-03-12 21:52:41
-+++ layouts/_default/rss.xml	2024-03-12 21:54:31
-@@ -67,7 +67,7 @@
++++ layouts/_default/rss.xml	2024-03-14 17:11:04
+@@ -45,9 +45,9 @@
+ {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+ <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+   <channel>
+-    <title>{{ if eq .Title site.Title }}{{ site.Title }}{{ else }}{{ with .Title }}{{ . }} on {{ end }}{{ site.Title }}{{ end }}</title>
++    <title>{{ if eq .Title site.Title }}{{ site.Title }}{{ else }}{{ with .Title }}{{ . }} by {{ end }}{{ site.Title }}{{ end }}</title>
+     <link>{{ .Permalink }}</link>
+-    <description>Recent content {{ if ne .Title site.Title }}{{ with .Title }}in {{ . }} {{ end }}{{ end }}on {{ site.Title }}</description>
++    <description>Recent content {{ if ne .Title site.Title }}{{ with .Title }}in {{ . }} {{ end }}{{ end }}by {{ site.Title }}</description>
+     {{- with site.Params.images }}
+     <image>
+       <title>{{ site.Title }}</title>
+@@ -67,15 +67,25 @@
      {{- range $pages }}
      {{- if and (ne .Layout `search`) (ne .Layout `archives`) }}
      <item>
@@ -57,6 +69,27 @@ diff -ur themes/PaperMod/layouts/_default/rss.xml layouts/_default/rss.xml
        <link>{{ .Permalink }}</link>
        <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
        {{- with $authorEmail }}<author>{{ . }}{{ with $authorName }} ({{ . }}){{ end }}</author>{{ end }}
+       <guid>{{ .Permalink }}</guid>
+       <description>{{ with .Description | html }}{{ . }}{{ else }}{{ .Summary | html }}{{ end -}}</description>
+-      {{- if and site.Params.ShowFullTextinRSS .Content }}
+-      <content:encoded>{{ (printf "<![CDATA[%s]]>" .Content) | safeHTML }}</content:encoded>
+-      {{- end }}
++      {{- /* HF: Based on https://github.com/adityatelange/hugo-PaperMod/pull/1370/ */}}
++      {{- $isCoverHidden := .Params.cover.hidden | default site.Params.cover.hiddenInSingle | default site.Params.cover.hidden }}
++      {{- $cover := (partial "cover.html" (dict "cxt" . "IsSingle" false "IsHome" false "isHidden" $isCoverHidden)) -}}
++      {{- if (or $cover (and site.Params.ShowFullTextinRSS .Content)) -}}
++          <content:encoded>
++          {{- if $cover -}}
++              {{ (printf "<![CDATA[%s]]>" $cover) | safeHTML }}
++          {{- end -}}
++          {{- if and site.Params.ShowFullTextinRSS .Content }}
++               {{ (printf "<![CDATA[%s]]>" .Content) | safeHTML }}
++          {{- end -}}
++          </content:encoded>
++       {{- end }}
+     </item>
+     {{- end }}
+     {{- end }}
 diff -ur themes/PaperMod/layouts/_default/single.html layouts/_default/single.html
 --- themes/PaperMod/layouts/_default/single.html	2023-12-26 12:14:43
 +++ layouts/_default/single.html	2024-01-03 23:30:23
