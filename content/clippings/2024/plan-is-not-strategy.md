@@ -1,4 +1,7 @@
 ---
+aliases:
+ - plan-strategy
+ - plan-vs-strategy
 date: 2024-02-20
 lang: en
 tags: [ planning, strategy, organisations, definitions, markets, customers, business ]
