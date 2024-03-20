@@ -41,7 +41,7 @@ via: "[Adam Straughan](https://equalexperts.slack.com/archives/C01FW8G0N0H/p1703
 > **Planning**
 >
 > * You control costs.
-> * You are the. customer.
+> * You are the customer.
 > * It’s comfortable. 🙂
 >
 > **Strategy**
