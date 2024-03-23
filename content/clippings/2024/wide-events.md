@@ -9,7 +9,7 @@ via: "[Gerald Benischke](https://equalexperts.slack.com/archives/C041T4BEHS4/p17
 
 [All you need is Wide Events, not “Metrics, Logs and Traces”](https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics)
 
-> when it comes to the distributed systems at scale what’s more important is an ability to “dig” into data - “slice and dice” it, build and analyse various views, correlate, search for anomalies… And systems that offer all of this do exist.
+> … when it comes to the distributed systems at scale what’s more important is an ability to “dig” into data - “slice and dice” it, build and analyse various views, correlate, search for anomalies… And systems that offer all of this do exist.
 
 ---
 
