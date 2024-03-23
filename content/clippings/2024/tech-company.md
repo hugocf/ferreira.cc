@@ -1,0 +1,23 @@
+---
+date: 2024-03-23
+lang: en
+tags: [ technology, organisations, software, engineering, business, cost centre, profit centre ]
+title: Do you work at a tech company?
+type: link
+---
+
+[Do you work at a tech company? | Irrational Exuberance](https://lethain.com/tech-company/)
+
+> *[for engineers]* a technology company is one with a strong engineering culture and empowered engineering leadership. Not the business model, not the legal definition, not “pure” innovation, but having a place at the table and being a table you want to sit at.
+
+---
+
+> how do you determine if a company empowers and supports their engineering organization?
+>
+> * … CEO’s background …
+> * … ratio of engineering to total headcount …
+> * … engineering representation in the senior leadership team …
+> * … titles and seniority across organizations …
+> * … extent and quality of their [engineering brand efforts](https://lethain.com/eng-brand/) …
+> * navigate your network … [and ask] …
+> * ask questions … of the their engineering culture to … different interviewers …
