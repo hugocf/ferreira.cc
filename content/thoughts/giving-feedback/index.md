@@ -9,6 +9,8 @@ lang: en
 tags: [ guidelines, feedback, observing, compassion, behaviours, feelings, needs ]
 title: Speaking or communicating? Easily recall how to give good feedback
 summary: There are many guidelines on how to structure feedback but human nature is quite common. A simple mnemonic will help your recall your favourite framework when it matters the most — talk about what you “observe”, its “impact” and then “ask”.
+showToc: true
+tocOpen: true
 ---
 
 Negative feedback is never easy to impart on others. Emotions and ego tend to trigger defensive behaviour. This, in turn, creates friction and noise in the communication.
@@ -19,7 +21,11 @@ The following frameworks are ones that I've found more useful and helpful.
 
 ---
 
-[**NVC - Nonviolent Communication**](https://en.wikipedia.org/wiki/Nonviolent_Communication) *by Marshall Rosenberg ([CNVC](https://www.cnvc.org/))*
+## Common feedback frameworks
+
+### [NVC - Nonviolent Communication](https://en.wikipedia.org/wiki/Nonviolent_Communication)
+
+*by Marshall Rosenberg ([CNVC](https://www.cnvc.org/))*
 
 An approach to communication based on principles of nonviolence. Was developed by clinical psychologist Marshall Rosenberg beginning in the 1960s and 1970s.
 
@@ -30,9 +36,9 @@ This is a very popular approach, with lots of books, articles and training going
 * **Needs** — Universal human needs, as distinct from particular strategies for meeting those needs
 * **Requests** — Distinguished from demands in that one is open to hearing a response of "no" without this triggering an attempt to force the matter
 
----
+### [SBI+I - Situation-Behavior-Impact + Intent](https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii/)
 
-[**SBI+I - Situation-Behavior-Impact + Intent**](https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii/) *by Center for Creative Leadership ([CCL](https://www.ccl.org/))*
+*by Center for Creative Leadership ([CCL](https://www.ccl.org/))*
 
 A more niche approach written in 2022, from a nonprofit organisation focused on leadership. Their goal is improving the understanding, practice, and development of leadership.
 
@@ -41,9 +47,9 @@ A more niche approach written in 2022, from a nonprofit organisation focused on 
 * **Impact** — Explain what you thought or felt in reaction to the behavior
 * **Intent** — Inquire about their original intentions, to clarify the gap between intent vs. impact
 
----
+### [CORE - Context, Observation, Result, nExt stEps](https://www.radicalcandor.com/core-feedback/)
 
-[**CORE - Context, Observation, Result, nExt stEps**](https://www.radicalcandor.com/core-feedback/) *by Kim Scott ([Radical Candor](https://www.radicalcandor.com/the-book/) book)*
+*by Kim Scott ([Radical Candor](https://www.radicalcandor.com/the-book/) book)*
 
 From the author of a best seller in the business category, published in 2017. This method makes sure you’re not criticising someone’s personality when delivering negative feedback (or even praise).
 
@@ -54,7 +60,7 @@ From the author of a best seller in the business category, published in 2017. Th
 
 ---
 
-**A simple mnemonic to remember**
+## A simple mnemonic to remember
 
 As you can see, there’s plenty to study and choose from. I recommend you look through the methods in more detail and see what you can relate with more. Practice it whenever you have a chance…
 
@@ -69,6 +75,8 @@ While still in the [conscious competence](https://en.wikipedia.org/wiki/Four_sta
 * ❓ … then **Ask** a question as follow up
 
 This is because there’s a natural overlap between the methods. They emphasise different parts of the conversation. The authors chose different terms for similar underlying principles. But human nature is constant.
+
+Here’s how this mnemonic maps to the frameworks shown above:
 
 <!--
 <table>
@@ -115,6 +123,8 @@ This is because there’s a natural overlap between the methods. They emphasise 
 ---
 
 One more thing…
+
+## Start, Stop, Continue
 
 Beyond the scope of “negative feedback”, we are sometimes asked to provide general feedback about other people. Could be about a new hire during their probation period. Could be preparing for a “[speedback](https://medium.com/@joshproduct/speedback-de-stigmatise-feedback-with-speed-dating-principles-4708d493fb63)” session with team members. Could be many other scenarios.
 
