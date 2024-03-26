@@ -14,7 +14,7 @@ type: text
 
 There could be a workaround…
 
-> UTF has special characters to control the rendering. `U+FE0E`` asks OS and browser to render the previous glyph as text, `U+FE0F`` asks to render the previous glyph as emoji.
+> UTF has special characters to control the rendering. `U+FE0E` asks OS and browser to render the previous glyph as text, `U+FE0F` asks to render the previous glyph as emoji.
 >
 > — Nikita Dubko in [Prevent text glyphs from turning into emojis](https://mefody.dev/chunks/emoji-to-text/)
 
