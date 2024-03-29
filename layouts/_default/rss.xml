@@ -46,14 +46,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     {{- $title := cond (eq .Title $.Site.Title) $.Site.Title (print .Title " | " $.Site.Title) -}}
+    {{- $permalink := .Permalink -}}
     <title>{{ $title }}</title>
-    <link>{{ .Permalink }}</link>
+    <link>{{ $permalink }}</link>
     <description>Recent content {{ if ne .Title site.Title }}{{ with .Title }}in {{ . }} {{ end }}{{ end }}by {{ site.Title }}</description>
     {{- with site.Params.images }}
     <image>
       <title>{{ $title }}</title>
       <url>{{ index . 0 | absURL }}</url>
-      <link>{{ index . 0 | absURL }}</link>
+      <link>{{ $permalink }}</link>
     </image>
     {{- end }}
     <generator>Hugo -- gohugo.io</generator>

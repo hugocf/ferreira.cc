@@ -47,25 +47,30 @@ diff -ur themes/PaperMod/layouts/_default/list.html layouts/_default/list.html
          <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
 diff -ur themes/PaperMod/layouts/_default/rss.xml layouts/_default/rss.xml
 --- themes/PaperMod/layouts/_default/rss.xml	2024-03-12 21:52:41
-+++ layouts/_default/rss.xml	2024-03-29 22:08:54
-@@ -45,12 +45,13 @@
++++ layouts/_default/rss.xml	2024-03-29 22:19:10
+@@ -45,14 +45,16 @@
  {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
    <channel>
 -    <title>{{ if eq .Title site.Title }}{{ site.Title }}{{ else }}{{ with .Title }}{{ . }} on {{ end }}{{ site.Title }}{{ end }}</title>
-+    {{- $title := cond (eq .Title $.Site.Title) $.Site.Title (print .Title " | " $.Site.Title) -}}
-+    <title>{{ $title }}</title>
-     <link>{{ .Permalink }}</link>
+-    <link>{{ .Permalink }}</link>
 -    <description>Recent content {{ if ne .Title site.Title }}{{ with .Title }}in {{ . }} {{ end }}{{ end }}on {{ site.Title }}</description>
++    {{- $title := cond (eq .Title $.Site.Title) $.Site.Title (print .Title " | " $.Site.Title) -}}
++    {{- $permalink := .Permalink -}}
++    <title>{{ $title }}</title>
++    <link>{{ $permalink }}</link>
 +    <description>Recent content {{ if ne .Title site.Title }}{{ with .Title }}in {{ . }} {{ end }}{{ end }}by {{ site.Title }}</description>
      {{- with site.Params.images }}
      <image>
 -      <title>{{ site.Title }}</title>
 +      <title>{{ $title }}</title>
        <url>{{ index . 0 | absURL }}</url>
-       <link>{{ index . 0 | absURL }}</link>
+-      <link>{{ index . 0 | absURL }}</link>
++      <link>{{ $permalink }}</link>
      </image>
-@@ -67,12 +68,26 @@
+     {{- end }}
+     <generator>Hugo -- gohugo.io</generator>
+@@ -67,12 +69,26 @@
      {{- range $pages }}
      {{- if and (ne .Layout `search`) (ne .Layout `archives`) }}
      <item>
