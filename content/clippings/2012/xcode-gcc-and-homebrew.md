@@ -1,5 +1,5 @@
 ---
-date: 2012-02-17
+date: 2012-02-17T07:07:28
 lang: en
 tags: [ command line, development, os x, xcode ]
 title: "Xcode, GCC, and Homebrew"

@@ -1,5 +1,5 @@
 ---
-date: 2012-07-27
+date: 2012-07-27T07:07:28
 lang: en
 tags: [ development, feedback, ios, support ]
 title: "Mobile App Feedback  |  Atlassian JIRA Mobile Connect"

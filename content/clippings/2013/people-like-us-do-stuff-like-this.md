@@ -1,5 +1,5 @@
 ---
-date: 2013-07-26
+date: 2013-07-26T07:07:28
 lang: en
 tags: [ best practices, marketing, psychology, tribes ]
 title: "People like us do stuff like this"

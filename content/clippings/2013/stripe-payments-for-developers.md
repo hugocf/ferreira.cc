@@ -1,5 +1,5 @@
 ---
-date: 2013-03-22
+date: 2013-03-22T07:07:28
 lang: en
 tags: [ android, api, development, ios, kiss, payments, saas, web ]
 title: "Stripe: Payments for developers"

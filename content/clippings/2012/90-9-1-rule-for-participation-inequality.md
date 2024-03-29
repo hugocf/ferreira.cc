@@ -1,5 +1,5 @@
 ---
-date: 2012-06-25
+date: 2012-06-25T07:07:28
 lang: en
 tags: [ feedback, online, participation inequality, social media ]
 title: "\"90-9-1\" Rule for Participation Inequality: Lurkers vs. Contributors in Internet Communities"

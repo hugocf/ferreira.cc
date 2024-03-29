@@ -1,5 +1,5 @@
 ---
-date: 2013-03-14
+date: 2013-03-14T07:07:28
 lang: en
 tags: [ making of, movies, tarantino ]
 title: "The Making of Pulp Fiction: Quentin Tarantino's and the Cast's Retelling  |  Vanity Fair"

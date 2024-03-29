@@ -1,5 +1,5 @@
 ---
-date: 2013-05-22
+date: 2013-05-22T07:07:28
 lang: en
 tags: [ android, code, cross platform, development, ios, mobile, sdk ]
 title: "Develop Cross Platform Mobile Apps and Games  |  Corona Labs"

@@ -1,5 +1,5 @@
 ---
-date: 2013-07-26
+date: 2013-07-26T07:07:28
 lang: en
 tags: [ best practices, development, programming, software ]
 title: "97 Things Every Programmer Should Know -- Contributions Appearing in the Book"

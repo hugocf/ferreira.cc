@@ -1,5 +1,5 @@
 ---
-date: 2011-08-29
+date: 2011-08-29T07:07:28
 lang: en
 tags: [ balance, life, motivation, steve jobs ]
 title: "Your work is going to fill a large part of your life, and the only way"

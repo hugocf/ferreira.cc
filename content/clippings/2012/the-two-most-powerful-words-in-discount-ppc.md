@@ -1,5 +1,5 @@
 ---
-date: 2012-12-30
+date: 2012-12-30T07:07:28
 lang: en
 tags: [ ads, conversion, copywriting, marketing, pay per click ]
 title: "The Two Most Powerful Words in Discount  |  PPC Hero®"

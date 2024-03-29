@@ -1,5 +1,5 @@
 ---
-date: 2023-09-17
+date: 2023-09-17T00:24:30
 lang: en
 tags: [ chrome, emoji, unicode, rendering, issues ]
 title: Google Chrome issue rendering emoji as unicode

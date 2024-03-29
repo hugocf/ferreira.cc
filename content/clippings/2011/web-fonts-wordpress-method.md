@@ -1,5 +1,5 @@
 ---
-date: 2011-05-23
+date: 2011-05-23T07:07:28
 lang: en
 tags: [ css, typography, web fonts ]
 title: "Web Fonts » WordPress Method"

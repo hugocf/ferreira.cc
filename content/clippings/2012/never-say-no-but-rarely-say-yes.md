@@ -1,5 +1,5 @@
 ---
-date: 2012-04-23
+date: 2012-04-23T07:07:28
 lang: en
 tags: [ bootstrapping, entrepreneur, focus, funding, startups ]
 title: "Never say \"no,\" but rarely say \"yes.\""

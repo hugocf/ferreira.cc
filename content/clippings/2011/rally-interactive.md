@@ -1,5 +1,5 @@
 ---
-date: 2011-10-12
+date: 2011-10-12T07:07:28
 lang: en
 tags: [ design, showcase, web ]
 title: "Rally Interactive"

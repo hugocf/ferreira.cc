@@ -1,5 +1,5 @@
 ---
-date: 2011-07-15
+date: 2011-07-15T07:07:28
 lang: en
 tags: [ attitude, development, software, testing, user focus, ux ]
 title: "The software is wrong, not the people"

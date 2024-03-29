@@ -1,5 +1,5 @@
 ---
-date: 2012-06-15
+date: 2012-06-15T07:07:28
 lang: en
 tags: [ business models, entrepreneur, pricing, products ]
 title: "(image)"

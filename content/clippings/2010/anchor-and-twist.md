@@ -1,7 +1,7 @@
 ---
 aliases:
   - to-sell-innovations-we-need-an-anchor-and-a
-date: 2010-03-01
+date: 2010-03-01T07:07:28
 lang: en
 tags: [ business ]
 title: "Anchor and twist"

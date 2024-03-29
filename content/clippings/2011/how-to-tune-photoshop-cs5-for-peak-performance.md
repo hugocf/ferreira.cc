@@ -1,5 +1,5 @@
 ---
-date: 2011-10-22
+date: 2011-10-22T07:07:28
 lang: en
 tags: [ performance, photoshop, tuning ]
 title: "How to tune Photoshop CS5 for peak performance « Jeff Tranberry's Digital Imaging Crawlspace"

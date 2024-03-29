@@ -1,5 +1,5 @@
 ---
-date: 2024-02-20
+date: 2024-02-20T02:45:46
 lang: en
 tags: [ agile, product, backlogs, organisation, process, user stories ]
 title: "8 Different Ways to Organize Your Backlog"

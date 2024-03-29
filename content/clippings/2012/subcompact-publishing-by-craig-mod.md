@@ -1,5 +1,5 @@
 ---
-date: 2012-11-28
+date: 2012-11-28T07:07:28
 lang: en
 tags: [ business models, disruption, magazines, newspapers, startups ]
 title: "Subcompact Publishing --- by Craig Mod"

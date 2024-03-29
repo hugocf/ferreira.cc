@@ -1,5 +1,5 @@
 ---
-date: 2012-01-27
+date: 2012-01-27T07:07:28
 lang: en
 tags: [ ascii, table, tools ]
 title: "Format Text as a Table  |  Senseful Solutions"

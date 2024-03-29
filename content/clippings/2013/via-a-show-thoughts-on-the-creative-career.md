@@ -1,5 +1,5 @@
 ---
-date: 2013-04-12
+date: 2013-04-12T07:07:28
 lang: en
 tags: [ actions, art, creativity, goals, life, momentum, rhythm ]
 title: "a show :: thoughts on the creative career"

@@ -1,5 +1,5 @@
 ---
-date: 2019-04-15
+date: 2019-04-15T00:46:48
 lang: en
 source: "[Equal Experts Slack, Hugo Ferreira, 2019-04-15](https://equalexperts.slack.com/archives/C0S71RJA3/p1555313472003700)"
 tags: [ software, programming, languages, php, wtf, examples ]

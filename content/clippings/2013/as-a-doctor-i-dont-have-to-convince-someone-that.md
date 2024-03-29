@@ -1,5 +1,5 @@
 ---
-date: 2013-10-21
+date: 2013-10-21T07:07:28
 lang: en
 tags: [ arguments, health, pros vs cons, vaccination ]
 title: "As a doctor, I don't have to convince someone that vaccines don't"

@@ -1,5 +1,5 @@
 ---
-date: 2013-05-03
+date: 2013-05-03T07:07:28
 lang: en
 tags: [ development, estimation, planning, programming ]
 title: "The first 90% of the code accounts for the first 90% of the"

@@ -1,5 +1,5 @@
 ---
-date: 2013-07-18
+date: 2013-07-18T07:07:28
 lang: en
 tags: [ analysis, best practices, development, optimisation, performance, profiling ]
 title: "When optimal matters | Playing with Objects"

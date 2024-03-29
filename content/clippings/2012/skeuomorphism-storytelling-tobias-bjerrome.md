@@ -1,5 +1,5 @@
 ---
-date: 2012-04-23
+date: 2012-04-23T07:07:28
 lang: en
 tags: [ behaviour, design, skeuomorphic, usability ]
 title: "Skeuomorphism & Storytelling / Tobias Bjerrome Ahlin"

@@ -1,5 +1,5 @@
 ---
-date: 2011-10-22
+date: 2011-10-22T07:07:28
 lang: en
 tags: [ advertising, advice, ideas, marketing, qr codes ]
 title: "Why the QR code is failing -- iMediaConnection.com"

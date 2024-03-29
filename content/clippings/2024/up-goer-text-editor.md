@@ -1,5 +1,5 @@
 ---
-date: 2024-03-25
+date: 2024-03-25T21:13:30
 lang: en
 tags: [ tools, online, editor, languages, plain english, humor, xkcd ]
 title: The Up-Goer Five Text Editor

@@ -1,5 +1,5 @@
 ---
-date: 2019-02-28
+date: 2019-02-28T01:04:49
 lang: en
 tags: [ scala, info, tips, tricks, how to ]
 title: Scala

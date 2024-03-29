@@ -1,5 +1,5 @@
 ---
-date: 2011-07-15
+date: 2011-07-15T01:05:09
 lang: en
 tags: [ opensolaris, info, tips, tricks, how to ]
 title: OpenSolaris

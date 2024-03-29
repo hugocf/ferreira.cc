@@ -1,5 +1,5 @@
 ---
-date: 2010-07-27
+date: 2010-07-27T07:07:28
 lang: en
 tags: [ clippings, life, motivation ]
 title: "Tony Robbins: Why we do what we do"

@@ -1,5 +1,5 @@
 ---
-date: 2014-01-16
+date: 2014-01-16T07:07:28
 lang: en
 tags: [ design, iconography, icons, pictograms, signs, symbols, ui ]
 title: "Origins of Common UI Symbols"

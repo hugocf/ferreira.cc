@@ -1,5 +1,5 @@
 ---
-date: 2012-01-30
+date: 2012-01-30T07:07:28
 lang: en
 tags: [ goal, progress, tracking ]
 title: "Beeminder"

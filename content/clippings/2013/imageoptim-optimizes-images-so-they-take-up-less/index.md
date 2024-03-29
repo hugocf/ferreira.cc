@@ -1,5 +1,5 @@
 ---
-date: 2013-12-04
+date: 2013-12-04T07:07:28
 lang: en
 tags: [ compression, design, development, images, mobile, performance, tools, web ]
 title: "(image)"

@@ -1,5 +1,5 @@
 ---
-date: 2013-09-19
+date: 2013-09-19T07:07:28
 lang: en
 tags: [ best practices, book, design, typography ]
 title: "Typography in ten minutes --- Butterick's Practical Typography"

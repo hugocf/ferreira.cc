@@ -1,5 +1,5 @@
 ---
-date: 2013-05-17
+date: 2013-05-17T07:07:28
 lang: en
 tags: [ art, copyright, creativity, culture, ideas, remix, sharing ]
 title: "Watch --- Everything is a Remix"

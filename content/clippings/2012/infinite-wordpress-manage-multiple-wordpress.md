@@ -1,5 +1,5 @@
 ---
-date: 2012-05-15
+date: 2012-05-15T07:07:28
 lang: en
 tags: [ administration, plugin, wordpress ]
 title: "Infinite WordPress  |  Manage Multiple WordPress Sites"

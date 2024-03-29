@@ -1,5 +1,5 @@
 ---
-date: 2013-01-11
+date: 2013-01-11T07:07:28
 lang: en
 tags: [ best practices, camera, cinema, rant ]
 title: "Film Crit Hulk Smash: HULK VS. TOM HOOPER AND ART OF CINEMATIC AFFECTATION  |  Badass Digest"

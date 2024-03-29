@@ -1,5 +1,5 @@
 ---
-date: 2012-04-24
+date: 2012-04-24T07:07:28
 lang: en
 tags: [ bootstrapping, entrepreneur, financials, money, startups ]
 title: "Startup Death Clock"

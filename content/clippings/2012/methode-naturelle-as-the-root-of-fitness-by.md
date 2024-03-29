@@ -1,5 +1,5 @@
 ---
-date: 2012-08-31
+date: 2012-08-31T07:07:28
 lang: en
 tags: [ fitness, free running, health, movnat, natural method, paleo, parkour ]
 title: "“Méthode Naturelle” as the root of fitness by natural body movement"

@@ -1,5 +1,5 @@
 ---
-date: 2013-12-03
+date: 2013-12-03T07:07:28
 lang: en
 tags: [ calculus, code, development, functional, lambda, math, ruby ]
 title: "Y Not: Adventures in Functional Programming by Jim Weirich"

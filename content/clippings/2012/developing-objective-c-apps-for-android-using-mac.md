@@ -1,5 +1,5 @@
 ---
-date: 2012-08-17
+date: 2012-08-17T07:07:28
 lang: en
 tags: [ android, development, how to, objective c, tutorial ]
 title: "Developing Objective-C apps for Android using Mac OS X  |  ivucica blog"

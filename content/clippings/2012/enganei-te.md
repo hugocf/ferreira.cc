@@ -1,7 +1,7 @@
 ---
 aliases:
   - a-en-ga-nei-te-batatas-com-azeite-b-nao-faz     # old site
-date: 2012-11-03
+date: 2012-11-03T07:07:28
 lang: pt
 tags: [ children, lengalenga ]
 title: En-ga-nei-te, batatas com azeite!

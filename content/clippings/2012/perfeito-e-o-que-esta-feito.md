@@ -1,5 +1,5 @@
 ---
-date: 2012-02-06
+date: 2012-02-06T07:07:28
 lang: pt
 tags: [ perfection, productivity ]
 title: "Perfeito, é o que está feito!"

@@ -1,5 +1,5 @@
 ---
-date: 2013-11-18
+date: 2013-11-18T07:07:28
 lang: en
 tags: [ career, guidelines, happiness, lessons, life, lifestyle, success ]
 title: "(image)"

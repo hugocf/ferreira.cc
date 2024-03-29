@@ -1,5 +1,5 @@
 ---
-date: 2013-07-15
+date: 2013-07-15T07:07:28
 lang: pt
 tags: [ airplanes, low cost, tickets, travel ]
 title: "Voos baratos  |  Comparação gratuita de voos no www.skyscanner.pt"

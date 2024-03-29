@@ -1,5 +1,5 @@
 ---
-date: 2009-04-17
+date: 2009-04-17T07:07:28
 lang: en
 tags: [ business, inspiration ]
 title: "1. Be Genuine"

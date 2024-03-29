@@ -1,5 +1,5 @@
 ---
-date: 2011-09-09
+date: 2011-09-09T07:07:28
 lang: en
 tags: [ best practices, css, html5, javascript, template ]
 title: "HTML5 Boilerplate -- A rock-solid default template for HTML5 awesome."

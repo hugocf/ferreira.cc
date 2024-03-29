@@ -1,5 +1,5 @@
 ---
-date: 2014-03-18
+date: 2014-03-18T07:07:28
 lang: en
 tags: [ best practices, development, java, kata, tdd, tpp, unit testing ]
 title: "Transformation Priority Premise"

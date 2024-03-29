@@ -1,5 +1,5 @@
 ---
-date: 2011-04-10
+date: 2011-04-10T07:07:28
 lang: en
 tags: [ presentations, public speaking, skills ]
 title: "Out Loud  |  Rands In Repose"

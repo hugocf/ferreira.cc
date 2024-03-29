@@ -1,5 +1,5 @@
 ---
-date: 2019-01-31
+date: 2019-01-31T01:04:52
 lang: en
 tags: [ sbt, info, tips, tricks, how to ]
 title: sbt

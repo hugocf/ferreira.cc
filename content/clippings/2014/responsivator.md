@@ -1,5 +1,5 @@
 ---
-date: 2014-01-31
+date: 2014-01-31T07:07:28
 lang: en
 tags: [ design, development, responsive, visualisation, website ]
 title: "Responsivator"

@@ -1,5 +1,5 @@
 ---
-date: 2011-06-05
+date: 2011-06-05T07:07:28
 lang: en
 tags: [ art, design, optical illusion ]
 title: "(image)"

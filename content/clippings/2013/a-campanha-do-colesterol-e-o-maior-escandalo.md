@@ -1,5 +1,5 @@
 ---
-date: 2013-05-10
+date: 2013-05-10T07:07:28
 lang: pt
 tags: [ colesterol, saude ]
 title: "A campanha do colesterol é o maior escândalo médico do nosso tempo"

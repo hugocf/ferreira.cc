@@ -1,5 +1,5 @@
 ---
-date: 2013-03-28
+date: 2013-03-28T07:07:28
 lang: pt
 tags: [ education, fear, kids, portugues ]
 title: "Quem tem medo compra um não"

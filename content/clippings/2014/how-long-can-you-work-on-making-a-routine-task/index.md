@@ -1,5 +1,5 @@
 ---
-date: 2014-01-10
+date: 2014-01-10T07:07:28
 lang: en
 tags: [ effectiveness, efficiency, life, productivity, tasks, time ]
 title: "(image)"

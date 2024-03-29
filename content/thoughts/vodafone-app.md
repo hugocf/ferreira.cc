@@ -1,7 +1,7 @@
 ---
 aliases:
   - vodafone-update-app-for-iphone  # old site
-date: 2010-01-04
+date: 2010-01-04T07:07:28
 lang: en
 tags: [ tools, social media, aggregator, feedback ]
 title: Vodafone “Update” app for iPhone

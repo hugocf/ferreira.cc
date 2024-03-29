@@ -1,5 +1,5 @@
 ---
-date: 2009-06-02
+date: 2009-06-02T07:07:28
 lang: en
 tags: [ business, reference ]
 title: "(image)"

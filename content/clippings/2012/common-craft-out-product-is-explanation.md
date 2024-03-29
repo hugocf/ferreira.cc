@@ -1,5 +1,5 @@
 ---
-date: 2012-10-30
+date: 2012-10-30T07:07:28
 lang: en
 tags: [ video, how to, plain english, services, tools, tutorials ]
 title: "Common Craft | Our Product is Explanation"

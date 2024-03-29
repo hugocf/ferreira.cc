@@ -1,5 +1,5 @@
 ---
-date: 2012-10-19
+date: 2012-10-19T07:07:28
 lang: en
 tags: [ credibility, design, development, marketing, ux, web ]
 title: "39 Factors: Website Credibility Checklist  |  ConversionXL"

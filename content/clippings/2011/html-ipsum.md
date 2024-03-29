@@ -1,5 +1,5 @@
 ---
-date: 2011-07-13
+date: 2011-07-13T07:07:28
 lang: en
 tags: [ html, lorem ipsum, placeholders, typography ]
 title: "HTML-Ipsum"

@@ -1,5 +1,5 @@
 ---
-date: 2014-08-16
+date: 2014-08-16T07:07:28
 lang: en
 tags: [ brands, business, checklist, copywriting, creativity, naming, tips ]
 title: "Does Your Name Suck? -- Eat My Words  |  Eat My Words"

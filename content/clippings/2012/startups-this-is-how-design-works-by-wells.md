@@ -1,5 +1,5 @@
 ---
-date: 2012-04-05
+date: 2012-04-05T07:07:28
 lang: en
 tags: [ design, entrepreneur, guide, how to, startups ]
 title: "Startups, This Is How Design Works -- by Wells Riley"

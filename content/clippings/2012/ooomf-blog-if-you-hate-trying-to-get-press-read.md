@@ -1,5 +1,5 @@
 ---
-date: 2012-11-25
+date: 2012-11-25T07:07:28
 lang: en
 tags: [ marketing, media, press, product launch ]
 title: "ooomf Blog: If you hate trying to get press, read this. Now."

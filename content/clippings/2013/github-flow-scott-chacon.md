@@ -1,5 +1,5 @@
 ---
-date: 2013-08-29
+date: 2013-08-29T07:07:28
 lang: en
 tags: [ branch, deployment, development, git, model, workflow ]
 title: "GitHub Flow -- Scott Chacon"

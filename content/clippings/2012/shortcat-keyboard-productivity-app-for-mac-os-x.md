@@ -1,5 +1,5 @@
 ---
-date: 2012-11-08
+date: 2012-11-08T07:07:28
 lang: en
 tags: [ keyboard, os x, productivity, shortcuts ]
 title: "Shortcat -- Keyboard productivity app for Mac OS X"

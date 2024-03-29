@@ -1,5 +1,5 @@
 ---
-date: 2014-06-07
+date: 2014-06-07T07:07:28
 lang: en
 tags: [ best practice, keynote, powerpoint, presentation, slides ]
 title: "(image)"

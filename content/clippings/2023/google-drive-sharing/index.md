@@ -1,5 +1,5 @@
 ---
-date: 2023-10-12
+date: 2023-10-12T10:38:51
 lang: en
 tags: [ security, google drive, guidelines, how to ]
 title: "Share Google Files Securely: The Why and How"

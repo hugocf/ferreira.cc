@@ -1,5 +1,5 @@
 ---
-date: 2013-02-28
+date: 2013-02-28T07:07:28
 lang: en
 tags: [ code, design, development, ios, mobile, photoshop, xcode ]
 title: "Dev Rocket -- Photoshop panel plugin for iOS developers"

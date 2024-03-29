@@ -1,5 +1,5 @@
 ---
-date: 2012-04-02
+date: 2012-04-02T07:07:28
 lang: en
 tags: [ april fools, awesome, comics, design, media responsive, web ]
 title: "Mind-boggling XKCD April Fools comic : comics"

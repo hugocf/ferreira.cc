@@ -1,5 +1,5 @@
 ---
-date: 2009-08-28
+date: 2009-08-28T07:07:28
 lang: en
 tags: [ entitlement, productivity, time, waste ]
 title: "You alone have control over your time"

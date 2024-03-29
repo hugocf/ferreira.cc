@@ -1,5 +1,5 @@
 ---
-date: 2014-02-20
+date: 2014-02-20T07:07:28
 lang: en
 tags: [ business, mobile, platform, scale ]
 title: "Mobile is the next computing platform"

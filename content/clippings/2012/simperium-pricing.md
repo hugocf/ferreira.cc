@@ -1,5 +1,5 @@
 ---
-date: 2012-08-04
+date: 2012-08-04T07:07:28
 lang: en
 tags: [ android, ios, syncing, web ]
 title: "Simperium -- Pricing"

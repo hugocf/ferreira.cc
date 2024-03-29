@@ -1,5 +1,5 @@
 ---
-date: 2023-11-14
+date: 2023-11-14T03:26:34
 lang: en
 tags: [ software, web, html, simplicity, guidelines ]
 title: HTML First

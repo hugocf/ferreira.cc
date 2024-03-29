@@ -1,5 +1,5 @@
 ---
-date: 2014-06-09
+date: 2014-06-09T07:07:28
 lang: en
 tags: [ best practices, code, copywriting, development, error messages, feedback, ux ]
 title: "inessential: Error Messages"

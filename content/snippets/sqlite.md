@@ -1,5 +1,5 @@
 ---
-date: 2023-09-21
+date: 2023-09-21T01:04:35
 lang: en
 tags: [ sqlite, info, tips, tricks, how to ]
 title: SQLite

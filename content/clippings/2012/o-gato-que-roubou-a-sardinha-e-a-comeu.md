@@ -1,5 +1,5 @@
 ---
-date: 2012-11-08
+date: 2012-11-08T07:07:28
 lang: pt
 tags: [ lengalenga, popular, tradition ]
 title: "O gato que roubou a sardinha... e a comeu!"

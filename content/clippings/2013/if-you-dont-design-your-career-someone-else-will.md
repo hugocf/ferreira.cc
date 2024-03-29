@@ -1,5 +1,5 @@
 ---
-date: 2013-01-02
+date: 2013-01-02T07:07:28
 lang: en
 tags: [ careers, focus, goals, jobs, life, passion, planning ]
 title: "If You Don't Design Your Career, Someone Else Will  |  LinkedIn"

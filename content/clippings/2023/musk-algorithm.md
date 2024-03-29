@@ -1,5 +1,5 @@
 ---
-date: 2023-09-26
+date: 2023-09-26T22:16:16
 lang: en
 tags: [ leadership, decisions, priorities, simplicity ]
 title: The Musk Algorithm

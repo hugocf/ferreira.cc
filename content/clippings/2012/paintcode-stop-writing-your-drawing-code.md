@@ -1,5 +1,5 @@
 ---
-date: 2012-04-12
+date: 2012-04-12T07:07:28
 lang: en
 tags: [ automation, code generator, development, graphics, images, ios, mac, osx, vector ]
 title: "PaintCode -- Stop writing your drawing code"

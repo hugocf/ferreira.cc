@@ -1,5 +1,5 @@
 ---
-date: 2012-09-21
+date: 2012-09-21T07:07:28
 lang: en
 tags: [ cordless, hardware, mobile, power, technologies, wireless ]
 title: "How Wireless Electricity Transmission Works -- Wireless Power Consortium"

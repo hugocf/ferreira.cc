@@ -1,5 +1,5 @@
 ---
-date: 2010-12-01
+date: 2010-12-01T07:07:28
 lang: en
 tags: [ negotiation ]
 title: "William Ury: The walk from “no” to “yes”"

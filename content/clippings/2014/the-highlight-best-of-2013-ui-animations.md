@@ -1,5 +1,5 @@
 ---
-date: 2014-01-10
+date: 2014-01-10T07:07:28
 lang: en
 tags: [ animations, design, ios, mobile, ui, ux ]
 title: "The Highlight --- Best of 2013: UI Animations --- Beautiful Pixels"

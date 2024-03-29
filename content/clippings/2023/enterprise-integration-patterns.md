@@ -1,5 +1,5 @@
 ---
-date: 2023-12-01
+date: 2023-12-01T09:25:06
 lang: en
 tags: [ software, architecture, integrations, patterns, reference ]
 title: Enterprise Integration Patterns

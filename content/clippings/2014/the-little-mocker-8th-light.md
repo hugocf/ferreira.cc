@@ -1,5 +1,5 @@
 ---
-date: 2014-06-07
+date: 2014-06-07T07:07:28
 lang: en
 tags: [ dummies, fakes, mocks, spies, stubs, test doubles, unit testing ]
 title: "The Little Mocker  |  8th Light"

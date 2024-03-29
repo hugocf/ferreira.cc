@@ -1,5 +1,5 @@
 ---
-date: 2012-12-16
+date: 2012-12-16T07:07:28
 lang: en
 tags: [ how to, tips, unbounce ]
 title: "07 Page Variants and A/B Testing : Unbounce Answers"

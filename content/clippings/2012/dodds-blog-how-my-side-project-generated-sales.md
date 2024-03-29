@@ -1,5 +1,5 @@
 ---
-date: 2012-04-26
+date: 2012-04-26T07:07:28
 lang: en
 tags: [ ads, entrepreneur, leads, public relations, startups, statistics, traffic, web ]
 title: "Dodd's Blog: How My Side Project Generated Sales and 66,000 Unique Vistors in 1 Month"

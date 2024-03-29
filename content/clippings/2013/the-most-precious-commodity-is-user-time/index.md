@@ -1,5 +1,5 @@
 ---
-date: 2013-12-20
+date: 2013-12-20T07:07:28
 lang: en
 tags: [ ads, business models, cognitive surplus, growth, social media, volume ]
 title: "(image)"

@@ -1,5 +1,5 @@
 ---
-date: 2014-01-13
+date: 2014-01-13T07:07:28
 lang: en
 tags: [ big brother, cartoon, cognitive surplus, history repeating, people, psychology, society ]
 title: "(image)"

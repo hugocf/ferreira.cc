@@ -10,7 +10,7 @@ cover:
   image: sketch-wireframe-mockup-prototype.png
   alt: examples of a sketch, wireframe and mockup, side by side
   caption: "[Sketch](sketch.jpg) &nbsp; ➤ &nbsp; [Wireframe](wireframe.jpg) &nbsp; ➤ &nbsp; [Mockup](mockup.jpg) &nbsp; ➤ &nbsp; [Prototype](prototype.png)"
-date: 2014-03-27
+date: 2014-03-27T22:16:32
 lang: en
 tags: [ software, ui, ux, design, concepts, tools, sketch, wireframe, mockup, prototype ]
 title: UI/UX design artefacts

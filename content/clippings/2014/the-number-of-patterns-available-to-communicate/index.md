@@ -1,5 +1,5 @@
 ---
-date: 2014-03-01
+date: 2014-03-01T07:07:28
 lang: en
 tags: [ best practices, decisions, design patterns, development, ios, mobile, objc, pros vs cons, tutorial ]
 title: "(image)"

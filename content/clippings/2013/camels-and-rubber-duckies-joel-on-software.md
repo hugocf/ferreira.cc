@@ -1,5 +1,5 @@
 ---
-date: 2013-05-02
+date: 2013-05-02T07:07:28
 lang: en
 tags: [ business, economy, pricing, software ]
 title: "Camels and Rubber Duckies -- Joel on Software"

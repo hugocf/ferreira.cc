@@ -1,5 +1,5 @@
 ---
-date: 2008-10-01
+date: 2008-10-01T07:07:28
 lang: en
 tags: [ business, conference ]
 title: "SHiFT 2008"

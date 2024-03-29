@@ -1,5 +1,5 @@
 ---
-date: 2023-09-17
+date: 2023-09-17T11:20:28
 lang: en
 tags: [ software, developement, programming, languages, style guides, naming, conventions, angular, lisp, cpp, csharp, go, html, css, javascript, java, objc, python, r, shell, swift, typescript, vim ]
 title: Google Style Guides

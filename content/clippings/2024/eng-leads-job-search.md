@@ -1,5 +1,5 @@
 ---
-date: 2024-03-18
+date: 2024-03-18T11:08:34
 lang: en
 tags: [ engineering, leadership, recruitment, jobs, how to, reference, explanation ]
 title: "An Engineering Leader's Job Search Algorithm"

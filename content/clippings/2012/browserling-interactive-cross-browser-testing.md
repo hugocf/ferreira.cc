@@ -1,5 +1,5 @@
 ---
-date: 2012-03-20
+date: 2012-03-20T07:07:28
 lang: en
 tags: [ chrome, cross browser, development, firefox, internet explorer, opera, safari, testing, web ]
 title: "browserling -- interactive cross-browser testing"

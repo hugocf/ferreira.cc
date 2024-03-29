@@ -1,5 +1,5 @@
 ---
-date: 2010-09-13
+date: 2010-09-13T07:07:28
 lang: en
 tags: [ business ]
 title: "If you are not paying for it, you're not the customer; you're the"

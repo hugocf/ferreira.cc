@@ -1,5 +1,5 @@
 ---
-date: 2023-10-03
+date: 2023-10-03T22:16:16
 lang: en
 tags: [ tools, ide, programming, javascript ]
 title: Leporello.js

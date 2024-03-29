@@ -1,5 +1,5 @@
 ---
-date: 2023-11-07
+date: 2023-11-07T12:20:41
 lang: en
 tags: [ philosophy, identity, greeks ]
 title: Ship of Theseus

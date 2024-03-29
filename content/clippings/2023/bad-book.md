@@ -1,5 +1,5 @@
 ---
-date: 2023-12-20
+date: 2023-12-20T12:21:46
 lang: en
 tags: [ reading, choices, waste, effectiveness ]
 title: Bad books

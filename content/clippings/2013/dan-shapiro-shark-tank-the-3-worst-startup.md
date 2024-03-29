@@ -1,5 +1,5 @@
 ---
-date: 2013-07-23
+date: 2013-07-23T07:07:28
 lang: en
 tags: [ business, buying, investing, negotiation, selling ]
 title: "Dan Shapiro » Shark Tank: The 3 worst startup mistakes made on TV's best reality show"

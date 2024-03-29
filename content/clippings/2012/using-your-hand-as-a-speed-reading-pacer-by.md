@@ -1,5 +1,5 @@
 ---
-date: 2012-12-05
+date: 2012-12-05T07:07:28
 lang: en
 tags: [ how to, pacing, speed reading, tutorial ]
 title: "Speed reading pacer"

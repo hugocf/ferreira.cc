@@ -1,5 +1,5 @@
 ---
-date: 2014-08-13
+date: 2014-08-13T07:07:28
 lang: en
 tags: [ analysis, design, psychology, ux ]
 title: "(image)"

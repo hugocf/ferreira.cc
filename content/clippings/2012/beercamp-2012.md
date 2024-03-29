@@ -1,5 +1,5 @@
 ---
-date: 2012-04-19
+date: 2012-04-19T07:07:28
 lang: en
 tags: [ 3d, css3, demo, development, example, web ]
 title: "Beercamp 2012"

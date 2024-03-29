@@ -1,7 +1,7 @@
 ---
 aliases:
   - objc
-date: 2014-03-01
+date: 2014-03-01T01:05:12
 lang: en
 tags: [ objc, info, tips, tricks, how to ]
 title: Objective-C

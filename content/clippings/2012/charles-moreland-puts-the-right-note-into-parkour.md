@@ -1,5 +1,5 @@
 ---
-date: 2012-09-03
+date: 2012-09-03T07:07:28
 lang: en
 tags: [ fitness, health, movnat, natural method, parkour, tedx ]
 title: "Charles Moreland on Parkour"

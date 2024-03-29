@@ -1,5 +1,5 @@
 ---
-date: 2010-12-04
+date: 2010-12-04T07:07:28
 lang: en
 tags: [ hardware, macbook, ssd ]
 title: "Remiel: Making the leap to SSD on a MacBook"

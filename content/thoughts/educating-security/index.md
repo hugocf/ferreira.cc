@@ -4,7 +4,7 @@ cover:
   image: chalk-board.png
   alt: father pointing to a slate board with a lock drawn in chalk and his 2 twin sons looking at it, in black and white crayons
   caption: "[DALL·E](https://openai.com/dall-e) — “father pointing to a slate board with a lock drawn in chalk and his 2 twin sons looking at it, in black and white crayons”"
-date: 2019-03-18
+date: 2019-03-18T22:16:38
 lang: en
 source: "[Equal Experts Slack, Hugo Ferreira, 2019-02-21](https://equalexperts.slack.com/archives/C3SE8M0CB/p1550750315004700)"
 tags: [ children, educations, software, security, passwords, schools ]

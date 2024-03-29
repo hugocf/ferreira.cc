@@ -1,5 +1,5 @@
 ---
-date: 2012-06-20
+date: 2012-06-20T07:07:28
 lang: en
 tags: [ diy, ergonomics, standing desk ]
 title: "A standing desk for $22"

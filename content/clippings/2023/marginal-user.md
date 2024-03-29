@@ -1,5 +1,5 @@
 ---
-date: 2023-09-15
+date: 2023-09-15T21:59:14
 lang: en
 tags: [ software, products, metrics, growth, scaling, cobra effect ]
 title: The Tyranny of the Marginal User

@@ -1,5 +1,5 @@
 ---
-date: 2013-12-13
+date: 2013-12-13T07:07:28
 lang: en
 tags: [ computers, history, humility, just do it ]
 title: "(image)"

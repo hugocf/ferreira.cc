@@ -1,5 +1,5 @@
 ---
-date: 2008-09-18
+date: 2008-09-18T07:07:28
 lang: en
 tags: [ business, life balance, outsourcing, virtual assistant ]
 title: "Outsourcing Your Life"

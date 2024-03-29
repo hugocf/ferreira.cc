@@ -1,5 +1,5 @@
 ---
-date: 2015-05-13
+date: 2015-05-13T07:07:28
 lang: en
 tags: [ code, interactive, learning, online, programming, ruby ]
 title: "Learn Ruby with the Neo Ruby Koans"

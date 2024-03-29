@@ -1,5 +1,5 @@
 ---
-date: 2011-08-21
+date: 2011-08-21T07:07:28
 lang: en
 tags: [ browsers, howto, internals, web ]
 title: "How Browsers Work: Behind the Scenes of Modern Web Browsers -- HTML5 Rocks"

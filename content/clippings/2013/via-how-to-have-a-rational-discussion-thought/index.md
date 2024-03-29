@@ -1,5 +1,5 @@
 ---
-date: 2013-02-12
+date: 2013-02-12T07:07:28
 lang: en
 tags: [ debate, discussion, fallacies, flowchart, reason, trolls ]
 title: "(image)"

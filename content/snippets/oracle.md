@@ -1,5 +1,5 @@
 ---
-date: 2005-01-15
+date: 2005-01-15T01:05:07
 lang: en
 tags: [ oracle, info, tips, tricks, how to ]
 title: Oracle

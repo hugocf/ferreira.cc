@@ -1,5 +1,5 @@
 ---
-date: 2023-09-17
+date: 2023-09-17T13:17:40
 lang: en
 tags: [ commics, dates, standards ]
 title: "ISO 8601: Date format"

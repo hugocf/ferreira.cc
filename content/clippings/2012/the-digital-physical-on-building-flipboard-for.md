@@ -1,5 +1,5 @@
 ---
-date: 2012-03-30
+date: 2012-03-30T07:07:28
 lang: en
 tags: [ digital, ebooks, essay, physical, self publishing ]
 title: "The Digital↔Physical: On building Flipboard for iPhone and Finding Edges for Our Digital Narratives --- by Craig Mod"

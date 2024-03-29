@@ -1,5 +1,5 @@
 ---
-date: 2023-12-13
+date: 2023-12-13T17:25:58
 lang: en
 tags: [ machine learning, books, explanation ]
 title: The Little Book of Deep Learning

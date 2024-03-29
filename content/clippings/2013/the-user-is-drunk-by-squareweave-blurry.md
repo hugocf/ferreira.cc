@@ -1,5 +1,5 @@
 ---
-date: 2013-11-22
+date: 2013-11-22T07:07:28
 lang: en
 tags: [ best practices, design, tips, ui, usability, ux ]
 title: "The User is Drunk"

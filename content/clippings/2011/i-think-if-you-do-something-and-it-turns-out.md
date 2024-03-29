@@ -1,5 +1,5 @@
 ---
-date: 2011-08-29
+date: 2011-08-29T07:07:28
 lang: en
 tags: [ goals, motivation, steve jobs ]
 title: "I think if you do something and it turns out pretty good, then you"

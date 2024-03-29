@@ -1,5 +1,5 @@
 ---
-date: 2011-07-12
+date: 2011-07-12T07:07:28
 lang: en
 tags: [ humor, sci fi ]
 title: "Plot Device"

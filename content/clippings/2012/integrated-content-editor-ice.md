@@ -1,5 +1,5 @@
 ---
-date: 2012-01-25
+date: 2012-01-25T07:07:28
 lang: en
 tags: [ collaboration, editor, review, wordpress, workflow ]
 title: "Integrated Content Editor (ICE)"

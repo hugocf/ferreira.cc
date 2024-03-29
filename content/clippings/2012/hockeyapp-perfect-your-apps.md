@@ -1,5 +1,5 @@
 ---
-date: 2012-10-15
+date: 2012-10-15T07:07:28
 lang: en
 tags: [ android, development, framework, ios, os x, support ]
 title: "HockeyApp -- Perfect. Your. Apps."

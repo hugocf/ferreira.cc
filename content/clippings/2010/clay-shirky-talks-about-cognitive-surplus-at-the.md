@@ -1,5 +1,5 @@
 ---
-date: 2010-06-06
+date: 2010-06-06T07:07:28
 lang: en
 tags: [ cognitive surplus, life, social media ]
 title: "Clay Shirky on Cognitive Surplus"

@@ -1,5 +1,5 @@
 ---
-date: 2012-05-10
+date: 2012-05-10T07:07:28
 lang: en
 tags: [ development, framework, javascript, web apps ]
 title: "Meteor -- A new way to build apps."

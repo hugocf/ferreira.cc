@@ -1,5 +1,5 @@
 ---
-date: 2012-02-02
+date: 2012-02-02T07:07:28
 lang: en
 tags: [ entrepreneur, reference, startup, switchboard, tools ]
 title: "Startup Tools  |  Steve Blank"

@@ -1,5 +1,5 @@
 ---
-date: 2019-02-15
+date: 2019-02-15T01:04:41
 lang: en
 tags: [ splunk, info, tips, tricks, how to ]
 title: Splunk

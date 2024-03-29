@@ -1,5 +1,5 @@
 ---
-date: 2023-10-04
+date: 2023-10-04T22:16:16
 lang: en
 tags: [ tools, emojis, ai, generators ]
 title: AI Emoji Generator

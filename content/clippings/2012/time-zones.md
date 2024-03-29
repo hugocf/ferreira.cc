@@ -1,5 +1,5 @@
 ---
-date: 2012-03-23
+date: 2012-03-23T07:07:28
 lang: en
 tags: [ infographic, timezones, visualisation ]
 title: "Time Zones"

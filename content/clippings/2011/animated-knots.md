@@ -1,5 +1,5 @@
 ---
-date: 2011-05-22
+date: 2011-05-22T07:07:28
 lang: en
 tags: [ howto, knots, tutorial ]
 title: "Animated Knots"

@@ -1,5 +1,5 @@
 ---
-date: 2023-09-07
+date: 2023-09-07T21:55:30
 lang: en
 tags: [ software, programming, languages, rust, tutorial ]
 title: "PNGme: An Intermediate Rust Project"

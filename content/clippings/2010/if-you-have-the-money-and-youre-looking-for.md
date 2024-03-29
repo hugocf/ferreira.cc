@@ -1,5 +1,5 @@
 ---
-date: 2010-06-06
+date: 2010-06-06T07:07:28
 lang: en
 tags: [ business, entrepreneur ]
 title: "If you have the money and you're looking for what'll stick, you're a"

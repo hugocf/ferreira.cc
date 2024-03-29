@@ -1,5 +1,5 @@
 ---
-date: 2009-07-17
+date: 2009-07-17T07:07:28
 lang: en
 tags: [ software ]
 title: "Good software ain't cheap and cheap software ain't good"

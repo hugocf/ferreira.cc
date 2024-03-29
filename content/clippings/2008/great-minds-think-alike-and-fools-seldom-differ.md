@@ -1,5 +1,5 @@
 ---
-date: 2008-04-30
+date: 2008-04-30T07:07:28
 lang: en
 tags: [ people ]
 title: "Great minds think alike... and fools seldom differ!"

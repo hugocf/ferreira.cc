@@ -1,5 +1,5 @@
 ---
-date: 2015-06-17
+date: 2015-06-17T01:04:19
 lang: en
 tags: [ wordpress, info, tips, tricks, how to ]
 title: WordPress

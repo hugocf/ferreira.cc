@@ -1,5 +1,5 @@
 ---
-date: 2009-02-11
+date: 2009-02-11T07:07:28
 lang: en
 tags: [ business ]
 title: "OpenSales -- Elevator Pitch"

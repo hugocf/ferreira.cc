@@ -3,7 +3,7 @@ cover:
   relative: true
   image: switch-selector.jpg
   alt: on the left, red switch with a 1 on top, a 0 on the bottom, and turned to the 1 position + on the right a coaxial selector with the input on the bottom, an A and B position of top, and the central nob set to the A position
-date: 2023-05-15
+date: 2023-05-15T22:16:15
 lang: en
 source: "[Springer Nature Slack message, Hugo Ferreira, 2022-07-15](https://springernature.slack.com/archives/C01NT4ECRQ8/p1650618745850389?thread_ts=1650552510.015869&channel=C01NT4ECRQ8&message_ts=1650618745.850389)"
 tags: [ programming, data types, booleans, enumerates, comparison, criterion ]

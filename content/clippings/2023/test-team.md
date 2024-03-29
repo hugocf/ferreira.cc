@@ -1,5 +1,5 @@
 ---
-date: 2023-09-20
+date: 2023-09-20T17:29:36
 lang: en
 tags: [ software, teams, development, testing, automation  ]
 title: "How Big Tech does Quality Assurance (QA)"

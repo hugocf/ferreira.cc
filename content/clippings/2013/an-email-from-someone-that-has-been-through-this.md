@@ -1,5 +1,5 @@
 ---
-date: 2013-02-03
+date: 2013-02-03T07:07:28
 lang: en
 tags: [ best practices, justice, legal, patents, trials, trolls ]
 title: "An email from someone that has been through this « X-Plane"

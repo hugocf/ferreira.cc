@@ -1,5 +1,5 @@
 ---
-date: 2013-12-17
+date: 2013-12-17T07:07:28
 lang: en
 tags: [ best practices, development, learning, method, programming, psychology ]
 title: "(image)"

@@ -1,5 +1,5 @@
 ---
-date: 2011-08-24
+date: 2011-08-24T07:07:28
 lang: en
 tags: [ android, app store, apple, ios, mobile ]
 title: "8 Best Practices for Deploying a Top-Ranked Mobile App"

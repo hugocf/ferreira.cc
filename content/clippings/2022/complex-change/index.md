@@ -1,5 +1,5 @@
 ---
-date: 2022-09-28
+date: 2022-09-28T21:16:09
 lang: en
 tags: [ organisations, change, management, complexity, people, interactions, planning ]
 title: The Lippitt-Knoster Model for Managing Complex Change

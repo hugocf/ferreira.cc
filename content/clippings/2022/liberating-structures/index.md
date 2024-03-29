@@ -1,5 +1,5 @@
 ---
-date: 2022-08-16
+date: 2022-08-16T07:07:28
 lang: en
 tags: [ facilitation, structures, coordination, crowd sourcing, discussions, brainstorming ]
 title: Liberating structures

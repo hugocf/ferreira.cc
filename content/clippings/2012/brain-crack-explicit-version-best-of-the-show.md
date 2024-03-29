@@ -1,5 +1,5 @@
 ---
-date: 2012-05-09
+date: 2012-05-09T07:07:28
 lang: en
 tags: [ entrepreneur, ideas ]
 title: "Brain Crack"

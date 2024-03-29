@@ -1,5 +1,5 @@
 ---
-date: 2009-12-08
+date: 2009-12-08T07:07:28
 lang: en
 tags: [ business ]
 title: "The Bikini Concept: by giving away 90% of the concept, and keeping"

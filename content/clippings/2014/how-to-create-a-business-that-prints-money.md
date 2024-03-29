@@ -1,5 +1,5 @@
 ---
-date: 2014-02-19
+date: 2014-02-19T07:07:28
 lang: en
 tags: [ best practices, business, entrepreneur, focus, ideas, lean, money, pitfalls, startup ]
 title: "How to Create a Business that Prints Money  |  Forever Jobless"

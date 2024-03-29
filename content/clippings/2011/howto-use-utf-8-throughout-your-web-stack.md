@@ -1,5 +1,5 @@
 ---
-date: 2011-08-20
+date: 2011-08-20T07:07:28
 lang: en
 tags: [ encoding, unicode, utf8, web ]
 title: "HOWTO Use UTF-8 Throughout Your Web Stack"

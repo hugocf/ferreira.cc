@@ -1,5 +1,5 @@
 ---
-date: 2014-01-22
+date: 2014-01-22T07:07:28
 lang: en
 tags: [ app, business models, mobile ]
 title: "As a general rule: with IAPs, go big or go home"

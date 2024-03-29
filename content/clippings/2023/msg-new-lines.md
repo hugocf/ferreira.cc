@@ -1,5 +1,5 @@
 ---
-date: 2016-01-10
+date: 2016-01-10T01:02:01
 lang: en
 tags: [ tools, messaging, keyboard, support ]
 title: Newlines in Messaging apps

@@ -1,5 +1,5 @@
 ---
-date: 2013-10-03
+date: 2013-10-03T07:07:28
 lang: en
 tags: [ accounting, business model, consulting, margin, salaries ]
 title: "Unshit yourself!: Quanto ganha a minha Consultora de Tecnologias de Informação?"

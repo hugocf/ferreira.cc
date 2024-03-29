@@ -1,5 +1,5 @@
 ---
-date: 2013-01-10
+date: 2013-01-10T07:07:28
 lang: en
 tags: [ analytics, bad practices, real time, web ]
 title: "Dan McKinley :: Whom the Gods Would Destroy, They First Give Real-time Analytics"

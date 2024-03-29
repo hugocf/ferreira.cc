@@ -1,5 +1,5 @@
 ---
-date: 2013-01-30
+date: 2013-01-30T07:07:28
 lang: en
 tags: [ design, fonts, mono space, typography ]
 title: "Introducing Courier Prime"

@@ -1,5 +1,5 @@
 ---
-date: 2013-08-31
+date: 2013-08-31T07:07:28
 lang: en
 tags: [ competencies, deployment, design, development, ios, mobile ]
 title: "(image)"

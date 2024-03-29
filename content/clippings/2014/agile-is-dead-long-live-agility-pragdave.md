@@ -1,5 +1,5 @@
 ---
-date: 2014-12-11
+date: 2014-12-11T07:07:28
 lang: en
 tags: [ agile, back to basics, best practices, bullshit, buzzwords, concepts, debunking, principles ]
 title: "Agile Is Dead (Long Live Agility) -- PragDave"

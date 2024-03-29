@@ -1,5 +1,5 @@
 ---
-date: 2013-07-15
+date: 2013-07-15T07:07:28
 lang: en
 tags: [ empathy, humanity, life, peace, road rage, tolerance ]
 title: "Sam Richards -- A Radical Experiment in Empathy"

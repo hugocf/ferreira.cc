@@ -1,5 +1,5 @@
 ---
-date: 2013-12-10
+date: 2013-12-10T07:07:28
 lang: en
 tags: [ computing, math, scalability, theory ]
 title: "(image)"

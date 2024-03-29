@@ -1,5 +1,5 @@
 ---
-date: 2015-01-03
+date: 2015-01-03T07:07:28
 lang: en
 tags: [ best practices, cognitive theory, complexity theory, emergent practices, good practices, knowledge management, novel practices ]
 title: "The Cynefin Framework"

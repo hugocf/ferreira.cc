@@ -1,5 +1,5 @@
 ---
-date: 2010-10-25
+date: 2010-10-25T07:07:28
 lang: en
 tags: [ clippings, motivation, productivity ]
 title: "Tim Ferriss: Smash fear, learn anything"

@@ -1,5 +1,5 @@
 ---
-date: 2012-07-29
+date: 2012-07-29T07:07:28
 lang: en
 tags: [ 3 tier, architecture, best practices, design patterns, development, mvc, mvp, software ]
 title: "Interactive Application Architecture Patterns"

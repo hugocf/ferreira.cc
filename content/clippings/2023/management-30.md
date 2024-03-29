@@ -1,5 +1,5 @@
 ---
-date: 2023-08-24
+date: 2023-08-24T07:07:28
 lang: en
 tags: [ management, structures, feedback, brainstorming, measuring, culture, organisations ]
 title: Management 3.0 practices

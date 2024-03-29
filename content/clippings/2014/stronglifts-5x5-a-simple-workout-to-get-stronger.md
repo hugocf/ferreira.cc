@@ -1,5 +1,5 @@
 ---
-date: 2014-06-18
+date: 2014-06-18T07:07:28
 lang: en
 tags: [ gym, health, routine, strength, workout ]
 title: "StrongLifts 5×5: A Simple Workout To Get Stronger"

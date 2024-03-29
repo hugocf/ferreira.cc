@@ -1,5 +1,5 @@
 ---
-date: 2013-03-20
+date: 2013-03-20T07:07:28
 lang: en
 tags: [ best practices, learning, memory, spaced repetition, techniques ]
 title: "(image)"

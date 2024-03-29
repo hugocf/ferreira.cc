@@ -1,5 +1,5 @@
 ---
-date: 2015-01-02
+date: 2015-01-02T07:07:28
 lang: en
 tags: [ color, design, development, mental model, programming ]
 title: "HSL Color"

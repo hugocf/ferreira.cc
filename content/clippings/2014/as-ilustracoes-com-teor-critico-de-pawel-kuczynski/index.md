@@ -1,5 +1,5 @@
 ---
-date: 2014-07-28
+date: 2014-07-28T07:07:28
 lang: en
 tags: [ art, criticism, illustration, politics, social media ]
 title: "(image)"

@@ -1,5 +1,5 @@
 ---
-date: 2023-04-17
+date: 2023-04-17T20:58:27
 lang: en
 source: "[Equal Experts Blogin comment, Hugo Ferreira, 2023-03-08](https://equalexperts.blogin.co/posts/sharing-ways-to-reduce-information-overload-201881#c227732)"
 tags: [ communications, productivity, inboxes, clutter, overwhelm, how to, explanation ]

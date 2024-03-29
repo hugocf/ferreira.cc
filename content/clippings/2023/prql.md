@@ -1,5 +1,5 @@
 ---
-date: 2023-10-26
+date: 2023-10-26T09:52:16
 lang: en
 tags: [ tools, programming, databases, sql, generators ]
 title: PRQL - Pipelined Relational Query Language

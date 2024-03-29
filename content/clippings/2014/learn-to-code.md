@@ -1,5 +1,5 @@
 ---
-date: 2014-01-16
+date: 2014-01-16T07:07:28
 lang: en
 tags: [ code, development, languages, learning, online, programming ]
 title: "Learn to Code"

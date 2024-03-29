@@ -1,5 +1,5 @@
 ---
-date: 2014-06-25
+date: 2014-06-25T07:07:28
 lang: en
 tags: [ brasil, design, evolution, football, history, logo ]
 title: "(image)"

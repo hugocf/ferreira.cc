@@ -1,5 +1,5 @@
 ---
-date: 2013-10-26
+date: 2013-10-26T07:07:28
 lang: en
 tags: [ attitude, fate, life ]
 title: "It matters not how strait the gate,"

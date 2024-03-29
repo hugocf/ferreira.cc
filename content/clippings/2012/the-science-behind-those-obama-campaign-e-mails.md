@@ -1,5 +1,5 @@
 ---
-date: 2012-12-03
+date: 2012-12-03T07:07:28
 lang: en
 tags: [ ab testing, best practices, email marketing, example, obama ]
 title: "The Science Behind Those Obama Campaign E-Mails -- Businessweek"

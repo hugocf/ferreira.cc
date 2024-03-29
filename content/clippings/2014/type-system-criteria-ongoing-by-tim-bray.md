@@ -1,5 +1,5 @@
 ---
-date: 2014-01-24
+date: 2014-01-24T07:07:28
 lang: en
 tags: [ best practices, development, languages, programming, software, type systems ]
 title: "Type-System Criteria · ongoing by Tim Bray"

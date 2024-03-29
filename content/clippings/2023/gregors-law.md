@@ -1,5 +1,5 @@
 ---
-date: 2023-08-14
+date: 2023-08-14T07:07:28
 lang: en
 tags: [ software, architecture, complexity, focus, decision making ]
 title: Gregor’s Law

@@ -1,5 +1,5 @@
 ---
-date: 2013-10-03
+date: 2013-10-03T07:07:28
 lang: en
 tags: [ business development, business ideas, lean startup, market research ]
 title: "8 Steps to Choosing the Right Market for You"

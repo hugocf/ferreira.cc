@@ -1,5 +1,5 @@
 ---
-date: 2011-08-31
+date: 2011-08-31T07:07:28
 lang: en
 tags: [ notebooks, notes, organisation, paper ]
 title: "Notes About Notes: Making Better Notes"

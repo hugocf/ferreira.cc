@@ -1,5 +1,5 @@
 ---
-date: 2011-10-26
+date: 2011-10-26T07:07:28
 lang: en
 tags: [ api, development, versioning, web ]
 title: "Web API Versioning Smackdown  |  mnot's blog"

@@ -1,5 +1,5 @@
 ---
-date: 2020-06-18
+date: 2020-06-18T01:04:38
 lang: en
 tags: [ spring-boot, info, tips, tricks, how to ]
 title: Spring Boot

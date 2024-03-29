@@ -1,5 +1,5 @@
 ---
-date: 2013-10-02
+date: 2013-10-02T07:07:28
 lang: en
 tags: [ best practices, development, ios, objc, osx, xcode ]
 title: "newfoo: Good Practices for Big iPhone Projects"

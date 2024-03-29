@@ -1,5 +1,5 @@
 ---
-date: 2015-05-02
+date: 2015-05-02T07:07:28
 lang: en
 tags: [ development, efficiency, tools, web ]
 title: "BrowserSync -- Time-saving synchronised browser testing"

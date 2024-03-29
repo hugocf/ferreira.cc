@@ -1,5 +1,5 @@
 ---
-date: 2013-01-08
+date: 2013-01-08T07:07:28
 lang: en
 tags: [ best practices, code, development, php, reference ]
 title: "PHP: The Right Way"

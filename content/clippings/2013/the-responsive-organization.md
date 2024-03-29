@@ -1,5 +1,5 @@
 ---
-date: 2013-09-24
+date: 2013-09-24T07:07:28
 lang: en
 tags: [ companies, cooperation, enterprise, organization, social, team dynamics ]
 title: "The Responsive Organization"

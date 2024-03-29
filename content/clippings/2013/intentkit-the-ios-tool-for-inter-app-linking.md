@@ -1,5 +1,5 @@
 ---
-date: 2013-12-19
+date: 2013-12-19T07:07:28
 lang: en
 tags: [ development, ios, library, mobile, objc ]
 title: "IntentKit --- The iOS tool for inter-app linking"

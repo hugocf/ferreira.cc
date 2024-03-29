@@ -1,5 +1,5 @@
 ---
-date: 2013-09-30
+date: 2013-09-30T07:07:28
 lang: en
 tags: [ best practices, history, mvp, product design ]
 title: "High Scalability -- Expandability: Steve Wozniak's Biggest Success and Nolan Bushnell's Biggest Regret"

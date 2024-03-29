@@ -1,5 +1,5 @@
 ---
-date: 2023-08-10
+date: 2023-08-10T12:50:24
 lang: en
 tags: [ technology, health, lifehacks, explanation ]
 title: Using AirPods as a Hearing Aid

@@ -1,5 +1,5 @@
 ---
-date: 2013-12-20
+date: 2013-12-20T07:07:28
 lang: en
 tags: [ companies, holistic, management, organisation, peer to peer, teams ]
 title: "How Medium Is Building a New Kind of Company with No Managers"

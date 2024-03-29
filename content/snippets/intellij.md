@@ -1,5 +1,5 @@
 ---
-date: 2022-05-06
+date: 2022-05-06T01:03:51
 lang: en
 tags: [ intellij, info, tips, tricks, how to ]
 title: IntelliJ

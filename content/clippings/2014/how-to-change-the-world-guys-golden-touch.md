@@ -1,5 +1,5 @@
 ---
-date: 2014-01-22
+date: 2014-01-22T07:07:28
 lang: en
 tags: [ best practices, evangelization, marketing, products, quality ]
 title: "How to Change the World: Guy's Golden Touch"

@@ -1,5 +1,5 @@
 ---
-date: 2014-03-23
+date: 2014-03-23T07:07:28
 lang: en
 tags: [ age, entrepreneur, experience, never say never, startups ]
 title: "(image)"

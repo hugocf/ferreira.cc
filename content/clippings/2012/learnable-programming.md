@@ -1,5 +1,5 @@
 ---
-date: 2012-10-23
+date: 2012-10-23T07:07:28
 lang: en
 tags: [ code, learning, programming, tools ]
 title: "Learnable Programming"

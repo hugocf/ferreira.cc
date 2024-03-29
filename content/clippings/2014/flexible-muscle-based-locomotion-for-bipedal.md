@@ -1,5 +1,5 @@
 ---
-date: 2014-01-17
+date: 2014-01-17T07:07:28
 lang: en
 tags: [ artificial intelligence, evolution, genetic algorithms, learning, neural networks, simulation ]
 title: "Flexible Muscle-Based Locomotion for Bipedal Creatures"

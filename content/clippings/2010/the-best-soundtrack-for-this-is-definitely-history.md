@@ -1,5 +1,5 @@
 ---
-date: 2010-06-19
+date: 2010-06-19T07:07:28
 lang: en
 tags: [ environment, greed ]
 title: "History Repeating -- Propellerheads & Shirley Bassey"

@@ -1,5 +1,5 @@
 ---
-date: 2008-10-02
+date: 2008-10-02T07:07:28
 lang: en
 tags: [ humor ]
 title: "Hate to see you leave, but love to watch you walk away"

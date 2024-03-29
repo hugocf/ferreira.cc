@@ -1,5 +1,5 @@
 ---
-date: 2012-07-10
+date: 2012-07-10T07:07:28
 lang: en
 tags: [ best practices, guide, patterns, reference, touch ]
 title: "LukeW  |  Touch Gesture Reference Guide"

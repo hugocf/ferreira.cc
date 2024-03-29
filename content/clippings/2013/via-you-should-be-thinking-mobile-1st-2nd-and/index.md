@@ -1,5 +1,5 @@
 ---
-date: 2013-10-04
+date: 2013-10-04T07:07:28
 lang: en
 tags: [ business development, marketing, mobile, product development, smartphones ]
 title: "(image)"

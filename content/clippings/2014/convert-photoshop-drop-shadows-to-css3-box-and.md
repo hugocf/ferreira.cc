@@ -1,5 +1,5 @@
 ---
-date: 2014-02-19
+date: 2014-02-19T07:07:28
 lang: en
 tags: [ converter, css3, design, development, photoshop, psd, tools, web ]
 title: "Convert Photoshop Drop Shadows to CSS3 Box and Text Shadows"

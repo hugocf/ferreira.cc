@@ -1,5 +1,5 @@
 ---
-date: 2012-10-12
+date: 2012-10-12T07:07:28
 lang: en
 tags: [ crm, marketing, statistics, web ]
 title: "Real Time Web Analytics, Live Chat, and Web Statistics -- Woopra"

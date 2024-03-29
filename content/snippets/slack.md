@@ -1,5 +1,5 @@
 ---
-date: 2019-05-21
+date: 2019-05-21T11:44:27
 lang: en
 tags: [ slack, info, tips, tricks, how to ]
 title: Slack

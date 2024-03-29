@@ -1,5 +1,5 @@
 ---
-date: 2012-01-21
+date: 2012-01-21T07:07:28
 lang: en
 tags: [ design, development, ios, testing, tools ]
 title: "xScope"

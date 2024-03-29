@@ -1,5 +1,5 @@
 ---
-date: 2013-05-10
+date: 2013-05-10T07:07:28
 lang: en
 tags: [ apps, best of, business, pricing, software, tips ]
 title: "Thoughts And Articles On Pricing  |  Software Indie"

@@ -1,5 +1,5 @@
 ---
-date: 2012-09-19
+date: 2012-09-19T07:07:28
 lang: en
 tags: [ app, browser, web ]
 title: "UNHOSTED -- Freedom from web 2.0's monopoly platforms"

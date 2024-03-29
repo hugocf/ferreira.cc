@@ -1,5 +1,5 @@
 ---
-date: 2009-05-20
+date: 2009-05-20T07:07:28
 lang: en
 tags: [ life ]
 title: "Listening to Sting on my ipod watching the world go by -- literally"

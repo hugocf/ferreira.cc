@@ -1,5 +1,5 @@
 ---
-date: 2013-05-31
+date: 2013-05-31T07:07:28
 lang: pt
 tags: [ dictionary, fun, humor, portugues ]
 title: "Dicionário algarvio de termos e dizeres do Algarve (já com o novo acordo ortográfico)  |  Vitor Madeira"

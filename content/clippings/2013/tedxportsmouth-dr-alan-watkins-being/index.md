@@ -1,5 +1,5 @@
 ---
-date: 2013-07-15
+date: 2013-07-15T07:07:28
 lang: en
 tags: [ hapiness, lecture, life balance, performance, productivity, stress ]
 title: "(image)"

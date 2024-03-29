@@ -1,5 +1,5 @@
 ---
-date: 2013-12-10
+date: 2013-12-10T07:07:28
 lang: en
 tags: [ architecture, best practices, development, devops, software, web app ]
 title: "The Twelve-Factor App"

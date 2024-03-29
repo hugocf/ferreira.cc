@@ -1,5 +1,5 @@
 ---
-date: 2013-07-02
+date: 2013-07-02T07:07:28
 lang: en
 tags: [ best practices, design, history, principles ]
 title: "Dieter Rams: Design by Vitsœ"

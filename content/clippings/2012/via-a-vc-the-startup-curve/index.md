@@ -1,5 +1,5 @@
 ---
-date: 2012-03-24
+date: 2012-03-24T07:07:28
 lang: en
 tags: [ chart, entrepreneur, growth, startup ]
 title: "(image)"

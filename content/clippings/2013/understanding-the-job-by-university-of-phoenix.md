@@ -1,5 +1,5 @@
 ---
-date: 2013-12-11
+date: 2013-12-11T07:07:28
 lang: en
 tags: [ custdev, jtbd, market fit, marketing, products ]
 title: "Understanding the Job [To Be Done]"

@@ -1,5 +1,5 @@
 ---
-date: 2013-10-15
+date: 2013-10-15T07:07:28
 lang: en
 tags: [ distribution, economy, equality, money, social, society, wealth ]
 title: "9 Out Of 10 Americans Are Completely Wrong About This Mind-Blowing Fact"

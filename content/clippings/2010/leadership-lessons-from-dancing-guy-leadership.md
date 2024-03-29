@@ -1,5 +1,5 @@
 ---
-date: 2010-05-09
+date: 2010-05-09T07:07:28
 lang: en
 tags: [ leadership ]
 title: "Leadership Lessons from Dancing Guy"

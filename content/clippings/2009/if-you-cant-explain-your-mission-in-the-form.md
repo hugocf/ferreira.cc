@@ -1,5 +1,5 @@
 ---
-date: 2009-11-02
+date: 2009-11-02T07:07:28
 lang: en
 tags: [ business ]
 title: "... if you can't explain your mission in the form, \"We help"

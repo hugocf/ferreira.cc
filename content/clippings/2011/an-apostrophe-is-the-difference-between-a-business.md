@@ -1,5 +1,5 @@
 ---
-date: 2011-08-19
+date: 2011-08-19T07:07:28
 lang: en
 tags: [ business, english, grammar ]
 title: "An apostrophe is the difference between a business that knows its shit"

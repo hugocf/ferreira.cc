@@ -1,5 +1,5 @@
 ---
-date: 2023-08-15
+date: 2023-08-15T12:50:24
 lang: en
 tags: [ security, obscurity, user tracking ]
 title: "User enumeration: what it is and why it matters"

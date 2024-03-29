@@ -1,5 +1,5 @@
 ---
-date: 2014-06-18
+date: 2014-06-18T07:07:28
 lang: en
 tags: [ best practices, pricing, psychology, strategies, tips, tricks ]
 title: "10 Surprising Pricing Strategies That Can Boost Sales"

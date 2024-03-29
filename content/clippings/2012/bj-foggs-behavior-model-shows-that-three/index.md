@@ -1,5 +1,5 @@
 ---
-date: 2012-05-15
+date: 2012-05-15T07:07:28
 lang: en
 tags: [ behaviour, business, design, people, psychology, technology ]
 title: "(image)"

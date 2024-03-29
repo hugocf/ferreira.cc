@@ -1,5 +1,5 @@
 ---
-date: 2013-06-06
+date: 2013-06-06T07:07:28
 lang: en
 tags: [ design, ios, mobile, mockup, prototype, quartz composer ]
 title: "Quartz Composer for iOS -- Joris Kluivers"

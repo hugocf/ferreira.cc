@@ -1,5 +1,5 @@
 ---
-date: 2024-02-29
+date: 2024-02-29T10:42:48
 lang: en
 tags: [ maths, trips, calendar, algorithms ]
 title: RoadTrip, MathsJam 2023

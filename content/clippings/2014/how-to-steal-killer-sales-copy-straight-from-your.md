@@ -1,5 +1,5 @@
 ---
-date: 2014-01-22
+date: 2014-01-22T07:07:28
 lang: en
 tags: [ best practices, conversion, copywriting, inspiration, marketing, sales, writing ]
 title: "How to Steal Killer Sales Copy Straight from Your Prospects' Mouths"

@@ -1,5 +1,5 @@
 ---
-date: 2012-03-19
+date: 2012-03-19T07:07:28
 lang: en
 tags: [ agency, design, freelancers, hire, human resources, talent ]
 title: "Vitamin T : The talent agency for digital creatives"

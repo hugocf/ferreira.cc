@@ -1,5 +1,5 @@
 ---
-date: 2013-04-21
+date: 2013-04-21T07:07:28
 lang: en
 tags: [ analysis, bad practices, best practices, reports, statistics ]
 title: "73.6% of all Statistics are Made Up --- How to Interpret Analysts Reports"

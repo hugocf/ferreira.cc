@@ -1,5 +1,5 @@
 ---
-date: 2014-02-05
+date: 2014-02-05T07:07:28
 lang: en
 tags: [ 70s, 80s, fashion, history ]
 title: "(image)"

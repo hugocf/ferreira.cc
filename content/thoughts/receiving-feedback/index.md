@@ -1,5 +1,5 @@
 ---
-date: 2023-04-10
+date: 2023-04-10T07:07:28
 lang: en
 source: "[Equal Experts Blogin post, Hugo Ferreira, 2019-04-18](https://equalexperts.blogin.co/posts/65986)"
 tags: [ guidelines, feedback, compassion, empathy, ego ]

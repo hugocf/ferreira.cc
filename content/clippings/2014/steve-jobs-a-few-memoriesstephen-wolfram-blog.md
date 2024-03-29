@@ -1,5 +1,5 @@
 ---
-date: 2014-08-16
+date: 2014-08-16T07:07:28
 lang: en
 tags: [ business, copywriting, creativity, naming, tips ]
 title: "Steve Jobs: A Few Memories---Stephen Wolfram Blog"

@@ -1,5 +1,5 @@
 ---
-date: 2013-12-12
+date: 2013-12-12T07:07:28
 lang: en
 tags: [ analysis, bdd, custdev, development, job stories, jobs to be done, jtbd, personas, requirements, software, specifications, user stories, ux ]
 title: "(image)"

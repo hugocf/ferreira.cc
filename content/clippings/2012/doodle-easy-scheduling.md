@@ -1,5 +1,5 @@
 ---
-date: 2012-10-19
+date: 2012-10-19T07:07:28
 lang: en
 tags: [ events, meetings, schedule, service, teams, web ]
 title: "Doodle: easy scheduling"

@@ -1,5 +1,5 @@
 ---
-date: 2013-12-28
+date: 2013-12-28T07:07:28
 lang: en
 tags: [ developers, people, programmers, relativity ]
 title: "Who is a Good Programmer? « Ed Weissman"

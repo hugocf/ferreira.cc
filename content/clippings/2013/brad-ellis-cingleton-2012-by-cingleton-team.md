@@ -1,5 +1,5 @@
 ---
-date: 2013-06-07
+date: 2013-06-07T07:07:28
 lang: en
 tags: [ colors, contrast, design, math, profiles, roles, skills ]
 title: "Team self-assessment skills"

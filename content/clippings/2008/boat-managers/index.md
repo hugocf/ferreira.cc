@@ -1,5 +1,5 @@
 ---
-date: 2008-09-10
+date: 2008-09-10T07:07:28
 lang: en
 tags: [ boat, humor, management, managers, self, workers ]
 title: "Boat Managers"

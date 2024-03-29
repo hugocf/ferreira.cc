@@ -1,5 +1,5 @@
 ---
-date: 2011-10-20
+date: 2011-10-20T07:07:28
 lang: en
 tags: [ bullshit, generator, marketing, web ]
 title: "web economy bullshit generator"

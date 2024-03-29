@@ -1,5 +1,5 @@
 ---
-date: 2008-07-16
+date: 2008-07-16T07:07:28
 lang: en
 tags: [ humor ]
 title: "George Carlin’s essential stuff"

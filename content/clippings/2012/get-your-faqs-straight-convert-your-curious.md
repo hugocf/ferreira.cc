@@ -1,5 +1,5 @@
 ---
-date: 2012-11-25
+date: 2012-11-25T07:07:28
 lang: en
 tags: [ app, best practices, help, services, support, web ]
 title: "Get Your FAQs Straight: Convert Your Curious Customers"

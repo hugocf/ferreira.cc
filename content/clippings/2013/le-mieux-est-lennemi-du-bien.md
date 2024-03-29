@@ -1,5 +1,5 @@
 ---
-date: 2013-07-18
+date: 2013-07-18T07:07:28
 lang: en
 tags: [ best practices, focus, popular, results oriented, saying ]
 title: "Le mieux est l'ennemi du bien"

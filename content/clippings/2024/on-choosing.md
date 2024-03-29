@@ -1,5 +1,5 @@
 ---
-date: 2024-01-01
+date: 2024-01-01T19:08:13
 lang: en
 tags: [ decisions, choosing, criteria ]
 title: "On choosing a college | Seth's Blog"

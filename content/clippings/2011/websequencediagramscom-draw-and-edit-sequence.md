@@ -1,5 +1,5 @@
 ---
-date: 2011-08-16
+date: 2011-08-16T07:07:28
 lang: en
 tags: [ generator, sequence diagrams, uml ]
 title: "WebSequenceDiagrams.com -- Draw and Edit Sequence Diagrams in seconds"

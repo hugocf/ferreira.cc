@@ -1,5 +1,5 @@
 ---
-date: 2013-08-06
+date: 2013-08-06T07:07:28
 lang: en
 tags: [ android, design, development, fragmentation, ios, mobile ]
 title: "(image)"

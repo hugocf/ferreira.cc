@@ -1,5 +1,5 @@
 ---
-date: 2011-03-14
+date: 2011-03-14T07:07:28
 lang: en
 tags: [ google apps, migration ]
 title: "You can restart the transition by visiting the following URL"

@@ -1,5 +1,5 @@
 ---
-date: 2024-03-22
+date: 2024-03-22T21:13:30
 lang: en
 tags: [ observability, open telemetry, facebook, best practices ]
 title: "All you need is Wide Events, not “Metrics, Logs and Traces”"

@@ -1,5 +1,5 @@
 ---
-date: 2014-01-06
+date: 2014-01-06T07:07:28
 lang: en
 tags: [ best practices, code review, development, pairing, teams ]
 title: "Pairing vs. Code Review: Comparing Developer Cultures"

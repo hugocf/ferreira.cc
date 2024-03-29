@@ -1,5 +1,5 @@
 ---
-date: 2012-09-23
+date: 2012-09-23T07:07:28
 lang: en
 tags: [ accessiblity, development, ios, tips ]
 title: "The Blind Shooting The Blind ∵ Stephen van Egmond's weblog"

@@ -1,5 +1,5 @@
 ---
-date: 2012-02-06
+date: 2012-02-06T07:07:28
 lang: en
 tags: [ art, attitude, life ]
 title: "Art is anything that's creative, passionate, and personal"

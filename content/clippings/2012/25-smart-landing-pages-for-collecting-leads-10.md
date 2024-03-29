@@ -1,5 +1,5 @@
 ---
-date: 2012-08-16
+date: 2012-08-16T07:07:28
 lang: en
 tags: [ best practices, conversion, design, landing pages ]
 title: "25 Smart Landing Pages for Collecting Leads [10 Tips for Your Next Page] | Unbounce"

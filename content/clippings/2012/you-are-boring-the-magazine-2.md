@@ -1,5 +1,5 @@
 ---
-date: 2012-11-26
+date: 2012-11-26T07:07:28
 lang: en
 tags: [ life, listening, people ]
 title: "You Are Boring --- The Magazine"

@@ -1,5 +1,5 @@
 ---
-date: 2013-12-09
+date: 2013-12-09T07:07:28
 lang: en
 tags: [ communication, networking, people, serendipity, social ]
 title: "Accelerating serendipity --- Makeshift Thoughts --- Medium"

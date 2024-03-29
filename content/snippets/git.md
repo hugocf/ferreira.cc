@@ -1,5 +1,5 @@
 ---
-date: 2020-10-12
+date: 2020-10-12T01:03:51
 lang: en
 tags: [ git, info, tips, tricks, how to ]
 title: Git

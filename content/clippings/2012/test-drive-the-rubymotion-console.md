@@ -1,5 +1,5 @@
 ---
-date: 2012-05-09
+date: 2012-05-09T07:07:28
 lang: en
 tags: [ console, demo, development, ios, ruby ]
 title: "Test Drive the RubyMotion Console"

@@ -1,5 +1,5 @@
 ---
-date: 2012-04-09
+date: 2012-04-09T07:07:28
 lang: en
 tags: [ art, intervention, photography, social ]
 title: "JR's TED Prize wish: Use art to turn the world inside out"

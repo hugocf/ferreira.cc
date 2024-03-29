@@ -1,5 +1,5 @@
 ---
-date: 2012-08-30
+date: 2012-08-30T07:07:28
 lang: en
 tags: [ business models, entrepreneur, freemium ]
 title: "Redeye VC: The Penny Gap"

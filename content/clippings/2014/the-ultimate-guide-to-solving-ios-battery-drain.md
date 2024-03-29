@@ -1,5 +1,5 @@
 ---
-date: 2014-04-07
+date: 2014-04-07T07:07:28
 lang: en
 tags: [ advice, battery, best practices, ios, tips ]
 title: "The Ultimate Guide to Solving iOS Battery Drain --- Overthought"

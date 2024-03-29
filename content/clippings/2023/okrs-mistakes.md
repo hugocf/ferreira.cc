@@ -1,5 +1,5 @@
 ---
-date: 2023-09-18
+date: 2023-09-18T12:21:46
 lang: en
 tags: [ productivity, plannings, goals, outcomes, pitfalls ]
 title: "Hate OKRs? Avoid these 7 mistakes"

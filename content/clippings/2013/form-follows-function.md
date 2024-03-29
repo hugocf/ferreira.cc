@@ -1,5 +1,5 @@
 ---
-date: 2013-12-28
+date: 2013-12-28T07:07:28
 lang: en
 tags: [ design, motto, principles ]
 title: "Form follows function"

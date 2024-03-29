@@ -1,5 +1,5 @@
 ---
-date: 2012-12-05
+date: 2012-12-05T07:07:28
 lang: en
 tags: [ guides, how to, reading, speed ]
 title: "Bulk Fiction: Speed Reading for Writers  |  Evelyn Wood Reading Dynamics"

@@ -1,5 +1,5 @@
 ---
-date: 2013-11-09
+date: 2013-11-09T07:07:28
 lang: en
 tags: [ dns, domains, ip, propagation, tools ]
 title: "OpenDNS > Support > CacheCheck"

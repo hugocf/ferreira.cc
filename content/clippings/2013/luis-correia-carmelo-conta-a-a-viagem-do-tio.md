@@ -1,5 +1,5 @@
 ---
-date: 2013-10-21
+date: 2013-10-21T07:07:28
 lang: pt
 tags: [ contos, historias, lengalenga, tradicional ]
 title: "A Viagem do Tio Armindo, por Luis Correia Carmelo"

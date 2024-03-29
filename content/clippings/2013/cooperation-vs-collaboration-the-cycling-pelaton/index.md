@@ -1,5 +1,5 @@
 ---
-date: 2013-09-01
+date: 2013-09-01T07:07:28
 lang: en
 tags: [ collaboration, cooperation, enterprise, organic ]
 title: "(image)"

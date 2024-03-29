@@ -1,5 +1,5 @@
 ---
-date: 2015-02-22
+date: 2015-02-22T07:07:28
 lang: en
 tags: [ common sense, cultura geral, culture, generalist, knowledge, learning, life, specialist ]
 title: "Try to learn something about everything and everything about"

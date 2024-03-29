@@ -1,5 +1,5 @@
 ---
-date: 2012-12-04
+date: 2012-12-04T07:07:28
 lang: en
 tags: [ apple, business, experience, ikea, model, retail ]
 title: "What retail is hired to do: Apple vs. IKEA  |  asymco"

@@ -6,7 +6,7 @@ cover:
   image: mural-lima-peru.jpg
   alt: a mural depicting people gathered in a dimly lit room, showcasing unity and diversity
   caption: "[Photo](https://unsplash.com/photos/3-men-and-2-women-smiling-1gh6oD6aDhs) by [Miles Peacock](https://unsplash.com/@milesypea) on [Unsplash](https://unsplash.com/)"
-date: 2023-11-06
+date: 2023-11-06T20:40:11
 lang: en
 tags: [ diversity, inclusion, relationships, recruitment, transformation ]
 title: "Diversity and Inclusion: Reflections on Empathy, Hiring, and Transformation"

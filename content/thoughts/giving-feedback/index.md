@@ -4,7 +4,7 @@ cover:
   image: eye-hammer-question.jpeg
   alt: an eye, a hammer and question mark, side-by-side next to each other in graffiti style
   caption: "[Image Creator from Microsoft Bing](https://www.bing.com/images/create) — “an eye, a hammer and question mark, side-by-side in random painting art styles”"
-date: 2023-06-13
+date: 2023-06-13T21:41:24
 lang: en
 tags: [ guidelines, feedback, observing, compassion, behaviours, feelings, needs ]
 title: Speaking or communicating? Easily recall how to give good feedback

@@ -1,5 +1,5 @@
 ---
-date: 2023-10-20
+date: 2023-10-20T02:14:07
 lang: en
 tags: [ organisations, remote, ways of working, management, meetings, effectiveness ]
 title: "The three D’s of meetings"

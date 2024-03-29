@@ -1,5 +1,5 @@
 ---
-date: 2012-07-29
+date: 2012-07-29T07:07:28
 lang: en
 tags: [ 3 tier, architecture, best practices, development, mvc, software ]
 title: "(image)"

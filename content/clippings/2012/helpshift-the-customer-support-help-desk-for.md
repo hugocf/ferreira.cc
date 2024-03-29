@@ -1,5 +1,5 @@
 ---
-date: 2012-10-30
+date: 2012-10-30T07:07:28
 lang: en
 tags: [ android, development, feedback, ios, mobile, support ]
 title: "Helpshift  |  The customer support help desk for native apps"

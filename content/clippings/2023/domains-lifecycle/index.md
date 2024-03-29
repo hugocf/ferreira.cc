@@ -1,5 +1,5 @@
 ---
-date: 2023-09-23
+date: 2023-09-23T17:16:16
 lang: en
 tags: [ domains, lifecycle, workflow, visualisations ]
 title: Life Cycle of a Typical gTLD Domain Name

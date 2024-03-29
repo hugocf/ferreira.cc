@@ -1,5 +1,5 @@
 ---
-date: 2015-06-17
+date: 2015-06-17T01:05:01
 lang: en
 tags: [ php, info, tips, tricks, how to ]
 title: PHP

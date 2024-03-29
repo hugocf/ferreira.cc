@@ -1,5 +1,5 @@
 ---
-date: 2013-03-19
+date: 2013-03-19T07:07:28
 lang: en
 tags: [ best practices, email, marketing, open rates, subject ]
 title: "Writing Email Subject Lines: 6 Ways to Improve Your Open Rate -- Copywriting by Copy Hackers"

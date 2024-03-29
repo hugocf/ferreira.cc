@@ -1,5 +1,5 @@
 ---
-date: 2011-03-15
+date: 2011-03-15T07:07:28
 lang: en
 tags: [ approval, business, development, entrepreneur, ios, mobile, statistics ]
 title: "The Paradox of Portuguese Entrepreneurship"

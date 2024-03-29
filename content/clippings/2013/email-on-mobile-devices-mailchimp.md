@@ -1,5 +1,5 @@
 ---
-date: 2013-03-18
+date: 2013-03-18T07:07:28
 lang: en
 tags: [ best practices, design, email, marketing, mobile, reading ]
 title: "Email on Mobile Devices  |  MailChimp"

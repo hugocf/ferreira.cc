@@ -1,5 +1,5 @@
 ---
-date: 2012-07-06
+date: 2012-07-06T07:07:28
 lang: en
 tags: [ best practices, development, email, system administration ]
 title: "Coding Horror: So You'd Like to Send Some Email (Through Code)"

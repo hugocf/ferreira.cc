@@ -1,5 +1,5 @@
 ---
-date: 2011-08-19
+date: 2011-08-19T07:07:28
 lang: en
 tags: [ geolocation, google maps ]
 title: "Plot multiple locations on Google Maps"

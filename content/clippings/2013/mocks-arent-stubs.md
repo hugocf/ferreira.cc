@@ -1,5 +1,5 @@
 ---
-date: 2013-10-24
+date: 2013-10-24T07:07:28
 lang: en
 tags: [ bdd, development, reference, software, tdd, testing ]
 title: "Mocks Aren't Stubs"

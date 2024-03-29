@@ -1,5 +1,5 @@
 ---
-date: 2013-11-11
+date: 2013-11-11T07:07:28
 lang: en
 tags: [ history, java, objc, programming ]
 title: "When I left Sun to go to NeXT, I thought Objective-C was the coolest"

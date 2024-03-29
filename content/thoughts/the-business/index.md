@@ -4,7 +4,7 @@ cover:
   image: the-business.png
   alt: AI generated photo of several silhouette shadows behind a curtain
   caption: "[DALL·E](https://openai.com/dall-e) — “photo realistic several silhouette shadows behind a curtain”"
-date: 2023-06-04
+date: 2023-06-04T22:16:59
 drafted: 2022-03-22
 lang: en
 tags: [ business, corporations, jargon, people, how to, explanation ]

@@ -1,5 +1,5 @@
 ---
-date: 2023-11-15
+date: 2023-11-15T12:17:49
 lang: en
 tags: [ parenting, education, budgeting, constraints, gifts ]
 title: How You Can Use the 4 Gift Rule This Christmas

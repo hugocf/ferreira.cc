@@ -1,5 +1,5 @@
 ---
-date: 2012-02-17
+date: 2012-02-17T07:07:28
 lang: en
 tags: [ development, http, library, python, rest, web services ]
 title: "Requests: HTTP for Humans --- Requests 0.10.2 documentation"

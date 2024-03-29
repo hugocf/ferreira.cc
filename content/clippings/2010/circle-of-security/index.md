@@ -1,7 +1,7 @@
 ---
 aliases:
   - always-be-bigger-stronger-wiser-kind-whenever
-date: 2010-03-12
+date: 2010-03-12T07:07:28
 lang: en
 tags: [ children, education, family, kids, reference ]
 title: Circle of security
