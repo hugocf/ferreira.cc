@@ -1,5 +1,5 @@
 ---
-date: {{ .Date | dateFormat "2006-01-02T15:04:05" }}
+date: {{ time.Now.Format "2006-01-02T15:04:05" }}
 draft: true
 lang: en
 tags: [ {{ .Name | lower }}, info, tips, tricks, how to ]
