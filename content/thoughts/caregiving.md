@@ -1,7 +1,9 @@
 ---
+aliases:
+  - independence
 date: 2023-12-18
 lang: en
-tags: [ caregiving, autonomy, intedepence, helping, advice ]
+tags: [ caregiving, autonomy, interdepence, helping, advice ]
 title: Providing a sense of independence in caregiving
 ---
 
