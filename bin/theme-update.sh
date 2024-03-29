@@ -14,7 +14,8 @@ diff -ur themes/PaperMod/layouts/ layouts/ | grep -v "Only in themes" > /tmp/the
 diff -u themes/PaperMod/layouts/_default/list.html layouts/snippets/list.html > /tmp/theme-update-snippets.diff
 
 # Report changes
-echo "Default overrides"
+echo "diff $SCRIPT_DIR/theme-update-default.approved /tmp/theme-update-default.diff"
 diff --color=always "$SCRIPT_DIR"/theme-update-default.approved /tmp/theme-update-default.diff
-echo "Snippets list"
+
+echo "diff $SCRIPT_DIR/theme-update-snippets.approved /tmp/theme-update-snippets.diff"
 diff --color=always "$SCRIPT_DIR"/theme-update-snippets.approved /tmp/theme-update-snippets.diff
