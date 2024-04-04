@@ -2,7 +2,7 @@
 date: 2024-03-16T11:04:52
 lang: en
 tags: [ writing, structure, tips, how to ]
-title: The thread - Josh Bernoff
+title: The thread
 type: link
 ---
 

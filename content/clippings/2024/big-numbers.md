@@ -2,7 +2,7 @@
 date: 2024-04-01T11:34:29
 lang: en
 tags: [ self expression, objectives, context, purpose ]
-title: Putting up the big numbers | Seth's Blog
+title: Putting up the big numbers
 type: link
 ---
 
