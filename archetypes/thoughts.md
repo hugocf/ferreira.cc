@@ -4,7 +4,7 @@ cover:
   image: example.png
   alt: example description
   caption: "[Source](https://example.com)"
-date: {{ time.Now.Format "2006-01-02T15:04:05" }}
+date: {{ time.Now.Format "2006-01-02T15:04:05Z07:00" }}
 draft: true
 drafted: 2000-00-00
 lang: en
