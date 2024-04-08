@@ -1,5 +1,5 @@
 ---
-date: 2020-09-22T01:04:12
+date: 2020-09-22T01:04:12Z
 lang: en
 tags: [ html, info, tips, tricks, how to ]
 title: HTML

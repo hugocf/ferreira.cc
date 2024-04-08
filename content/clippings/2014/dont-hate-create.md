@@ -1,5 +1,5 @@
 ---
-date: 2014-01-10T07:07:28
+date: 2014-01-10T07:07:28Z
 lang: en
 tags: [ attitude, focus, history repeating, just do it, naysayers, negativity, positivity ]
 title: "Don't hate, create"

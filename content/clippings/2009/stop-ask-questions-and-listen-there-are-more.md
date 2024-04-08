@@ -1,5 +1,5 @@
 ---
-date: 2009-04-17T07:07:28
+date: 2009-04-17T07:07:28Z
 lang: en
 tags: [ life, note to self, self ]
 title: "Stop, ask questions and listen! There are more important things in"

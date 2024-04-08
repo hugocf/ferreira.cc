@@ -1,5 +1,5 @@
 ---
-date: 2015-03-08T07:07:28
+date: 2015-03-08T07:07:28Z
 lang: en
 tags: [ best peactices, code, computers, development, legibility, software ]
 title: "Programs must be written for people to read, and only incidentally for"

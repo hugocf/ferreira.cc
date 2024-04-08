@@ -1,5 +1,5 @@
 ---
-date: 2013-04-11T07:07:28
+date: 2013-04-11T07:07:28Z
 lang: en
 tags: [ conversation, engagement, life, people, social ]
 title: "You Are Boring --- The Magazine"

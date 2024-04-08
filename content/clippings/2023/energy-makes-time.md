@@ -1,5 +1,5 @@
 ---
-date: 2023-09-10T21:59:14
+date: 2023-09-10T21:59:14Z
 lang: en
 tags: [ time, energy, productivity, work, life, balance ]
 title: Energy makes time

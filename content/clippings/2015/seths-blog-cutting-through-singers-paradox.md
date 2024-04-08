@@ -1,5 +1,5 @@
 ---
-date: 2015-01-02T07:07:28
+date: 2015-01-02T07:07:28Z
 lang: en
 tags: [ charity, entrepreneur, giving, marketing, social ]
 title: "Seth's Blog: Cutting through Singer's Paradox"

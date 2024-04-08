@@ -1,5 +1,5 @@
 ---
-date: 2013-01-31T07:07:28
+date: 2013-01-31T07:07:28Z
 lang: en
 tags: [ funny, life ]
 title: "I'll be honest with﻿ you. I love Jesus but I drink a little. 😃"

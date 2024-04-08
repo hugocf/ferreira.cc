@@ -2,7 +2,7 @@
 aliases:
   - jot
   - jot-method 
-date: 2024-04-01T17:42:11
+date: 2024-04-01T17:42:11Z
 lang: en
 tags: [ productivity, procrastination, vicious cycles, virtuous cycles, lifehacks, tips, how to ]
 title: "The Just One Thing (JOT) Method"

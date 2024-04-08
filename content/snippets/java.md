@@ -1,5 +1,5 @@
 ---
-date: 2015-11-02T01:03:51
+date: 2015-11-02T01:03:51Z
 lang: en
 tags: [ java, info, tips, tricks, how to ]
 title: Java

@@ -1,5 +1,5 @@
 ---
-date: 2013-12-28T07:07:28
+date: 2013-12-28T07:07:28Z
 lang: en
 tags: [ animations, design, development, mockups, prototype, quartz composer, tools ]
 title: "(image)"

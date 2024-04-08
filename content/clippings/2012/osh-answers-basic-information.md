@@ -1,5 +1,5 @@
 ---
-date: 2012-02-03T07:07:28
+date: 2012-02-03T07:07:28Z
 lang: en
 tags: [ ergonomics, office, standing, workplace ]
 title: "OSH Answers: Basic Information"

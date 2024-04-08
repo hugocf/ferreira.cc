@@ -1,5 +1,5 @@
 ---
-date: 2011-09-09T07:07:28
+date: 2011-09-09T07:07:28Z
 lang: en
 tags: [ best practices, css, html, html5, javascript ]
 title: "Front-end Code Standards & Best Practices  |  Isobar North America"

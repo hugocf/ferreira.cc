@@ -1,5 +1,5 @@
 ---
-date: 2014-03-05T07:07:28
+date: 2014-03-05T07:07:28Z
 lang: en
 tags: [ best practices, conversation, copywriting, elevator pitch, how to, marketing, sales ]
 title: "How to craft your Elevator Pitch"

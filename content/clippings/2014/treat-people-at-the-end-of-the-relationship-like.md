@@ -1,5 +1,5 @@
 ---
-date: 2014-06-29T07:07:28
+date: 2014-06-29T07:07:28Z
 lang: en
 tags: [ focus, life, love, marriage, relationships ]
 title: "Treat people at the end of the relationship like it's the beginning,"

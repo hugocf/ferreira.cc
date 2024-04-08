@@ -1,5 +1,5 @@
 ---
-date: 2012-08-31T07:07:28
+date: 2012-08-31T07:07:28Z
 lang: en
 tags: [ fitness, health, movnat, natural method ]
 title: "Être fort pour être utile"

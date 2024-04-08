@@ -1,5 +1,5 @@
 ---
-date: 2013-11-06T07:07:28
+date: 2013-11-06T07:07:28Z
 lang: en
 tags: [ communication, customer development, engagement, support, tools ]
 title: "Intercom  |  Communicate personally with every single customer"

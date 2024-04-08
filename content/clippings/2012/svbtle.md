@@ -1,5 +1,5 @@
 ---
-date: 2012-09-07T07:07:28
+date: 2012-09-07T07:07:28Z
 lang: en
 tags: [ blogs, content, quality, writing ]
 title: "Svbtle"

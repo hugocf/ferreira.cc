@@ -1,5 +1,5 @@
 ---
-date: 2012-03-16T07:07:28
+date: 2012-03-16T07:07:28Z
 lang: en
 tags: [ best practices, bottom up, management ]
 title: "(image)"

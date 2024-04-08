@@ -1,5 +1,5 @@
 ---
-date: 2013-12-09T07:07:28
+date: 2013-12-09T07:07:28Z
 lang: en
 tags: [ english, grammar, history, style guide, typography, writing ]
 title: "The Elements of Style"

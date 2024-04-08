@@ -1,5 +1,5 @@
 ---
-date: 2013-09-17T07:07:28
+date: 2013-09-17T07:07:28Z
 lang: en
 tags: [ android, app, development, ios, mobile, services, tools ]
 title: "Tools  |  Developer Economics Developer Economics"

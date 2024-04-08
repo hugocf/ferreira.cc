@@ -1,5 +1,5 @@
 ---
-date: 2010-12-04T07:07:28
+date: 2010-12-04T07:07:28Z
 lang: en
 tags: [ design, readability, usability ]
 title: "Google Maps & Label Readability"

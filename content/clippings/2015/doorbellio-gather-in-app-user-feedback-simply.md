@@ -1,5 +1,5 @@
 ---
-date: 2015-08-02T07:07:28
+date: 2015-08-02T07:07:28Z
 lang: en
 tags: [ android, customer service, feedback, ios, web ]
 title: "Doorbell.io -- Gather in-app user feedback, simply, across multiple platforms, for free!"

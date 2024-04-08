@@ -1,5 +1,5 @@
 ---
-date: 2024-03-27T17:41:32
+date: 2024-03-27T17:41:32Z
 lang: en
 tags: [ imposter syndrome, singers, famous, celebrities, psychology ]
 title: The rock star conundrum

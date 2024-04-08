@@ -1,5 +1,5 @@
 ---
-date: 2012-11-16T07:07:28
+date: 2012-11-16T07:07:28Z
 lang: en
 tags: [ real time, statistics, user interaction, web ]
 title: "Reinvigorate -- measure, analyze, evolve."

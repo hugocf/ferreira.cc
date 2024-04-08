@@ -1,5 +1,5 @@
 ---
-date: 2014-02-23T07:07:28
+date: 2014-02-23T07:07:28Z
 lang: en
 tags: [ failure, hardware, hdd, reliability, review, usage ]
 title: "(image)"

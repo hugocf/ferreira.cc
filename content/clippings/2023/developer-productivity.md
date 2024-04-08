@@ -1,5 +1,5 @@
 ---
-date: 2023-07-31T07:07:28
+date: 2023-07-31T07:07:28Z
 lang: en
 tags: [ software, development, productivity, metrics ]
 title: "How to measure and improve developer productivity | Nicole Forsgren"

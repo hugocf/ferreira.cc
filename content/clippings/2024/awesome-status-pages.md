@@ -1,7 +1,7 @@
 ---
 aliases:
   - status
-date: 2024-04-07T23:20:56
+date: 2024-04-07T23:20:56Z
 lang: en
 tags: [ observability, status, directory, links, reference ]
 title: Awesome list of status pages

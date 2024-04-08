@@ -1,5 +1,5 @@
 ---
-date: 2012-07-10T07:07:28
+date: 2012-07-10T07:07:28Z
 lang: en
 tags: [ code, development, examples, ios, objective c ]
 title: "iPhone SDK Examples"

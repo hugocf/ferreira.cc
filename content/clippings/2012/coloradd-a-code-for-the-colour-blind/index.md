@@ -1,5 +1,5 @@
 ---
-date: 2012-05-28T07:07:28
+date: 2012-05-28T07:07:28Z
 lang: en
 tags: [ codes, colour, colour blind, standards ]
 title: "ColorADD --- A code for the colour blind"

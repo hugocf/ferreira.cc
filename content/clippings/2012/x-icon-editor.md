@@ -1,5 +1,5 @@
 ---
-date: 2012-07-11T07:07:28
+date: 2012-07-11T07:07:28Z
 lang: en
 tags: [ design, favicon, generator, online ]
 title: "X-Icon Editor"

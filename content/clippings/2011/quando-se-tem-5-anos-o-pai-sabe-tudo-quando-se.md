@@ -1,5 +1,5 @@
 ---
-date: 2011-05-24T07:07:28
+date: 2011-05-24T07:07:28Z
 lang: pt
 tags: [ father, parenting ]
 title: "Quando se tem 5 anos, o pai sabe tudo"

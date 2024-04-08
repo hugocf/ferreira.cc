@@ -1,5 +1,5 @@
 ---
-date: 2014-01-08T07:07:28
+date: 2014-01-08T07:07:28Z
 lang: en
 tags: [ messaging, snapchat, social media, tools, twitter, volatile ]
 title: "Spirit for Twitter"

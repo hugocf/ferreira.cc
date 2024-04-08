@@ -1,5 +1,5 @@
 ---
-date: 2013-12-13T07:07:28
+date: 2013-12-13T07:07:28Z
 lang: en
 tags: [ best practices, communication, design, marketing, online, presence, social, support, web ]
 title: "How To Not Suck Online"

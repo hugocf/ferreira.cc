@@ -1,5 +1,5 @@
 ---
-date: 2013-08-06T07:07:28
+date: 2013-08-06T07:07:28Z
 lang: en
 tags: [ emotions, life, marketing, psychology ]
 title: "(image)"

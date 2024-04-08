@@ -1,5 +1,5 @@
 ---
-date: 2015-06-17T01:04:22
+date: 2015-06-17T01:04:22Z
 lang: en
 tags: [ windows, info, tips, tricks, how to ]
 title: Windows

@@ -1,5 +1,5 @@
 ---
-date: 2009-04-01T07:07:28
+date: 2009-04-01T07:07:28Z
 lang: en
 tags: [ life ]
 title: "Never attribute to malice that which can be explained by ignorance"

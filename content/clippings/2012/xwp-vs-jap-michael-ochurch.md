@@ -1,5 +1,5 @@
 ---
-date: 2012-08-28T07:07:28
+date: 2012-08-28T07:07:28Z
 lang: en
 tags: [ jobs, roles, software engineer, titles ]
 title: "XWP vs. JAP  |  Michael O.Church"

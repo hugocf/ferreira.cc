@@ -4,7 +4,7 @@ cover:
   image: work-from-hell.png
   alt: cubism painting about a person with red eyes, working with their laptop in hell, looking upset
   caption: "[DALL·E](https://openai.com/dall-e) — “cubism painting about a person working with their laptop in hell”"
-date: 2020-03-27T22:17:05
+date: 2020-03-27T22:17:05Z
 lang: en
 source: "[Equal Experts Slack, Hugo Ferreira, 2020-03-27](https://equalexperts.slack.com/archives/C0S71RJA3/p1585299552042000)"
 tags: [ covid, remote, wfh, children, education, parenting ]

@@ -1,5 +1,5 @@
 ---
-date: 2023-08-31T12:50:24
+date: 2023-08-31T12:50:24Z
 lang: en
 tags: [ tools, javascript, libraries, onboarding, features, announcing, promoting ]
 title: Intro.js

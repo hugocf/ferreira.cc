@@ -1,5 +1,5 @@
 ---
-date: 2014-01-12T07:07:28
+date: 2014-01-12T07:07:28Z
 lang: en
 tags: [ css, design, development, glossary, satire, web ]
 title: "CSS = California Style Sheets"

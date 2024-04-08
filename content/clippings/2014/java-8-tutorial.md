@@ -1,5 +1,5 @@
 ---
-date: 2014-03-19T07:07:28
+date: 2014-03-19T07:07:28Z
 lang: en
 tags: [ code, development, evolution, java, overview ]
 title: "Java 8 Tutorial"

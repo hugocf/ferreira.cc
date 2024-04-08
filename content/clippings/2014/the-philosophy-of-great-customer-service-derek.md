@@ -1,5 +1,5 @@
 ---
-date: 2014-06-29T07:07:28
+date: 2014-06-29T07:07:28Z
 lang: en
 tags: [ best practices, business, clients, customer service, customers, focus ]
 title: "The philosophy of great customer service  |  Derek Sivers"

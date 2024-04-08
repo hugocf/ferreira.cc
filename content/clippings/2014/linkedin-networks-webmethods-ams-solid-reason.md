@@ -1,5 +1,5 @@
 ---
-date: 2014-01-22T07:07:28
+date: 2014-01-22T07:07:28Z
 lang: en
 tags: [ map, network, social media, visualisation ]
 title: "LinkedIn networks"

@@ -1,5 +1,5 @@
 ---
-date: 2013-07-07T07:07:28
+date: 2013-07-07T07:07:28Z
 lang: en
 tags: [ colors, design, psychology, values ]
 title: "(image)"

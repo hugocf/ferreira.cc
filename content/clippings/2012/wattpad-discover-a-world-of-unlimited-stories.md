@@ -1,5 +1,5 @@
 ---
-date: 2012-08-31T07:07:28
+date: 2012-08-31T07:07:28Z
 lang: en
 tags: [ crowd sourcing, platform, reading, self publishing, writing ]
 title: "Wattpad -- Discover a World of Unlimited Stories"

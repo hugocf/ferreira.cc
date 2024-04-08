@@ -1,5 +1,5 @@
 ---
-date: 2011-08-29T07:07:28
+date: 2011-08-29T07:07:28Z
 lang: en
 tags: [ entrepreneur, failure, startups, steve jobs ]
 title: "The problem with the Internet startup craze isn't that too many people"

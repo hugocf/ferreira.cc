@@ -1,5 +1,5 @@
 ---
-date: 2014-03-16T07:07:28
+date: 2014-03-16T07:07:28Z
 lang: en
 tags: [ design, interaction, ios, rate this app, screen flow, ui, ux ]
 title: "(image)"

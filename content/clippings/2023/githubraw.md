@@ -1,5 +1,5 @@
 ---
-date: 2023-08-15
+date: 2023-08-15Z
 lang: en
 tags: [ tools, github, proxy, cdn, caching ]
 title: GitHubRaw

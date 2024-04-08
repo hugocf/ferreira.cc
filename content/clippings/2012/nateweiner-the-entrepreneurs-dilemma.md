@@ -1,5 +1,5 @@
 ---
-date: 2012-07-08T14:54:58
+date: 2012-07-08T14:54:58Z
 lang: en
 tags: [ balance, entrepreneur, life ]
 title: "The entrepreneur's dilemma"

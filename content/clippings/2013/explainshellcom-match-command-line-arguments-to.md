@@ -1,5 +1,5 @@
 ---
-date: 2013-12-05T07:07:28
+date: 2013-12-05T07:07:28Z
 lang: en
 tags: [ documentation, help, man, shell, unix ]
 title: "explainshell.com -- match command-line arguments to their help text"

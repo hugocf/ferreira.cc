@@ -1,5 +1,5 @@
 ---
-date: 2014-10-24T07:07:28
+date: 2014-10-24T07:07:28Z
 lang: en
 tags: [ code, learning, programming, software ]
 title: "Learn X in Y Minutes: Scenic Programming Language Tours"

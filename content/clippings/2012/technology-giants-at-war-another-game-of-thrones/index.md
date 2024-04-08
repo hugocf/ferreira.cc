@@ -1,5 +1,5 @@
 ---
-date: 2012-12-04T07:07:28
+date: 2012-12-04T07:07:28Z
 lang: en
 tags: [ amazon, apple, business, facebook, google, humor, infographic, mircrosoft, satire, technology ]
 title: "(image)"

@@ -1,5 +1,5 @@
 ---
-date: 2012-07-28T07:07:28
+date: 2012-07-28T07:07:28Z
 lang: en
 tags: [ architecture, best practices, clean code, mvc, software ]
 title: "Good architecture"

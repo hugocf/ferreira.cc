@@ -1,5 +1,5 @@
 ---
-date: 2015-01-02T07:07:28
+date: 2015-01-02T07:07:28Z
 lang: en
 tags: [ best practices, design, developers, guidelines, tips ]
 title: "7 Rules for Creating Gorgeous UI"

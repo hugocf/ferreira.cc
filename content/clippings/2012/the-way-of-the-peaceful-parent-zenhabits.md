@@ -1,5 +1,5 @@
 ---
-date: 2012-03-31T07:07:28
+date: 2012-03-31T07:07:28Z
 lang: en
 tags: [ education, kids, parenting, patience ]
 title: "The Way of the Peaceful Parent :zenhabits"

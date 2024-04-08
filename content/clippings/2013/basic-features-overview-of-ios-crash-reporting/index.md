@@ -1,5 +1,5 @@
 ---
-date: 2013-06-15T07:07:28
+date: 2013-06-15T07:07:28Z
 lang: en
 tags: [ analytics, android, crash, debug, development, ios, mobile, reporting ]
 title: "(image)"

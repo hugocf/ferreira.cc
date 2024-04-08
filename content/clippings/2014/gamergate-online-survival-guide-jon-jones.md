@@ -1,5 +1,5 @@
 ---
-date: 2014-11-23T07:07:28
+date: 2014-11-23T07:07:28Z
 lang: en
 tags: [ best practices, domains, guide, guidelines, online, privacy, security, social media ]
 title: "#GamerGate [Online] Survival Guide | Jon Jones, smArtist"

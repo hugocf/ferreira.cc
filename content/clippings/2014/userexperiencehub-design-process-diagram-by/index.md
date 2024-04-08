@@ -1,5 +1,5 @@
 ---
-date: 2014-03-18T07:07:28
+date: 2014-03-18T07:07:28Z
 lang: en
 tags: [ design, development, diagram, process, ux ]
 title: "(image)"

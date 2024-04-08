@@ -1,5 +1,5 @@
 ---
-date: 2013-05-28T07:07:28
+date: 2013-05-28T07:07:28Z
 lang: en
 tags: [ best practices, design, development, how to, ios, ui ]
 title: "Starters Guide to iOS Design"

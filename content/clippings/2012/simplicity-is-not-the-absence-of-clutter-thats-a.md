@@ -1,5 +1,5 @@
 ---
-date: 2012-06-25T07:07:28
+date: 2012-06-25T07:07:28Z
 lang: en
 tags: [ apple, design, simplicity ]
 title: "Simplicity is not the absence of clutter, that's a consequence of"

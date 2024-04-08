@@ -1,5 +1,5 @@
 ---
-date: 2013-07-15T07:07:28
+date: 2013-07-15T07:07:28Z
 lang: en
 tags: [ cinema, fake, image, manipulation, movies, special effects ]
 title: "Stargate Studios Virtual Backlot Reel 2012"

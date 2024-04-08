@@ -1,5 +1,5 @@
 ---
-date: 2013-11-22T07:07:28
+date: 2013-11-22T07:07:28Z
 lang: pt
 tags: [ giria, glossario, jornalismo, termos ]
 title: "Glossário de Jornalismo"

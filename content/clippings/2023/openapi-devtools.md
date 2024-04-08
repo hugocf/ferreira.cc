@@ -1,5 +1,5 @@
 ---
-date: 2023-10-30T09:51:51
+date: 2023-10-30T09:51:51Z
 lang: en
 tags: [ tools, chrome, openapi, generator ]
 title: "AndrewWalsh/openapi-devtools: Effortlessly discover API behaviour with a Chrome extension"

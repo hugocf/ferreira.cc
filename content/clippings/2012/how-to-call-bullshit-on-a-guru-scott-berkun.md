@@ -1,5 +1,5 @@
 ---
-date: 2012-03-16T07:07:28
+date: 2012-03-16T07:07:28Z
 lang: en
 tags: [ challenges, gurus, how to, knowledge ]
 title: "How to call bullshit on a guru « Scott Berkun"

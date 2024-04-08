@@ -1,5 +1,5 @@
 ---
-date: 2012-04-27T07:07:28
+date: 2012-04-27T07:07:28Z
 lang: en
 tags: [ brands, corporations, groups, market, products, retail ]
 title: "(image)"

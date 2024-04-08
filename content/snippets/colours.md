@@ -1,7 +1,7 @@
 ---
 aliases:
   - colors
-date: 2017-04-02T01:01:46
+date: 2017-04-02T01:01:46Z
 lang: en
 tags: [ colors, info, tips, tricks, how to ]
 title: Colors

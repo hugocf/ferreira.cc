@@ -1,5 +1,5 @@
 ---
-date: 2011-05-25T07:07:28
+date: 2011-05-25T07:07:28Z
 lang: en
 tags: [ effectiveness, productivity ]
 title: "Productivity is measured by quantity against capacity. Effectivity is"

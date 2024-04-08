@@ -1,5 +1,5 @@
 ---
-date: 2012-03-24T07:07:28
+date: 2012-03-24T07:07:28Z
 lang: en
 tags: [ fame, hollywood, internet, talent ]
 title: "How One Response to a Reddit Query Became a Big-Budget Flick  |  Underwire  |  Wired.com"

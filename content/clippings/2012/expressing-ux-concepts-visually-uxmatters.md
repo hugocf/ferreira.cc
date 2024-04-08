@@ -1,5 +1,5 @@
 ---
-date: 2012-05-09T07:07:28
+date: 2012-05-09T07:07:28Z
 lang: en
 tags: [ design, mockups, personas, prototype, ux, wireframe ]
 title: "Expressing UX Concepts Visually :: UXmatters"

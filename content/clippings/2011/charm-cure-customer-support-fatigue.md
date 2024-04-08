@@ -1,5 +1,5 @@
 ---
-date: 2011-11-04T07:07:28
+date: 2011-11-04T07:07:28Z
 lang: en
 tags: [ crm, customer, feedback, interaction, support ]
 title: "Charm: Cure Customer Support Fatigue"

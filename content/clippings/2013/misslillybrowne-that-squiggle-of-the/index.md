@@ -1,5 +1,5 @@
 ---
-date: 2013-12-11T07:07:28
+date: 2013-12-11T07:07:28Z
 lang: en
 tags: [ design, methodology, process, ux ]
 title: "(image)"

@@ -1,7 +1,7 @@
 ---
 aliases:
   - clarity-wins
-date: 2024-02-24T14:47:25
+date: 2024-02-24T14:47:25Z
 draft: true
 lang: en
 tags: [ … ]

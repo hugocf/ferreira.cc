@@ -1,5 +1,5 @@
 ---
-date: 2015-01-03T07:07:28
+date: 2015-01-03T07:07:28Z
 lang: en
 tags: [ collaboration, crowdsource, people ]
 title: "wisdom of the crowds\" which is a bad phrase, I normally call it"

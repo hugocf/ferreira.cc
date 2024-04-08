@@ -1,5 +1,5 @@
 ---
-date: 2013-11-15T07:07:28
+date: 2013-11-15T07:07:28Z
 lang: en
 tags: [ communication, support, tools ]
 title: "Help Scout --- Help Desk Software  |  Customer Support Software"

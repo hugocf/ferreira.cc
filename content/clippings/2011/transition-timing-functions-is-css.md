@@ -1,5 +1,5 @@
 ---
-date: 2011-04-09T07:07:28
+date: 2011-04-09T07:07:28Z
 lang: en
 tags: [ animation, css3 ]
 title: "Transition Timing Functions is CSS"

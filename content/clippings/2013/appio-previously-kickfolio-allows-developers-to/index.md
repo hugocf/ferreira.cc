@@ -1,5 +1,5 @@
 ---
-date: 2013-08-27T07:07:28
+date: 2013-08-27T07:07:28Z
 lang: en
 tags: [ apps, development, embed, ios, mobile, preview, web ]
 title: "(image)"

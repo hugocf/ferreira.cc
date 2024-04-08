@@ -1,5 +1,5 @@
 ---
-date: 2012-07-28T07:07:28
+date: 2012-07-28T07:07:28Z
 lang: en
 tags: [ goals, life, utopia ]
 title: "Pues la utopía sirve para eso, para caminar!"

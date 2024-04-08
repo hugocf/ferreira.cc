@@ -1,5 +1,5 @@
 ---
-date: 2010-03-30T07:07:28
+date: 2010-03-30T07:07:28Z
 lang: en
 tags: [ productivity, software ]
 title: "Shut up and ship!"

@@ -1,5 +1,5 @@
 ---
-date: 2024-03-19T11:08:34
+date: 2024-03-19T11:08:34Z
 lang: en
 tags: [ organisations, culture, hierarchy, organic, growth ]
 title: Why Building a Culture from the Top Down Fails

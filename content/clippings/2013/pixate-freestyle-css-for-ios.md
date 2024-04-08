@@ -1,5 +1,5 @@
 ---
-date: 2013-11-10T07:07:28
+date: 2013-11-10T07:07:28Z
 lang: en
 tags: [ css, design, development, ios, mobile ]
 title: "Pixate Freestyle --- CSS for iOS"

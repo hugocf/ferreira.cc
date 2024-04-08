@@ -1,5 +1,5 @@
 ---
-date: 2011-09-09T07:07:28
+date: 2011-09-09T07:07:28Z
 lang: en
 tags: [ clipart, icons, public domain ]
 title: "OpenClipArt"

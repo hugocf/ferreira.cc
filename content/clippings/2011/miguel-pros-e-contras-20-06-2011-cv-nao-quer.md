@@ -1,5 +1,5 @@
 ---
-date: 2011-11-25T07:07:28
+date: 2011-11-25T07:07:28Z
 lang: pt
 tags: [ curriculum vitae, employment, entrepreneur ]
 title: "Miguel -- Prós e Contras"

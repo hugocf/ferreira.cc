@@ -1,5 +1,5 @@
 ---
-date: 2013-10-29T07:07:28
+date: 2013-10-29T07:07:28Z
 lang: en
 tags: [ brainstorm, business, creativity, naming, startup, tools ]
 title: "WORDOID -- Creative Naming Service"

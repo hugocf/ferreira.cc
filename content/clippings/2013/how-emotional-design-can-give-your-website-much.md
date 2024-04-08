@@ -1,5 +1,5 @@
 ---
-date: 2013-10-04T07:07:28
+date: 2013-10-04T07:07:28Z
 lang: en
 tags: [ brand, communication, design, emotions, interaction, look feel, marketing, ux ]
 title: "How emotional design can give your website much more impact"

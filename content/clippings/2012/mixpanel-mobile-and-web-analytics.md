@@ -1,5 +1,5 @@
 ---
-date: 2012-03-22T07:07:28
+date: 2012-03-22T07:07:28Z
 lang: en
 tags: [ analytics, real time, statistics, user tracking ]
 title: "Mixpanel  |  Mobile and Web Analytics"

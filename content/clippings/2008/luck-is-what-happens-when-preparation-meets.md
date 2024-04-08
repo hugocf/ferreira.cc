@@ -1,5 +1,5 @@
 ---
-date: 2008-08-08T07:07:28
+date: 2008-08-08T07:07:28Z
 lang: en
 tags: [ life ]
 title: "Luck is what happens when preparation meets opportunity"

@@ -1,5 +1,5 @@
 ---
-date: 2012-05-08T07:07:28
+date: 2012-05-08T07:07:28Z
 lang: en
 tags: [ development, documentation, reference, wordpress ]
 title: "QueryPosts -- better WordPress code reference"

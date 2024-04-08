@@ -1,5 +1,5 @@
 ---
-date: 2012-08-01T07:07:28
+date: 2012-08-01T07:07:28Z
 lang: en
 tags: [ apple, design, ipad, iphone, prototypes ]
 title: "Dozens of iPhone, iPad Prototypes Shown in New Apple v. Samsung Filing -- AllThingsD"

@@ -1,5 +1,5 @@
 ---
-date: 2014-01-06T07:07:28
+date: 2014-01-06T07:07:28Z
 lang: en
 tags: [ code, development, guerrilla, ios, testing, ux ]
 title: "Lookback -- See how people really use your apps!"

@@ -1,5 +1,5 @@
 ---
-date: 2013-12-20T07:07:28
+date: 2013-12-20T07:07:28Z
 lang: en
 tags: [ design, lorem ipsum, placeholders, typography ]
 title: "Lorem Ipsum -- All the facts -- Lipsum generator"

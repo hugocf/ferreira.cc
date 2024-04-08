@@ -1,5 +1,5 @@
 ---
-date: 2013-10-15T07:07:28
+date: 2013-10-15T07:07:28Z
 lang: en
 tags: [ ads, awareness, communication, marketing, media, social ]
 title: "Elevate NYC 2013 Keynote, by Gary Vaynerchuk"

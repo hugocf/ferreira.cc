@@ -1,5 +1,5 @@
 ---
-date: 2013-04-20T07:07:28
+date: 2013-04-20T07:07:28Z
 lang: en
 tags: [ app, mobile, prototype, quartz composer ]
 title: "Facebook Home prototyped in Quartz Composer -- Tutorial"

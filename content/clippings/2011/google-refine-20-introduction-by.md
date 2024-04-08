@@ -1,5 +1,5 @@
 ---
-date: 2011-10-11T07:07:28
+date: 2011-10-11T07:07:28Z
 lang: en
 tags: [ aggregation, clustering, data, messy, opendata, parsing, statistics ]
 title: "Google Refine 2.0"

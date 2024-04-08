@@ -1,5 +1,5 @@
 ---
-date: 2012-02-06T07:07:28
+date: 2012-02-06T07:07:28Z
 lang: en
 tags: [ art, ebay, ecommerce, globalisation, paintings ]
 title: "Oil Paintings (in Dafen of China)"

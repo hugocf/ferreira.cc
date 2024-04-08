@@ -1,5 +1,5 @@
 ---
-date: 2013-10-04T07:07:28
+date: 2013-10-04T07:07:28Z
 lang: en
 tags: [ best practices, design patterns, development, ios ]
 title: "iOS Design Patterns"

@@ -1,5 +1,5 @@
 ---
-date: 2023-09-10T21:55:30
+date: 2023-09-10T21:55:30Z
 lang: en
 tags: [ software, business, disruption ]
 title: Software companies

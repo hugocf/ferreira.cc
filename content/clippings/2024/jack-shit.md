@@ -1,5 +1,5 @@
 ---
-date: 2024-03-31T12:58:00
+date: 2024-03-31T12:58:00Z
 lang: en
 tags: [ management, teams, delivery, organisations ]
 title: Jack Shit

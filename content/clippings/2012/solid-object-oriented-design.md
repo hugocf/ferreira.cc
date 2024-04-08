@@ -1,5 +1,5 @@
 ---
-date: 2012-07-28T07:07:28
+date: 2012-07-28T07:07:28Z
 lang: en
 tags: [ best practices, clean code, development, object oriented ]
 title: "SOLID (object-oriented design)"

@@ -1,5 +1,5 @@
 ---
-date: 2012-09-19T07:07:28
+date: 2012-09-19T07:07:28Z
 lang: en
 tags: [ fine print, legalese, policies, privacy, reference ]
 title: "Terms of Service; Didn't Read"

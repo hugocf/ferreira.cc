@@ -1,5 +1,5 @@
 ---
-date: 2011-09-15T07:07:28
+date: 2011-09-15T07:07:28Z
 lang: en
 tags: [ hosting, open source, photos, sharing ]
 title: "OpenPhoto -- A free, hosted, portable and open source photo sharing service"

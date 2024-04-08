@@ -1,5 +1,5 @@
 ---
-date: 2011-11-15T07:07:28
+date: 2011-11-15T07:07:28Z
 lang: en
 tags: [ business, entrepreneur, motivation ]
 title: "I Stalked Steve Jobs (And How To Get A Meeting With ANY VIP) -- Forbes"

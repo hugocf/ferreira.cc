@@ -1,5 +1,5 @@
 ---
-date: 2013-01-07T07:07:28
+date: 2013-01-07T07:07:28Z
 lang: en
 tags: [ business, focus, goals, introspection, life, questions ]
 title: "Chuck Blakeman / Why Our Favorite Questions Keep Us On The Treadmill"

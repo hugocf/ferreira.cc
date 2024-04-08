@@ -1,5 +1,5 @@
 ---
-date: 2013-08-01T07:07:28
+date: 2013-08-01T07:07:28Z
 lang: en
 tags: [ design, ui, user experience, user interface, ux ]
 title: "Progressive Reduction"

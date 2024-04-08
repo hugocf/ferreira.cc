@@ -1,5 +1,5 @@
 ---
-date: 2023-09-19T17:18:10
+date: 2023-09-19T17:18:10Z
 lang: en
 tags: [ people, behaviour, psychology, power, management, organisations ]
 title: Power Bends Light

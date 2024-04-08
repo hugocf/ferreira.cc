@@ -1,5 +1,5 @@
 ---
-date: 2013-06-13T07:07:28
+date: 2013-06-13T07:07:28Z
 lang: en
 tags: [ development, goals, ios, life, mobile, purpose ]
 title: "Apple -- Making a difference. One app at a time."

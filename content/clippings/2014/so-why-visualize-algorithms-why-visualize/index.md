@@ -1,5 +1,5 @@
 ---
-date: 2014-09-03T07:07:28
+date: 2014-09-03T07:07:28Z
 lang: en
 tags: [ algorithms, coding, thought process, visualisation ]
 title: "(image)"

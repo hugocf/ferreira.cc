@@ -1,5 +1,5 @@
 ---
-date: 2015-08-02T07:07:28
+date: 2015-08-02T07:07:28Z
 lang: en
 tags: [ billing, bugeting, freelancing, web app ]
 title: "Cushion -- Peace of mind for freelancers"

@@ -1,5 +1,5 @@
 ---
-date: 2014-01-08T07:07:28
+date: 2014-01-08T07:07:28Z
 lang: en
 tags: [ art, code, creation, development, ide, life, principles, software, visualisation ]
 title: "Creators need an immediate connection with what they're making"

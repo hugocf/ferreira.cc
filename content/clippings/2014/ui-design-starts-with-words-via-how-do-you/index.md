@@ -1,5 +1,5 @@
 ---
-date: 2014-07-28T07:07:28
+date: 2014-07-28T07:07:28Z
 lang: en
 tags: [ design, methodology, ui, use cases, ux, writing ]
 title: "(image)"

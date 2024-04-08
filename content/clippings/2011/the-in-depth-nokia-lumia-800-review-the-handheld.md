@@ -1,5 +1,5 @@
 ---
-date: 2011-12-23T07:07:28
+date: 2011-12-23T07:07:28Z
 lang: en
 tags: [ metro ui, microsoft, nokia, review, windows phone ]
 title: "The In-Depth Nokia Lumia 800 Review  |  The Handheld Blog"

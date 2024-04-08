@@ -1,5 +1,5 @@
 ---
-date: 2012-07-24T07:07:28
+date: 2012-07-24T07:07:28Z
 lang: en
 tags: [ best practices, code, development, git, version control, wordpress ]
 title: "Install and manage WordPress with Git"

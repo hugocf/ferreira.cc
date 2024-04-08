@@ -1,5 +1,5 @@
 ---
-date: 2012-07-24T07:07:28
+date: 2012-07-24T07:07:28Z
 lang: pt
 tags: [ lengalenga, popular, tradicional ]
 title: "Um gato maltês"

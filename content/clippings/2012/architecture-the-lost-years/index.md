@@ -1,5 +1,5 @@
 ---
-date: 2012-07-29T07:07:28
+date: 2012-07-29T07:07:28Z
 lang: en
 tags: [ architecture, best practices, clean code, development, mvc, software ]
 title: "Keynote: Architecture the Lost Years"

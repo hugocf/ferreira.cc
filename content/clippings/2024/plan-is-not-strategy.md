@@ -2,7 +2,7 @@
 aliases:
  - plan-strategy
  - plan-vs-strategy
-date: 2024-02-20T23:10:29
+date: 2024-02-20T23:10:29Z
 lang: en
 tags: [ planning, strategy, organisations, definitions, markets, customers, business ]
 title: A plan is not a strategy

@@ -1,5 +1,5 @@
 ---
-date: 2024-03-28T17:41:32
+date: 2024-03-28T17:41:32Z
 lang: en
 tags: [ software, organisations, development, management, productivity, onsite, hybrid, remote ]
 title: The State of Engineering Productivity in 2024

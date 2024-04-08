@@ -1,5 +1,5 @@
 ---
-date: 2012-01-07T07:07:28
+date: 2012-01-07T07:07:28Z
 lang: en
 tags: [ productivity, systems ]
 title: "Don't tell me what to do, just show me what's true"

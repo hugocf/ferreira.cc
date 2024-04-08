@@ -1,5 +1,5 @@
 ---
-date: 2012-06-22T07:07:28
+date: 2012-06-22T07:07:28Z
 lang: en
 tags: [ development, dogfooding, software ]
 title: "Yours, Mine and Ours"

@@ -1,5 +1,5 @@
 ---
-date: 2012-04-20T07:07:28
+date: 2012-04-20T07:07:28Z
 lang: en
 tags: [ best practices, favicon, performance, scaling, tips, web ]
 title: "Instagram and Optimizing Favicons  |  Zoompf"

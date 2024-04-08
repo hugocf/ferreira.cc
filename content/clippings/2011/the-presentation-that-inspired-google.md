@@ -1,5 +1,5 @@
 ---
-date: 2011-08-24T07:07:28
+date: 2011-08-24T07:07:28Z
 lang: en
 tags: [ behaviour, people, privacy, social graph ]
 title: "The Presentation That Inspired Google+"

@@ -1,5 +1,5 @@
 ---
-date: 2013-06-02T07:07:28
+date: 2013-06-02T07:07:28Z
 lang: en
 tags: [ design, development, ios, ipad, iphone, templates ]
 title: "iPhone & iPad GUI PSD  |  Teehan Lax"

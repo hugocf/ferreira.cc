@@ -1,5 +1,5 @@
 ---
-date: 2015-01-05T07:07:28
+date: 2015-01-05T07:07:28Z
 lang: en
 tags: [ contradictions, exercise, health, information overload, nutrition ]
 title: "Welcome to the age of [too much] information"

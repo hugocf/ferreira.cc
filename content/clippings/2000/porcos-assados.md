@@ -1,5 +1,5 @@
 ---
-date: 2000-03-02T00:09:36
+date: 2000-03-02T00:09:36Z
 lang: pt
 tags: [ organisations, overengineering, bureaucracy, processses, industrial complex ]
 title: A fábula dos porcos assados

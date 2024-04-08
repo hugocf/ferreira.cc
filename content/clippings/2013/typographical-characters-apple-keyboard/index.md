@@ -1,5 +1,5 @@
 ---
-date: 2013-12-05T07:07:28
+date: 2013-12-05T07:07:28Z
 lang: en
 tags: [ keyboard, mac, osx, tips, typography ]
 title: "Typographical characters in an Apple keyboard"

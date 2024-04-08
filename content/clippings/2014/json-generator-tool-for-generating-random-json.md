@@ -1,5 +1,5 @@
 ---
-date: 2014-07-28T07:07:28
+date: 2014-07-28T07:07:28Z
 lang: en
 tags: [ data, development, fixtures, generator, json, random, testing, tool ]
 title: "JSON Generator -- tool for generating random JSON data"

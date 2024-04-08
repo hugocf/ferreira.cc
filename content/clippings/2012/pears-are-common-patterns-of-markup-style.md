@@ -1,5 +1,5 @@
 ---
-date: 2012-04-05T07:07:28
+date: 2012-04-05T07:07:28Z
 lang: en
 tags: [ css, development, html, snippets, theme, web, wordpress ]
 title: "Pears are common patterns of markup & style"

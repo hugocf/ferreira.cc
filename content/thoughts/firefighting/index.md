@@ -4,7 +4,7 @@ cover:
   image: unsplash-firefighter.jpg
   alt: a firefighter using a hose to extinguish a fire in training
   caption: "[Photo](https://unsplash.com/photos/e5s4jQxEExo) by [Hush Naidoo Jade Photography](https://unsplash.com/@hush52) on [Unsplash](https://unsplash.com/)"
-date: 2023-04-03T22:16:43
+date: 2023-04-03T22:16:43Z
 lang: en
 tags: [ organisations, planning, training, emergencies, strategy, reacting, analogies ]
 title: "From Chaos to Strategy: Embracing Firefighting at Work"

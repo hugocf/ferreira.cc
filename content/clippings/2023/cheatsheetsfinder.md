@@ -1,5 +1,5 @@
 ---
-date: 2023-08-24T07:07:28
+date: 2023-08-24T07:07:28Z
 lang: en
 tags: [ cheat sheets, productivity, psychology, safety, software, development, kanban, xp, scrum ]
 title: Cheat Sheets Finder

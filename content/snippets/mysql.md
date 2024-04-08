@@ -1,5 +1,5 @@
 ---
-date: 2016-04-05T01:05:15
+date: 2016-04-05T01:05:15Z
 lang: en
 tags: [ mysql, info, tips, tricks, how to ]
 title: MySQL

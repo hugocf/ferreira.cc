@@ -1,5 +1,5 @@
 ---
-date: 2019-02-28T01:04:32
+date: 2019-02-28T01:04:32Z
 lang: en
 tags: [ unix, bsd, linux, bash, zsh, info, tips, tricks, how to ]
 title: Unix

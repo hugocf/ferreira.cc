@@ -1,5 +1,5 @@
 ---
-date: 2009-03-11T07:07:28
+date: 2009-03-11T07:07:28Z
 lang: en
 tags: [ economy ]
 title: "The Crisis of Credit Visualized"

@@ -1,5 +1,5 @@
 ---
-date: 2013-11-12T07:07:28
+date: 2013-11-12T07:07:28Z
 lang: en
 tags: [ best practices, guidelines, how to, narrative, storytelling ]
 title: "All well-drawn characters have a spine. And the idea is that the"

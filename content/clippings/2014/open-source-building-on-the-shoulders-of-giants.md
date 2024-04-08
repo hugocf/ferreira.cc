@@ -1,5 +1,5 @@
 ---
-date: 2014-01-06T07:07:28
+date: 2014-01-06T07:07:28Z
 lang: en
 tags: [ culture, development, ecosystem, objc, tools ]
 title: "Third Wave Objective-C"

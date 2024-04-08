@@ -1,5 +1,5 @@
 ---
-date: 2013-05-16T07:07:28
+date: 2013-05-16T07:07:28Z
 lang: en
 tags: [ app, best practices, launch, marketing, mobile, press release ]
 title: "(image)"

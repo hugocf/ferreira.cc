@@ -1,5 +1,5 @@
 ---
-date: 2012-05-22T07:07:28
+date: 2012-05-22T07:07:28Z
 lang: en
 tags: [ best practices, charts, data, graphics, taxonomy, tools, visualisation ]
 title: "A Periodic Table of Visualization Methods"

@@ -1,5 +1,5 @@
 ---
-date: 2013-06-02T07:07:28
+date: 2013-06-02T07:07:28Z
 lang: en
 tags: [ android, best practices, design, guidelines, mobile ]
 title: "Design Principles | Android Developers"

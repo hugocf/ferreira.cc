@@ -1,5 +1,5 @@
 ---
-date: 2015-02-04T07:07:28
+date: 2015-02-04T07:07:28Z
 lang: en
 tags: [ comeback, insanity, owned, stupidity, wtf ]
 title: "A simple 'wrong' would've done just fine..."

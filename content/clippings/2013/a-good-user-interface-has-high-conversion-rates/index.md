@@ -1,5 +1,5 @@
 ---
-date: 2013-07-02T07:07:28
+date: 2013-07-02T07:07:28Z
 lang: en
 tags: [ best practices, conversion, design, marketing, tips, ui, ux ]
 title: "(image)"

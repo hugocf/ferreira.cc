@@ -1,5 +1,5 @@
 ---
-date: 2011-06-26T07:07:28
+date: 2011-06-26T07:07:28Z
 lang: en
 tags: [ corners, css3, generator, gradient, rotation, shadow, transformations ]
 title: "CSS3 Please! The Cross-Browser CSS3 Rule Generator"

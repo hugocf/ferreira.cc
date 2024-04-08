@@ -1,5 +1,5 @@
 ---
-date: 2013-02-16T07:07:28
+date: 2013-02-16T07:07:28Z
 lang: en
 tags: [ code, computers, development, math, reference ]
 title: "What Every Computer Scientist Should Know About Floating-Point Arithmetic"

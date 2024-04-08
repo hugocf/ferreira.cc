@@ -1,5 +1,5 @@
 ---
-date: 2014-08-15T07:07:28
+date: 2014-08-15T07:07:28Z
 lang: en
 tags: [ css, design, development, framework, html, javascript, sass, web ]
 title: "Foundation  |  The Most Advanced Responsive Front-end Framework from ZURB"

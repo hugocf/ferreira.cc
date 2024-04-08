@@ -1,5 +1,5 @@
 ---
-date: 2014-03-07T07:07:28
+date: 2014-03-07T07:07:28Z
 lang: en
 tags: [ apps, innovation, speed reading, technology, tools ]
 title: "(image)"

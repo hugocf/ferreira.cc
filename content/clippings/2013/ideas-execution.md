@@ -1,7 +1,7 @@
 ---
 aliases:
   - ideas-are-just-a-multiplier-of-execution-derek # old site
-date: 2013-12-12T16:31:56
+date: 2013-12-12T16:31:56Z
 lang: en
 tags: [ business, commitment, effort, entrepreneur, execution, ideas ]
 title: "Ideas are just a multiplier of execution  |  Derek Sivers"

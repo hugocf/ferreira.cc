@@ -1,5 +1,5 @@
 ---
-date: 2009-07-09T07:07:28
+date: 2009-07-09T07:07:28Z
 lang: en
 tags: [ health ]
 title: "Kary Mullis' next-gen cure for killer infections"

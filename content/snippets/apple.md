@@ -2,7 +2,7 @@
 aliases:
   - ios
   - macos
-date: 2008-01-01T12:07:52
+date: 2008-01-01T12:07:52Z
 lang: en
 tags: [ apple, ios, macos, info, tips, tricks, how to ]
 title: Apple

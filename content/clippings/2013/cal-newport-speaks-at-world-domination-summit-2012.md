@@ -1,5 +1,5 @@
 ---
-date: 2013-02-13T07:07:28
+date: 2013-02-13T07:07:28Z
 lang: en
 tags: [ best practices, career, excellence, life, passion, study, techniques ]
 title: "Cal Newport at World Domination Summit 2012"

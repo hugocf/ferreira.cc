@@ -1,5 +1,5 @@
 ---
-date: 2012-03-28T07:07:28
+date: 2012-03-28T07:07:28Z
 lang: en
 tags: [ comparison, development, frameworks, javascript, mvc ]
 title: "TodoMVC -- A common learning application for popular JavaScript MV* frameworks"

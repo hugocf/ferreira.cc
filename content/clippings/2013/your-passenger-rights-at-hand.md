@@ -1,5 +1,5 @@
 ---
-date: 2013-01-14T07:07:28
+date: 2013-01-14T07:07:28Z
 lang: en
 tags: [ consumer, europe, legislation, passenger, rights, travel ]
 title: "Your passenger rights at hand"

@@ -1,5 +1,5 @@
 ---
-date: 2015-12-10T01:04:46
+date: 2015-12-10T01:04:46Z
 lang: en
 tags: [ skype, info, tips, tricks, how to ]
 title: Skype

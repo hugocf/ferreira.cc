@@ -1,5 +1,5 @@
 ---
-date: 2014-02-21T07:07:28
+date: 2014-02-21T07:07:28Z
 lang: en
 tags: [ ideas, marketing, mobile, services ]
 title: "App Demo Videos, iOS App Trailers and App Marketing | Apptamin"

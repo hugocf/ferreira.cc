@@ -1,5 +1,5 @@
 ---
-date: 2008-08-04T07:07:28
+date: 2008-08-04T07:07:28Z
 lang: pt
 tags: [ business, people ]
 title: "Isso é um \"don't care\"!"

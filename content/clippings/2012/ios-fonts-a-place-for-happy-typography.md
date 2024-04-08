@@ -1,5 +1,5 @@
 ---
-date: 2012-11-06T07:07:28
+date: 2012-11-06T07:07:28Z
 lang: en
 tags: [ development, ios, typography ]
 title: "iOS Fonts -- A Place for Happy Typography"

@@ -1,5 +1,5 @@
 ---
-date: 2011-05-02T07:07:28
+date: 2011-05-02T07:07:28Z
 lang: en
 tags: [ best practices, color, design, infographic, psychology ]
 title: "(image)"

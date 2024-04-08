@@ -1,5 +1,5 @@
 ---
-date: 2011-08-29T07:07:28
+date: 2011-08-29T07:07:28Z
 lang: en
 tags: [ goals, life, motivation, steve jobs ]
 title: "You can't connect the dots looking forward; you can only connect them"

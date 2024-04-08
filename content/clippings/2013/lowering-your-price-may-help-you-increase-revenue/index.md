@@ -1,5 +1,5 @@
 ---
-date: 2013-04-15T07:07:28
+date: 2013-04-15T07:07:28Z
 lang: en
 tags: [ app, economics, ios, mac, pricing ]
 title: "(image)"

@@ -1,5 +1,5 @@
 ---
-date: 2011-08-12T07:07:28
+date: 2011-08-12T07:07:28Z
 lang: en
 tags: [ data, dataviz, debt, gdp, usa, visualisation ]
 title: "(image)"

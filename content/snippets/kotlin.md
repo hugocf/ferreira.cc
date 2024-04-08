@@ -1,5 +1,5 @@
 ---
-date: 2021-05-11T01:05:26
+date: 2021-05-11T01:05:26Z
 lang: en
 tags: [ kotlin, info, tips, tricks, how to ]
 title: Kotlin

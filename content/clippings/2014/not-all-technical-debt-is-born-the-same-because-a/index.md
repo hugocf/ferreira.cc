@@ -1,5 +1,5 @@
 ---
-date: 2014-08-16T07:07:28
+date: 2014-08-16T07:07:28Z
 lang: en
 tags: [ architecture, bad practices, best practices, code, design, development, software ]
 title: "(image)"

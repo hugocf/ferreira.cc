@@ -1,5 +1,5 @@
 ---
-date: 2013-09-19T07:07:28
+date: 2013-09-19T07:07:28Z
 lang: en
 tags: [ development, ios, tips ]
 title: "iOS 7 Development Tips, Tricks & Hacks"

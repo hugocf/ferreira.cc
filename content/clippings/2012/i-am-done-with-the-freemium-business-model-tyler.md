@@ -1,5 +1,5 @@
 ---
-date: 2012-01-03T07:07:28
+date: 2012-01-03T07:07:28Z
 lang: en
 tags: [ business models, freemium, saas, web app ]
 title: "I am done with the Freemium Business Model « Tyler Nichols Weblog"

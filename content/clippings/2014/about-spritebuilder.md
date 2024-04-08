@@ -1,5 +1,5 @@
 ---
-date: 2014-03-07T07:07:28
+date: 2014-03-07T07:07:28Z
 lang: en
 tags: [ chipmunk, cocos2d, cocos3d, cocosbuilder, development, engine, framework, game, ios, objc ]
 title: "About  |  SpriteBuilder"

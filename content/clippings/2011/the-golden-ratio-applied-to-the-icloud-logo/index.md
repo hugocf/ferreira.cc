@@ -1,5 +1,5 @@
 ---
-date: 2011-06-01T07:07:28
+date: 2011-06-01T07:07:28Z
 lang: en
 tags: [ best practices, design, golden ratio, logo ]
 title: "(image)"

@@ -1,5 +1,5 @@
 ---
-date: 2012-06-19T07:07:28
+date: 2012-06-19T07:07:28Z
 lang: en
 tags: [ business plans, entrepreneur, lean startup ]
 title: "Burn Your Business Plan! -- Forbes"

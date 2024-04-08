@@ -1,5 +1,5 @@
 ---
-date: 2012-07-26T07:07:28
+date: 2012-07-26T07:07:28Z
 lang: en
 tags: [ mobile, statistics ]
 title: "Global mobile statistics Home: all the latest stats on mobile..."

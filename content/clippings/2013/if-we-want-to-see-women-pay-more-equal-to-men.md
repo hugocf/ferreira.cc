@@ -1,5 +1,5 @@
 ---
-date: 2013-12-25T07:07:28
+date: 2013-12-25T07:07:28Z
 lang: en
 tags: [ careers, children, economy, education, employment, men, myths, productivity, salary, women ]
 title: "Thomas Sowell on Feminism and Racialism"

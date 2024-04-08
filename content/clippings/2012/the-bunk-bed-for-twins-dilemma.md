@@ -1,5 +1,5 @@
 ---
-date: 2012-04-12T07:07:28
+date: 2012-04-12T07:07:28Z
 lang: en
 tags: [ beds, kids, parenting, relations, sleep, twins ]
 title: "The bunk bed for twins dilemma"

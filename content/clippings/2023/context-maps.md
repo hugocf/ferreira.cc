@@ -1,5 +1,5 @@
 ---
-date: 2023-11-15T23:40:36
+date: 2023-11-15T23:40:36Z
 draft: true
 lang: en
 tags: [ ddd, … ]

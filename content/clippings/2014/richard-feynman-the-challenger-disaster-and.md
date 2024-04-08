@@ -1,5 +1,5 @@
 ---
-date: 2014-01-28T07:07:28
+date: 2014-01-28T07:07:28Z
 lang: en
 tags: [ best practices, development, history repeating, lessons, software ]
 title: "Richard Feynman, the Challenger Disaster, and Software Engineering : Gustavo Duarte"

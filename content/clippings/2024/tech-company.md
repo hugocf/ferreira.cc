@@ -1,5 +1,5 @@
 ---
-date: 2024-03-23T21:13:30
+date: 2024-03-23T21:13:30Z
 lang: en
 tags: [ technology, organisations, software, engineering, business, cost centre, profit centre ]
 title: Do you work at a tech company?

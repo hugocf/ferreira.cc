@@ -1,5 +1,5 @@
 ---
-date: 2010-03-23T07:07:28
+date: 2010-03-23T07:07:28Z
 lang: pt
 tags: [ life ]
 title: "Ninguém é perfeito"

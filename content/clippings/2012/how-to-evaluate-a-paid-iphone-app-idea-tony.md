@@ -1,5 +1,5 @@
 ---
-date: 2012-07-28T07:07:28
+date: 2012-07-28T07:07:28Z
 lang: en
 tags: [ app store, business, ios, market, money, statistics, strategy ]
 title: "How to Evaluate a (paid) iPhone App Idea -- Tony Wright's Startup Front-End"

@@ -2,7 +2,7 @@
 aliases:
   - macbook-fans
   - macbook-dust
-date: 2022-08-12T22:16:16
+date: 2022-08-12T22:16:16Z
 lang: en
 tags: [ macbooks, hardware, maintenance ]
 title: "Thermal throttling: “Gone in a cloud of dust”"

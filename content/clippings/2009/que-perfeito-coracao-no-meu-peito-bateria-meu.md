@@ -1,5 +1,5 @@
 ---
-date: 2009-06-27T07:07:28
+date: 2009-06-27T07:07:28Z
 lang: pt
 tags: [ musings ]
 title: "Que perfeito coração"

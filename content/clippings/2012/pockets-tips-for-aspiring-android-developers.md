@@ -1,5 +1,5 @@
 ---
-date: 2012-07-11T07:07:28
+date: 2012-07-11T07:07:28Z
 lang: en
 tags: [ android, development, mobile, story, success ]
 title: "Pocket's Tips for Aspiring Android Developers: It's Not Really Terrifying, and In Fact Quite Enjoyable « Pocket Blog"

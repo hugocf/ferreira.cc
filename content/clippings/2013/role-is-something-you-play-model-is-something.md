@@ -1,5 +1,5 @@
 ---
-date: 2013-06-25T07:07:28
+date: 2013-06-25T07:07:28Z
 lang: en
 tags: [ conventions, inspiration, life, reality, society ]
 title: "Role is something you play, model is something that you make. Both of"

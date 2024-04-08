@@ -1,5 +1,5 @@
 ---
-date: 2011-03-12T07:07:28
+date: 2011-03-12T07:07:28Z
 lang: en
 tags: [ http, status codes, web service ]
 title: "httpstat.us"

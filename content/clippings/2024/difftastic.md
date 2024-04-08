@@ -1,5 +1,5 @@
 ---
-date: 2024-03-22T21:13:30
+date: 2024-03-22T21:13:30Z
 lang: en
 tags: [ software, development, tools, cli ]
 title: Difftastic, a structural diff

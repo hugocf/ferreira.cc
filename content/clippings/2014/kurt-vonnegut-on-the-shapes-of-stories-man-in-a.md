@@ -1,5 +1,5 @@
 ---
-date: 2014-11-21T07:07:28
+date: 2014-11-21T07:07:28Z
 lang: en
 tags: [ narrative, old school, presentation, public speaking, storytelling, style ]
 title: "Kurt Vonnegut on the Shapes of Stories"

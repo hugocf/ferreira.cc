@@ -1,5 +1,5 @@
 ---
-date: 2013-10-17T07:07:28
+date: 2013-10-17T07:07:28Z
 lang: en
 tags: [ documentation, fine print, legalese, mobile, paperwork, templates ]
 title: "Docracy -- Free Legal Documents"

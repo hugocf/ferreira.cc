@@ -1,5 +1,5 @@
 ---
-date: 2023-11-25T10:22:33
+date: 2023-11-25T10:22:33Z
 lang: en
 tags: [ software, saas, spam, innovation, user experience, dark patterns ]
 title: The Frustration Loop

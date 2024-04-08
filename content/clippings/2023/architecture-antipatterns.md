@@ -1,5 +1,5 @@
 ---
-date: 2023-12-01T09:24:58
+date: 2023-12-01T09:24:58Z
 lang: en
 tags: [ software, architecture, antipatterns, reference ]
 title: Architecture Antipatterns

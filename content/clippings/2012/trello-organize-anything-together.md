@@ -1,5 +1,5 @@
 ---
-date: 2012-01-08T07:07:28
+date: 2012-01-08T07:07:28Z
 lang: en
 tags: [ agile, boards, collaboration, kanban, project management, visual, web app ]
 title: "Trello  |  Organize anything, together."

@@ -1,5 +1,5 @@
 ---
-date: 2013-11-26T07:07:28
+date: 2013-11-26T07:07:28Z
 lang: en
 tags: [ anchoring, beauty, behaviour, comparison, conversions, decision making, economist, marketing, pricing, psychology ]
 title: "Dan Ariely: Are we in control of our own decisions?"

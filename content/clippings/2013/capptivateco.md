@@ -1,5 +1,5 @@
 ---
-date: 2013-10-18T07:07:28
+date: 2013-10-18T07:07:28Z
 lang: en
 tags: [ animation, design, ios, mobile, motion, patterns, ui, ux ]
 title: "CAPPTIVATE.co"

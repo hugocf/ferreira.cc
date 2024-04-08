@@ -1,5 +1,5 @@
 ---
-date: 2014-09-11T07:07:28
+date: 2014-09-11T07:07:28Z
 lang: en
 tags: [ change management, code, deployment, devops, migration ]
 title: "Deployment, migration & change management tools"

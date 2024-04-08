@@ -1,5 +1,5 @@
 ---
-date: 2012-08-26T07:07:28
+date: 2012-08-26T07:07:28Z
 lang: en
 tags: [ best practices, how to, knowledge, learning ]
 title: "Study Hacks » You Know What You Write: The Textbook Method for Ultra-Learning"

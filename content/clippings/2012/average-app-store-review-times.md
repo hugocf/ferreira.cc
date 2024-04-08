@@ -1,5 +1,5 @@
 ---
-date: 2012-12-04T07:07:28
+date: 2012-12-04T07:07:28Z
 lang: en
 tags: [ app store, deployment, ios, os x, review ]
 title: "Average App Store Review Times"

@@ -1,5 +1,5 @@
 ---
-date: 2013-07-09T07:07:28
+date: 2013-07-09T07:07:28Z
 lang: en
 tags: [ app store, apple, ios, marketing ]
 title: "The apps that get featured on the iOS App Store"

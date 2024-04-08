@@ -1,5 +1,5 @@
 ---
-date: 2012-08-14T07:07:28
+date: 2012-08-14T07:07:28Z
 lang: en
 tags: [ books, education, learning, reference ]
 title: "Harvard Classics (Bookshelf) -- Gutenberg"

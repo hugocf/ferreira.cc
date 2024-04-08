@@ -1,5 +1,5 @@
 ---
-date: 2012-07-06T07:07:28
+date: 2012-07-06T07:07:28Z
 lang: en
 tags: [ email, ios, ivr, notifications, saas, sms, voice, web services ]
 title: "Delivery As A Service -- Anil Dash"

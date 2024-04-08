@@ -1,5 +1,5 @@
 ---
-date: 2012-06-13T07:07:28
+date: 2012-06-13T07:07:28Z
 lang: en
 tags: [ apple, marketing, monomyth, storytelling, subway ]
 title: "How to Become a Content Marketing Hero by Emulating Apple and Subway  |  Entreproducer"

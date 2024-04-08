@@ -1,5 +1,5 @@
 ---
-date: 2010-04-20T07:07:28
+date: 2010-04-20T07:07:28Z
 lang: en
 tags: [ asking, business, life, marketing ]
 title: "How to ask a favor? Part 2"

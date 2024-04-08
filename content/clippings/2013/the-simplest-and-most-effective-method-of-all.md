@@ -1,5 +1,5 @@
 ---
-date: 2013-04-14T07:07:28
+date: 2013-04-14T07:07:28Z
 lang: en
 tags: [ kiss, lists, productivity, simplicity ]
 title: "The Simplest and Most Effective Method of All? -- Blog -- Get Everything Done"

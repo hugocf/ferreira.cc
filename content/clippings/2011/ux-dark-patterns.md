@@ -1,5 +1,5 @@
 ---
-date: 2011-06-05T07:07:28
+date: 2011-06-05T07:07:28Z
 lang: en
 tags: [ bad practices, patterns, ux ]
 title: "UX Dark Patterns"

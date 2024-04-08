@@ -1,5 +1,5 @@
 ---
-date: 2011-12-27T07:07:28
+date: 2011-12-27T07:07:28Z
 lang: en
 tags: [ comedy, louis ck, shame ]
 title: "Louis CK's Shameful Dirty Comedy"

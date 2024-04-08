@@ -1,5 +1,5 @@
 ---
-date: 2024-03-16T11:04:52
+date: 2024-03-16T11:04:52Z
 lang: en
 tags: [ writing, structure, tips, how to ]
 title: The thread

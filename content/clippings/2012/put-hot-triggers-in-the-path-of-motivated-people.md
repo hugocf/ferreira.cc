@@ -1,5 +1,5 @@
 ---
-date: 2012-05-15T07:07:28
+date: 2012-05-15T07:07:28Z
 lang: en
 tags: [ behaviour, business, design, people, psychology, technology ]
 title: "Put hot triggers in the path of motivated people"

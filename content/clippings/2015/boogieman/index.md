@@ -1,5 +1,5 @@
 ---
-date: 2015-02-24T07:07:28
+date: 2015-02-24T07:07:28Z
 lang: en
 tags: [ comics, dark humor, humor ]
 title: "Boogieman"

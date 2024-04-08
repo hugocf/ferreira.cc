@@ -1,5 +1,5 @@
 ---
-date: 2013-10-03T07:07:28
+date: 2013-10-03T07:07:28Z
 lang: en
 tags: [ app store, apps, ios, marketing, mobile, publishing ]
 title: "Technical Q&A QA1633: Creating easy-to-read short links to the App Store for your apps and company"

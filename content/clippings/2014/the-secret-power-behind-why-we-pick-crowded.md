@@ -1,5 +1,5 @@
 ---
-date: 2014-01-10T07:07:28
+date: 2014-01-10T07:07:28Z
 lang: en
 tags: [ conversions, marketing, sales, social proof ]
 title: "The Secret Power Behind Why We Pick Crowded Restaurants Over Empty Ones  |  Fast Company  |  Business Innovation"

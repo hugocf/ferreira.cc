@@ -1,5 +1,5 @@
 ---
-date: 2014-06-25T07:07:28
+date: 2014-06-25T07:07:28Z
 lang: en
 tags: [ brasil, design, football, logo, making of ]
 title: "(image)"

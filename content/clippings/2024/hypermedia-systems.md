@@ -1,5 +1,5 @@
 ---
-date: 2024-04-06T21:16:09
+date: 2024-04-06T21:16:09Z
 lang: en
 tags: [ software, web, development, html, hypermedia, standards ]
 title: Hypermedia Systems

@@ -1,5 +1,5 @@
 ---
-date: 2012-02-06T07:07:28
+date: 2012-02-06T07:07:28Z
 lang: en
 tags: [ adrenaline, downhill, motocross ]
 title: "Riding on the edge"

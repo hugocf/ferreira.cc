@@ -1,5 +1,5 @@
 ---
-date: 2010-02-21T07:07:28
+date: 2010-02-21T07:07:28Z
 lang: en
 tags: [ business ]
 title: "the amount of time an organization spends discussing an issue is"

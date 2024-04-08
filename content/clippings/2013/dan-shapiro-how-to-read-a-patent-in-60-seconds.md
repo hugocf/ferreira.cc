@@ -1,5 +1,5 @@
 ---
-date: 2013-07-22T07:07:28
+date: 2013-07-22T07:07:28Z
 lang: en
 tags: [ best practices, patents, speed reading ]
 title: "Dan Shapiro » How to read a patent in 60 seconds"

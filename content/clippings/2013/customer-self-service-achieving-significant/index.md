@@ -1,5 +1,5 @@
 ---
-date: 2013-01-13T07:07:28
+date: 2013-01-13T07:07:28Z
 lang: en
 tags: [ business, models, pricing, saas, startups ]
 title: "(image)"

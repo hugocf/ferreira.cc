@@ -1,5 +1,5 @@
 ---
-date: 2014-09-11T07:07:28
+date: 2014-09-11T07:07:28Z
 lang: en
 tags: [ design, displays, iphone, pixels, ppi, resolution, retina, screens ]
 title: "(image)"

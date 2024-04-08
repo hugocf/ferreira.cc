@@ -1,5 +1,5 @@
 ---
-date: 2008-09-16T07:07:28
+date: 2008-09-16T07:07:28Z
 lang: en
 tags: [ business ]
 title: "(image)"

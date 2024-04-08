@@ -1,5 +1,5 @@
 ---
-date: 2011-11-11T07:07:28
+date: 2011-11-11T07:07:28Z
 lang: en
 tags: [ 3d, printing, service ]
 title: "3D Printing Service i.materialise  |  Home"

@@ -1,5 +1,5 @@
 ---
-date: 2012-10-24T07:07:28
+date: 2012-10-24T07:07:28Z
 lang: pt
 tags: [ lengalenga, popular, tradition ]
 title: "Sola, sapato, rei, rainha (2)"

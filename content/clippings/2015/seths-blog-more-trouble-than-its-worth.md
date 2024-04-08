@@ -1,5 +1,5 @@
 ---
-date: 2015-03-12T07:07:28
+date: 2015-03-12T07:07:28Z
 lang: en
 tags: [ awesome, commitement, delight, extra mile, focus, hard work, success ]
 title: "Seth's Blog: More trouble than it's worth"

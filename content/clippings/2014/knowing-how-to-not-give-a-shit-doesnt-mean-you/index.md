@@ -1,5 +1,5 @@
 ---
-date: 2014-07-25T07:07:28
+date: 2014-07-25T07:07:28Z
 lang: en
 tags: [ attitude, laissez faire, life, psychology ]
 title: "(image)"

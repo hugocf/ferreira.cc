@@ -1,5 +1,5 @@
 ---
-date: 2014-04-27T07:07:28
+date: 2014-04-27T07:07:28Z
 lang: en
 tags: [ copyright, creative commons, licenses, public domain, visualisation ]
 title: "(image)"

@@ -1,5 +1,5 @@
 ---
-date: 2017-05-14T12:47:21
+date: 2017-05-14T12:47:21Z
 tags: [ programming, data types, enumerates, comparison, scala, java ]
 title: Scala Enumerations Summary
 summary: Comparison between different ways of doing enumerates, with `scala.Enumeration`, `case object` and Java’s `Enum`.

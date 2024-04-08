@@ -1,5 +1,5 @@
 ---
-date: 2014-03-18T07:07:28
+date: 2014-03-18T07:07:28Z
 lang: en
 tags: [ best practices, call to action, copywriting, ethics, marketing ]
 title: "Propaganda and Marketing -- Are we still persuading? Copywriting by Copy Hackers"

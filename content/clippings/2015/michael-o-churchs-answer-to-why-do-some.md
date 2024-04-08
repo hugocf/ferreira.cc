@@ -1,5 +1,5 @@
 ---
-date: 2015-04-16T07:07:28
+date: 2015-04-16T07:07:28Z
 lang: en
 tags: [ advantages, agile, bullshit, pitfalls, product development, pros and cons, scrum, services, software development ]
 title: "Michael O. Church's answer to Why do some developers at strong companies like Google consider Agile development to be nonsense? -- Quora"

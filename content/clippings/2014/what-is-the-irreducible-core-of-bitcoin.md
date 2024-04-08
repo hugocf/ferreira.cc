@@ -1,5 +1,5 @@
 ---
-date: 2014-02-12T07:07:28
+date: 2014-02-12T07:07:28Z
 lang: en
 tags: [ bitcoin, definition, digital, explanation, money ]
 title: "What is the \"irreducible core\" of Bitcoin?  |  Richard Gendal Brown"

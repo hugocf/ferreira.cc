@@ -1,5 +1,5 @@
 ---
-date: 2012-06-13T07:07:28
+date: 2012-06-13T07:07:28Z
 lang: en
 tags: [ color, design, online, palette, tool ]
 title: "Sphere: Color Theory Visualizer"

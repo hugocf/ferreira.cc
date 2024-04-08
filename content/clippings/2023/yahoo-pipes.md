@@ -1,5 +1,5 @@
 ---
-date: 2023-12-20T12:21:46
+date: 2023-12-20T12:21:46Z
 lang: en
 tags: [ internet, web, history, automation, innovation, explanation ]
 title: "Pipe Dreams: The life and times of Yahoo Pipes"

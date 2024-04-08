@@ -1,5 +1,5 @@
 ---
-date: 2012-11-29T07:07:28
+date: 2012-11-29T07:07:28Z
 lang: en
 tags: [ commercial, development, ios, sdk, search, tools ]
 title: "Algolia Search for Mobiles"

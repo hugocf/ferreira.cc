@@ -1,5 +1,5 @@
 ---
-date: 2012-09-17T07:07:28
+date: 2012-09-17T07:07:28Z
 lang: en
 tags: [ email, newsletters, saas, smtp ]
 title: "Mandrill -- Transactional Email from MailChimp"

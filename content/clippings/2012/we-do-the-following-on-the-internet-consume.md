@@ -1,5 +1,5 @@
 ---
-date: 2012-02-01T07:07:28
+date: 2012-02-01T07:07:28Z
 lang: en
 tags: [ consuming, content, producing, publishing, statistics, wordpress ]
 title: "What we do on the internet"

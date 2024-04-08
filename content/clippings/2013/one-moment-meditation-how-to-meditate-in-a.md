@@ -1,5 +1,5 @@
 ---
-date: 2013-12-14T07:07:28
+date: 2013-12-14T07:07:28Z
 lang: en
 tags: [ how to, meditation, tips ]
 title: "How to Meditate in a Moment"

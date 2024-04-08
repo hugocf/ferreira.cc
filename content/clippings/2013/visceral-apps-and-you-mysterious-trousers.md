@@ -1,5 +1,5 @@
 ---
-date: 2013-03-27T07:07:28
+date: 2013-03-27T07:07:28Z
 lang: en
 tags: [ android, app, development, ios, mobile ]
 title: "Visceral Apps and You --- Mysterious Trousers"

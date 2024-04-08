@@ -1,5 +1,5 @@
 ---
-date: 2010-11-14T07:07:28
+date: 2010-11-14T07:07:28Z
 lang: en
 tags: [ brain, business, inspiration, leadership, lizard, motivation ]
 title: "Simon Sinek: How great leaders inspire action"

@@ -1,5 +1,5 @@
 ---
-date: 2013-05-03T07:07:28
+date: 2013-05-03T07:07:28Z
 lang: en
 tags: [ goals, motivation, passion, procrastination, productivity ]
 title: "The Only Two Secrets to Motivating Yourself You'll Ever Need : zenhabits"

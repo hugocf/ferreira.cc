@@ -1,5 +1,5 @@
 ---
-date: 2019-11-09T01:01:26
+date: 2019-11-09T01:01:26Z
 lang: en
 tags: [ aws, info, tips, tricks, how to ]
 title: AWS

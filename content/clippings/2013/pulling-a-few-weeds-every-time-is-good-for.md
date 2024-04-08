@@ -1,5 +1,5 @@
 ---
-date: 2013-05-08T07:07:28
+date: 2013-05-08T07:07:28Z
 lang: en
 tags: [ management, productivity, projects ]
 title: "Pulling a few weeds every time is good for maintenance, but it doesn't"

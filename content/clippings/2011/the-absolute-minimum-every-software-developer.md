@@ -1,5 +1,5 @@
 ---
-date: 2011-11-24T07:07:28
+date: 2011-11-24T07:07:28Z
 lang: en
 tags: [ ascii, encoding, latin1, unicode, utf8 ]
 title: "The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!) -- Joel on Software"

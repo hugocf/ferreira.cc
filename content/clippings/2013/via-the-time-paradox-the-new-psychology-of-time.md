@@ -1,5 +1,5 @@
 ---
-date: 2013-02-12T07:07:28
+date: 2013-02-12T07:07:28Z
 lang: en
 tags: [ physics, slow motion, time, water ]
 title: "The Time Paradox"

@@ -1,5 +1,5 @@
 ---
-date: 2011-08-13T07:07:28
+date: 2011-08-13T07:07:28Z
 lang: en
 tags: [ copyright, photos, pictures, social media, user content ]
 title: "Twitpic, Twitter, Lockerz, YFrog, Mobypic -- good or bad?  |  Jon Boyes -- Photographer -- blog"

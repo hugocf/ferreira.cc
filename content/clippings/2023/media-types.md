@@ -1,7 +1,7 @@
 ---
 aliases:
   - mime-types
-date: 2023-08-15T07:07:28
+date: 2023-08-15T07:07:28Z
 lang: en
 tags: [ internet, standardisation, media, types, reference ]
 title: "Media Types | IANA"

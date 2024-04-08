@@ -1,5 +1,5 @@
 ---
-date: 2008-07-25T07:07:28
+date: 2008-07-25T07:07:28Z
 lang: pt
 tags: [ inspiration, life ]
 title: "Tou farto de ser artista, **da-se"

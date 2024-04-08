@@ -1,5 +1,5 @@
 ---
-date: 2024-04-05T19:19:59
+date: 2024-04-05T19:19:59Z
 lang: en
 tags: [ engineering, leadership, strategies, reference ]
 title: Engineering strategy every org should write

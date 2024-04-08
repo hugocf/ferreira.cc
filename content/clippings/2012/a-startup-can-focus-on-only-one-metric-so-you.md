@@ -1,5 +1,5 @@
 ---
-date: 2012-04-23T07:07:28
+date: 2012-04-23T07:07:28Z
 lang: en
 tags: [ entrepreneur, focus, goals, startup ]
 title: "The full story of \"the one important thing\" for startups"

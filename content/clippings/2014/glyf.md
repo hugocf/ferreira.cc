@@ -1,5 +1,5 @@
 ---
-date: 2014-09-28T07:07:28
+date: 2014-09-28T07:07:28Z
 lang: en
 tags: [ ios, keyboard, symbols, unicode ]
 title: "GLYF"

@@ -1,5 +1,5 @@
 ---
-date: 2012-08-29T07:07:28
+date: 2012-08-29T07:07:28Z
 lang: en
 tags: [ clipart, design, icons, windows 8 ]
 title: "(image)"

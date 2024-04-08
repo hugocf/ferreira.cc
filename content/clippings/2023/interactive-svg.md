@@ -1,5 +1,5 @@
 ---
-date: 2023-08-30T16:10:40
+date: 2023-08-30T16:10:40Z
 lang: en
 tags: [ tools, svg, animation, interactive, template ]
 title: Interactive SVG template

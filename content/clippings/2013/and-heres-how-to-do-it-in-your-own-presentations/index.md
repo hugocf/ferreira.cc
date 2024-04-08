@@ -1,5 +1,5 @@
 ---
-date: 2013-07-17T07:07:28
+date: 2013-07-17T07:07:28Z
 lang: en
 tags: [ best practices, presentation, public speaking, stories, storytelling ]
 title: "(image)"

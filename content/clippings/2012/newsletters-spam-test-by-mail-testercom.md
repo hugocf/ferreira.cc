@@ -1,5 +1,5 @@
 ---
-date: 2012-09-19T07:07:28
+date: 2012-09-19T07:07:28Z
 lang: en
 tags: [ development, email, newsletters, simulation, spam, testing ]
 title: "Newsletters spam test by mail-tester.com"

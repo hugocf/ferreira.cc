@@ -1,5 +1,5 @@
 ---
-date: 2011-05-01T07:07:28
+date: 2011-05-01T07:07:28Z
 lang: en
 tags: [ development, games, ios, opengl, tutorials ]
 title: "iPhone Game Development Tutorials | 71²"

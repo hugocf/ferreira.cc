@@ -1,5 +1,5 @@
 ---
-date: 2012-04-23T07:07:28
+date: 2012-04-23T07:07:28Z
 lang: en
 tags: [ dedication, earnings, entrepreneur, focus, startups ]
 title: "Your time is $1000/hour, and you need to act accordingly"

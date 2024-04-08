@@ -1,5 +1,5 @@
 ---
-date: 2023-04-17T20:58:27
+date: 2023-04-17T20:58:27Z
 lang: en
 source: "[Equal Experts Blogin comment, Hugo Ferreira, 2023-03-08](https://equalexperts.blogin.co/posts/sharing-ways-to-reduce-information-overload-201881#c227732)"
 tags: [ communications, productivity, inboxes, clutter, overwhelm, how to, explanation ]
@@ -62,12 +62,18 @@ This is how I setup my **Slack** channels *sections* to make them behave more li
 
 ## 🗂️ Organise for fast processing {#sections}
 
+* [ ] TODO: Explain the new sections format emoji 
+
+> In practice, the most granular unit you can manage your “unreads” in Slack is the *channel*, not the *message*.
+> >
+> Depending on how far back I am with the backlog of ~~messages~~ channels  to read, I'm more flexible to decide at what section to stop and “mark all as read”
+
 As for which sections to use, I’ve ended up with a MoSCoW-inspired list where I essentially answer the question for each channel:
 
 * How directly related to my work/role is it?
-  * ☑️ Yes; ⚠️ Kinda; ℹ️ Not really
+    - ☑️ Yes; ⚠️ Kinda; ℹ️ Not really
 * Am I keen on reading/seeing new messages on it?
-  * 👀 Yes; 🙈 Nope
+    -  👀 Yes; 🙈 Nope
 
 This is now the most battle tested setup I have stayed with for many months. Most past setups broke down on the “coming back from holidays” huge backlog of stuff to read. This one lets me manage my time/energy more effectively and use the “mark all as read” more often, once the core ones are cleared.
 

@@ -1,5 +1,5 @@
 ---
-date: 2013-07-26T07:07:28
+date: 2013-07-26T07:07:28Z
 lang: en
 tags: [ art, horror, scare, short, stories, succint, writing ]
 title: "What is the best horror story you can come up with in two sentences. : AskReddit"

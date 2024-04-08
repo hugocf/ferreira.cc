@@ -1,5 +1,5 @@
 ---
-date: 2012-01-03T07:07:28
+date: 2012-01-03T07:07:28Z
 lang: en
 tags: [ 3d, javascript, presentation, prezi, slides ]
 title: "impress.js  |  presentation tool based on the power of CSS3 transforms and transitions in modern browsers  |  by Bartek Szopka @bartaz"

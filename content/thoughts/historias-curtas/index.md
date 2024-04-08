@@ -4,7 +4,7 @@ cover:
   image: baby-shoes.webp
   alt: watercolor painting of baby shoes
   caption: "[DALL·E](https://openai.com/dall-e) “watercolor painting of baby shoes, never worn”"
-date: 2020-07-16T22:16:49
+date: 2020-07-16T22:16:49Z
 lang: pt
 source: "[Instagram, Hugo Ferreira, 2020-07-16](https://www.instagram.com/p/CCqXf40s28T/c/17872566445791198/)"
 tags: [ storytelling, constraints, creativity, icebreakers ]

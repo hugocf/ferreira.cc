@@ -1,5 +1,5 @@
 ---
-date: 2011-11-14T07:07:28
+date: 2011-11-14T07:07:28Z
 lang: en
 tags: [ learning, life ]
 title: "If you're not busy being born, you're busy dying"

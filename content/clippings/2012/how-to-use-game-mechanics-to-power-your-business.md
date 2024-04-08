@@ -1,5 +1,5 @@
 ---
-date: 2012-11-26T07:07:28
+date: 2012-11-26T07:07:28Z
 lang: en
 tags: [ best practices, business, design, game mechanics, how to ]
 title: "HOW TO: Use Game Mechanics to Power Your Business"

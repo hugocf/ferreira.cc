@@ -1,5 +1,5 @@
 ---
-date: 2012-08-09T07:07:28
+date: 2012-08-09T07:07:28Z
 lang: en
 tags: [ goals, inspiration, lessons, life ]
 title: "Don't ignore your dreams"

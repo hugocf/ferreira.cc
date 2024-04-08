@@ -1,5 +1,5 @@
 ---
-date: 2011-07-07T07:07:28
+date: 2011-07-07T07:07:28Z
 lang: en
 tags: [ motivation, productivity ]
 title: "I Don't Want To Be Motivated By Anyone But Myself"

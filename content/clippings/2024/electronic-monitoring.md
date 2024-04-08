@@ -1,5 +1,5 @@
 ---
-date: 2024-03-20T23:10:29
+date: 2024-03-20T23:10:29Z
 lang: en
 tags: [ remote, policies, trust, monitoring, performance, motivation ]
 title: "The impact of electronic monitoring on employees"

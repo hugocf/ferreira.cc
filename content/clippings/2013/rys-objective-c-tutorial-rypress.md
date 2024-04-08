@@ -1,5 +1,5 @@
 ---
-date: 2013-02-04T07:07:28
+date: 2013-02-04T07:07:28Z
 lang: en
 tags: [ code, development, objective c, tutorial ]
 title: "Ry's Objective-C Tutorial  |  RyPress"

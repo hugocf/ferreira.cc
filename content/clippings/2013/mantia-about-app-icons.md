@@ -1,5 +1,5 @@
 ---
-date: 2013-03-15T07:07:28
+date: 2013-03-15T07:07:28Z
 lang: en
 tags: [ app, design, development, icons, ios ]
 title: "Mantia » About App Icons"

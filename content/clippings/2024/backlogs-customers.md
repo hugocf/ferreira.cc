@@ -1,5 +1,5 @@
 ---
-date: 2024-01-24T20:42:48
+date: 2024-01-24T20:42:48Z
 lang: en
 tags: [ lean, agile, software, backlogs, ui, mvp, test in production ]
 title: Backlog size is inversely proportional to how often you talk to customers

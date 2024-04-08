@@ -1,5 +1,5 @@
 ---
-date: 2013-07-23T07:07:28
+date: 2013-07-23T07:07:28Z
 lang: en
 tags: [ business, groups, organization, psychology, strategy ]
 title: "(image)"

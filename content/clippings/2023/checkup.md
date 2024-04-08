@@ -2,7 +2,7 @@
 aliases:
   - check-up
   - check up
-date: 2023-11-02T03:53:37
+date: 2023-11-02T03:53:37Z
 lang: en
 tags: [ english, definitions, vocabulary, spelling ]
 title: "Check Up, Checkup or Check-Up - Which One to Use?"

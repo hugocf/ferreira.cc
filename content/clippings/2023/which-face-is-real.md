@@ -1,5 +1,5 @@
 ---
-date: 2023-12-15T11:13:10
+date: 2023-12-15T11:13:10Z
 lang: en
 tags: [ ai, surveys, image generation ]
 title: "Which Face Is Real?"

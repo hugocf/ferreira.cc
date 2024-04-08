@@ -1,5 +1,5 @@
 ---
-date: 2014-03-03T07:07:28
+date: 2014-03-03T07:07:28Z
 lang: en
 tags: [ best practices, design, development, generator, icons, tools, web ]
 title: "Favicon Generator -- Generate favicon pictures and HTML"

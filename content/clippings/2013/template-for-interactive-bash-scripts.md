@@ -1,5 +1,5 @@
 ---
-date: 2013-12-27T07:07:28
+date: 2013-12-27T07:07:28Z
 lang: en
 tags: [ bash, code, development, scripts, shell, template, unix ]
 title: "Template for interactive bash scripts"

@@ -1,5 +1,5 @@
 ---
-date: 2024-03-20T23:10:29
+date: 2024-03-20T23:10:29Z
 lang: en
 tags: [ technique, planning, strategy, organisations ]
 title: Lean Value Tree

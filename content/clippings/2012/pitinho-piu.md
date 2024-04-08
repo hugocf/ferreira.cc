@@ -1,5 +1,5 @@
 ---
-date: 2012-11-26T07:07:28
+date: 2012-11-26T07:07:28Z
 lang: pt
 tags: [ kids, music, song ]
 title: "Pitinho, piu..."

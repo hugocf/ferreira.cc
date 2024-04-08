@@ -1,5 +1,5 @@
 ---
-date: 2014-03-11T07:07:28
+date: 2014-03-11T07:07:28Z
 lang: en
 tags: [ adoption, generation gap, history repeating, life, technology ]
 title: "1. Anything that is in the world when you're born is normal and ordinary and is just a natural part of the way the world works"

@@ -1,5 +1,5 @@
 ---
-date: 2013-10-02T07:07:28
+date: 2013-10-02T07:07:28Z
 lang: en
 tags: [ best practices, compile, configuration, objc, xcode ]
 title: "Warnings I turn on, and why » Idle Time"

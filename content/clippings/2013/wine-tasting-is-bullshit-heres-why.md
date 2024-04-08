@@ -1,5 +1,5 @@
 ---
-date: 2013-05-10T07:07:28
+date: 2013-05-10T07:07:28Z
 lang: en
 tags: [ experts, recommendations, reviews, tasting, wine ]
 title: "Wine tasting is bullshit. Here's why."

@@ -1,5 +1,5 @@
 ---
-date: 2013-09-17T07:07:28
+date: 2013-09-17T07:07:28Z
 lang: en
 tags: [ arguments, checkmate, debate, deniers, holocaust, nazi ]
 title: "The Holocaust: What are the most convincing bits of evidence which prove, beyond a shadow of doubt, that the Holocaust occurred? -- Quora"

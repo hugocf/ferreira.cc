@@ -1,5 +1,5 @@
 ---
-date: 2013-09-19T07:07:28
+date: 2013-09-19T07:07:28Z
 lang: en
 tags: [ development, forms, html, mobile ]
 title: "Touch Keyboard Type 'Cheat Sheet' -- Labs -- Baymard Institute"

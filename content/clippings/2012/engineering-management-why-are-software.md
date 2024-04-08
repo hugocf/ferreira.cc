@@ -1,5 +1,5 @@
 ---
-date: 2012-01-30T07:07:28
+date: 2012-01-30T07:07:28Z
 lang: en
 tags: [ estimation, management, project ]
 title: "Engineering Management: Why are software development task estimations regularly off by a factor of 2-3? -- Quora"

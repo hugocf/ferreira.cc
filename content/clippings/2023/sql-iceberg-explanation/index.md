@@ -1,5 +1,5 @@
 ---
-date: 2023-09-06T13:07:34
+date: 2023-09-06T13:07:34Z
 lang: en
 tags: [ software, development, databases, expertise, explanation ]
 title: SQL Iceberg Meme Explanation

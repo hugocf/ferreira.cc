@@ -1,5 +1,5 @@
 ---
-date: 2013-11-06T07:07:28
+date: 2013-11-06T07:07:28Z
 lang: en
 tags: [ attention, code, development, focus, interruptions, productivity, programming, the zone ]
 title: "(image)"

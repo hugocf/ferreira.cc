@@ -1,5 +1,5 @@
 ---
-date: 2014-06-18T07:07:28
+date: 2014-06-18T07:07:28Z
 lang: en
 tags: [ code, comments, development, documentation, ios, objc, osx, xcode ]
 title: "Documenting in Xcode with HeaderDoc Tutorial  |  Ray Wenderlich"

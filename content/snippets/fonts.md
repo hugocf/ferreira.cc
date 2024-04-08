@@ -1,5 +1,5 @@
 ---
-date: 2015-08-23T01:03:51
+date: 2015-08-23T01:03:51Z
 lang: en
 tags: [ fonts, info, tips, tricks, how to ]
 title: Fonts

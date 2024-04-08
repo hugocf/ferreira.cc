@@ -1,5 +1,5 @@
 ---
-date: 2011-05-04T07:07:28
+date: 2011-05-04T07:07:28Z
 lang: en
 tags: [ databases, development, tools ]
 title: "Navicat -- Premium Overview -- A cross-database admin and data migration GUI admin tools. It supports MySQL, SQL Server, SQLite, SQL Azure, Oracle & PostgreSQL for Windows, Mac OS X & Linux -- Download Now!"

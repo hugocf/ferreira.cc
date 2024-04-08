@@ -1,5 +1,5 @@
 ---
-date: 2011-03-15T07:07:28
+date: 2011-03-15T07:07:28Z
 lang: en
 tags: [ chrome, flash, mac, osx, safari, webkit ]
 title: "Going Flash-Free on Mac OS X, and How to Cheat When You Need It"

@@ -1,5 +1,5 @@
 ---
-date: 2012-02-20T07:07:28
+date: 2012-02-20T07:07:28Z
 lang: en
 tags: [ inspiration, life ]
 title: "(image)"

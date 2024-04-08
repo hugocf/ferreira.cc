@@ -1,5 +1,5 @@
 ---
-date: 2012-09-24T07:07:28
+date: 2012-09-24T07:07:28Z
 lang: en
 tags: [ communication, language, legal, plain english, terms of service, tldr, tos ]
 title: "Terms of Service; Didn't Read"

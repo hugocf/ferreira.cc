@@ -1,5 +1,5 @@
 ---
-date: 2013-03-02T07:07:28
+date: 2013-03-02T07:07:28Z
 lang: en
 tags: [ focus, management, planning, project, teams ]
 title: "The 5 Ps: Achieving Focus in Any Endeavor  |  cek.log"

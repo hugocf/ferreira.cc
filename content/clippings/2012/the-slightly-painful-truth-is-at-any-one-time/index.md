@@ -1,5 +1,5 @@
 ---
-date: 2012-12-20T07:07:28
+date: 2012-12-20T07:07:28Z
 lang: en
 tags: [ career, curriculum vitae, focus, life, roles ]
 title: "(image)"

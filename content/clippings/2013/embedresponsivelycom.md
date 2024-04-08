@@ -1,5 +1,5 @@
 ---
-date: 2013-12-13T07:07:28
+date: 2013-12-13T07:07:28Z
 lang: en
 tags: [ development, embed, media, responsive, web ]
 title: "embedresponsively.com"

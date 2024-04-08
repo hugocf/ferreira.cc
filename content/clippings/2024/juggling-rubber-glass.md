@@ -1,5 +1,5 @@
 ---
-date: 2024-03-26T11:55:58
+date: 2024-03-26T11:55:58Z
 lang: en
 tags: [ prioritisation, planning, impact, choice ]
 title: How to Determine If the Balls You’re Juggling Are Rubber or Glass

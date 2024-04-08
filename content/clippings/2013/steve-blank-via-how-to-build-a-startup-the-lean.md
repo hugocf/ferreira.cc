@@ -1,5 +1,5 @@
 ---
-date: 2013-07-02T07:07:28
+date: 2013-07-02T07:07:28Z
 lang: en
 tags: [ business model, course, customer development, lean startup, market fit, training, value proposition ]
 title: "How To Build A Startup: The Lean Launchpad"

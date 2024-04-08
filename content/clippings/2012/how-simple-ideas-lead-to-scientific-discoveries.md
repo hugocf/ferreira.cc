@@ -1,5 +1,5 @@
 ---
-date: 2012-04-03T07:07:28
+date: 2012-04-03T07:07:28Z
 lang: en
 tags: [ discovery, history, science, stories, trivia ]
 title: "How Simple Ideas Lead to Scientific Discoveries"

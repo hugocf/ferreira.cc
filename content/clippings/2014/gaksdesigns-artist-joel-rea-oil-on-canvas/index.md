@@ -1,5 +1,5 @@
 ---
-date: 2014-03-11T07:07:28
+date: 2014-03-11T07:07:28Z
 lang: en
 tags: [ art, details, painting, reality ]
 title: "(image)"

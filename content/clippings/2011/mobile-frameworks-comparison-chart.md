@@ -1,5 +1,5 @@
 ---
-date: 2011-10-08T07:07:28
+date: 2011-10-08T07:07:28Z
 lang: en
 tags: [ android, blackberry, frameworks, ios, mobile, web, windows ]
 title: "Mobile Frameworks Comparison Chart"

@@ -1,7 +1,7 @@
 ---
 aliases:
   - inspiration-is-perishable-inspiration-is-like-2
-date: 2014-02-21T07:07:28
+date: 2014-02-21T07:07:28Z
 lang: en
 tags: [ business, focus, ideas, inspiration, just do it, opportunity, procrastination, productivity ]
 title: "Inspiration is perishable... Inspiration is like fresh fruit or milk"

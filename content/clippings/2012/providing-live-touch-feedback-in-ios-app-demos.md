@@ -1,5 +1,5 @@
 ---
-date: 2012-07-27T07:07:28
+date: 2012-07-27T07:07:28Z
 lang: en
 tags: [ demos, development, ios, screencast ]
 title: "Providing Live Touch Feedback in iOS App Demos Using TOUCHkit"

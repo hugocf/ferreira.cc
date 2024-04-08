@@ -1,5 +1,5 @@
 ---
-date: 2009-02-19T07:07:28
+date: 2009-02-19T07:07:28Z
 lang: en
 tags: [ guides, how to, productivity, reading ]
 title: "The 8 survey steps of Smart Reading"

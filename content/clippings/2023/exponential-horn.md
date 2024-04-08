@@ -1,5 +1,5 @@
 ---
-date: 2023-09-14T21:59:14
+date: 2023-09-14T21:59:14Z
 lang: en
 tags: [ software, testing, strategy, analogies, nitpicking ]
 title: The exponential horn of testing

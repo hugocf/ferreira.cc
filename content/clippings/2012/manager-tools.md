@@ -1,5 +1,5 @@
 ---
-date: 2012-02-08T07:07:28
+date: 2012-02-08T07:07:28Z
 lang: en
 tags: [ delegation, management, meetings, reference, tools ]
 title: "Manager Tools"

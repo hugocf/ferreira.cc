@@ -1,5 +1,5 @@
 ---
-date: 2012-12-04T07:07:28
+date: 2012-12-04T07:07:28Z
 lang: en
 tags: [ availability, css3, media queries ]
 title: "Palm Reader --- What media queries can my device see right now?"

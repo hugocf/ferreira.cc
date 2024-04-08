@@ -1,5 +1,5 @@
 ---
-date: 2012-09-12T07:07:28
+date: 2012-09-12T07:07:28Z
 lang: en
 tags: [ lean startup, online, reference, tools ]
 title: "Online tools for the Lean Startup practitioner"

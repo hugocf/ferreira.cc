@@ -1,7 +1,7 @@
 ---
 aliases:
   - pepsi
-date: 2009-07-02T02:54:27
+date: 2009-07-02T02:54:27Z
 lang: pt
 tags: [ humor, brands, behaviours, slogans, marketing ]
 title: Pepsi… pode ser

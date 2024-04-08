@@ -1,5 +1,5 @@
 ---
-date: 2023-08-28T16:02:30
+date: 2023-08-28T16:02:30Z
 lang: en
 tags: [ tools, svg, animation, generator ]
 title: Readme Typing SVG

@@ -1,5 +1,5 @@
 ---
-date: 2012-10-23T07:07:28
+date: 2012-10-23T07:07:28Z
 lang: en
 tags: [ business, clients, networking, rapport, sales ]
 title: "Networking is more about farming than it is about hunting"

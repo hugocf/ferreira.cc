@@ -1,5 +1,5 @@
 ---
-date: 2012-02-24T07:07:28
+date: 2012-02-24T07:07:28Z
 lang: en
 tags: [ analysis, brainstorm, exploration, ideas, management, organisation ]
 title: "The Affinity Diagram (KJ Analysis)"

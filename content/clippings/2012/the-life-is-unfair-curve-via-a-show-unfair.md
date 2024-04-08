@@ -1,5 +1,5 @@
 ---
-date: 2012-06-23T07:07:28
+date: 2012-06-23T07:07:28Z
 lang: en
 tags: [ heroes, life, motivation, pareto, power law ]
 title: "Life is unfair"

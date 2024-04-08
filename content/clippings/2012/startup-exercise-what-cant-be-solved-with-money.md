@@ -1,5 +1,5 @@
 ---
-date: 2012-04-24T07:07:28
+date: 2012-04-24T07:07:28Z
 lang: en
 tags: [ bootstrapping, entrepreneur, funding, money, startups ]
 title: "Startup Exercise: What can't be solved with money?"

@@ -1,5 +1,5 @@
 ---
-date: 2012-04-09T07:07:28
+date: 2012-04-09T07:07:28Z
 lang: en
 tags: [ favicon, services, web ]
 title: "getFavicon"

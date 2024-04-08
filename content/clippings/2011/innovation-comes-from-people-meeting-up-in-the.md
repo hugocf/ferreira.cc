@@ -1,5 +1,5 @@
 ---
-date: 2011-08-29T07:07:28
+date: 2011-08-29T07:07:28Z
 lang: en
 tags: [ innovation, steve jobs ]
 title: "... innovation comes from people meeting up in the hallways or calling"

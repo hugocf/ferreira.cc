@@ -1,5 +1,5 @@
 ---
-date: 2011-09-16T07:07:28
+date: 2011-09-16T07:07:28Z
 lang: en
 tags: [ open source, self hosted, statistics, web analytics ]
 title: "Piwik -- Web analytics -- Open source"

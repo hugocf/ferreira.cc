@@ -1,5 +1,5 @@
 ---
-date: 2013-11-26T07:07:28
+date: 2013-11-26T07:07:28Z
 lang: en
 tags: [ anchoring, beauty, comparison, conversions, copywriting, design, economist, marketing, pricing, psychology ]
 title: "(image)"

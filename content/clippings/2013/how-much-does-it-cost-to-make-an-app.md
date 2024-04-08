@@ -1,5 +1,5 @@
 ---
-date: 2013-10-18T07:07:28
+date: 2013-10-18T07:07:28Z
 lang: en
 tags: [ android, app, budget, cost, effort, estimation, ios, mobile ]
 title: "How Much Does It Cost To Make An App?"

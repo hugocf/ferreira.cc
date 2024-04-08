@@ -1,5 +1,5 @@
 ---
-date: 2012-04-24T07:07:28
+date: 2012-04-24T07:07:28Z
 lang: en
 tags: [ charts, real time, statistics, tracking ]
 title: "Chartaca -- Instant Real Time Charts"

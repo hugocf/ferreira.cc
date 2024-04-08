@@ -1,5 +1,5 @@
 ---
-date: 2016-01-10T01:03:51
+date: 2016-01-10T01:03:51Z
 lang: en
 tags: [ css, info, tips, tricks, how to ]
 title: CSS

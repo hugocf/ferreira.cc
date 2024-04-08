@@ -1,5 +1,5 @@
 ---
-date: 2013-08-28T07:07:28
+date: 2013-08-28T07:07:28Z
 lang: en
 tags: [ geek, subculture, techies ]
 title: "(image)"

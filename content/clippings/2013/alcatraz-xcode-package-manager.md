@@ -1,5 +1,5 @@
 ---
-date: 2013-11-16T07:07:28
+date: 2013-11-16T07:07:28Z
 lang: en
 tags: [ configuration, development, ios, manager, osx, tools, xcode ]
 title: "Alcatraz : Xcode Package Manager"

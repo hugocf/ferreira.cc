@@ -1,5 +1,5 @@
 ---
-date: 2024-02-08T02:18:59
+date: 2024-02-08T02:18:59Z
 lang: en
 tags: [ people, teams, psychology, needs, productivity ]
 title: "Core Needs: BICEPS — PALOMA MEDINA"

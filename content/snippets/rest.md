@@ -1,5 +1,5 @@
 ---
-date: 2016-09-26T01:04:56
+date: 2016-09-26T01:04:56Z
 lang: en
 tags: [ rest, info, tips, tricks, how to ]
 title: REST

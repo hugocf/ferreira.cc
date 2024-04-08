@@ -1,5 +1,5 @@
 ---
-date: 2010-05-22T07:07:28
+date: 2010-05-22T07:07:28Z
 lang: en
 tags: [ motivation, productivity ]
 title: "Dan Pink — Drive"

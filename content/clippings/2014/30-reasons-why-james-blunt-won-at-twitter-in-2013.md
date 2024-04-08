@@ -1,5 +1,5 @@
 ---
-date: 2014-02-26T07:07:28
+date: 2014-02-26T07:07:28Z
 lang: en
 tags: [ humor, marketing, personal brand, social media, trolls ]
 title: "30 Reasons Why James Blunt Won At Twitter In 2013  |  The Poke:"

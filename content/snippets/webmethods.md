@@ -1,5 +1,5 @@
 ---
-date: 2007-02-26T01:04:25
+date: 2007-02-26T01:04:25Z
 lang: en
 tags: [ webmethods, info, tips, tricks, how to ]
 title: webMethods

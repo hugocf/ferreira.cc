@@ -1,5 +1,5 @@
 ---
-date: 2012-06-18T07:07:28
+date: 2012-06-18T07:07:28Z
 lang: en
 tags: [ design, history, posters, typography ]
 title: "The Story of “Keep Calm and Carry On”"

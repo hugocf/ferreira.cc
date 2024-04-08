@@ -1,5 +1,5 @@
 ---
-date: 2013-05-17T07:07:28
+date: 2013-05-17T07:07:28Z
 lang: pt
 tags: [ acordo ortografico, portugues, resumo ]
 title: "Letras que caem, duplas grafias que ficam -- Ciberdúvidas da Língua Portuguesa"

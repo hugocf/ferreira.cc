@@ -1,5 +1,5 @@
 ---
-date: 2014-06-02T07:07:28
+date: 2014-06-02T07:07:28Z
 lang: en
 tags: [ career, fulfillment, life, passion, profession, purpose ]
 title: "Life's barely long enough to get good at one thing"

@@ -1,5 +1,5 @@
 ---
-date: 2014-01-26T07:07:28
+date: 2014-01-26T07:07:28Z
 lang: en
 tags: [ entrepreneur, execution, focus, ideas, implementation, life, motivation, purpose, routine ]
 title: "The default state of any new idea is failure. It's the execution--the"

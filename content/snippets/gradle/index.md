@@ -1,5 +1,5 @@
 ---
-date: 2021-09-17T01:04:16
+date: 2021-09-17T01:04:16Z
 lang: en
 tags: [ gradle, info, tips, tricks, how to ]
 title: Gradle

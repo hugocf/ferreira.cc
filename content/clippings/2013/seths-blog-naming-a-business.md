@@ -1,5 +1,5 @@
 ---
-date: 2013-06-10T07:07:28
+date: 2013-06-10T07:07:28Z
 lang: en
 tags: [ best practices, brand, business, copywriting, creativity, naming, tips ]
 title: "Seth's Blog: Naming a business"

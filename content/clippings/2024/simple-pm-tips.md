@@ -1,5 +1,5 @@
 ---
-date: 2024-02-04T21:01:10
+date: 2024-02-04T21:01:10Z
 lang: en
 tags: [ projects, management, how to, tips, principles, practical, user centric ]
 title: Simple tips for managing any project

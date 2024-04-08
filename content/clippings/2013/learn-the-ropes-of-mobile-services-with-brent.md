@@ -1,5 +1,5 @@
 ---
-date: 2013-03-20T07:07:28
+date: 2013-03-20T07:07:28Z
 lang: en
 tags: [ backend, development, ios, sync, web services ]
 title: "Learn the ropes of Mobile Services with Brent Simmons  |  Windows Asure"

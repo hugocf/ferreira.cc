@@ -1,5 +1,5 @@
 ---
-date: 2011-10-21T07:07:28
+date: 2011-10-21T07:07:28Z
 lang: en
 tags: [ efficiency, psychology, roles, skills, teams ]
 title: "(image)"

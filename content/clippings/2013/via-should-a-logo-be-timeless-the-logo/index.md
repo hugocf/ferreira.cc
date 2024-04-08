@@ -1,5 +1,5 @@
 ---
-date: 2013-09-23T07:07:28
+date: 2013-09-23T07:07:28Z
 lang: en
 tags: [ brand, change, design, evolution, history, logo ]
 title: "(image)"

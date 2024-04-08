@@ -1,5 +1,5 @@
 ---
-date: 2024-04-07T21:20:00
+date: 2024-04-07T21:20:00Z
 lang: en
 tags: [ information, overload, inboxes, processing, triage, mindset, prioritisation ]
 title: Rivers and buckets

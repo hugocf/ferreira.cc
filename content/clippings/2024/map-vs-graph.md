@@ -1,5 +1,5 @@
 ---
-date: 2024-02-04T20:54:15
+date: 2024-02-04T20:54:15Z
 lang: en
 tags: [ definitions, map, graph, strategy ]
 title: Simple tips for managing any project

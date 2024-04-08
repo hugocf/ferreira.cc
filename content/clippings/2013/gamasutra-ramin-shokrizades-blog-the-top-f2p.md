@@ -1,5 +1,5 @@
 ---
-date: 2013-07-02T07:07:28
+date: 2013-07-02T07:07:28Z
 lang: en
 tags: [ cohersion, dodgy, game mechanics, monetization ]
 title: "Gamasutra: Ramin Shokrizade's Blog -- The Top F2P Monetization Tricks"
