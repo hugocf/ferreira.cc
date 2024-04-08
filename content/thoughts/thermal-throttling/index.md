@@ -1,4 +1,7 @@
 ---
+aliases:
+  - macbook-fans
+  - macbook-dust
 date: 2022-08-12T22:16:16
 lang: en
 tags: [ macbooks, hardware, maintenance ]
