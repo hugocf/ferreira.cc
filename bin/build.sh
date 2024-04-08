@@ -7,4 +7,4 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 cd "$SCRIPT_DIR"/..
 
-hugo --cleanDestinationDir --printPathWarnings --panicOnWarning
+hugo --cleanDestinationDir --printPathWarnings --panicOnWarning --logLevel warn
