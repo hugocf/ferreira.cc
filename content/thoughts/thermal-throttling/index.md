@@ -1,8 +1,7 @@
 ---
 date: 2022-08-12T22:16:16
 lang: en
-source: "[Where, Who, 2000-00-00](http://example.com)"
-tags: [ … ]
+tags: [ macbooks, hardware, maintenance ]
 title: "Thermal throttling: “Gone in a cloud of dust”"
 summary: "When no matter how much you treat some problems as a “software” issue, there’s no escaping the “hardware” truth."
 shared:
