@@ -23,19 +23,22 @@ diff --unified=0 --recursive themes/PaperMod/layouts/_default/archives.html layo
 +          {{- .Title | safeHTML | markdownify }}
 diff --unified=0 --recursive themes/PaperMod/layouts/_default/list.html layouts/_default/list.html
 --- themes/PaperMod/layouts/_default/list.html	2023-12-26 12:14:43
-+++ layouts/_default/list.html	2024-04-14 03:55:17
++++ layouts/_default/list.html	2024-04-14 03:58:09
+@@ -11 +11 @@
+-    {{ .Title }}
++    {{ .Name }}
 @@ -71 +71,2 @@
 -      {{- .Title }}
 +      {{- partial "clippings_type.html" . -}}
 +      {{- .Title | safeHTML | markdownify }}
 diff --unified=0 --recursive themes/PaperMod/layouts/_default/rss.xml layouts/_default/rss.xml
 --- themes/PaperMod/layouts/_default/rss.xml	2024-04-14 03:00:11
-+++ layouts/_default/rss.xml	2024-04-14 03:55:17
++++ layouts/_default/rss.xml	2024-04-14 03:59:10
 @@ -48,3 +48,5 @@
 -    <title>{{ if eq .Title site.Title }}{{ site.Title }}{{ else }}{{ with .Title }}{{ . }} on {{ end }}{{ site.Title }}{{ end }}</title>
 -    <link>{{ .Permalink }}</link>
 -    <description>Recent content {{ if ne .Title site.Title }}{{ with .Title }}in {{ . }} {{ end }}{{ end }}on {{ site.Title }}</description>
-+    {{- $title := cond (eq .Title $.Site.Title) $.Site.Title (print .Title " | " $.Site.Title) -}}
++    {{- $title := cond (eq .Title $.Site.Title) $.Site.Title (print .Name " | " $.Site.Title) -}}
 +    {{- $permalink := .Permalink -}}
 +    <title>{{ $title }}</title>
 +    <link>{{ $permalink }}</link>
@@ -69,7 +72,7 @@ diff --unified=0 --recursive themes/PaperMod/layouts/_default/rss.xml layouts/_d
 +
 diff --unified=0 --recursive themes/PaperMod/layouts/_default/single.html layouts/_default/single.html
 --- themes/PaperMod/layouts/_default/single.html	2023-12-26 12:14:43
-+++ layouts/_default/single.html	2024-04-14 03:55:17
++++ layouts/_default/single.html	2024-04-14 03:58:53
 @@ -7 +7,2 @@
 -      {{ .Title }}
 +      {{- partial "clippings_type.html" . -}}
@@ -80,14 +83,17 @@ diff --unified=0 --recursive themes/PaperMod/layouts/_default/single.html layout
 @@ -19 +20 @@
 -      {{ .Description }}
 +      {{ .Params.Subtitle | safeHTML | markdownify }}
-@@ -27,0 +29,7 @@
-+    </div>
-+    {{- end }}
+@@ -29,0 +31,7 @@
 +    {{- if .Params.Summary }}
 +    <div class="post-content custom-summary">
 +      <p>{{- .Params.Summary | safeHTML | markdownify -}}</p>
 +      {{- $hiddenCoverImage := .Params.cover.hidden | default site.Params.cover.hiddenInSingle | default site.Params.cover.hidden }}
 +      {{- if (or (not .Params.cover.image) $hiddenCoverImage) }}<hr>{{- end }}
++    </div>
++    {{- end }}
+@@ -49 +57 @@
+-      <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
++      <li><a href="{{ .Permalink }}">{{ .Name }}</a></li>
 Only in layouts/partials: clippings_type.html
 diff --unified=0 --recursive themes/PaperMod/layouts/partials/post_nav_links.html layouts/partials/post_nav_links.html
 --- themes/PaperMod/layouts/partials/post_nav_links.html	2024-01-03 22:55:47
