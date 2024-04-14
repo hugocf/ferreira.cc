@@ -10,8 +10,8 @@ LAYOUTS_SNIPPETS=theme-compare-snippets
 cd "$SCRIPT_DIR"/.. || exit
 
 # Check differences
-diff -ur themes/PaperMod/layouts/ layouts/ | grep -v "Only in themes" > /tmp/$LAYOUTS_DEFAULT.diff
-diff -u themes/PaperMod/layouts/_default/list.html layouts/snippets/list.html > /tmp/$LAYOUTS_SNIPPETS.diff
+diff --unified=0 --recursive themes/PaperMod/layouts/ layouts/ | grep -v "Only in themes" > /tmp/$LAYOUTS_DEFAULT.diff
+diff --unified=0 themes/PaperMod/layouts/_default/list.html layouts/snippets/list.html > /tmp/$LAYOUTS_SNIPPETS.diff
 
 # Report changes
 echo "diff $SCRIPT_DIR/$LAYOUTS_DEFAULT.approved /tmp/$LAYOUTS_DEFAULT.diff"

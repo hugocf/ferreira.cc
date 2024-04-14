@@ -1,50 +1,24 @@
 --- themes/PaperMod/layouts/_default/list.html	2023-12-26 12:14:43
 +++ layouts/snippets/list.html	2024-04-14 02:58:45
-@@ -38,26 +38,24 @@
- </div>
- {{- end }}
- 
+@@ -41 +41 @@
 -{{- $pages := union .RegularPages .Sections }}
 +{{- $pages := .Pages.ByTitle }}
- 
- {{- if .IsHome }}
- {{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
- {{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true"  }}
- {{- end }}
- 
+@@ -48,3 +48 @@
 -{{- $paginator := .Paginate $pages }}
 -
 -{{- if and .IsHome site.Params.homeInfoParams (eq $paginator.PageNumber 1) }}
 +{{- if .IsHome }}
- {{- partial "home_info.html" . }}
- {{- end }}
- 
- {{- $term := .Data.Term }}
+@@ -55 +53 @@
 -{{- range $index, $page := $paginator.Pages }}
 +{{- range $index, $page := $pages }}
- 
- {{- $class := "post-entry" }}
- 
- {{- $user_preferred := or site.Params.disableSpecial1stPost site.Params.homeInfoParams }}
+@@ -60 +58 @@
 -{{- if (and $.IsHome (eq $paginator.PageNumber 1) (eq $index 0) (not $user_preferred)) }}
 +{{- if (and $.IsHome (eq $index 0) (not $user_preferred)) }}
- {{- $class = "first-entry" }}
- {{- else if $term }}
- {{- $class = "post-entry tag-entry" }}
-@@ -68,7 +66,8 @@
-   {{- partial "cover.html" (dict "cxt" . "IsSingle" false "isHidden" $isHidden) }}
-   <header class="entry-header">
-     <h2 class="entry-hint-parent">
+@@ -71 +69,2 @@
 -      {{- .Title }}
 +      {{- partial "clippings_type.html" . -}}
 +      {{- .Title | safeHTML | markdownify }}
-       {{- if .Draft }}
-       <span class="entry-hint" title="Draft">
-         <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
-@@ -93,29 +92,6 @@
- </article>
- {{- end }}
- 
+@@ -96,23 +94,0 @@
 -{{- if gt $paginator.TotalPages 1 }}
 -<footer class="page-footer">
 -  <nav class="pagination">
@@ -68,6 +42,3 @@
 -</footer>
 -{{- end }}
 -
- {{- end }}{{/* end profileMode */}}
- 
- {{- end }}{{- /* end main */ -}}

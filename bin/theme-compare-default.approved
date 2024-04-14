@@ -1,57 +1,37 @@
-diff -ur themes/PaperMod/layouts/_default/archives.html layouts/_default/archives.html
+diff --unified=0 --recursive themes/PaperMod/layouts/_default/archives.html layouts/_default/archives.html
 --- themes/PaperMod/layouts/_default/archives.html	2023-12-26 12:14:43
 +++ layouts/_default/archives.html	2023-12-28 03:35:12
-@@ -36,18 +36,27 @@
- {{- range $pages.GroupByPublishDate "2006" }}
- {{- if ne .Key "0001" }}
- <div class="archive-year">
+@@ -39 +39,3 @@
 -  <h2 class="archive-year-header">
 +  {{- $year := .Key }}
 +  {{- $anchor := $year }}
 +  <h2 class="archive-year-header" id="{{ $anchor }}">
-     {{- replace .Key "0001" "" }}<sup class="archive-count">&nbsp;&nbsp;{{ len .Pages }}</sup>
+@@ -40,0 +43 @@
 +    <a hidden class="anchor" aria-hidden="true" href="#{{ $anchor }}">¶</a>
-   </h2>
-   {{- range .Pages.GroupByDate "January" }}
+@@ -42,0 +46,2 @@
 +  {{- $month := .Key | lower }}
 +  {{- $anchor := printf "%s-%s" $year $month }}  
-   <div class="archive-month">
+@@ -44 +49,4 @@
 -    <h3 class="archive-month-header">{{- .Key }}<sup class="archive-count">&nbsp;&nbsp;{{ len .Pages }}</sup></h3>
 +    <h3 class="archive-month-header" id="{{ $anchor }}">
 +      {{- .Key }}<sup class="archive-count">&nbsp;&nbsp;{{ len .Pages }}</sup>
 +      <a hidden class="anchor" aria-hidden="true" href="#{{ $anchor }}">¶</a>
 +    </h3>
-     <div class="archive-posts">
-       {{- range .Pages }}
-       {{- if eq .Kind "page" }}
-       <div class="archive-entry">
-         <h3 class="archive-entry-title entry-hint-parent">
+@@ -50 +58,2 @@
 -          {{- .Title | markdownify }}
 +          {{- partial "clippings_type.html" . -}}
 +          {{- .Title | safeHTML | markdownify }}
-           {{- if .Draft }}
-           <span class="entry-hint" title="Draft">
-             <svg xmlns="http://www.w3.org/2000/svg" height="15" viewBox="0 -960 960 960" fill="currentColor">
-diff -ur themes/PaperMod/layouts/_default/list.html layouts/_default/list.html
+diff --unified=0 --recursive themes/PaperMod/layouts/_default/list.html layouts/_default/list.html
 --- themes/PaperMod/layouts/_default/list.html	2023-12-26 12:14:43
-+++ layouts/_default/list.html	2024-04-14 03:02:43
-@@ -68,7 +68,8 @@
-   {{- partial "cover.html" (dict "cxt" . "IsSingle" false "isHidden" $isHidden) }}
-   <header class="entry-header">
-     <h2 class="entry-hint-parent">
++++ layouts/_default/list.html	2024-04-14 03:55:17
+@@ -71 +71,2 @@
 -      {{- .Title }}
 +      {{- partial "clippings_type.html" . -}}
 +      {{- .Title | safeHTML | markdownify }}
-       {{- if .Draft }}
-       <span class="entry-hint" title="Draft">
-         <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
-diff -ur themes/PaperMod/layouts/_default/rss.xml layouts/_default/rss.xml
+diff --unified=0 --recursive themes/PaperMod/layouts/_default/rss.xml layouts/_default/rss.xml
 --- themes/PaperMod/layouts/_default/rss.xml	2024-04-14 03:00:11
-+++ layouts/_default/rss.xml	2024-04-14 03:31:15
-@@ -45,21 +45,23 @@
- {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
- <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-   <channel>
++++ layouts/_default/rss.xml	2024-04-14 03:55:17
+@@ -48,3 +48,5 @@
 -    <title>{{ if eq .Title site.Title }}{{ site.Title }}{{ else }}{{ with .Title }}{{ . }} on {{ end }}{{ site.Title }}{{ end }}</title>
 -    <link>{{ .Permalink }}</link>
 -    <description>Recent content {{ if ne .Title site.Title }}{{ with .Title }}in {{ . }} {{ end }}{{ end }}on {{ site.Title }}</description>
@@ -60,35 +40,19 @@ diff -ur themes/PaperMod/layouts/_default/rss.xml layouts/_default/rss.xml
 +    <title>{{ $title }}</title>
 +    <link>{{ $permalink }}</link>
 +    <description>Recent content {{ if ne .Title site.Title }}{{ with .Title }}in {{ . }} {{ end }}{{ end }}by {{ site.Title }}</description>
-     {{- with site.Params.images }}
-     <image>
+@@ -53 +55 @@
 -      <title>{{ site.Title }}</title>
 +      <title>{{ $title }}</title>
-       <url>{{ index . 0 | absURL }}</url>
+@@ -55 +57 @@
 -      <link>{{ index . 0 | absURL }}</link>
 +      <link>{{ $permalink }}</link>
-     </image>
-     {{- end }}
-     <generator>Hugo -- {{ hugo.Version }}</generator>
-     <language>{{ site.Language.LanguageCode }}</language>{{ with $authorEmail }}
-     <managingEditor>{{.}}{{ with $authorName }} ({{ . }}){{ end }}</managingEditor>{{ end }}{{ with $authorEmail }}
-     <webMaster>{{ . }}{{ with $authorName }} ({{ . }}){{ end }}</webMaster>{{ end }}{{ with site.Copyright }}
+@@ -62 +64 @@
 -    <copyright>{{ . | markdownify | plainify | strings.TrimPrefix "© " }}</copyright>{{ end }}{{ if not .Date.IsZero }}
 +    <copyright>{{ . | markdownify | plainify | htmlUnescape | strings.TrimPrefix " © " | strings.TrimSuffix " " }}</copyright>{{ end }}{{ if not .Date.IsZero }}
-     <lastBuildDate>{{ (index $pages.ByLastmod.Reverse 0).Lastmod.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end }}
-     {{- with .OutputFormats.Get "RSS" }}
-     {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
-@@ -67,12 +69,26 @@
-     {{- range $pages }}
-     {{- if and (ne .Layout `search`) (ne .Layout `archives`) }}
-     <item>
+@@ -70 +72 @@
 -      <title>{{ .Title }}</title>
 +      <title>{{- partial "clippings_type.html" . -}}{{ .Title }}</title>
-       <link>{{ .Permalink }}</link>
-       <pubDate>{{ .PublishDate.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
-       {{- with $authorEmail }}<author>{{ . }}{{ with $authorName }} ({{ . }}){{ end }}</author>{{ end }}
-       <guid>{{ .Permalink }}</guid>
-       <description>{{ with .Description | html }}{{ . }}{{ else }}{{ .Summary | html }}{{ end -}}</description>
+@@ -75,0 +78,14 @@
 +
 +      {{- $isCoverHidden := .Params.cover.hidden | default site.Params.cover.hiddenInSingle | default site.Params.cover.hidden }}
 +      {{- $cover := (partial "cover.html" (dict "cxt" . "IsSingle" false "IsHome" false "isHidden" $isCoverHidden)) -}}
@@ -103,38 +67,20 @@ diff -ur themes/PaperMod/layouts/_default/rss.xml layouts/_default/rss.xml
 +        <enclosure url="{{ $imageUrl }}" length="{{ $imageLength }}" type="{{ $imageType }}" />
 +      {{- end }}
 +
-       {{- if and site.Params.ShowFullTextinRSS .Content }}
-       <content:encoded>{{ (printf "<![CDATA[%s]]>" .Content) | safeHTML }}</content:encoded>
-       {{- end }}
-diff -ur themes/PaperMod/layouts/_default/single.html layouts/_default/single.html
+diff --unified=0 --recursive themes/PaperMod/layouts/_default/single.html layouts/_default/single.html
 --- themes/PaperMod/layouts/_default/single.html	2023-12-26 12:14:43
-+++ layouts/_default/single.html	2024-04-14 03:02:43
-@@ -4,7 +4,8 @@
-   <header class="post-header">
-     {{ partial "breadcrumbs.html" . }}
-     <h1 class="post-title entry-hint-parent">
++++ layouts/_default/single.html	2024-04-14 03:55:17
+@@ -7 +7,2 @@
 -      {{ .Title }}
 +      {{- partial "clippings_type.html" . -}}
 +      {{ .Title | safeHTML | markdownify }}
-       {{- if .Draft }}
-       <span class="entry-hint" title="Draft">
-         <svg xmlns="http://www.w3.org/2000/svg" height="35" viewBox="0 -960 960 960" fill="currentColor">
-@@ -14,9 +15,9 @@
-       </span>
-       {{- end }}
-     </h1>
+@@ -17 +18 @@
 -    {{- if .Description }}
 +    {{- if .Params.Subtitle }}
-     <div class="post-description">
+@@ -19 +20 @@
 -      {{ .Description }}
 +      {{ .Params.Subtitle | safeHTML | markdownify }}
-     </div>
-     {{- end }}
-     {{- if not (.Param "hideMeta") }}
-@@ -25,6 +26,13 @@
-       {{- partial "translation_list.html" . -}}
-       {{- partial "edit_post.html" . -}}
-       {{- partial "post_canonical.html" . -}}
+@@ -27,0 +29,7 @@
 +    </div>
 +    {{- end }}
 +    {{- if .Params.Summary }}
@@ -142,18 +88,12 @@ diff -ur themes/PaperMod/layouts/_default/single.html layouts/_default/single.ht
 +      <p>{{- .Params.Summary | safeHTML | markdownify -}}</p>
 +      {{- $hiddenCoverImage := .Params.cover.hidden | default site.Params.cover.hiddenInSingle | default site.Params.cover.hidden }}
 +      {{- if (or (not .Params.cover.image) $hiddenCoverImage) }}<hr>{{- end }}
-     </div>
-     {{- end }}
-   </header>
 Only in layouts/partials: clippings_type.html
-diff -ur themes/PaperMod/layouts/partials/post_nav_links.html layouts/partials/post_nav_links.html
+diff --unified=0 --recursive themes/PaperMod/layouts/partials/post_nav_links.html layouts/partials/post_nav_links.html
 --- themes/PaperMod/layouts/partials/post_nav_links.html	2024-01-03 22:55:47
 +++ layouts/partials/post_nav_links.html	2024-01-03 23:30:37
-@@ -1,4 +1,4 @@
+@@ -1 +1 @@
 -{{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
 +{{- $pages := where site.RegularPages "Section" .Section }}
- {{- if and (gt (len $pages) 1) (in $pages . ) }}
- <nav class="paginav">
-   {{- with $pages.Next . }}
 Only in layouts/shortcodes: audio.html
 Only in layouts: snippets
