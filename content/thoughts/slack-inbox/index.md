@@ -62,22 +62,64 @@ This is how I setup my **Slack** channels *sections* to make them behave more li
 
 ## 🗂️ Organise for fast processing {#sections}
 
-* [ ] TODO: Explain the new sections format emoji 
+In practice, the most granular unit you can manage your “unreads” in Slack is the *channel*, not the *message*.
 
-> In practice, the most granular unit you can manage your “unreads” in Slack is the *channel*, not the *message*.
-> >
-> Depending on how far back I am with the backlog of ~~messages~~ channels  to read, I'm more flexible to decide at what section to stop and “mark all as read”
+Depending on how far back I am with the backlog of ~~messages~~ channels  to read, I'm more flexible to decide at what section to stop and “mark all as read”
 
-As for which sections to use, I’ve ended up with a MoSCoW-inspired list where I essentially answer the question for each channel:
+As for which sections to use, I’ve ended up with a MoSCoW-inspired list where I essentially answer the following questions for each channel:
 
 * How directly related to my work/role is it?
-    - ☑️ Yes; ⚠️ Kinda; ℹ️ Not really
+    - ✅ Yes, very
+    - ☑️ Meh, kinda
+    - ℹ️ Not really
 * Am I keen on reading/seeing new messages on it?
-    -  👀 Yes; 🙈 Nope
+    - 👀 Yes
+    - 🙈 Nope
 
-This is now the most battle tested setup I have stayed with for many months. Most past setups broke down on the “coming back from holidays” huge backlog of stuff to read. This one lets me manage my time/energy more effectively and use the “mark all as read” more often, once the core ones are cleared.
+The decision matrix for where to save each channel then becomes something like this:
+
+| Directly related to my role? | Am I keen on reading it? | ➔ Section |
+| ---------------------------- | ------------------------ | --------- |
+| ✅ Yes                        | 👀 Yes                    | 🔴 **Must** |
+| ✅ Yes                        | 🙈 Nope                   | 🟠 **Should** |
+| ☑️ Meh                        | 👀 Yes                    | 🟢 **Want** |
+| ☑️ Meh                        | 🙈 Nope                   | 🟡 **Could** |
+| ℹ️ Nope                       | 👀 Yes                    | 🔵 **Nice** |
+| ℹ️ Nope                       | 🙈 Nope                   | ⚫️ **Maybe** |
+
+In practice, the order of those sections in Slack changed a little bit over time and now follow what is roughly two sets of “traffic lights”: 🚥
+
+* 🔴 **Must**, 🟠 **Should**, 🟢 **Want** — Allways read, and read regularly
+    - *(if on a very tight time crunch, “Want” might be skipped)*
+* 🔵 **Nice**, 🟡 **Could**, ⚫️ **Maybe** — Read sproradically, depending on time and energy
+    - *(good candidates for the context menu action “Manage” ➤ “Mark all as read”)*
+
+Putting it all together:
 
 ![Slack sidebar view of sections: Must, Should, Want, Nice, Could, Maybe](slack-section-list.png)
+
+This is now the most battle tested setup I have stayed with for many months. Most past setups broke down on the “coming back from holidays” huge backlog of stuff to read.
+
+This setup lets me manage my time/energy more effectively and use the “mark all as read” more often, once the core channels are cleared.
+
+## 📨 Processing inboxes {#processing}
+
+With this, my daily process becomes, at specific times during the day:
+
+1. Deal with **Direct messages**
+2. Check for **Threads** updates
+3. Process the updated **Channels** in the first section 🔴 **Must**
+4. Continue to the second section 🟠 **Should**
+5. If time permitting, continue going down to the 🟢 **Want** section
+
+When I have some more relaxed time, usually at the end of the day:
+
+6. Skim and cherry-pick from the remaining sactions channels some messages that spark my curiosity
+7. `Shift-Esc` to “mark all as read” and have an clean slate for next day
+
+| Tip |
+|-----|
+| You can take advantage of the **Unread messages”** sidebar item to speed up this process. See the [Tips and tricks](#sidebar-unread-messages) section below. |
 
 ## 🚧 Full setup {#setup}
 
@@ -107,35 +149,25 @@ The sidebar consists of the following sections, in this order:
     * *Collapsed* most of the time
     * Easy access to apps I use on occasion but not so often that I remember their name
 
-## 📨 Processing inboxes {#processing}
-
-* [ ] TODO: Update according to the new sections format
-
-With this, my daily process becomes, at specific times during the day:
-
-1. Check for **Threads** updates
-2. Deal with **Direct messages**
-3. Process the updated **Channels**
-
-When I have some more relaxed time, usually at the end of the day:
-
-4. Cherry-pick from the **Someday** channels some that spark my curiosity
-5. `Shift-Esc` to “mark all as read” and have an clean slate for next day
-
 ## ℹ️ Tips and tricks {#tips}
 
-With this, channels and conversations disappeared from the sidebar once we read them. There are few options to navigate around and finding previous channels or conversations:
+### Navigation alternatives
 
-* Shortcut CMD-K to find and jump to a specific channel
+With this approach, channels and conversations disappear from the sidebar once we read them. There are few options to navigate around and finding previous channels or conversations:
 
+* Shortcut `CMD-K` to find and jump to a specific channel
 * History 🕒 view to go back to recent chats and last visited channels
+* **DMs** view on the navigation bar to quickly get back to a group conversation
+* **Threads** view, to see updates on conversations where I choose to [Get notified about new replies](https://slack.com/help/articles/115000769927-Use-threads-to-organize-discussions-#manage-thread-notifications)
 
-* Threads view, to see updates on conversations I choose to [Get notified about new replies](https://slack.com/help/articles/115000769927-Use-threads-to-organize-discussions-#manage-thread-notifications)
+### Sidebar “Unread messages”
 
-Also, to keep usage of the sidebar **Unread messages** aligned with this concept, set it to:
+You can take advantage of the [sidebar **Unread messages**](https://slack.com/intl/en-gb/help/articles/212596808-Adjust-your-sidebar-preferences#customise-the-top-of-your-sidebar) to process channels and messages in line with the sections concept shown above:
 
-* Display only the **Channels** section
-* Sorted from newest to oldest
+* Choose “Sorted like your sidebar”
+* Display only the 🔴 **Must** section
+* Once cleared, you can easily **Jump to the 🟠 **Should** section**
+  * … and so forth, until all sections are cleared one after the other
 
 ## ❓ Questions {#questions}
 
