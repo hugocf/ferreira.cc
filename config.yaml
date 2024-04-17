@@ -15,8 +15,6 @@ copyright: |
     </a>
   </span>
 
-theme: "PaperMod"
-
 enableRobotsTXT: true
 paginate: 20
 
@@ -49,6 +47,10 @@ menu:
       url: /now
     - name: 🔍 Search
       url: /search
+
+module:
+  imports:
+    - path: github.com/adityatelange/hugo-PaperMod # theme
 
 params:
   author: Hugo Ferreira
