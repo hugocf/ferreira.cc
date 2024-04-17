@@ -7,6 +7,6 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 cd "$SCRIPT_DIR"/.. || exit
 
-git submodule update --remote --merge
+hugo mod get -u github.com/adityatelange/hugo-PaperMod
 
 "$SCRIPT_DIR"/theme-compare.sh
