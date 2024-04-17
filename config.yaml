@@ -2,11 +2,12 @@ baseURL: https://hugo.ferreira.cc/
 languageCode: en
 title: Hugo Ferreira
 copyright: |
-  <span xmlns:cc="http://creativecommons.org/ns#" style="margin-right:1em;">
+  <span xmlns:cc="http://creativecommons.org/ns#">
     &copy; 2000–2024 by <a href="https://hugo.ferreira.cc/"><span property="cc:attributionName">Hugo Ferreira</span></a>
-    <span style="margin-right:1em;"></span>
+     · 
     <a href="http://creativecommons.org/licenses/by/4.0/" target="_blank" rel="license noopener noreferrer">CC BY 4.0</a>
   </span>
+   · 
   <span>
     <a id="icon" href="https://github.com/hugocf/ferreira.cc/tree/main/content" target="_blank" rel="noopener noreferrer" title="GitHub">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">

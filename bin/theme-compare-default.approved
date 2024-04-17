@@ -51,7 +51,7 @@ diff --unified=0 --recursive themes/PaperMod/layouts/_default/rss.xml layouts/_d
 +      <link>{{ $permalink }}</link>
 @@ -62 +64 @@
 -    <copyright>{{ . | markdownify | plainify | strings.TrimPrefix "© " }}</copyright>{{ end }}{{ if not .Date.IsZero }}
-+    <copyright>{{ . | markdownify | plainify | htmlUnescape | strings.TrimPrefix " © " | strings.TrimSuffix " " }}</copyright>{{ end }}{{ if not .Date.IsZero }}
++    <copyright>{{ . | markdownify | plainify | htmlUnescape | strings.TrimPrefix " © " | strings.TrimSuffix " · " }}</copyright>{{ end }}{{ if not .Date.IsZero }}
 @@ -70 +72 @@
 -      <title>{{ .Title }}</title>
 +      <title>{{- partial "clippings_type.html" . -}}{{ .Title }}</title>
