@@ -1,4 +1,6 @@
 ---
+aliases:
+  - never-attribute-to-malice-that-which-can-be
 date: 2009-04-01T07:07:28Z
 lang: en
 tags: [ life, wisdom, stupidity, knowledge, mistakes, incompetence ]
