@@ -1,5 +1,10 @@
 #!/usr/bin/env bash
 
+#;
+# theme-compare.sh
+# Verify if the lines I’ve tweaked changed in the vendored version
+#"
+
 # https://medium.com/factualopinions/consider-starting-all-your-bash-scripts-with-these-options-74fbec0cbb83
 set -u
 
