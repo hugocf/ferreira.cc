@@ -43,6 +43,7 @@ menu:
 
 module:
   imports:
+    - path: github.com/martignoni/hugo-notice
     - path: github.com/adityatelange/hugo-PaperMod # theme
 
 params:

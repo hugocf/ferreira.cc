@@ -117,9 +117,9 @@ When I have some more relaxed time, usually at the end of the day:
 6. Skim and cherry-pick from the remaining sactions channels some messages that spark my curiosity
 7. `Shift-Esc` to “mark all as read” and have an clean slate for next day
 
-| Tip |
-|-----|
-| You can take advantage of the **Unread messages”** sidebar item to speed up this process. See the [Tips and tricks](#sidebar-unread-messages) section below. |
+{{< notice tip >}}
+You can take advantage of the **Unread messages** sidebar item to speed up this process. See the [Tips and tricks](#sidebar-unread-messages) section below.
+{{< /notice >}}
 
 ## 🚧 Full setup {#setup}
 
