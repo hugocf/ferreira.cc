@@ -10,17 +10,25 @@ showToc: true
 tocOpen: true
 ---
 
-***Update 2024-02-13:** Restructure to introduce headings and highlight [the core problem](#problem) with messaging apps.*
+***Update 2024-04-19:** Add illustrative images to the [Context](#context) section, including info on [Rivers, not buckets](#rivers-not-buckets).*
+
+***Update 2024-02-13:** Introduce headings for easier navigation and highlight [the core problem](#problem) with messaging apps.*
 
 ***Update 2023-10-17:** Replace simplistic “Channels/Someday” channel organisation with a [MoSCoW](https://en.wikipedia.org/wiki/MoSCoW_method)-inspired [sections structure](#sections) optimised for fast processing.*
 
-## 📥 Inbox zero {#inbox-zero}
+## Context
+
+Lets start by recalling a few old principles about processing large volumes of information, and then define the core problem with modern messaging apps, as I see it…
+
+### 📥 Inbox zero {#inbox-zero}
+
+{{< figure src="inbox-zero.webp" alt="A minimalist black and white sketch illustrating the concept of 'Inbox Zero'. The image features a simple line drawing of an open, empty email inbox on a computer screen. Beside the screen, a content person is sitting, looking relaxed with hands behind their head, symbolizing satisfaction and relief." caption="“A black and white sketch image to illustrate the concept of inbox zero”" attr="(DALL·E)" attrlink="https://openai.com/dall-e" >}}
 
 “Inbox zero” is a pivotal concept to deal with the constant influx of information of modern life. [Merlin Mann coined it](https://en.wikipedia.org/wiki/Merlin_Mann#Writing) in 2006, during a [series of posts on 43Folders](http://www.43folders.com/2006/04/05/wrapup).
 
 > That “zero?” It’s not how many mes­sages are in your inbox–it’s how much of your own *brain* is in that inbox. Especially when you don’t want it to be. That’s it.
 >
-> — [Internet Archive’s Wayback Machine (2011-07-12)](https://web.archive.org/web/20110712000524/http://inboxzero.com:80/)
+> — [Inbox Zero](http://inboxzero.com) *([Internet Archive 2011-07-12](https://web.archive.org/web/20110712000524/http://inboxzero.com:80/))*
 
 It was not about “perfection” but rather a way for us to take back control of our time and avoid being reactive. To do that, you triage messages to focus on what matters:
 
@@ -31,13 +39,33 @@ Once you’re done for the time slot, you can get out of that “new/unread” m
 
 At the time, this concept appeared to deal with the problems of overwhelmed email inboxes. Its core principles expand beyond email though. They are essential to get out of a reactivity loop and quite generic that they apply to other areas or our life:
 
-> Accept that almost everything in your life is an inbox
+> **Accept that almost everything in your life is an inbox**
 >
-> — [Natasha Bernal](https://www.wired.co.uk/profile/natasha-bernal) on [Everything you thought you knew about inbox zero is wrong | WIRED UK](https://www.wired.co.uk/article/inbox-zero-mentality)
+> — [Natasha Bernal](https://www.wired.co.uk/profile/natasha-bernal) on [Everything you thought you knew about inbox zero is wrong | WIRED UK](https://www.wired.co.uk/article/inbox-zero-mentality) *([Internet Archive 2024-02-25](https://web.archive.org/web/20240225133459/https://www.wired.co.uk/article/inbox-zero-mentality))*
 
-## 💬 Messaging apps problem {#problem}
+### ⛲️ Rivers, not buckets {#rivers-not-buckets}
 
-Nowadays work happens on instant message applications, not email. These types of applications are quite bad in letting us apply these concepts:
+{{< figure src="rivers-and-buckets.webp" alt="Illustration displaying two figures by a riverbank, metaphorizing information flow. One figure sits calmly on a rock, fishing in the river, while the other stands overwhelmed by multiple buckets labeled with tasks like 'To Read', 'Email', 'Visit', and 'Listen', suggesting the challenge of managing a constant stream of tasks and information." caption="“Instead of a bucket list to get through, try thinking of it as a river where attractive options drift by”" link="https://sketchplanations.com/rivers-and-buckets" attr="(Sketchplanations)" attrlink="https://sketchplanations.com/rivers-and-buckets" >}}
+
+[Dave Winer](https://en.wikipedia.org/wiki/Dave_Winer) id one of the creators of the [RSS](https://en.wikipedia.org/wiki/RSS) specification and a [forefather of blogging][blog]. He started advocating the concept of a [River of News](http://scripting.com/stories/2009/09/02/isRiverOfNewsEnough.html) in the early 2000s:
+
+[blog]: https://en.wikipedia.org/wiki/Dave_Winer#:~:text=Winer%27s%20Scripting%20News%2C%5B3%5D%20described%20as%20%22one%20of%20the%20%5Bweb%27s%5D%20oldest%20blogs%2C%22%5B47%5D%20launched%20in%20February%201997%5B19%5D%3A%E2%80%8A59%E2%80%8A%5B48%5D%20and%20earned%20him%20titles%20such%20as%20%22protoblogger%22%5B49%5D%20and%20%22forefather%20of%20blogging
+
+> They call them streams, lifestreams, etc, but they're all the same basic idea. Park yourself on the riverbank and watch the news flow by. If you miss something, not to worry, if it's important some new story will refer to it.
+
+Since then, the “stream of information” concepts have spread to most online experiences. There’s prime examples in all the social media applications, newspapers, aggregators, etc.
+
+[Oliver Burkeman](https://en.wikipedia.org/wiki/Oliver_Burkeman) expands on this concept and urges you to [treat your to-read pile like a river](https://www.oliverburkeman.com/river). In this approach, you cherry-pick the most important things that stand out, and let the other ones drop:
+
+> To return to information overload: this means treating your "to read" pile like a river (a stream that flows past you, and from which you pluck a few choice items, here and there) instead of a bucket (which demands that you empty it).
+
+There’s also an underlying need that is worth highlighting, and it might not seem obvious at first sight. **We must be able to identify which** of the pieces of info floating through **are important to us**.
+
+### 💬 Messaging apps problem {#problem}
+
+{{< figure src="messaging-apps.webp" alt="A cartoon-style sketch depicting a frustrated figure surrounded by numerous chat bubbles to represent the overwhelming flow of instant messages. The workspace around the figure appears cluttered with multiple papers, vibrating phones, laptops and gadgets." caption="“Illustrate the text in this section in the cartoon-style”" attr="(DALL·E)" attrlink="https://openai.com/dall-e" >}}
+
+Nowadays work happens on instant message applications, not email. These types of applications are quite bad in letting us apply the above concepts:
 
 * Their structure revolves around immediacy of synchronous messages and responses
 * Their core unit to manipulate is the *channel*, not individual *messages*
@@ -47,7 +75,11 @@ Nowadays work happens on instant message applications, not email. These types of
 * The frequent “X is typing” notices
 * The inability to read recent messages and keep older ones unread for later
 
-## ⏱️ The gist of the solution {#solution}
+---
+
+## Solution
+
+### ⏱️ The gist of the solution {#solution}
 
 The goal is to apply the “inbox zero” concepts outlined above and mitigate the pressures to “respond immediately”.
 
@@ -60,11 +92,11 @@ This is how I setup my **Slack** channels *sections* to make them behave more li
 
 ![Slack context menu displaying the “Show and sort” details of a sidebar section](slack-section-inbox.png)
 
-## 🗂️ Organise for fast processing {#sections}
+### 🗂️ Organise for fast processing {#sections}
 
 In practice, the most granular unit you can manage your “unreads” in Slack is the *channel*, not the *message*.
 
-Depending on how far back I am with the backlog of ~~messages~~ channels  to read, I'm more flexible to decide at what section to stop and “mark all as read”
+Depending on how far back I am with the backlog of ~~messages~~ channels  to read, I want to be more flexible to decide where to stop (i.e. I’ve seen what’s important) and “mark all as read” the rest (i.e. [“rivers, not buckets”](https://sketchplanations.com/rivers-and-buckets)).
 
 As for which sections to use, I’ve ended up with a MoSCoW-inspired list where I essentially answer the following questions for each channel:
 
@@ -102,7 +134,7 @@ This is now the most battle tested setup I have stayed with for many months. Mos
 
 This setup lets me manage my time/energy more effectively and use the “mark all as read” more often, once the core channels are cleared.
 
-## 📨 Processing inboxes {#processing}
+### 📨 Processing inboxes {#processing}
 
 With this, my daily process becomes, at specific times during the day:
 
@@ -121,7 +153,7 @@ When I have some more relaxed time, usually at the end of the day:
 You can take advantage of the **Unread messages** sidebar item to speed up this process. See the [Tips and tricks](#sidebar-unread-messages) section below.
 {{< /notice >}}
 
-## 🚧 Full setup {#setup}
+### 🚧 Full setup {#setup}
 
 * [ ] TODO: Update according to the new sections format
 
@@ -149,9 +181,13 @@ The sidebar consists of the following sections, in this order:
     * *Collapsed* most of the time
     * Easy access to apps I use on occasion but not so often that I remember their name
 
-## ℹ️ Tips and tricks {#tips}
+---
 
-### Navigation alternatives
+## Information
+
+### 💡 Tips and tricks {#tips}
+
+#### Navigation alternatives
 
 With this approach, channels and conversations disappear from the sidebar once we read them. There are few options to navigate around and finding previous channels or conversations:
 
@@ -160,7 +196,7 @@ With this approach, channels and conversations disappear from the sidebar once w
 * **DMs** view on the navigation bar to quickly get back to a group conversation
 * **Threads** view, to see updates on conversations where I choose to [Get notified about new replies](https://slack.com/help/articles/115000769927-Use-threads-to-organize-discussions-#manage-thread-notifications)
 
-### Sidebar “Unread messages”
+#### Sidebar “Unread messages”
 
 You can take advantage of the [sidebar **Unread messages**](https://slack.com/intl/en-gb/help/articles/212596808-Adjust-your-sidebar-preferences#customise-the-top-of-your-sidebar) to process channels and messages in line with the sections concept shown above:
 
@@ -169,9 +205,9 @@ You can take advantage of the [sidebar **Unread messages**](https://slack.com/in
 * Once cleared, you can easily **Jump to the 🟠 **Should** section**
   * … and so forth, until all sections are cleared one after the other
 
-## ❓ Questions {#questions}
+### ❓ Questions {#questions}
 
-### Does it mean that with this you have Slack under control, almost empty, and you’re very responsive?
+#### Does it mean that with this you have Slack under control, almost empty, and you’re very responsive?
 
 Of course not 🙂
 
@@ -179,7 +215,7 @@ Days still go haywire and messages backlog accumulates. And quite often it all b
 
 With this setup though, I’m able to take care of the most urgent and important messages in those chaotic days. Also, it’s easier to recover from a crazy week without the fear of missing out (<abbr title="Fear Of Missing Out">FOMO</abbr>) some interesting message.
 
-### What about using sections to organise and classify channels by type, scope, urgency, category, etc.?
+#### What about using sections to organise and classify channels by type, scope, urgency, category, etc.?
 
 Before, I was using different sections to categorise and classify channels by themes, scope, etc. It was a way to scratch my itch for having everything well organised and in their “right” places.
 
@@ -187,7 +223,7 @@ I stopped doing it because it was getting hard for me to maintain them and was g
 
 It was a hard to kill all those sections curated with much care, after lots of time invested. This was quite scary to do 😬 but the benefits and simplicity gained from switching to a setup optimised for *processing new stuff* have more than made up for it.
 
-### What about the mobile app “Newest to oldest” view?
+#### What about the mobile app “Newest to oldest” view?
 
 This inbox approach started in the Slack mobile app. I switched my channels list to [sort by “Newest to oldest”](https://slack.com/help/articles/212596808-Adjust-your-sidebar-preferences#sort-your-conversations) (previously called “Recent activity”). This lists updated channels under “Today”, “Yesterday”, and “Last 7 days” groupings.
 
