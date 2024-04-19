@@ -12,6 +12,8 @@ via: "[Andy Skipper](https://ctocraft.slack.com/archives/C6ETG5LEB/p170747293140
 
 <!-- image -->
 
-{{< figure src="example.jpg" alt="example description" caption="Example caption" link="http://example.com" attr="(source)" attrlink="http://example.com" >}}
+{{< figure src="example.jpg" alt="Example alt text" caption="Example caption" link="http://example.com" attr="(source)" attrlink="http://example.com" >}}
 
 > Snippet
+
+<!-- TODO: Review captions format -->

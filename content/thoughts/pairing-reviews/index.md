@@ -2,8 +2,8 @@
 cover:
   relative: true
   image: unspash-code-reviews.jpg
-  alt: a pair of glasses sitting on a table facing two blurred screens filled with code
-  caption: "[Photo](https://unsplash.com/photos/w7ZyuGYNpRQ) by [Kevin Ku](https://unsplash.com/@ikukevk) on [Unsplash](https://unsplash.com/)"
+  alt: A pair of glasses sitting on a table facing two blurred screens filled with code
+  caption: "“[Closeup photo of eyeglasses](https://unsplash.com/photos/w7ZyuGYNpRQ)” by [Kevin Ku](https://unsplash.com/@ikukevk) [(Unsplash)](https://unsplash.com/)"
 date: 2023-05-08T22:16:55Z
 drafted: 2020-11 until 2021-02
 lang: en
@@ -19,13 +19,9 @@ summary: Paring technical sessions for kick-offs and reviews can be a good alter
 >
 > — https://twitter.com/hugocf/status/1116437142010507266
 
-
-
 > When the time for code review comes it’s a) obvious who should review it, b) easier to review because people have the context already, c) quicker to review because it becomes more focused on details and easier things to correct
 >
 > — https://twitter.com/hugocf/status/1116437755670740992
-
-
 
 Over the years I’ve worked in many software delivery teams under a multitude of working formats:
 

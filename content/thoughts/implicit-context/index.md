@@ -2,8 +2,8 @@
 cover:
   relative: true
   image: kashan-iran-unsplash.jpg
-  alt: ceiling of Borujerdis House in Kashan, Iran with a bright light centre and shaded triangles all around it
-  caption: "[Photo](https://unsplash.com/photos/aGxMCcAh2Pw) by [Mohammad Takhsh](https://unsplash.com/@mohammadtkh) on [Unsplash](https://unsplash.com/)"
+  alt: Ceiling of Borujerdis House in Kashan, Iran with a bright light centre and shaded triangles all around it
+  caption: "“[Beige dome building](https://unsplash.com/photos/aGxMCcAh2Pw)” by [Mohammad Takhsh](https://unsplash.com/@mohammadtkh) [(Unsplash)](https://unsplash.com/)"
 date: 2023-04-24T22:16:52Z
 drafted: 2020-12-14
 lang: en

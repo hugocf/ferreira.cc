@@ -2,8 +2,8 @@
 cover:
   relative: true
   image: unsplash-firefighter.jpg
-  alt: a firefighter using a hose to extinguish a fire in training
-  caption: "[Photo](https://unsplash.com/photos/e5s4jQxEExo) by [Hush Naidoo Jade Photography](https://unsplash.com/@hush52) on [Unsplash](https://unsplash.com/)"
+  alt: A firefighter using a hose to extinguish a fire in training
+  caption: "“[Fireman extinguishing the burning house](https://unsplash.com/photos/e5s4jQxEExo) by [Hush Naidoo Jade Photography](https://unsplash.com/@hush52) [(Unsplash)](https://unsplash.com/)"
 date: 2023-04-03T22:16:43Z
 lang: en
 tags: [ organisations, planning, training, emergencies, strategy, reacting, analogies ]

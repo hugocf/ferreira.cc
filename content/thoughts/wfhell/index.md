@@ -2,8 +2,8 @@
 cover:
   relative: true
   image: work-from-hell.png
-  alt: cubism painting about a person with red eyes, working with their laptop in hell, looking upset
-  caption: "[DALL·E](https://openai.com/dall-e) — “cubism painting about a person working with their laptop in hell”"
+  alt: Cubism painting about a person with red eyes, working with their laptop in hell, looking upset
+  caption: "“Cubism painting about a person working with their laptop in hell” [(DALL·E)](https://openai.com/dall-e)"
 date: 2020-03-27T22:17:05Z
 lang: en
 source: "[Equal Experts Slack, Hugo Ferreira, 2020-03-27](https://equalexperts.slack.com/archives/C0S71RJA3/p1585299552042000)"
@@ -79,13 +79,13 @@ To be honest, this was a pretty typical day, similar to most other lockdown days
 
 ❌ ⚽️ Son T.: “Daddy, are you coming or not?!”
 
-<img style="margin-left: 1.5rem" src="https://emojis.slackmojis.com/emojis/images/1643514342/3164/table_flip.png" alt="table flip">
+<img style="margin-left: 1.5rem" src="https://emojis.slackmojis.com/emojis/images/1643514342/3164/table_flip.png" alt="Table flip">
 
 <span style="display: inline-block; width: 1.5rem"></span> 🥅 Me: “FINE. I’m the goalie!”
 
 ⏸️ 🍽️ Family dinner
 
-⏸️ <img style="display: inline-block; vertical-align: middle; height: 1.5rem; margin: auto" src="https://emojis.slackmojis.com/emojis/images/1643514041/5/sheepy.gif" alt="jumping sheep"> Herding children to get them ready for bed
+⏸️ <img style="display: inline-block; vertical-align: middle; height: 1.5rem; margin: auto" src="https://emojis.slackmojis.com/emojis/images/1643514041/5/sheepy.gif" alt="Jumping sheep"> Herding children to get them ready for bed
 
 <span style="display: inline-block; width: 1.5rem"></span> 👨‍💻 **15 min** of work
 
@@ -112,7 +112,7 @@ To be honest, this was a pretty typical day, similar to most other lockdown days
 <span style="display: inline-block; width: 1.5rem"></span> 👨‍💻 **7 min** of work
 
 ❌ 🗣️ Wife: “About that computer thing, never mind, I’ve sorted it”  
-<span style="display: inline-block; width: 1.5rem"></span> <span style="display: inline-block; width: 1.5rem"></span> Me: “Oh… hum… ok…” <img style="display: inline-block; vertical-align: middle; height: 1.5rem; margin: auto" src="https://emojis.slackmojis.com/emojis/images/1643514112/722/sigh.gif" alt="sigh">
+<span style="display: inline-block; width: 1.5rem"></span> <span style="display: inline-block; width: 1.5rem"></span> Me: “Oh… hum… ok…” <img style="display: inline-block; vertical-align: middle; height: 1.5rem; margin: auto" src="https://emojis.slackmojis.com/emojis/images/1643514112/722/sigh.gif" alt="Sigh">
 
 <span style="display: inline-block; width: 1.5rem"></span> 👨‍💻 **50 min** of work
 
@@ -122,7 +122,7 @@ To be honest, this was a pretty typical day, similar to most other lockdown days
 
 ⏹️ 🫠 *(enough for the day)*
 
-<img style="margin-left: 1.5rem" src="https://emojis.slackmojis.com/emojis/images/1643514169/1340/try_not_to_cry.gif" alt="try not to cry: person rocking on the flow huging their knees ">
+<img style="margin-left: 1.5rem" src="https://emojis.slackmojis.com/emojis/images/1643514169/1340/try_not_to_cry.gif" alt="Try not to cry: person rocking on the flow huging their knees ">
 
 ---
 

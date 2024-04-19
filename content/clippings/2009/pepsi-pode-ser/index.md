@@ -9,7 +9,7 @@ type: image
 via: "[Leo Xavier](http://leo.fm/post/140379513/novo-slogan-da-pepsi-em-portugal-baseado-na)"
 ---
 
-{{< figure src="pepsi-slogan.png" alt="log da Pepsi com o slogan “… pode ser”" caption="" link="https://leoxavier-blog.tumblr.com/post/140379513/novo-slogan-da-pepsi-em-portugal-baseado-na" attr="" attrlink="" >}}
+{{< figure src="pepsi-slogan.png" alt="Logo da Pepsi com o slogan “… pode ser”" caption="" link="https://leoxavier-blog.tumblr.com/post/140379513/novo-slogan-da-pepsi-em-portugal-baseado-na" attr="" attrlink="" >}}
 
 [Leo Xavier](https://leoxavier-blog.tumblr.com/post/140379513/novo-slogan-da-pepsi-em-portugal-baseado-na):
 

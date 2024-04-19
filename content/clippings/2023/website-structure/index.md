@@ -36,3 +36,5 @@ via: "[Lists of content in Hugo | Hugo](https://gohugo.io/templates/lists/)"
 > Figure 3.9 summarizes the three basic organization patterns against the linearity of the narrative and the complexity of the content.
 > 
 > {{< figure src="narrative-vs-complexity.jpg" alt="A chart with a left vertical axis representing increasing complexity, and a horizontal axis running from simple linear training sites for average audiences to complex material for highly educated audiences. Simple page sequences are at the bottom left, average sites fall in the middle of both axes, and complex web-linked sites aimed at educated professionals are shown at the upper right, near the high end of both the complexity and non-linearity scales." caption="**Figure 3.9** — Choose the right site structure for your audience and content." link="https://webstyleguide.com/wsg3/3-information-architecture/3-site-structure.html" >}}
+
+<!-- TODO: Review captions format -->

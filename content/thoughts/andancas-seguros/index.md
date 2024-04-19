@@ -2,7 +2,7 @@
 cover:
   relative: true
   image: carros-queimados.jpg
-  alt: panorama dos 447 carros carbonizados no estacionamento de terra batida do Andanças
+  alt: Panorama dos 447 carros carbonizados no estacionamento de terra batida do Andanças
 date: 2016-08-13T22:16:00Z
 lang: pt
 tags: [ fires, investigation, insurance companies, nationalities, comparison ]

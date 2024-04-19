@@ -2,8 +2,8 @@
 cover:
   relative: true
   image: chalk-board.png
-  alt: father pointing to a slate board with a lock drawn in chalk and his 2 twin sons looking at it, in black and white crayons
-  caption: "[DALL·E](https://openai.com/dall-e) — “father pointing to a slate board with a lock drawn in chalk and his 2 twin sons looking at it, in black and white crayons”"
+  alt: Father pointing to a slate board with a lock drawn in chalk and his 2 twin sons looking at it, in black and white crayons
+  caption: "“Father pointing to a slate board with a lock drawn in chalk and his 2 twin sons looking at it, in black and white crayons” [(DALL·E)](https://openai.com/dall-e)"
 date: 2019-03-18T22:16:38Z
 lang: en
 source: "[Equal Experts Slack, Hugo Ferreira, 2019-02-21](https://equalexperts.slack.com/archives/C3SE8M0CB/p1550750315004700)"

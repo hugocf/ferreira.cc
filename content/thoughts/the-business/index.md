@@ -2,8 +2,8 @@
 cover:
   relative: true
   image: the-business.png
-  alt: AI generated photo of several silhouette shadows behind a curtain
-  caption: "[DALL·E](https://openai.com/dall-e) — “photo realistic several silhouette shadows behind a curtain”"
+  alt: Three silhouette shadows showing behind a translucent curtain
+  caption: "“Photo realistic several silhouette shadows behind a curtain” [(DALL·E)](https://openai.com/dall-e)"
 date: 2023-06-04T22:16:59Z
 drafted: 2022-03-22
 lang: en

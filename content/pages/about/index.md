@@ -14,7 +14,7 @@ and tools, in several different companies…
 
 <figure style="width: 2000px">
     <a href="/about/career-summary.jpg" target="_blank" rel="noopener">
-        <img src="/about/career-summary.jpg" width="2000" height="600" alt="career timeline summary" />
+        <img src="/about/career-summary.jpg" width="2000" height="600" alt="Career timeline summary" />
     </a>
     <figcaption>Career timeline summary @ <a href="http://bit.ly/hugo-summary">http://bit.ly/hugo-summary</a></figcaption>
 </figure>

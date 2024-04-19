@@ -180,13 +180,13 @@ Inline <q cite="http://example.com">quote with citation</q>.
 
 ```html
 <figure>
-  <img src="http://placehold.it/100x100.png" alt="image description">
+  <img src="http://placehold.it/100x100.png" alt="Image alternate text">
   <figcaption>Image caption</figcaption>
 </figure>
 ```
 
 <figure>
-  <img src="http://placehold.it/100x100.png" alt="image description">
+  <img src="http://placehold.it/100x100.png" alt="Image alternate text">
   <figcaption>Image caption</figcaption>
 </figure>
 
@@ -224,10 +224,10 @@ text<sup>1</sup>
 ### image
 
 ```html
-<img src="http://placehold.it/100x100.png" alt="image description">
+<img src="http://placehold.it/100x100.png" alt="Example alternate text">
 ```
 
-<img src="http://placehold.it/100x100.png" alt="image description">
+<img src="http://placehold.it/100x100.png" alt="Example alternate text">
 
 ### insert
 

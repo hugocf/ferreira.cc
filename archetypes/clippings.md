@@ -28,7 +28,7 @@ Context
 
 <!-- image -->
 
-{{< figure src="example.jpg" alt="example description" caption="Example caption" link="http://example.com" attr="(source)" attrlink="http://example.com" >}}
+{{< figure src="example.jpg" alt="Example alt text" caption="“[Example caption](https://example.com/photo)” by [Author](https://example.com/author)" link="http://example.com/page" attr="(Example)" attrlink="http://example.com" >}}
 
 > Snippet
 

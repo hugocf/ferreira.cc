@@ -8,7 +8,7 @@ aliases:
 cover:
   relative: true
   image: sketch-wireframe-mockup-prototype.png
-  alt: examples of a sketch, wireframe and mockup, side by side
+  alt: Examples of a sketch, wireframe and mockup, side by side
   caption: "[Sketch](sketch.jpg) &nbsp; ➤ &nbsp; [Wireframe](wireframe.jpg) &nbsp; ➤ &nbsp; [Mockup](mockup.jpg) &nbsp; ➤ &nbsp; [Prototype](prototype.png)"
 date: 2014-03-27T22:16:32Z
 lang: en

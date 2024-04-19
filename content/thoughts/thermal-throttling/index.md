@@ -20,7 +20,7 @@ More often than not, when doing **Google Meet** calls on **Chrome**, sharing scr
 
 Opening **Activity Monitor** would show the dreaded `kernel_task` taking a huge percentage of CPU  time.
 
-{{< figure src="kernel_task.png" alt="screenshot of macOS “Activity Monitor” showing a “kernel task” process taking 254% of CPU" caption="Example of **Activity Monitor** with a spiking `kernel_task` process" link="https://www.davidschlachter.com/misc/kernel_task" attr="(source)" attrlink="https://www.davidschlachter.com/misc/kernel_task" >}}
+{{< figure src="kernel_task.png" alt="Screenshot of macOS “Activity Monitor” showing a “kernel task” process taking 254% of CPU" caption="Example of **Activity Monitor** with a spiking `kernel_task` process" link="https://www.davidschlachter.com/misc/kernel_task" attr="(source)" attrlink="https://www.davidschlachter.com/misc/kernel_task" >}}
 
 **macOS** uses `kernel_task` to [help manage CPU temperature by making the CPU less available to processes that are using it intensely](https://support.apple.com/en-us/102172). This means that what **Activity Monitor** shows is only a “symptom”, not the cause of the “disease”.
 
@@ -53,3 +53,5 @@ The results were striking and these images speak more loudly that any words coul
 Suffice to say that it works and feels like a brand new laptop now. 🎉
 
 [^fn1]: The recommended way to clean these fans is [using a spray can of compressed air](https://superuser.com/a/199540/54980). In my particular case, having none of those around, I used a [very low suction portable vacuum and a small brush](tools.jpg) (to loosen the harder bits) but please follow the recommendations due to the risk of damaging the fans (if the air flow causes them to spin too fast) or other electronic components (from the static electricity generated).
+
+<!-- TODO: Review captions format -->

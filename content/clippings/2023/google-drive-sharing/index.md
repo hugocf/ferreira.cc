@@ -6,7 +6,7 @@ title: "Share Google Files Securely: The Why and How"
 type: image
 ---
 
-{{< figure src="share-securely.jpg" alt="infographic showing Google file share access levels and guiding principles as described in the page article." caption="Increasing levels of sharing access for files in Google Drive" link="https://uit.stanford.edu/news/share-google-files-securely-why-and-how" attr="(source)" attrlink="https://uit.stanford.edu/service/gsuite/securegoogleinfographic" >}}
+{{< figure src="share-securely.jpg" alt="Infographic showing Google file share access levels and guiding principles as described in the page article." caption="Increasing levels of sharing access for files in Google Drive" link="https://uit.stanford.edu/news/share-google-files-securely-why-and-how" attr="(source)" attrlink="https://uit.stanford.edu/service/gsuite/securegoogleinfographic" >}}
 
 > Always remember these three guiding principles when choosing your share settings:
 >
@@ -17,3 +17,5 @@ type: image
 > Combining these principles with an understanding of [Stanford’s risk classifications](https://uit.stanford.edu/guide/riskclassifications) will help you make the best sharing choices.
 
 See also “how to” details in <https://securegoogle.stanford.edu/>
+
+<!-- TODO: Review captions format -->
