@@ -94,13 +94,9 @@ diff --unified=0 --recursive _vendor/github.com/adityatelange/hugo-PaperMod/layo
 @@ -49 +57 @@
 -      <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
 +      <li><a href="{{ .Permalink }}">{{ .Name }}</a></li>
-Only in layouts/partials: clippings_type.html
 diff --unified=0 --recursive _vendor/github.com/adityatelange/hugo-PaperMod/layouts/partials/post_nav_links.html layouts/partials/post_nav_links.html
 --- _vendor/github.com/adityatelange/hugo-PaperMod/layouts/partials/post_nav_links.html	2024-04-18 08:52:30
 +++ layouts/partials/post_nav_links.html	2024-01-03 23:30:37
 @@ -1 +1 @@
 -{{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
 +{{- $pages := where site.RegularPages "Section" .Section }}
-Only in layouts/shortcodes: audio.html
-Only in layouts/shortcodes: notice.html
-Only in layouts: snippets

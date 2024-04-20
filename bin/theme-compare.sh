@@ -26,7 +26,7 @@ check_differences() {
     local changed=$3
 
     if [ -d "$original" ]; then
-        diff --unified=0 --recursive "$original" "$changed" | grep -v "Only in _vendor"> /tmp/"$base_file".diff
+        diff --unified=0 --recursive "$original" "$changed" | grep -v "Only in"> /tmp/"$base_file".diff
     else
         diff --unified=0 "$original" "$changed" > /tmp/"$base_file".diff
     fi
