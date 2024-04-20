@@ -43,6 +43,6 @@ report_changes() {
 
 cd "$SCRIPT_DIR"/.. || exit
 
-compare default  _vendor/github.com/adityatelange/hugo-PaperMod/layouts/                   layouts/
-compare snippets _vendor/github.com/adityatelange/hugo-PaperMod/layouts/_default/list.html layouts/snippets/list.html
-compare notice   _vendor/github.com/martignoni/hugo-notice/layouts/shortcodes/notice.html  layouts/shortcodes/notice.html
+compare papermod-default  _vendor/github.com/adityatelange/hugo-PaperMod/layouts/                   layouts/
+compare papermod-snippets _vendor/github.com/adityatelange/hugo-PaperMod/layouts/_default/list.html layouts/snippets/list.html
+compare notice-shortcode  _vendor/github.com/martignoni/hugo-notice/layouts/shortcodes/notice.html  layouts/shortcodes/notice.html
