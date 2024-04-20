@@ -92,7 +92,8 @@ So remember:
 
 ----
 
-Shared to:
+<details>
+<summary>Shared to…</summary>
 
 * [LinkedIn](https://www.linkedin.com/posts/hugocf_hearing-or-listening-unlock-the-value-of-activity-7051114606546599936-ayz3)
 * [Mastodon](https://mastodon.online/@hugocf/110173632822874183)
@@ -104,3 +105,5 @@ Shared to:
 * [iOS PT Slack](https://ios.slack.com/archives/C0721L3CL/p1681116824485679)
 * [SA-IL Slack](https://sa-il.slack.com/archives/CQ32FU1SR/p1681227201731269)
 * [Telegram](https://t.me/c/1363309933/8552)
+
+</details>

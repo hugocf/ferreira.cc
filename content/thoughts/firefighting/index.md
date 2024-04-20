@@ -61,7 +61,8 @@ So, the next time you find yourself in firefighting mode at work, remember that 
 
 ---
 
-Shared to:
+<details>
+<summary>Shared to…</summary>
 
 * [LinkedIn](https://www.linkedin.com/posts/hugocf_from-chaos-to-strategy-embracing-firefighting-activity-7048651523198754817-ZODQ)
 * [Mastodon](https://mastodon.online/@hugocf/110142785028504109)
@@ -73,3 +74,5 @@ Shared to:
 * [iOS PT Slack](https://ios.slack.com/archives/C0721L3CL/p1680511769840369)
 * [SA-IL Slack](https://sa-il.slack.com/archives/CQ32FU1SR/p1680539980852139)
 * [Telegram](https://t.me/c/1363309933/8513)
+
+</details>

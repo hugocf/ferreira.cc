@@ -82,7 +82,8 @@ So, remember to always ask:
 
 ---
 
-Shared to:
+<details>
+<summary>Shared to…</summary>
 
 * [LinkedIn](https://www.linkedin.com/posts/hugocf_the-business-considered-harmful-activity-7071878662735708160-rK-X/)
 * [Mastodon](https://mastodon.online/@hugocf/110498105941254453)
@@ -92,3 +93,5 @@ Shared to:
 🔒 *(groups)*
 
 * [Telegram](https://t.me/c/1363309933/8926)
+
+</details>

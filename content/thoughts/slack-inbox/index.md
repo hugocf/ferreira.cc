@@ -235,7 +235,8 @@ Shortly after, a colleague shared a similar “timeline” setup of their deskto
 
 ---
 
-Shared to:
+<details>
+<summary>Shared to…</summary>
 
 * [LinkedIn](https://www.linkedin.com/posts/hugocf_slack-overload-regain-control-with-inbox-activity-7054122110918504448-yqGl)
 * [Mastodon](https://mastodon.online/@hugocf/110220664447192955)
@@ -248,3 +249,5 @@ Shared to:
 * [iOS PT Slack](https://ios.slack.com/archives/C0721L3CL/p1681834179011219)
 * [Springer Nature Slack](https://springernature.slack.com/archives/C04HV45EZ4H/p1681834348685239?thread_ts=1672850109.129719&cid=C04HV45EZ4H)
 * [Telegram](https://t.me/c/1363309933/8632)
+
+</details>

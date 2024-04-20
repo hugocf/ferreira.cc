@@ -193,9 +193,12 @@ type: video
 
 ---
 
-Shared to:
+<details>
+<summary>Shared to…</summary>
 
 🔒 *(groups)*
 
 * [CTOs PT](https://ctospt.slack.com/archives/CF4VD6QPK/p1690830188725079)
 * [iOS PT Slack](https://ios.slack.com/archives/C6DSYLCGZ/p1690830147170299)
+
+</details>

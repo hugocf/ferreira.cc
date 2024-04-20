@@ -229,7 +229,8 @@ Also, it removed the feeling a being “evaluated”. It added a more collaborat
 
 ---
 
-Shared to:
+<details>
+<summary>Shared to…</summary>
 
 * [LinkedIn](https://www.linkedin.com/posts/hugocf_pairing-reviews-bridging-the-gap-between-activity-7061741994934439936-2b9w)
 * [Mastodon](https://mastodon.online/@hugocf/110339721804211796)
@@ -241,3 +242,5 @@ Shared to:
 * [Equal Experts Slack](https://equalexperts.slack.com/archives/DDVFQU1FZ/p1683651516481779)
 * [iOS PT Slack](https://ios.slack.com/archives/C0721L3CL/p1683650827356959)
 * [Telegram](https://t.me/c/1363309933/8770)
+
+</details>

@@ -126,10 +126,13 @@ To be honest, this was a pretty typical day, similar to most other lockdown days
 
 ---
 
-Shared to:
+<details>
+<summary>Shared to…</summary>
 
 * [Medium](https://hugocf.medium.com/working-from-hell-b6d2e371cf0e)
 
 🔒 *(groups)*
 
 * [Telegram](https://t.me/c/1363309933/9341)
+
+</details>

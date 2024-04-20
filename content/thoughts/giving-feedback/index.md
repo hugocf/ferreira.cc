@@ -147,7 +147,8 @@ Happy feedback 🙂
 
 ---
 
-Shared to:
+<details>
+<summary>Shared to…</summary>
 
 * [LinkedIn](https://www.linkedin.com/posts/hugocf_speaking-or-communicating-easily-recall-activity-7074358582716116992-3-A3)
 * [Mastodon](https://mastodon.online/@hugocf/110536856147168624)
@@ -158,3 +159,4 @@ Shared to:
 
 * [Telegram](https://t.me/c/1363309933/8956)
 
+</details>

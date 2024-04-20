@@ -54,7 +54,8 @@ Even if we never add other options to that Enumerate, it is not a case of [YAGNI
 
 ---
 
-Shared to:
+<details>
+<summary>Shared to…</summary>
 
 * [LinkedIn](https://www.linkedin.com/posts/hugocf_mental-model-for-booleans-vs-enumerates-activity-7064254945008529411-hUeH)
 * [Mastodon](https://mastodon.online/@hugocf/110378984935193931)
@@ -65,3 +66,5 @@ Shared to:
 
 * [Springer Nature Slack](https://springernature.slack.com/archives/C01NT4ECRQ8/p1684150514547979?thread_ts=1650552510.015869&cid=C01NT4ECRQ8)
 * [Telegram](https://t.me/c/1363309933/8809)
+
+</details>

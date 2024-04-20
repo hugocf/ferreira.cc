@@ -89,7 +89,8 @@ And the differences can be quite numerous:
 
 ---
 
-Shared to:
+<details>
+<summary>Shared to…</summary>
 
 * [LinkedIn](https://www.linkedin.com/posts/hugocf_context-is-everything-even-when-you-don-activity-7057460932272128000--SHL/)
 * [Mastodon](https://mastodon.online/@hugocf/110272811718806530)
@@ -100,3 +101,5 @@ Shared to:
 
 * [Equal Experts Blogin](https://equalexperts.blogin.co/posts/blockers-to-collaboration-212218#c240989)
 * [Telegram](https://t.me/c/1363309933/8716)
+
+</details>

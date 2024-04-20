@@ -88,9 +88,12 @@ This same principle applies to diversity and inclusion efforts. We need people w
 
 ---
 
-Shared to:
+<details>
+<summary>Shared to…</summary>
 
 * [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7128074657089400832/)
 * [Mastodon](https://mastodon.online/@hugocf/111376168405027516)
 * [Medium](https://hugocf.medium.com/diversity-and-inclusion-reflections-on-empathy-hiring-and-transformation-1685ff8c1196)
 * [Twitter](https://twitter.com/hugocf/status/1722309576865829222)
+
+</details>

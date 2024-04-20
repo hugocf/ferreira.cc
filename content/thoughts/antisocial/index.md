@@ -109,7 +109,8 @@ Take care.
 
 ---
 
-Shared to:
+<details>
+<summary>Shared to…</summary>
 
 * [LinkedIn](https://www.linkedin.com/posts/hugocf_navigating-people-the-antisocial-guide-to-activity-7087426042864279552-VNns)
 * [Mastodon](https://mastodon.online/@hugocf/110741040672693409)
@@ -120,3 +121,4 @@ Shared to:
 
 * [Telegram](https://t.me/c/1363309933/9114)
 
+</details>
