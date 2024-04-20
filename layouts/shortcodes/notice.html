@@ -20,7 +20,7 @@
         --note-title: #6be;
         --note-content: #e7f2fa;
         --tip-title: #5a5;
-        --tip-content: #efe
+        --tip-content: #efe;
     }
 
     @media (prefers-color-scheme:dark) {
@@ -36,11 +36,11 @@
             --note-title: #069;
             --note-content: #023;
             --tip-title: #363;
-            --tip-content: #121
+            --tip-content: #121;
         }
     }
 
-    body.dark .notice {
+    body.dark .notice, [data-theme="dark"] .notice {
         --root-color: #ddd;
         --root-background: #eff;
         --title-color: #fff;
@@ -52,7 +52,7 @@
         --note-title: #069;
         --note-content: #023;
         --tip-title: #363;
-        --tip-content: #121
+        --tip-content: #121;
     }
 
     .notice {
@@ -61,11 +61,11 @@
         margin-bottom: 24px;
         border-radius: 4px;
         color: var(--root-color);
-        background: var(--root-background)
+        background: var(--root-background);
     }
 
     .notice p:last-child {
-        margin-bottom: 0
+        margin-bottom: 0;
     }
 
     .notice-title {
@@ -74,58 +74,56 @@
         border-radius: 4px 4px 0 0;
         font-weight: 700;
         color: var(--title-color);
-        background: var(--title-background)
+        background: var(--title-background);
     }
 
     .notice.warning .notice-title {
-        background: var(--warning-title)
+        background: var(--warning-title);
     }
 
     .notice.warning {
-        background: var(--warning-content)
+        background: var(--warning-content);
     }
 
     .notice.info .notice-title {
-        background: var(--info-title)
+        background: var(--info-title);
     }
 
     .notice.info {
-        background: var(--info-content)
+        background: var(--info-content);
     }
 
     .notice.note .notice-title {
-        background: var(--note-title)
+        background: var(--note-title);
     }
 
     .notice.note {
-        background: var(--note-content)
+        background: var(--note-content);
     }
 
     .notice.tip .notice-title {
-        background: var(--tip-title)
+        background: var(--tip-title);
     }
 
     .notice.tip {
-        background: var(--tip-content)
+        background: var(--tip-content);
     }
 
     .icon-notice {
         display: inline-flex;
         align-self: center;
-        margin-right: 8px
+        margin-right: 8px;
     }
 
-    .icon-notice img,
-    .icon-notice svg {
+    .icon-notice img, .icon-notice svg {
         height: 1em;
         width: 1em;
-        fill: currentColor
+        fill: currentColor;
     }
 
-    .icon-notice img,
-    .icon-notice.baseline svg {
+    .icon-notice img, .icon-notice.baseline svg {
         top: .125em;
-        position: relative
+        position: relative;
     }
 </style>
 {{- $.Page.Scratch.Set "notice-style-loaded-flag" true -}}

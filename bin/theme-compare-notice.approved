@@ -1,0 +1,64 @@
+--- _vendor/github.com/martignoni/hugo-notice/layouts/shortcodes/notice.html	2024-04-20 01:51:49
++++ layouts/shortcodes/notice.html	2024-04-20 02:16:17
+@@ -23 +23 @@
+-        --tip-content: #efe
++        --tip-content: #efe;
+@@ -39 +39 @@
+-            --tip-content: #121
++            --tip-content: #121;
+@@ -43 +43 @@
+-    body.dark .notice {
++    body.dark .notice, [data-theme="dark"] .notice {
+@@ -55 +55 @@
+-        --tip-content: #121
++        --tip-content: #121;
+@@ -64 +64 @@
+-        background: var(--root-background)
++        background: var(--root-background);
+@@ -68 +68 @@
+-        margin-bottom: 0
++        margin-bottom: 0;
+@@ -77 +77 @@
+-        background: var(--title-background)
++        background: var(--title-background);
+@@ -81 +81 @@
+-        background: var(--warning-title)
++        background: var(--warning-title);
+@@ -85 +85 @@
+-        background: var(--warning-content)
++        background: var(--warning-content);
+@@ -89 +89 @@
+-        background: var(--info-title)
++        background: var(--info-title);
+@@ -93 +93 @@
+-        background: var(--info-content)
++        background: var(--info-content);
+@@ -97 +97 @@
+-        background: var(--note-title)
++        background: var(--note-title);
+@@ -101 +101 @@
+-        background: var(--note-content)
++        background: var(--note-content);
+@@ -105 +105 @@
+-        background: var(--tip-title)
++        background: var(--tip-title);
+@@ -109 +109 @@
+-        background: var(--tip-content)
++        background: var(--tip-content);
+@@ -115 +115 @@
+-        margin-right: 8px
++        margin-right: 8px;
+@@ -118,2 +118 @@
+-    .icon-notice img,
+-    .icon-notice svg {
++    .icon-notice img, .icon-notice svg {
+@@ -122 +121 @@
+-        fill: currentColor
++        fill: currentColor;
+@@ -125,2 +124 @@
+-    .icon-notice img,
+-    .icon-notice.baseline svg {
++    .icon-notice img, .icon-notice.baseline svg {
+@@ -128 +126 @@
+-        position: relative
++        position: relative;
