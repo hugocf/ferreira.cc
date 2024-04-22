@@ -1,4 +1,6 @@
 github.com/adityatelange/hugo-PaperMod v0.0.0-20240413123840-aa7905eaca43 h1:rQTL6KgZl6drdQcolS0ZHxMM0xxO/Cm4/CSrI0GlZoE=
 github.com/adityatelange/hugo-PaperMod v0.0.0-20240413123840-aa7905eaca43/go.mod h1:HCHxNMKYdGafUYjVV3ICiAqznZK2yH0iI53jqcDFDdQ=
+github.com/adityatelange/hugo-PaperMod v0.0.0-20240420132049-175059921fe1 h1:pSDv9vokXatYBBc0Yh0yNlCa19fKndA8q/IDthzd3gg=
+github.com/adityatelange/hugo-PaperMod v0.0.0-20240420132049-175059921fe1/go.mod h1:HCHxNMKYdGafUYjVV3ICiAqznZK2yH0iI53jqcDFDdQ=
 github.com/martignoni/hugo-notice v0.0.0-20240317181534-be025da2580d h1:YmphoiBKQ7svpO338vXw8NH+Qg20Yu4JsmeHV9f2E5s=
 github.com/martignoni/hugo-notice v0.0.0-20240317181534-be025da2580d/go.mod h1:MIQPOMgEcbyRC0gNLzQFSgrS+wIy3RuQ/HbaZYtTOKU=
