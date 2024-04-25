@@ -2,7 +2,7 @@
 date: 2023-10-23T03:53:37Z
 draft: true
 lang: en
-tags: [ … ]
+tags: [ TODO ]
 title: How To Annoy Europeans With Just One Sentence
 type: link
 via: "[James Byrne](https://springernature.slack.com/archives/C067EMYAF/p1697217348766889)"

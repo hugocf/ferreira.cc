@@ -2,7 +2,7 @@
 date: 2024-03-05T20:47:12Z
 draft: true
 lang: en
-tags: [ … ]
+tags: [ TODO ]
 title: Marty Cagan on How to Move to the Product Model
 type: link
 ---

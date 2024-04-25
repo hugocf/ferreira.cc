@@ -2,7 +2,7 @@
 date: 2023-12-12T17:25:58Z
 draft: true
 lang: en
-tags: [ … ]
+tags: [ TODO ]
 title: Readable content
 type: image
 via: "[Who](http://example.com)"

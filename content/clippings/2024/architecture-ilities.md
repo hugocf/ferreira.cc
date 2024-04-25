@@ -2,7 +2,7 @@
 date: 2024-02-27T12:35:09Z
 draft: true
 lang: en
-tags: [ … ]
+tags: [ TODO ]
 title: "[Summary — Chap 4] Fundamentals of Software Architecture"
 type: link
 ---

@@ -2,7 +2,7 @@
 date: 2024-03-05T20:52:26Z
 draft: true
 lang: en
-tags: [ … ]
+tags: [ TODO ]
 title: "What’s Your Shape? A Product Manager’s Guide to Growing Yourself and Your Team"
 type: link
 via: "[Ron Smith](https://equalexperts.slack.com/archives/C065USBTLCW/p1709629833486259)"

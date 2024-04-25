@@ -2,7 +2,7 @@
 date: 2023-11-21T09:24:01Z
 draft: true
 lang: en
-tags: [ … ]
+tags: [ TODO ]
 title: Exercise in a Box
 type: link
 via: "[Gerald Benischke](https://equalexperts.slack.com/archives/C6PUCB37E/p1700519018216269)"

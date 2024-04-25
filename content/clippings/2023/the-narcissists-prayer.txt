@@ -2,7 +2,7 @@
 date: 2023-11-27Z
 draft: true
 lang: en
-tags: [ … ]
+tags: [ TODO ]
 title: "The Narcissist's Prayer"
 type: link
 via: "[Raphael‏ Wimmer](https://x.com/RaphaelWimmer/status/1728439000988303726?s=20)"

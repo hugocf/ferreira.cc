@@ -2,7 +2,7 @@
 date: 2024-02-07T03:03:27Z
 draft: true
 lang: en
-tags: [ … ]
+tags: [ TODO ]
 title: Evolution of the Scrollbar
 type: link
 via: "[Nathan Yau](https://flowingdata.com/2024/02/07/evolution-of-the-scrollbar/)"

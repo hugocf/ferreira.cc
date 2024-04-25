@@ -2,7 +2,7 @@
 date: 2024-02-09T11:16:20Z
 draft: true
 lang: en
-tags: [ … ]
+tags: [ TODO ]
 title: "Developer & Designer Collaboration (in the Real World)"
 type: image
 via: "[Andy Skipper](https://ctocraft.slack.com/archives/C6ETG5LEB/p1707472931406819)"

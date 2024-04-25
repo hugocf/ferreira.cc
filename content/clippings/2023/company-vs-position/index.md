@@ -2,7 +2,7 @@
 date: 2023-10-26T03:53:37Z
 draft: true
 lang: en
-tags: [ … ]
+tags: [ TODO ]
 title: Job Change Decision Matrix
 type: image
 via: "[Who](http://example.com)"

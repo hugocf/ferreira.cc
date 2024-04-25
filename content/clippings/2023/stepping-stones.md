@@ -2,7 +2,7 @@
 date: 2023-10-23T03:53:37Z
 draft: true
 lang: en
-tags: [ … ]
+tags: [ TODO ]
 title: Stepping Stones not Milestones
 type: link
 via: "[Ryan Conway](https://springernature.slack.com/archives/C7043KKC2/p1696602984121759)"

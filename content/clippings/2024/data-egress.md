@@ -2,7 +2,7 @@
 date: 2024-02-19T02:45:58Z
 draft: true
 lang: en
-tags: [ … ]
+tags: [ TODO ]
 title: "Data Egress: What is it and how much does it cost?"
 type: link
 via: "[Mark Batty](https://ctocraft.slack.com/archives/C7TC4BP98/p1708336727917479)"

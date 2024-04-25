@@ -2,7 +2,7 @@
 date: 2023-12-05T10:29:06Z
 draft: true
 lang: en
-tags: [ … ]
+tags: [ TODO ]
 title: Designing with mental model diagrams
 type: link
 via: "[Nick Forrester](https://docs.google.com/document/d/1iGIo5yPjo98EV91nB7LBZVH6FbrUMsCaYpmV3eQzwtI/edit?usp=sharing)"

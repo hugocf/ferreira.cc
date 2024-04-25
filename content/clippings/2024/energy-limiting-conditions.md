@@ -4,7 +4,7 @@ aliases:
 date: 2024-02-21T14:47:24Z
 draft: true
 lang: en
-tags: [ … ]
+tags: [ TODO ]
 title: "What Are Energy Limiting Conditions (ELC)?"
 type: link
 via: "[Jazmine Penfold](https://springernature.slack.com/archives/C04Q7GFJN68/p1708444222442019)"

@@ -2,7 +2,7 @@
 date: 2024-02-24T21:54:04Z
 draft: true
 lang: en
-tags: [ … ]
+tags: [ TODO ]
 title: Ephemeral Environments with Nix Shell
 type: video
 via: "[Adam Straughan](https://equalexperts.slack.com/archives/C02QDL3SZ/p1708776347571679)"

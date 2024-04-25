@@ -4,7 +4,7 @@ aliases:
 date: 2024-02-24T14:47:25Z
 draft: true
 lang: en
-tags: [ … ]
+tags: [ TODO ]
 title: The 4 Rules of Successful Communication Design
 type: link
 ---

@@ -2,7 +2,7 @@
 date: 2024-03-05T00:34:16Z
 draft: true
 lang: en
-tags: [ … ]
+tags: [ TODO ]
 title: Using the expand and contract pattern for DB schema changes
 type: link
 via: "[Elmar Fasel](https://springernature.slack.com/archives/C063007RVGQ/p1709593954734759?thread_ts=1707817490.413629&cid=C063007RVGQ)"

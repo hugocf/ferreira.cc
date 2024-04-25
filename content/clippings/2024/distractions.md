@@ -2,7 +2,7 @@
 date: 2024-02-09T10:52:37Z
 draft: true
 lang: en
-tags: [ … ]
+tags: [ TODO ]
 title: Noise | The Brief Lab
 type: image
 via: "[Chris James](https://springernature.slack.com/archives/C027G6UV90C/p1707470817658859)"

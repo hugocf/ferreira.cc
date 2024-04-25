@@ -2,7 +2,7 @@
 date: 2024-03-01T21:54:04Z
 draft: true
 lang: en
-tags: [ … ]
+tags: [ TODO ]
 title: Minimum Viable CD
 type: link
 via: "[Andreas Worm](https://equalexperts.slack.com/archives/C02QDL3SZ/p1709283530704829?thread_ts=1709225314.926559&channel=C02QDL3SZ&message_ts=1709283530.704829)"

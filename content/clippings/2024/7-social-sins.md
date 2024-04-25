@@ -2,7 +2,7 @@
 date: 2024-01-10T14:54:58Z
 draft: true
 lang: en
-tags: [ … ]
+tags: [ TODO ]
 title: Seven Social Sins
 type: link
 via: "[Seth Godin](https://seths.blog/2024/01/consequences/)"

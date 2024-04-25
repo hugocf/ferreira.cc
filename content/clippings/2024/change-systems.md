@@ -2,7 +2,7 @@
 date: 2024-02-27T18:36:03Z
 draft: true
 lang: en
-tags: [ … ]
+tags: [ TODO ]
 title: "How to change a system (18 ways)"
 type: link
 via: "[Who](http://example.com)"

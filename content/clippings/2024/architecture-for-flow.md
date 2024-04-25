@@ -2,7 +2,7 @@
 date: 2024-02-17T04:08:01Z
 draft: true
 lang: en
-tags: [ … ]
+tags: [ TODO ]
 title: Architecture for Flow - Wardley Mapping, DDD, and Team Topologies - Susanne Kaiser - DDD Europe 2022 - YouTube
 type: link
 via: "[Simon Wardley](https://swardley.medium.com/how-to-organise-yourself-f36f084a611b)"
