@@ -13,4 +13,4 @@ In a word: **soul searching**
     - “Start by scaffolding” instead of “doing the whole building”
     - “Say it’s not a priority” instead of “I don’t have time”
 
-*(via [The /now page movement | Derek Sivers](http://sivers.org/nowff))*
+*([profile](https://nownownow.com/p/rqv0) in [The /now page movement | Derek Sivers](http://sivers.org/nowff))*
