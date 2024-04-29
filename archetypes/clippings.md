@@ -4,9 +4,43 @@ draft: true
 lang: en
 tags: [ TODO ]
 title: {{ .Name | humanize }}
-type: audio chat image link quote text video
+type: link image quote video text audio chat
 via: "[Who](http://example.com)"
 ---
+
+<!-- link -->
+
+[Page title](http://example.com)
+
+> Snippet
+
+<!-- image -->
+
+{{< figure src="example.jpg" alt="Example alt text" caption="“[Example caption](https://example.com/photo)” by [Author](https://example.com/author)" link="http://example.com/page" attr="(Example)" attrlink="http://example.com" >}}
+
+> Snippet
+
+<!-- quote -->
+
+> Quote with citation.
+>
+> — <cite>Author</cite> in <cite>[Source](http://example.com)</cite>
+
+<!-- video -->
+
+{{< youtube id="OCWj5xgu5Ng?start=10" title="Blank Video Placeholder (HD)" >}}
+
+&nbsp;
+
+{{< vimeo id="38772314#t=10s" title="Blank Video Placeholder (HD)" >}}
+
+> Snippet
+
+<!-- text -->
+
+Context
+
+> Snippet
 
 <!-- audio -->
 
@@ -25,37 +59,3 @@ Context
 > **Alice**: Question?
 >
 > **Bob**: Response
-
-<!-- image -->
-
-{{< figure src="example.jpg" alt="Example alt text" caption="“[Example caption](https://example.com/photo)” by [Author](https://example.com/author)" link="http://example.com/page" attr="(Example)" attrlink="http://example.com" >}}
-
-> Snippet
-
-<!-- link -->
-
-[Page title](http://example.com)
-
-> Snippet
-
-<!-- quote -->
-
-> Quote with citation.
->
-> — <cite>Author</cite> in <cite>[Source](http://example.com)</cite>
-
-<!-- text -->
-
-Context
-
-> Snippet
-
-<!-- video -->
-
-{{< youtube id="OCWj5xgu5Ng?start=10" title="Blank Video Placeholder (HD)" >}}
-
-&nbsp;
-
-{{< vimeo id="38772314#t=10s" title="Blank Video Placeholder (HD)" >}}
-
-> Snippet
