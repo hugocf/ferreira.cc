@@ -2,7 +2,7 @@
 date: {{ time.Now.Format "2006-01-02T15:04:05Z07:00" }}
 draft: true
 lang: en
-tags: [ … ]
+tags: [ TODO ]
 title: {{ .Name | humanize }}
 type: audio chat image link quote text video
 via: "[Who](http://example.com)"

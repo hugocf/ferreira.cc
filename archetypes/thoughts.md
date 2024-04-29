@@ -9,7 +9,7 @@ draft: true
 drafted: 2000-00-00
 lang: en
 source: "[Where, Who, 2000-00-00](http://example.com)"
-tags: [ … ]
+tags: [ TODO ]
 title: {{ .Name | humanize }}
 subtitle: …
 summary: "[purpose statement?]"
