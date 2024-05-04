@@ -9,4 +9,3 @@ type: link
 [GitHubRaw](https://githubraw.com)
 
 > **GitHubRaw** serves raw files directly from GitHub with proper **Content-Type** headers.
-
