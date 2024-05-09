@@ -1,14 +1,22 @@
 ---
+cover:
+  relative: true
+  image: clutter-vs-clean.webp
+  alt: Illustration presenting a transformation from a chaotic, cluttered workspace to an organized, efficient one, depicted in a modern digital painting style. These visuals capture the theme of transitioning from an overwhelming flow of Slack notifications, represented by a garbage landfill, to a structured, clutter-free environment, represented by a river flow and green fields.
+  caption: "“Wide aspect ratio image to illustrate this blog post about techniques to deal with Slack overload of messages, with the following *title* and *subtitle*” [with edits] [(DALL·E)](https://openai.com/dall-e)"
 date: 2023-04-17T20:58:27Z
 lang: en
 source: "[Equal Experts Blogin comment, Hugo Ferreira, 2023-03-08](https://equalexperts.blogin.co/posts/sharing-ways-to-reduce-information-overload-201881#c227732)"
 tags: [ communications, productivity, inboxes, clutter, overwhelm, how to, explanation ]
 title: Slack Overload? Regain control with Inbox Zero principles
 subtitle: Get control of your Slack inbox with Inbox Zero principles and enjoy a clutter-free workspace.
+summary: The goal is to apply “inbox zero” concepts to Slack and mitigate the pressures to “respond immediately”. The realisation is that *sections* can become a pseudo-inbox of *channels* that need reading (as opposed to considering *messages* the unit to manipulate).
 via: "[John Rae](https://springernature.slack.com/archives/C04HV45EZ4H/p1672850152593449)"
 showToc: true
 tocOpen: true
 ---
+
+***Update 2024-05-08:** Finish updating the [full setup](#setup) description according to the new sections format. Also, add a cover image.*
 
 ***Update 2024-04-19:** Add illustrative images to the [Context](#context) section, including info on [Rivers, not buckets](#rivers-not-buckets).*
 
@@ -45,7 +53,7 @@ At the time, this concept appeared to deal with the problems of overwhelmed emai
 
 ### ⛲️ Rivers, not buckets {#rivers-not-buckets}
 
-{{< figure src="rivers-and-buckets.webp" alt="Illustration displaying two figures by a riverbank, metaphorizing information flow. One figure sits calmly on a rock, fishing in the river, while the other stands overwhelmed by multiple buckets labeled with tasks like 'To Read', 'Email', 'Visit', and 'Listen', suggesting the challenge of managing a constant stream of tasks and information." caption="“Instead of a bucket list to get through, try thinking of it as a river where attractive options drift by”" link="https://sketchplanations.com/rivers-and-buckets" attr="(Sketchplanations)" attrlink="https://sketchplanations.com/rivers-and-buckets" >}}
+{{< figure src="rivers-and-buckets.webp" alt="Illustration displaying two figures by a riverbank, metaphorizing information flow. One figure sits calmly on a rock, fishing in the river, while the other stands overwhelmed by multiple buckets labeled with tasks like 'To Read', 'Email', 'Visit', and 'Listen', suggesting the challenge of managing a constant stream of tasks and information." caption="“[Instead of a bucket list to get through, try thinking of it as a river where attractive options drift by](https://sketchplanations.com/rivers-and-buckets)”" link="https://sketchplanations.com/rivers-and-buckets" attr="(Sketchplanations)" attrlink="https://sketchplanations.com" >}}
 
 [Dave Winer](https://en.wikipedia.org/wiki/Dave_Winer) id one of the creators of the [RSS](https://en.wikipedia.org/wiki/RSS) specification and a [forefather of blogging][blog]. He started advocating the concept of a [River of News](http://scripting.com/stories/2009/09/02/isRiverOfNewsEnough.html) in the early 2000s:
 
@@ -83,14 +91,14 @@ Nowadays work happens on instant message applications, not email. These types of
 
 The goal is to apply the “inbox zero” concepts outlined above and mitigate the pressures to “respond immediately”.
 
-The realisation is that *sections* can become a pseudo-inbox of *channels* that need reading (as opposed to consider *messages* as the unit to manipulate).
+The realisation is that *sections* can become a pseudo-inbox of *channels* that need reading (as opposed to considering *messages* the unit to manipulate).
 
 This is how I setup my **Slack** channels *sections* to make them behave more like an inbox:
 
 * Show channels with [Unread messages only](https://slack.com/help/articles/212596808-Adjust-your-sidebar-preferences#choose-which-conversations-to-show)
 * Sorted [By most recent](https://slack.com/help/articles/212596808-Adjust-your-sidebar-preferences#sort-your-conversations)
 
-![Slack context menu displaying the “Show and sort” details of a sidebar section](slack-section-inbox.png)
+![Slack context menu displaying the “Show and sort” details of a sidebar section](slack-section-inbox.webp)
 
 ### 🗂️ Organise for fast processing {#sections}
 
@@ -110,14 +118,14 @@ As for which sections to use, I’ve ended up with a MoSCoW-inspired list where 
 
 The decision matrix for where to save each channel then becomes something like this:
 
-| Directly related to my role? | Am I keen on reading it? | ➔ Section |
-| ---------------------------- | ------------------------ | --------- |
-| ✅ Yes                        | 👀 Yes                    | 🔴 **Must** |
-| ✅ Yes                        | 🙈 Nope                   | 🟠 **Should** |
-| ☑️ Meh                        | 👀 Yes                    | 🟢 **Want** |
-| ☑️ Meh                        | 🙈 Nope                   | 🟡 **Could** |
-| ℹ️ Nope                       | 👀 Yes                    | 🔵 **Nice** |
-| ℹ️ Nope                       | 🙈 Nope                   | ⚫️ **Maybe** |
+| Directly related to my role? | Am I keen on reading it? |   | Section |
+| ---------------------------- | ------------------------ | - | ------- |
+| ✅ Yes                        | 👀 Yes                    | ➔ | 🔴 **Must** |
+| ✅ Yes                        | 🙈 Nope                   | ➔ | 🟠 **Should** |
+| ☑️ Meh                        | 👀 Yes                    | ➔ | 🟢 **Want** |
+| ☑️ Meh                        | 🙈 Nope                   | ➔ | 🟡 **Could** |
+| ℹ️ Nope                       | 👀 Yes                    | ➔ | 🔵 **Nice** |
+| ℹ️ Nope                       | 🙈 Nope                   | ➔ | ⚫️ **Maybe** |
 
 In practice, the order of those sections in Slack changed a little bit over time and now follow what is roughly two sets of “traffic lights”: 🚥
 
@@ -128,7 +136,7 @@ In practice, the order of those sections in Slack changed a little bit over time
 
 Putting it all together:
 
-![Slack sidebar view of sections: Must, Should, Want, Nice, Could, Maybe](slack-section-list.png)
+![Slack sidebar view of sections: Must, Should, Want, Nice, Could, Maybe](slack-section-list.webp)
 
 This is now the most battle tested setup I have stayed with for many months. Most past setups broke down on the “coming back from holidays” huge backlog of stuff to read.
 
@@ -155,31 +163,42 @@ You can take advantage of the **Unread messages** sidebar item to speed up this 
 
 ### 🚧 Full setup {#setup}
 
-* [ ] TODO: Update according to the new sections format
-
 The sidebar consists of the following sections, in this order:
 
+![Screenshot of the full sidebar showing all the different sections described here](slack-sidebar.webp)
+
 1. **Starred** default section
-    * Sorted [Alphabetically](https://slack.com/help/articles/212596808-Adjust-your-sidebar-preferences#sort-your-conversations) and showing [All](https://slack.com/help/articles/212596808-Adjust-your-sidebar-preferences#choose-which-conversations-to-show) channels
-    * *Expanded* all the time
-    * Contains conversations that I want to remain “pinned” on the top of the sidebar for a short time, regardless of read or not
-    * Used for ongoing group messages or temporary channels with an active conversation for a few days or so
-    * Direct messages of `@Slackbot` (notices and some mentions) and my own user `@me` (for scratch notes) are always starred here
+    - Sorted [Alphabetically](https://slack.com/help/articles/212596808-Adjust-your-sidebar-preferences#sort-your-conversations) and showing [All](https://slack.com/help/articles/212596808-Adjust-your-sidebar-preferences#choose-which-conversations-to-show) channels
+    - *Expanded* all the time
+    - Contains conversations that I want to remain “pinned” on the top of the sidebar for a short time, regardless of read or not
+    - Used for ongoing group messages or temporary channels with an active conversation for a few days or so
+    - Direct messages of `@Slackbot` (notices and some mentions) and my own user `@me` (for scratch notes) are always starred here
 2. **Direct messages** default section
-    * Sorted [By most recent](https://slack.com/help/articles/212596808-Adjust-your-sidebar-preferences#sort-your-conversations) and showing channels with [Unread messages only](https://slack.com/help/articles/212596808-Adjust-your-sidebar-preferences#choose-which-conversations-to-show)
-    * *Expanded* all the time
-3. **Channels** default section
-    * Sorted [By most recent](https://slack.com/help/articles/212596808-Adjust-your-sidebar-preferences#sort-your-conversations) and showing channels with [Unread messages only](https://slack.com/help/articles/212596808-Adjust-your-sidebar-preferences#choose-which-conversations-to-show)
-    * *Expanded* all the time
-    * This section contains *only* the channels that are ***essential** to my day-to-day work*
-4. **Someday** [*custom*](https://slack.com/help/articles/360043207674-Organize-your-sidebar-with-custom-sections#create-custom-sections) section
-    * Sorted [By most recent](https://slack.com/help/articles/212596808-Adjust-your-sidebar-preferences#sort-your-conversations) and showing channels with [Unread messages only](https://slack.com/help/articles/212596808-Adjust-your-sidebar-preferences#choose-which-conversations-to-show)
-    * *Collapsed* most of the time
-    * All the remaining channels that are less critical end up in this “catch-all” section (e.g. leisure, info, etc.)
-5. **Apps** default section
-    * Sorted [Alphabetically](https://slack.com/help/articles/212596808-Adjust-your-sidebar-preferences#sort-your-conversations) and showing [All](https://slack.com/help/articles/212596808-Adjust-your-sidebar-preferences#choose-which-conversations-to-show) channels
-    * *Collapsed* most of the time
-    * Easy access to apps I use on occasion but not so often that I remember their name
+    - Sorted [By most recent](https://slack.com/help/articles/212596808-Adjust-your-sidebar-preferences#sort-your-conversations) and showing channels with [Unread messages only](https://slack.com/help/articles/212596808-Adjust-your-sidebar-preferences#choose-which-conversations-to-show)
+    - *Expanded* all the time
+3. **Temp** [*custom*](https://slack.com/help/articles/360043207674-Organize-your-sidebar-with-custom-sections#create-custom-sections) section
+    - Sorted [By most recent](https://slack.com/help/articles/212596808-Adjust-your-sidebar-preferences#sort-your-conversations) and showing channels with [Unread messages only](https://slack.com/help/articles/212596808-Adjust-your-sidebar-preferences#choose-which-conversations-to-show)
+    - *Collapsed* all the time
+    - Like temporary solutions tend to last forever, so the same happens with temporary channels
+    - This collects temporary channels so I can the person nagging to archive them when they’ve served their purpose
+    - I usually set a reminder on a relevant message as a trigger for when it’s time to archive
+4. 🔴 **Must** [*custom*](https://slack.com/help/articles/360043207674-Organize-your-sidebar-with-custom-sections#create-custom-sections) section
+    - Sorted [By most recent](https://slack.com/help/articles/212596808-Adjust-your-sidebar-preferences#sort-your-conversations) and showing channels with [Unread messages only](https://slack.com/help/articles/212596808-Adjust-your-sidebar-preferences#choose-which-conversations-to-show)
+    - *Expanded* all the time
+    - This section contains *only* the channels that are ***essential** to my day-to-day work*, as [described above](#sections)
+5. 🟠 🟢 🔵 🟡 ⚫️ the other [*custom*](https://slack.com/help/articles/360043207674-Organize-your-sidebar-with-custom-sections#create-custom-sections) section
+    - Sorted [By most recent](https://slack.com/help/articles/212596808-Adjust-your-sidebar-preferences#sort-your-conversations) and showing channels with [Unread messages only](https://slack.com/help/articles/212596808-Adjust-your-sidebar-preferences#choose-which-conversations-to-show)
+    - *Collapsed* most of the time
+    - The remaining less critical channels end up in these sections, as [described above](#sections)
+6. **Channels** default section
+    - Sorted [Alphabetically](https://slack.com/help/articles/212596808-Adjust-your-sidebar-preferences#sort-your-conversations) and showing [All](https://slack.com/help/articles/212596808-Adjust-your-sidebar-preferences#choose-which-conversations-to-show) channels
+    - *Expanded* all the time
+    - This section is usually empty
+    - Only temporarily, it can contain channels I’ve just joined and have not yet been sorted into their right section, as [described above](#sections)
+7. **Apps** default section
+    - Sorted [Alphabetically](https://slack.com/help/articles/212596808-Adjust-your-sidebar-preferences#sort-your-conversations) and showing [All](https://slack.com/help/articles/212596808-Adjust-your-sidebar-preferences#choose-which-conversations-to-show) channels
+    - *Collapsed* most of the time
+    - Easy access to apps I use on occasion but not so often that I remember their name
 
 ---
 
@@ -203,7 +222,9 @@ You can take advantage of the [sidebar **Unread messages**](https://slack.com/in
 * Choose “Sorted like your sidebar”
 * Display only the 🔴 **Must** section
 * Once cleared, you can easily **Jump to the 🟠 **Should** section**
-  * … and so forth, until all sections are cleared one after the other
+  - … and so forth, until all sections are cleared one after the other
+
+![Slack message from the “Unread messages” section after all is cleared saying “🎉 You’ve cauch up on ‘Must’. Jump to the ‘Should’ section”](slack-unread-messages.webp)
 
 ### ❓ Questions {#questions}
 
