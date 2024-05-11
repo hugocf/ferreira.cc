@@ -3,7 +3,7 @@ date: 2023-08-15T12:50:24Z
 lang: en
 tags: [ security, obscurity, user tracking ]
 title: "User enumeration: what it is and why it matters"
-subtitle: "an overview of user enumeration, its various forms, and its impacts"
+subtitle: An overview of user enumeration, its various forms, and its impacts
 type: link
 via: "[Gerald Benischke](https://equalexperts.slack.com/archives/C6PUCB37E/p1692056078523089)"
 ---
