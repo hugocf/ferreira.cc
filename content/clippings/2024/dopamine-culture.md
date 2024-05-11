@@ -23,3 +23,13 @@ via: "[Seth Godin](https://seths.blog/2024/05/the-defensive-arrogance-of-tldr/)"
 * [ ] TODO: Clip images
 * [ ] TODO: Clip quotes
 * [ ] TODO: Link with video about the death of the follower
+
+* [ ] To quote?
+
+> “dopamine doom loop”
+
+> “a passive recipient of make-believe”
+
+> “anhedonia—the complete absence of enjoyment in an experience supposedly pursued for pleasure”
+
+> Powerful words
