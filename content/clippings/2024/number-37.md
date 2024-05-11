@@ -1,4 +1,6 @@
 ---
+aliases:
+  - blue-seven
 date: 2024-05-08T15:22:52Z
 draft: true
 lang: en
@@ -27,4 +29,8 @@ via: "[Michael Brown](https://ios.slack.com/archives/C024RLKFJ/p1715177975775909
 * [ ] TODO: snip/link? Random numbers via The Jargon File at catb.org - https://ve42.co/Jargon
 
 
+* [ ] TODO: How to pick the best option at ~15:00 — pick the best option after seeing 37% of what’s available
+    - the secretary problem
+    - the marriage problem
 
+~16:24 when the total universe of elements is not known, the 37% rule also works for *time*
