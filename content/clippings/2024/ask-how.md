@@ -2,7 +2,7 @@
 date: 2024-05-07T12:34:56+01:00
 lang: en
 source: "[SA-IL Slack message, Hugo Ferreira, 2024-05-07](https://sa-il.slack.com/archives/CQ32FU1SR/p1715081640970719)"
-tags: [ mnemonics, strategy, productivity, planning, brainstorming, actions ] # sa-il
+tags: [ mnemonics, strategy, productivity, planning, brainstorming, actions, goals ] # sa-il
 title: Ask “How?”
 subtitle: Transform unactionable goals into concrete actions
 type: text
