@@ -8,4 +8,4 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$SCRIPT_DIR"/..
 
 (sleep 1 && open http://localhost:1313) &
-hugo --buildDrafts --buildExpired --buildFuture server
+hugo --cleanDestinationDir --buildDrafts --buildExpired --buildFuture server
