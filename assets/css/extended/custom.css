@@ -50,6 +50,13 @@ mark {
   font-style: italic;
 }
 
+.custom-summary ol,
+.custom-summary ul {
+  margin: calc(2 * var(--content-gap));
+  margin-top: 0;
+  font-style: italic;
+}
+
 /* Posts cover image caption with a narrower wrap */
 figure.entry-cover p {
   padding-left: 10%;

@@ -1,0 +1,22 @@
+{{- $currentPage := . -}}
+{{- $pageSeries := .Params.series -}}
+{{- if $pageSeries -}}
+  {{ range $key, $value := .Site.Taxonomies.series }}
+    {{ if in $pageSeries $key }}
+    <div class="post-content custom-summary">
+      <p>This is part of a series about <a href="{{ .Page.Permalink }}">{{ .Page.LinkTitle }}</a>:</p>    
+      <ol>
+        {{ range $value }}
+        <li>
+          {{- if eq .File.UniqueID $currentPage.File.UniqueID -}}
+            👉 {{ .Page.Title }}
+          {{ else }}
+            <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+          {{ end }}
+        </li>
+        {{ end }}
+      </ol>
+    </div>
+    {{ end }}
+  {{ end }}
+{{ end }}

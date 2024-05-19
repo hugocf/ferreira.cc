@@ -1,4 +1,4 @@
---- _vendor/github.com/adityatelange/hugo-PaperMod/layouts/_default/list.html	2024-04-22 17:20:58
+--- _vendor/github.com/adityatelange/hugo-PaperMod/layouts/_default/list.html	2024-05-11 01:24:09
 +++ layouts/snippets/list.html	2024-04-14 02:58:45
 @@ -41 +41 @@
 -{{- $pages := union .RegularPages .Sections }}

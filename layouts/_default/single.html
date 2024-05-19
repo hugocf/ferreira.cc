@@ -35,6 +35,7 @@
       {{- if (or (not .Params.cover.image) $hiddenCoverImage) }}<hr>{{- end }}
     </div>
     {{- end }}
+    {{- partial "series_toc.html" . -}}
   </header>
   {{- $isHidden := (.Param "cover.hiddenInSingle") | default (.Param "cover.hidden") | default false }}
   {{- partial "cover.html" (dict "cxt" . "IsSingle" true "isHidden" $isHidden) }}

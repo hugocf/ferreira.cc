@@ -1,5 +1,5 @@
 diff --unified=0 --recursive _vendor/github.com/adityatelange/hugo-PaperMod/layouts/_default/archives.html layouts/_default/archives.html
---- _vendor/github.com/adityatelange/hugo-PaperMod/layouts/_default/archives.html	2024-04-22 17:20:58
+--- _vendor/github.com/adityatelange/hugo-PaperMod/layouts/_default/archives.html	2024-05-11 01:25:56
 +++ layouts/_default/archives.html	2023-12-28 03:35:12
 @@ -39 +39,3 @@
 -  <h2 class="archive-year-header">
@@ -22,7 +22,7 @@ diff --unified=0 --recursive _vendor/github.com/adityatelange/hugo-PaperMod/layo
 +          {{- partial "clippings_type.html" . -}}
 +          {{- .Title | safeHTML | markdownify }}
 diff --unified=0 --recursive _vendor/github.com/adityatelange/hugo-PaperMod/layouts/_default/list.html layouts/_default/list.html
---- _vendor/github.com/adityatelange/hugo-PaperMod/layouts/_default/list.html	2024-04-22 17:20:58
+--- _vendor/github.com/adityatelange/hugo-PaperMod/layouts/_default/list.html	2024-05-11 01:24:09
 +++ layouts/_default/list.html	2024-04-16 23:11:49
 @@ -11 +11 @@
 -    {{ .Title }}
@@ -32,7 +32,7 @@ diff --unified=0 --recursive _vendor/github.com/adityatelange/hugo-PaperMod/layo
 +      {{- partial "clippings_type.html" . -}}
 +      {{- .Title | safeHTML | markdownify }}
 diff --unified=0 --recursive _vendor/github.com/adityatelange/hugo-PaperMod/layouts/_default/rss.xml layouts/_default/rss.xml
---- _vendor/github.com/adityatelange/hugo-PaperMod/layouts/_default/rss.xml	2024-04-22 17:20:58
+--- _vendor/github.com/adityatelange/hugo-PaperMod/layouts/_default/rss.xml	2024-05-11 01:24:09
 +++ layouts/_default/rss.xml	2024-04-18 00:27:05
 @@ -48,3 +48,5 @@
 -    <title>{{ if eq .Title site.Title }}{{ site.Title }}{{ else }}{{ with .Title }}{{ . }} on {{ end }}{{ site.Title }}{{ end }}</title>
@@ -71,8 +71,8 @@ diff --unified=0 --recursive _vendor/github.com/adityatelange/hugo-PaperMod/layo
 +      {{- end }}
 +
 diff --unified=0 --recursive _vendor/github.com/adityatelange/hugo-PaperMod/layouts/_default/single.html layouts/_default/single.html
---- _vendor/github.com/adityatelange/hugo-PaperMod/layouts/_default/single.html	2024-04-22 17:20:58
-+++ layouts/_default/single.html	2024-04-16 23:11:49
+--- _vendor/github.com/adityatelange/hugo-PaperMod/layouts/_default/single.html	2024-05-11 01:24:09
++++ layouts/_default/single.html	2024-05-19 00:15:57
 @@ -7 +7,2 @@
 -      {{ .Title }}
 +      {{- partial "clippings_type.html" . -}}
@@ -83,7 +83,7 @@ diff --unified=0 --recursive _vendor/github.com/adityatelange/hugo-PaperMod/layo
 @@ -19 +20 @@
 -      {{ .Description }}
 +      {{ .Params.Subtitle | safeHTML | markdownify }}
-@@ -29,0 +31,7 @@
+@@ -29,0 +31,8 @@
 +    {{- if .Params.Summary }}
 +    <div class="post-content custom-summary">
 +      <p>{{- .Params.Summary | safeHTML | markdownify -}}</p>
@@ -91,11 +91,12 @@ diff --unified=0 --recursive _vendor/github.com/adityatelange/hugo-PaperMod/layo
 +      {{- if (or (not .Params.cover.image) $hiddenCoverImage) }}<hr>{{- end }}
 +    </div>
 +    {{- end }}
-@@ -49 +57 @@
++    {{- partial "series_toc.html" . -}}
+@@ -49 +58 @@
 -      <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
 +      <li><a href="{{ .Permalink }}">{{ .Name }}</a></li>
 diff --unified=0 --recursive _vendor/github.com/adityatelange/hugo-PaperMod/layouts/partials/post_nav_links.html layouts/partials/post_nav_links.html
---- _vendor/github.com/adityatelange/hugo-PaperMod/layouts/partials/post_nav_links.html	2024-04-22 17:20:58
+--- _vendor/github.com/adityatelange/hugo-PaperMod/layouts/partials/post_nav_links.html	2024-05-11 01:24:09
 +++ layouts/partials/post_nav_links.html	2024-01-03 23:30:37
 @@ -1 +1 @@
 -{{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
