@@ -1,12 +1,13 @@
 {{- $currentPage := . -}}
 {{- $pageSeries := .Params.series -}}
 {{- if $pageSeries -}}
-  {{ range $key, $value := .Site.Taxonomies.series }}
+  {{ range $key, $pages := .Site.Taxonomies.series }}
     {{ if in $pageSeries $key }}
     <div class="post-content custom-summary">
       <p>This is part of a series about <a href="{{ .Page.Permalink }}">{{ .Page.LinkTitle }}</a>:</p>    
       <ol>
-        {{ range $value }}
+        {{ $sortedPages := sort $pages ".Date" "asc" }}
+        {{ range $sortedPages }}
         <li>
           {{- if eq .File.UniqueID $currentPage.File.UniqueID -}}
             👉 {{ .Page.Title }}
