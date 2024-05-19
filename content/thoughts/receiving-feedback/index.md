@@ -1,4 +1,9 @@
 ---
+cover:
+  relative: true
+  image: ignore-think-target.webp
+  alt: The emojis 🙉 🤔 🎯 side-by-side in a vibrant, abstract style with bold brush strokes, in a dynamic background that features deep blues, bright oranges, and contrasting whites, creating a sense of movement and energy.
+  caption: "“Draw the emojis 🙉 🤔 🎯 in an abstract expressionism art style” [(DALL·E)](https://openai.com/dall-e)"
 date: 2023-04-10T07:07:28Z
 lang: en
 source: "[Equal Experts Blogin post, Hugo Ferreira, 2019-04-18](https://equalexperts.blogin.co/posts/65986)"
