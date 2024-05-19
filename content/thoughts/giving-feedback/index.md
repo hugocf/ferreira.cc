@@ -7,7 +7,7 @@ cover:
 date: 2023-06-13T21:41:24Z
 lang: en
 tags: [ guidelines, feedback, observing, compassion, behaviours, feelings, needs ]
-title: Speaking or communicating? Easily recall how to give good feedback
+title: Talking or speaking? Easily recall how to give good feedback
 summary: There are many guidelines on how to structure feedback but human nature is quite common. A simple mnemonic will help your recall your favourite framework when it matters the most — talk about what you “observe”, its “impact” and then “ask”.
 series: [ feedback ]
 showToc: true
