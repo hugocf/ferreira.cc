@@ -18,10 +18,9 @@ via: "[Lindsay Stewart](https://springernature.slack.com/archives/C01JW9A24AV/p1
 > 3. Something To Wear
 >
 > 4. Something To Read
-> 
 
 ---
 
-> … the 4 gift rules is great because it helps teach children that they can’t always have everything they want, and helps them to focus on things they actually need. 
+> … the 4 gift rules is great because it helps teach children that they can’t always have everything they want, and helps them to focus on things they actually need.
 >
 > It also teaches them about sustainability — since you’re not buying anything in excess, meaningful gift giving, and gratitude — since they’ll get gifts they’ll really appreciate. And again, also makes sure each child gets the same number of gifts, saving you the headache of deciding [how many presents to get for each child this Christmas](https://hyperjar.com/blog/money-management-how-many-presents-do-you-get-your-child-for-christmas).
