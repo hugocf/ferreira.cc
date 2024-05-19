@@ -10,11 +10,16 @@
         {{ range $sortedPages }}
         <li>
           {{- if eq .File.UniqueID $currentPage.File.UniqueID -}}
-            👉 {{ .Page.Title }}
+          <span title="You are here">👉</span> {{ .Page.Title }}
           {{ else }}
             <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
           {{ end }}
         </li>
+        {{ end }}
+        {{ $dataFile := $key }}
+        {{ $upcoming := index site.Data.series $dataFile }}
+        {{ range $upcoming }}
+          <li>{{ . }} [Upcoming]</li>
         {{ end }}
       </ol>
     </div>
