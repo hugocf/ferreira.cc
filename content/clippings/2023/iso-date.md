@@ -1,7 +1,7 @@
 ---
 date: 2023-09-17T13:17:40Z
 lang: en
-tags: [ commics, dates, standards ]
+tags: [ comics, dates, standards ]
 title: "ISO 8601: Date format"
 type: image
 via: "[Confetti](https://stackoverflow.com/questions/4946785/how-to-find-the-difference-in-days-between-two-dates#comment101469027_6948865)"
