@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg3680"
+   width="682.65637"
+   height="477.46255"
+   viewBox="0 0 682.65637 477.46255">
+  <title
+     id="title4606">Hierarchy of Competence</title>
+  <metadata
+     id="metadata3686">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Hierarchy of Competence</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3684" />
+  <path
+     id="path4531"
+     d="M 672.65636,420.63333 H 475.09182"
+     style="fill:none;stroke:#000000;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 623.06686,338.7425 H 427.88262"
+     id="path4529" />
+  <path
+     id="path4527"
+     d="M 579.03141,258.60578 H 383.84716"
+     style="fill:none;stroke:#000000;stroke-width:3.7795279;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:3.7795279;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 528.64847,177.27961 H 332.27408"
+     id="path4519" />
+  <path
+     style="fill:#ff8989;fill-opacity:1;stroke:none;stroke-width:1.01107681"
+     d="M 63.274311,334.02656 13.272358,420.63399 H 248.17079 483.06728 l -50.00196,-86.60743 z"
+     id="rect3694" />
+  <path
+     id="rect3696"
+     d="M 111.34766 250.76562 L 61.644531 336.85352 L 434.69727 336.85352 L 384.99414 250.76562 L 111.34766 250.76562 z "
+     style="fill:#feff75;fill-opacity:1;stroke:none;stroke-width:0.99999994" />
+  <path
+     style="fill:#71fe71;fill-opacity:1;stroke:none;stroke-width:1.37883329"
+     d="m 160.16493,166.2082 -29.44336,50.99805 -22.81054,39.50977 H 388.42861 L 365.61806,217.20625 336.1747,166.2082 Z"
+     id="rect3698" />
+  <path
+     style="fill:#9cdeff;fill-opacity:1;stroke:none"
+     d="M 248.17079,13.780474 154.86415,175.38985 h 186.61133 z"
+     id="rect3700" />
+  <path
+     id="path3692"
+     d="m 483.06747,420.63335 -234.89715,0 -234.897156,0 L 130.72174,217.20645 248.17032,13.779541 365.61889,217.20644 Z"
+     style="fill:none;stroke:#000000;stroke-width:3.77952766" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:18.65151024px;line-height:1.25;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+     x="518.25415"
+     y="163.53358"
+     id="text4543"><tspan
+       id="tspan4541"
+       x="518.25415"
+       y="163.53358"
+       style="font-size:18.66666603px;text-align:end;text-anchor:end;stroke-width:1">Right Intuition</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:1.25;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+     x="567.86609"
+     y="244.41812"
+     id="text4547"><tspan
+       id="tspan4545"
+       x="567.86609"
+       y="244.41812">Right Analysis</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:1.25;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+     x="614.38379"
+     y="324.95145"
+     id="text4551"><tspan
+       id="tspan4549"
+       x="614.38379"
+       y="324.95145">Wrong Analysis</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:1.25;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+     x="662.2301"
+     y="408.26181"
+     id="text4555"><tspan
+       id="tspan4553"
+       x="662.2301"
+       y="408.26181">Wrong Intuition</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     x="248.10146"
+     y="138.49498"
+     id="text4559"><tspan
+       id="tspan4557"
+       x="248.10146"
+       y="138.49498">Unconscious</tspan><tspan
+       x="248.10146"
+       y="161.82831"
+       id="tspan4561">Competence</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     x="248.10146"
+     y="209.50713"
+     id="text4565"><tspan
+       id="tspan4563"
+       x="248.10146"
+       y="209.50713">Conscious</tspan><tspan
+       x="248.10146"
+       y="232.84045"
+       id="tspan4567">Competence</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     x="248.00227"
+     y="289.64374"
+     id="text4571"><tspan
+       id="tspan4569"
+       x="248.00227"
+       y="289.64374">Conscious</tspan><tspan
+       x="248.00227"
+       y="312.97708"
+       id="tspan4573">Incompetence</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     x="248.00119"
+     y="373.74753"
+     id="text4577"><tspan
+       id="tspan4575"
+       x="248.00119"
+       y="373.74753">Unconscious</tspan><tspan
+       x="248.00119"
+       y="397.08087"
+       id="tspan4579">Incompetence</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:32px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     x="247.38907"
+     y="461.02505"
+     id="text4583"><tspan
+       id="tspan4581"
+       x="247.38907"
+       y="461.02505">Hierarchy of Competence</tspan></text>
+</svg>
