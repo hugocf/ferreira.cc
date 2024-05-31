@@ -18,6 +18,28 @@ See also:
 
 *(most recent on top)*
 
+## Search for commits that add or delete a string (pickaxe)
+
+* [The git pickaxe](http://www.philandstuff.com/2014/02/09/git-pickaxe.html)
+    - via [Roman Seidelsohn](https://springernature.slack.com/archives/C0R5SM347/p1711371850137259)
+    - via [Jim Kinsey](https://springernature.slack.com/archives/C0R5SM347/p1711374365573009?thread_ts=1711371850.137259&channel=C0R5SM347&message_ts=1711374365.573009)
+
+```shell
+git log -p -S example
+```
+
+```
+-p
+  Generate patch text
+
+-S<string>
+  Look for differences that change the number of occurrences of the specified
+  string (i.e. addition/deletion) in a file.
+
+-G<regex>
+  Look for differences whose patch text contains added/removed lines that match <regex>.
+```
+
 ## Configure separate Git users for different repos
 
 * via [Aleksander Sumowski](https://app.slack.com/team/UMGKV4QKH)
