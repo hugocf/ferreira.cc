@@ -15,4 +15,4 @@ type: link
 
 “Jira isn't bad if setup in a lightweight fashion” is a 🦄 argument.
 
-If something is customisable, people will customise. Jira é o MySpace dos issue tracking systems.
+If something is customisable, people will customise. Jira is the MySpace of issue tracking systems.
