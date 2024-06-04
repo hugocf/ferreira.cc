@@ -1,4 +1,6 @@
 ---
+aliases:
+  - backlogs-customers
 date: 2024-01-24T20:42:48Z
 lang: en
 tags: [ lean, agile, software, backlogs, ui, mvp, test in production ]
@@ -26,7 +28,7 @@ via: "[Diogo Nunes](https://t.me/c/1363309933/10169)"
 ---
 
 > A product’s capacity to implement UI customer feedback is more important than a product’s initial UI, yet we tend to focus far too much on the latter with heavy design up front. Small components and low-level reusability are key in UIs that are easy to change.
-> 
+>
 > Keeping technical debt low allows you to make the changes your customers need you to make. *Speed is a function of technical debt.*
 
 ---
