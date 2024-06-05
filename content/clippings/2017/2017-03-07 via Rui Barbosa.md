@@ -16,7 +16,15 @@ https://ios.slack.com/archives/general/p1488877466018390
 
 The Results: Centralizing All iOS Code
 With the monorepo, we centralized all our iOS code into one place. We organized our repository into this directory structure:
-├── apps │   ├── iphone-driver │   ├── iphone-eats │   ├── iphone-rider ├── libraries │   ├── analytics │   ├── … │   └── utilities └── vendor    ├── fbsnapshottestcase
+├── apps
+│   ├── iphone-driver
+│   ├── iphone-eats
+│   ├── iphone-rider
+├── libraries
+│   ├── analytics
+│   ├── …
+│   └── utilities
+└── vendor
+   ├── fbsnapshottestcase
    ├── …
    └── ocmock
-

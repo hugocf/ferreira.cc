@@ -31,8 +31,10 @@ startups = profit centers
 share the pain => share the gain
 
 > To summarize, the cost center trap and the capitalization dilemma both create a chain reaction:
-> 1. Accounting drives metrics. >    ⇩
-> 2. Metrics drive culture. >    ⇩
+> 1. Accounting drives metrics.
+>    ⇩
+> 2. Metrics drive culture.
+>    ⇩
 > 3. Culture eats process for lunch.
 
 > ****Beware of Proxies****
@@ -48,4 +50,3 @@ share the pain => share the gain
 > (…) make a habit of **measuring what really matters** - skip the proxies and focus on outcomes and impact.
 
 [http://www.leanessays.com/2017/11/the-cost-center-trap.html?m=1](http://www.leanessays.com/2017/11/the-cost-center-trap.html?m=1)
-

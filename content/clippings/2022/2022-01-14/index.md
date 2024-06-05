@@ -51,7 +51,9 @@ I've mentioned to the team in several retros that the one thing the team has got
 
 —//—
 
-Why the popularity of Tuckman’s model?  > **But why is Tuckman’s model so popular then?**
+Why the popularity of Tuckman’s model?
+
+> **But why is Tuckman’s model so popular then?**
 >
 > Here’s the author’s answer:
 >
