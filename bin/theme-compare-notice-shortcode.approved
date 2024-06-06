@@ -1,4 +1,4 @@
---- _vendor/github.com/martignoni/hugo-notice/layouts/shortcodes/notice.html	2024-05-11 01:24:09
+--- _vendor/github.com/martignoni/hugo-notice/layouts/shortcodes/notice.html	2024-06-06 09:58:54
 +++ layouts/shortcodes/notice.html	2024-04-20 02:16:17
 @@ -23 +23 @@
 -        --tip-content: #efe
