@@ -16,7 +16,7 @@ via: "[Who](http://example.com)"
 
 <!-- image -->
 
-{{< figure src="example.jpg" alt="Example alt text" caption="“[Example caption](https://example.com/photo)” by [Author](https://example.com/author)" link="http://example.com/page" attr="(Example)" attrlink="http://example.com" >}}
+{{< figure src="example.jpg" alt="Example alt text" caption="“[Example page](http://example.com/page)” by [Example Author](https://example.com/author)" link="http://example.com/photo" attr="(Example)" attrlink="http://example.com" >}}
 
 > Snippet
 
