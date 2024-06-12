@@ -9,7 +9,7 @@ type: image
 <figure style="width: 937px">
 <a
 href="http://www.bothsidesofthetable.com/2015/08/20/what-ive-learned-about-venture-funding/"><img
-src="https://hugo.ferreira.cc/wp-content/uploads/IMG_2799.png"
+src="/wp-content/uploads/IMG_2799.png"
 width="937" height="705" /></a>
 <figcaption>VC funding. Our perspectives on the topic wax and wane
 […]</figcaption>

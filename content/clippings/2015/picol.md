@@ -6,9 +6,9 @@ title: "PICOL"
 type: link
 ---
 
-[![PICOL](https://hugo.ferreira.cc/wp-content/uploads/2015/01/tumblr_nitzh5x70h1qz82meo1_400.jpg){width="342"
+[![PICOL](/wp-content/uploads/2015/01/tumblr_nitzh5x70h1qz82meo1_400.jpg){width="342"
 height="268"
-srcset="https://hugo.ferreira.cc/wp-content/uploads/2015/01/tumblr_nitzh5x70h1qz82meo1_400.jpg 342w, https://hugo.ferreira.cc/wp-content/uploads/2015/01/tumblr_nitzh5x70h1qz82meo1_400-300x235.jpg 300w"
+srcset="/wp-content/uploads/2015/01/tumblr_nitzh5x70h1qz82meo1_400.jpg 342w, /wp-content/uploads/2015/01/tumblr_nitzh5x70h1qz82meo1_400-300x235.jpg 300w"
 sizes="(max-width: 342px) 100vw, 342px"}](http://picol.org/)
 
 > [PICOL](http://picol.org/) stands for PIctorial COmmunication Language

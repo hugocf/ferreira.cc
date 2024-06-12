@@ -6,9 +6,9 @@ title: "Mobile cross-platform technologies comparison"
 type: link
 ---
 
-[![PropertyCross](https://hugo.ferreira.cc/wp-content/uploads/2015/01/tumblr_niy2fjyTFG1qz82meo2_r1_1280.png){width="496"
+[![PropertyCross](/wp-content/uploads/2015/01/tumblr_niy2fjyTFG1qz82meo2_r1_1280.png){width="496"
 height="1290"
-srcset="https://hugo.ferreira.cc/wp-content/uploads/2015/01/tumblr_niy2fjyTFG1qz82meo2_r1_1280.png 496w, https://hugo.ferreira.cc/wp-content/uploads/2015/01/tumblr_niy2fjyTFG1qz82meo2_r1_1280-115x300.png 115w, https://hugo.ferreira.cc/wp-content/uploads/2015/01/tumblr_niy2fjyTFG1qz82meo2_r1_1280-394x1024.png 394w"
+srcset="/wp-content/uploads/2015/01/tumblr_niy2fjyTFG1qz82meo2_r1_1280.png 496w, /wp-content/uploads/2015/01/tumblr_niy2fjyTFG1qz82meo2_r1_1280-115x300.png 115w, /wp-content/uploads/2015/01/tumblr_niy2fjyTFG1qz82meo2_r1_1280-394x1024.png 394w"
 sizes="(max-width: 496px) 100vw, 496px"}](http://propertycross.com/)
 
 > Developers are now finding themselves having to author applications

@@ -7,9 +7,9 @@ type: image
 ---
 
 [![The Writing
-Process](https://hugo.ferreira.cc/wp-content/uploads/2015/02/tumblr_nk2ojojvBA1qz82meo1_1280.jpg){width="598"
+Process](/wp-content/uploads/2015/02/tumblr_nk2ojojvBA1qz82meo1_1280.jpg){width="598"
 height="337"
-srcset="https://hugo.ferreira.cc/wp-content/uploads/2015/02/tumblr_nk2ojojvBA1qz82meo1_1280.jpg 598w, https://hugo.ferreira.cc/wp-content/uploads/2015/02/tumblr_nk2ojojvBA1qz82meo1_1280-300x169.jpg 300w"
+srcset="/wp-content/uploads/2015/02/tumblr_nk2ojojvBA1qz82meo1_1280.jpg 598w, /wp-content/uploads/2015/02/tumblr_nk2ojojvBA1qz82meo1_1280-300x169.jpg 300w"
 sizes="(max-width: 598px) 100vw, 598px"}](https://twitter.com/seanuk/status/568748095716114433)
 
 Nice illustration of the writing process, or any other

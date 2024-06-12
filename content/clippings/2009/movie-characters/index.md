@@ -6,10 +6,10 @@ title: "Movie Characters"
 type: image
 ---
 
-[![](https://hugo.ferreira.cc/wp-content/uploads/2015/08/movie_narrative_charts_large-1024x646.png){width="660"
+[![](/wp-content/uploads/2015/08/movie_narrative_charts_large-1024x646.png){width="660"
 height="416"
-srcset="https://hugo.ferreira.cc/wp-content/uploads/2015/08/movie_narrative_charts_large-1024x646.png 1024w, https://hugo.ferreira.cc/wp-content/uploads/2015/08/movie_narrative_charts_large-300x189.png 300w, https://hugo.ferreira.cc/wp-content/uploads/2015/08/movie_narrative_charts_large-700x442.png 700w"
-sizes="(max-width: 660px) 100vw, 660px"}](https://hugo.ferreira.cc/wp-content/uploads/2015/08/movie_narrative_charts_large.png)
+srcset="/wp-content/uploads/2015/08/movie_narrative_charts_large-1024x646.png 1024w, /wp-content/uploads/2015/08/movie_narrative_charts_large-300x189.png 300w, /wp-content/uploads/2015/08/movie_narrative_charts_large-700x442.png 700w"
+sizes="(max-width: 660px) 100vw, 660px"}](/wp-content/uploads/2015/08/movie_narrative_charts_large.png)
 
 > These charts show movie character interactions \[over time\].
 

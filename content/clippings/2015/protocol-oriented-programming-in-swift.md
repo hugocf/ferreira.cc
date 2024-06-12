@@ -7,10 +7,10 @@ type: link
 ---
 
 [![Protocol-Oriented Programming in
-Swift](https://hugo.ferreira.cc/wp-content/uploads/2015/06/tumblr_nqe5e41a5x1qz82meo1_1280.png){width="600"
+Swift](/wp-content/uploads/2015/06/tumblr_nqe5e41a5x1qz82meo1_1280.png){width="600"
 height="368"
-srcset="https://hugo.ferreira.cc/wp-content/uploads/2015/06/tumblr_nqe5e41a5x1qz82meo1_1280.png 600w, https://hugo.ferreira.cc/wp-content/uploads/2015/06/tumblr_nqe5e41a5x1qz82meo1_1280-300x184.png 300w"
-sizes="(max-width: 600px) 100vw, 600px"}](https://hugo.ferreira.cc/wp-content/uploads/2015/06/tumblr_nqe5e41a5x1qz82meo1_1280.png)
+srcset="/wp-content/uploads/2015/06/tumblr_nqe5e41a5x1qz82meo1_1280.png 600w, /wp-content/uploads/2015/06/tumblr_nqe5e41a5x1qz82meo1_1280-300x184.png 300w"
+sizes="(max-width: 600px) 100vw, 600px"}](/wp-content/uploads/2015/06/tumblr_nqe5e41a5x1qz82meo1_1280.png)
 
 From the WWDC15 talk ["Protocol-Oriented Programming in
 Swift"](https://developer.apple.com/videos/wwdc/2015/?id=408)

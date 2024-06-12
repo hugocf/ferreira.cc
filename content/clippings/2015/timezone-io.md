@@ -6,9 +6,9 @@ title: "Timezone.io"
 type: link
 ---
 
-[![Timezone.io](https://hugo.ferreira.cc/wp-content/uploads/2015/05/tumblr_no9bvm5ckF1qz82meo1_1280.jpg){width="1200"
+[![Timezone.io](/wp-content/uploads/2015/05/tumblr_no9bvm5ckF1qz82meo1_1280.jpg){width="1200"
 height="630"
-srcset="https://hugo.ferreira.cc/wp-content/uploads/2015/05/tumblr_no9bvm5ckF1qz82meo1_1280.jpg 1200w, https://hugo.ferreira.cc/wp-content/uploads/2015/05/tumblr_no9bvm5ckF1qz82meo1_1280-300x158.jpg 300w, https://hugo.ferreira.cc/wp-content/uploads/2015/05/tumblr_no9bvm5ckF1qz82meo1_1280-1024x538.jpg 1024w"
+srcset="/wp-content/uploads/2015/05/tumblr_no9bvm5ckF1qz82meo1_1280.jpg 1200w, /wp-content/uploads/2015/05/tumblr_no9bvm5ckF1qz82meo1_1280-300x158.jpg 300w, /wp-content/uploads/2015/05/tumblr_no9bvm5ckF1qz82meo1_1280-1024x538.jpg 1024w"
 sizes="(max-width: 1200px) 100vw, 1200px"}](http://timezone.io/team/buffer)
 
 Very interesting timezone visualizations!

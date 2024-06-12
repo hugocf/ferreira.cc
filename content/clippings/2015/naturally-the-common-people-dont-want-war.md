@@ -7,10 +7,10 @@ type: quote
 ---
 
 [![Hermann
-Goering](https://hugo.ferreira.cc/wp-content/uploads/2015/01/tumblr_ni0ffregKB1qz82meo1_1280.jpg){width="600"
+Goering](/wp-content/uploads/2015/01/tumblr_ni0ffregKB1qz82meo1_1280.jpg){width="600"
 height="555"
-srcset="https://hugo.ferreira.cc/wp-content/uploads/2015/01/tumblr_ni0ffregKB1qz82meo1_1280.jpg 600w, https://hugo.ferreira.cc/wp-content/uploads/2015/01/tumblr_ni0ffregKB1qz82meo1_1280-300x278.jpg 300w"
-sizes="(max-width: 600px) 100vw, 600px"}](https://hugo.ferreira.cc/wp-content/uploads/2015/01/tumblr_ni0ffregKB1qz82meo1_1280.jpg)
+srcset="/wp-content/uploads/2015/01/tumblr_ni0ffregKB1qz82meo1_1280.jpg 600w, /wp-content/uploads/2015/01/tumblr_ni0ffregKB1qz82meo1_1280-300x278.jpg 300w"
+sizes="(max-width: 600px) 100vw, 600px"}](/wp-content/uploads/2015/01/tumblr_ni0ffregKB1qz82meo1_1280.jpg)
 
 > Naturally, the common people don't want war; neither in Russia nor in
 > England nor in America, nor for that matter in Germany. That is

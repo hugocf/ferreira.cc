@@ -7,9 +7,9 @@ type: image
 ---
 
 [![Economics of the
-Internet](https://hugo.ferreira.cc/wp-content/uploads/2015/01/tumblr_niu7dpcDnu1qz82meo1_1280.jpg){width="600"
+Internet](/wp-content/uploads/2015/01/tumblr_niu7dpcDnu1qz82meo1_1280.jpg){width="600"
 height="450"
-srcset="https://hugo.ferreira.cc/wp-content/uploads/2015/01/tumblr_niu7dpcDnu1qz82meo1_1280.jpg 600w, https://hugo.ferreira.cc/wp-content/uploads/2015/01/tumblr_niu7dpcDnu1qz82meo1_1280-300x225.jpg 300w"
+srcset="/wp-content/uploads/2015/01/tumblr_niu7dpcDnu1qz82meo1_1280.jpg 600w, /wp-content/uploads/2015/01/tumblr_niu7dpcDnu1qz82meo1_1280-300x225.jpg 300w"
 sizes="(max-width: 600px) 100vw, 600px"}](http://stratechery.com/2015/niches-problem-subscription-services/)
 
 > The idea is that the economics of the Internet work for two types of

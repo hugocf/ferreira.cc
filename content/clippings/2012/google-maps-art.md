@@ -7,10 +7,10 @@ type: link
 ---
 
 [![Google Maps
-Art](https://hugo.ferreira.cc/wp-content/uploads/2012/09/tumblr_mam9uwgr9c1qz82meo1_540.jpg){width="533"
+Art](/wp-content/uploads/2012/09/tumblr_mam9uwgr9c1qz82meo1_540.jpg){width="533"
 height="254"
-srcset="https://hugo.ferreira.cc/wp-content/uploads/2012/09/tumblr_mam9uwgr9c1qz82meo1_540.jpg 533w, https://hugo.ferreira.cc/wp-content/uploads/2012/09/tumblr_mam9uwgr9c1qz82meo1_540-300x143.jpg 300w"
-sizes="(max-width: 533px) 100vw, 533px"}](https://hugo.ferreira.cc/wp-content/uploads/2012/09/tumblr_mam9uwgr9c1qz82meo1_540.jpg)
+srcset="/wp-content/uploads/2012/09/tumblr_mam9uwgr9c1qz82meo1_540.jpg 533w, /wp-content/uploads/2012/09/tumblr_mam9uwgr9c1qz82meo1_540-300x143.jpg 300w"
+sizes="(max-width: 533px) 100vw, 533px"}](/wp-content/uploads/2012/09/tumblr_mam9uwgr9c1qz82meo1_540.jpg)
 
 > Tell me this isn't the most original thing you've seen all week. And
 > don't expect anything less than original from Christoph Niemann, a

@@ -7,10 +7,10 @@ type: image
 ---
 
 [![Perfect Landing
-Page](https://hugo.ferreira.cc/wp-content/uploads/2012/09/tumblr_ma6lkhPVTF1qz82meo1_1280.png){width="771"
+Page](/wp-content/uploads/2012/09/tumblr_ma6lkhPVTF1qz82meo1_1280.png){width="771"
 height="1920"
-srcset="https://hugo.ferreira.cc/wp-content/uploads/2012/09/tumblr_ma6lkhPVTF1qz82meo1_1280.png 771w, https://hugo.ferreira.cc/wp-content/uploads/2012/09/tumblr_ma6lkhPVTF1qz82meo1_1280-120x300.png 120w, https://hugo.ferreira.cc/wp-content/uploads/2012/09/tumblr_ma6lkhPVTF1qz82meo1_1280-411x1024.png 411w"
-sizes="(max-width: 771px) 100vw, 771px"}](https://hugo.ferreira.cc/wp-content/uploads/2012/09/tumblr_ma6lkhPVTF1qz82meo1_1280.png)
+srcset="/wp-content/uploads/2012/09/tumblr_ma6lkhPVTF1qz82meo1_1280.png 771w, /wp-content/uploads/2012/09/tumblr_ma6lkhPVTF1qz82meo1_1280-120x300.png 120w, /wp-content/uploads/2012/09/tumblr_ma6lkhPVTF1qz82meo1_1280-411x1024.png 411w"
+sizes="(max-width: 771px) 100vw, 771px"}](/wp-content/uploads/2012/09/tumblr_ma6lkhPVTF1qz82meo1_1280.png)
 
 (via [The Anatomy of a Perfect Landing Page --
 Formstack](http://www.formstack.com/the-anatomy-of-a-perfect-landing-page)

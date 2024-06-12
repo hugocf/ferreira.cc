@@ -6,8 +6,8 @@ title: "The structure of JUnit"
 type: image
 ---
 
-[![junit-anim](https://hugo.ferreira.cc/wp-content/uploads/2015/05/junit-anim.gif){width="562"
-height="388"}](https://hugo.ferreira.cc/wp-content/uploads/2015/05/junit-anim.gif)
+[![junit-anim](/wp-content/uploads/2015/05/junit-anim.gif){width="562"
+height="388"}](/wp-content/uploads/2015/05/junit-anim.gif)
 
 > By version 4.11, transitive dependencies have proliferated seemingly
 > unchecked. We are far from the short dependency-chains and few
@@ -21,8 +21,8 @@ A better way...
 > bigger than JUnit yet has throughout its history retained a structural
 > clarity that JUnit seems to have abandoned.
 
-[![spoiklin-anim](https://hugo.ferreira.cc/wp-content/uploads/2015/05/spoiklin-anim.gif){width="562"
-height="367"}](https://hugo.ferreira.cc/wp-content/uploads/2015/05/spoiklin-anim.gif)
+[![spoiklin-anim](/wp-content/uploads/2015/05/spoiklin-anim.gif){width="562"
+height="367"}](/wp-content/uploads/2015/05/spoiklin-anim.gif)
 
 > **Programmers should be forced to wear their systems'
 > package-structures on their tee-shirts.**

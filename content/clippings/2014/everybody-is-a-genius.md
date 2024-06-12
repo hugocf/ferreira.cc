@@ -7,10 +7,10 @@ type: quote
 ---
 
 [![Education
-System](https://hugo.ferreira.cc/wp-content/uploads/2014/09/tumblr_nbcije8E9I1qz82meo1_500.jpg){width="480"
+System](/wp-content/uploads/2014/09/tumblr_nbcije8E9I1qz82meo1_500.jpg){width="480"
 height="514"
-srcset="https://hugo.ferreira.cc/wp-content/uploads/2014/09/tumblr_nbcije8E9I1qz82meo1_500.jpg 480w, https://hugo.ferreira.cc/wp-content/uploads/2014/09/tumblr_nbcije8E9I1qz82meo1_500-280x300.jpg 280w"
-sizes="(max-width: 480px) 100vw, 480px"}](https://hugo.ferreira.cc/wp-content/uploads/2014/09/tumblr_nbcije8E9I1qz82meo1_500.jpg)
+srcset="/wp-content/uploads/2014/09/tumblr_nbcije8E9I1qz82meo1_500.jpg 480w, /wp-content/uploads/2014/09/tumblr_nbcije8E9I1qz82meo1_500-280x300.jpg 280w"
+sizes="(max-width: 480px) 100vw, 480px"}](/wp-content/uploads/2014/09/tumblr_nbcije8E9I1qz82meo1_500.jpg)
 
 > Everybody is a genius. But if you judge a fish by its ability to climb
 > a tree, it will live its whole life believing it is stupid.

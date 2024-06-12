@@ -7,7 +7,7 @@ type: link
 ---
 
 [![Obama
-Greeting](https://hugo.ferreira.cc/wp-content/uploads/2014/01/tumblr_mzal5hroNq1qz82meo1_400.gif){width="400"
+Greeting](/wp-content/uploads/2014/01/tumblr_mzal5hroNq1qz82meo1_400.gif){width="400"
 height="296"}](http://en.wikipedia.org/wiki/Code-switching)
 
 > **[code-switching](http://en.wikipedia.org/wiki/Code-switching)**\
