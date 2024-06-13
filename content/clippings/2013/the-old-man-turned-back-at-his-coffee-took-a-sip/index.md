@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/the-old-man-turned-back-at-his-coffee-took-a-sip/attachment/274/"
 rel="attachment"><img
-src="/wp-content/uploads/2013/12/tumblr_mxqv4h20i61qz82meo1_500-150x150.jpg"
+src="tumblr_mxqv4h20i61qz82meo1_500-150x150.jpg"
 width="150" height="150" /></a></figure>
 
 > The old man turned back at his coffee, took a sip, and then looked

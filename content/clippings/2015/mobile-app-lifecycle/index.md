@@ -7,9 +7,9 @@ type: image
 ---
 
 [![Mobile App
-Lifecycle](/wp-content/uploads/2015/01/tumblr_niy1tlT1uJ1qz82meo1_1280.png){width="1280"
+Lifecycle](tumblr_niy1tlT1uJ1qz82meo1_1280.png){width="1280"
 height="1013"
-srcset="/wp-content/uploads/2015/01/tumblr_niy1tlT1uJ1qz82meo1_1280.png 1280w, /wp-content/uploads/2015/01/tumblr_niy1tlT1uJ1qz82meo1_1280-300x237.png 300w, /wp-content/uploads/2015/01/tumblr_niy1tlT1uJ1qz82meo1_1280-1024x810.png 1024w"
+srcset="tumblr_niy1tlT1uJ1qz82meo1_1280.png 1280w, tumblr_niy1tlT1uJ1qz82meo1_1280-300x237.png 300w, tumblr_niy1tlT1uJ1qz82meo1_1280-1024x810.png 1024w"
 sizes="(max-width: 1280px) 100vw, 1280px"}](http://stackoverflow.com/a/14644625)
 
 > (...) diagram image for understand \[a mobile app\] Life Cycle (iPhone

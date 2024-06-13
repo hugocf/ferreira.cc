@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/willpower-and-cognitive-processing-draw-from-the/attachment/414/"
 rel="attachment"><img
-src="/wp-content/uploads/2013/07/tumblr_mqtn77JNPK1qz82meo1_500-150x150.jpg"
+src="tumblr_mqtn77JNPK1qz82meo1_500-150x150.jpg"
 width="150" height="150" /></a></figure>
 
 > **Willpower and cognitive processing draw from the same pool of

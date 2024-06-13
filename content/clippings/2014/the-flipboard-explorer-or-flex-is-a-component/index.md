@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/the-flipboard-explorer-or-flex-is-a-component/attachment/71/"
 rel="attachment"><img
-src="/wp-content/uploads/2014/09/tumblr_ncqideMraL1qz82meo1_400-150x150.jpg"
+src="tumblr_ncqideMraL1qz82meo1_400-150x150.jpg"
 width="150" height="150" /></a></figure>
 
 > The Flipboard Explorer, or FLEX, is a component that you can easily

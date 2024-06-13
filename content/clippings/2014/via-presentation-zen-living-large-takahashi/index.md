@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/via-presentation-zen-living-large-takahashi/attachment/123/"
 rel="attachment"><img
-src="/wp-content/uploads/2014/06/tumblr_n6sy5vanCy1qz82meo1_250-150x150.jpg"
+src="tumblr_n6sy5vanCy1qz82meo1_250-150x150.jpg"
 width="150" height="150" /></a></figure>
 
 (via [Presentation Zen: Living large: "Takahashi Method" uses king-sized

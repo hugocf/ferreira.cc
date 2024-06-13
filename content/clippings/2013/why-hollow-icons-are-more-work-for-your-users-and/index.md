@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/why-hollow-icons-are-more-work-for-your-users-and/attachment/399/"
 rel="attachment"><img
-src="/wp-content/uploads/2013/08/tumblr_ms79f5A14a1qz82meo1_400-150x150.gif"
+src="tumblr_ms79f5A14a1qz82meo1_400-150x150.gif"
 width="150" height="150" /></a></figure>
 
 > Why hollow icons are more work for your users and ultimately create cognitive fatigue.

@@ -22,7 +22,7 @@ via: "[Who](http://example.com)"
 
 ![2022-04-09 async](2022-04-09%20async.png)
 
-https://25r4fj22vjh18a4i91qamh06-wpengine.netdna-ssl.com/wp-content/uploads/2019/10/async-vs-aync-tools-pyramid-1-1536x974.png
+https://25r4fj22vjh18a4i91qamh06-wpengine.netdna-ssl.comasync-vs-aync-tools-pyramid-1-1536x974.png
 
 [https://blog.doist.com/asynchronous-communication/](https://blog.doist.com/asynchronous-communication/)
 
@@ -48,11 +48,11 @@ And a simple decision tree Should This Meeting Be an Email? A Handy Flowchart to
 *for organisers*
 ![2022-04-09 async-1](2022-04-09%20async-1.png)
 
-https://25r4fj22vjh18a4i91qamh06-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/Flowchart.png
+https://25r4fj22vjh18a4i91qamh06-wpengine.netdna-ssl.comFlowchart.png
 
 *for invitees*
 ![2022-04-09 async-2](2022-04-09%20async-2.jpeg)
 
-https://25r4fj22vjh18a4i91qamh06-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/Can-we-have-a-meeting-1156x1536.jpg
+https://25r4fj22vjh18a4i91qamh06-wpengine.netdna-ssl.comCan-we-have-a-meeting-1156x1536.jpg
 
 (note, linkar para isto que já tenho isto clipped somewhere? https://shoulditbeameeting.com/)

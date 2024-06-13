@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/appio-previously-kickfolio-allows-developers-to/attachment/397/"
 rel="attachment"><img
-src="/wp-content/uploads/2013/08/tumblr_ms7qsil3gL1qz82meo1_r1_1280-150x150.png"
+src="tumblr_ms7qsil3gL1qz82meo1_r1_1280-150x150.png"
 width="150" height="150" /></a></figure>
 
 >

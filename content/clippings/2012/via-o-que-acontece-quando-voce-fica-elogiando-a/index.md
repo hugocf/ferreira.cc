@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/via-o-que-acontece-quando-voce-fica-elogiando-a/attachment/800/"
 rel="attachment"><img
-src="/wp-content/uploads/2012/04/tumblr_m2r1lySweo1qz82meo1_1280-150x150.jpg"
+src="tumblr_m2r1lySweo1qz82meo1_1280-150x150.jpg"
 width="150" height="150" /></a></figure>
 
 (via [O que acontece quando você fica elogiando a inteligência de uma

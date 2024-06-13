@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/not-all-technical-debt-is-born-the-same-because-a/attachment/86/"
 rel="attachment"><img
-src="/wp-content/uploads/2014/08/tumblr_nadj9mali51qz82meo1_540-150x150.png"
+src="tumblr_nadj9mali51qz82meo1_540-150x150.png"
 width="150" height="150" /></a></figure>
 
 Not all technical debt is born the same, because [A Mess is not a

@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/via-download-all-icons-for-windows-8-metro/attachment/669/"
 rel="attachment"><img
-src="/wp-content/uploads/2012/08/tumblr_m9ijf2OigX1qz82meo1_500-150x150.png"
+src="tumblr_m9ijf2OigX1qz82meo1_500-150x150.png"
 width="150" height="150" /></a></figure>
 
 (via [Download all Icons for Windows 8 (Metro

@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/the-way-to-mitigate-these-unintended-effects-is-to/attachment/89/"
 rel="attachment"><img
-src="/wp-content/uploads/2014/08/tumblr_na9qrrBakc1qz82meo1_1280-150x150.png"
+src="tumblr_na9qrrBakc1qz82meo1_1280-150x150.png"
 width="150" height="150" /></a></figure>
 
 > The way to mitigate these unintended effects is to replace *Personas*

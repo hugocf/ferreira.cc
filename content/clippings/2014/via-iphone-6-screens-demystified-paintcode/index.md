@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/via-iphone-6-screens-demystified-paintcode/attachment/77/"
 rel="attachment"><img
-src="/wp-content/uploads/2014/09/tumblr_nbreys6GHf1qz82meo1_1280-150x150.png"
+src="tumblr_nbreys6GHf1qz82meo1_1280-150x150.png"
 width="150" height="150" /></a></figure>
 
 (via [iPhone 6 Screens Demystified  | 

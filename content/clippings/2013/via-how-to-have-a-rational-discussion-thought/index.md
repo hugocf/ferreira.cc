@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/via-how-to-have-a-rational-discussion-thought/attachment/555/"
 rel="attachment"><img
-src="/wp-content/uploads/2013/02/tumblr_mi3z23u8PH1qz82meo1_1280-150x150.jpg"
+src="tumblr_mi3z23u8PH1qz82meo1_1280-150x150.jpg"
 width="150" height="150" /></a></figure>
 
 (via [How To Have A Rational Discussion  |  Thought

@@ -7,8 +7,8 @@ type: image
 ---
 
 [![Work vs. Life
-balance](/wp-content/uploads/2015/03/tumblr_nlcpktzU4N1qz82meo1_1280.jpg){width="944"
+balance](tumblr_nlcpktzU4N1qz82meo1_1280.jpg){width="944"
 height="678"
-srcset="/wp-content/uploads/2015/03/tumblr_nlcpktzU4N1qz82meo1_1280.jpg 944w, /wp-content/uploads/2015/03/tumblr_nlcpktzU4N1qz82meo1_1280-300x215.jpg 300w"
-sizes="(max-width: 944px) 100vw, 944px"}](/wp-content/uploads/2015/03/tumblr_nlcpktzU4N1qz82meo1_1280.jpg)
+srcset="tumblr_nlcpktzU4N1qz82meo1_1280.jpg 944w, tumblr_nlcpktzU4N1qz82meo1_1280-300x215.jpg 300w"
+sizes="(max-width: 944px) 100vw, 944px"}](tumblr_nlcpktzU4N1qz82meo1_1280.jpg)
 

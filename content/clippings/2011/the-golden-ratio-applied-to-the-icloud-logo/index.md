@@ -10,8 +10,8 @@ type: image
 <a
 href="https://hugo.ferreira.cc/the-golden-ratio-applied-to-the-icloud-logo/attachment/763/"
 rel="attachment"><img
-src="/wp-content/uploads/2011/06/tumblr_m3t0k9F4Pb1qz82meo1_540-150x150.jpg"
-srcset="/wp-content/uploads/2011/06/tumblr_m3t0k9F4Pb1qz82meo1_540-150x150.jpg 150w, /wp-content/uploads/2011/06/tumblr_m3t0k9F4Pb1qz82meo1_540-300x300.jpg 300w, /wp-content/uploads/2011/06/tumblr_m3t0k9F4Pb1qz82meo1_540.jpg 510w"
+src="tumblr_m3t0k9F4Pb1qz82meo1_540-150x150.jpg"
+srcset="tumblr_m3t0k9F4Pb1qz82meo1_540-150x150.jpg 150w, tumblr_m3t0k9F4Pb1qz82meo1_540-300x300.jpg 300w, tumblr_m3t0k9F4Pb1qz82meo1_540.jpg 510w"
 sizes="(max-width: 150px) 100vw, 150px" width="150" height="150" /></a></figure>
 
 The Golden Ratio applied to the iCloud logo.

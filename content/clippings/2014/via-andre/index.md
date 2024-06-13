@@ -9,7 +9,7 @@ type: image
 <figure>
 <a href="https://hugo.ferreira.cc/via-andre/attachment/74/"
 rel="attachment"><img
-src="/wp-content/uploads/2014/09/tumblr_nc7yh3VusX1qz82meo1_500-150x150.jpg"
+src="tumblr_nc7yh3VusX1qz82meo1_500-150x150.jpg"
 width="150" height="150" /></a></figure>
 
 (via

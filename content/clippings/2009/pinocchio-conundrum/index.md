@@ -7,9 +7,9 @@ type: image
 ---
 
 [![Pinocchio
-Conundrum](/wp-content/uploads/2009/11/tumblr_ksr1hm1vBQ1qz82meo1_500.jpg){width="432"
+Conundrum](tumblr_ksr1hm1vBQ1qz82meo1_500.jpg){width="432"
 height="432"
-srcset="/wp-content/uploads/2009/11/tumblr_ksr1hm1vBQ1qz82meo1_500.jpg 432w, /wp-content/uploads/2009/11/tumblr_ksr1hm1vBQ1qz82meo1_500-150x150.jpg 150w, /wp-content/uploads/2009/11/tumblr_ksr1hm1vBQ1qz82meo1_500-300x300.jpg 300w"
+srcset="tumblr_ksr1hm1vBQ1qz82meo1_500.jpg 432w, tumblr_ksr1hm1vBQ1qz82meo1_500-150x150.jpg 150w, tumblr_ksr1hm1vBQ1qz82meo1_500-300x300.jpg 300w"
 sizes="(max-width: 432px) 100vw, 432px"}](http://srsbzns.wordpress.com/2009/10/28/a-great-conundrum/)
 
 > What if Pinocchio said: "My nose will now grow."

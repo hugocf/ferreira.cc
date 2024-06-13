@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/product-life-cycle-adoption-curve-4-basic-stage/attachment/1189/"
 rel="attachment"><img
-src="/wp-content/uploads/2009/12/tumblr_kub4lklwUB1qz82meo1_500-150x150.jpg"
+src="tumblr_kub4lklwUB1qz82meo1_500-150x150.jpg"
 width="150" height="150" /></a></figure>
 
 Product Life Cycle adoption curve: 4 Basic Stage\

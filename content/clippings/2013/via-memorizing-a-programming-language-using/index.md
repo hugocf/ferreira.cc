@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/via-memorizing-a-programming-language-using/attachment/536/"
 rel="attachment"><img
-src="/wp-content/uploads/2013/03/tumblr_mjz014q6SY1qz82meo1_1280-150x150.jpg"
+src="tumblr_mjz014q6SY1qz82meo1_1280-150x150.jpg"
 width="150" height="150" /></a></figure>
 
 (via [Memorizing a programming language using spaced repetition software

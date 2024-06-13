@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/flow-is-completely-focused-motivation/attachment/1089/"
 rel="attachment"><img
-src="/wp-content/uploads/2011/04/tumblr_ljg347btVk1qz82meo1_400-150x150.png"
+src="tumblr_ljg347btVk1qz82meo1_400-150x150.png"
 width="150" height="150" /></a></figure>
 
 > (...) *flow* is completely focused motivation.

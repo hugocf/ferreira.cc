@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/uxdtoday-when-you-dont-consider-uxui-in/attachment/146/"
 rel="attachment"><img
-src="/wp-content/uploads/2014/03/tumblr_n2y0tlDU6d1tuvyv0o1_1280-150x150.png"
+src="tumblr_n2y0tlDU6d1tuvyv0o1_1280-150x150.png"
 width="150" height="150" /></a></figure>
 
 [uxdtoday](http://uxdesign.today/post/80573529956/when-you-dont-consider-ux-ui-in-design-these):

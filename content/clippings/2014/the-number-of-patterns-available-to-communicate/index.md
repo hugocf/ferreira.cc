@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/the-number-of-patterns-available-to-communicate/attachment/175/"
 rel="attachment"><img
-src="/wp-content/uploads/2014/03/tumblr_n1rt9bZOC01qz82meo1_1280-150x150.png"
+src="tumblr_n1rt9bZOC01qz82meo1_1280-150x150.png"
 width="150" height="150" /></a></figure>
 
 >

@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/lowering-your-price-may-help-you-increase-revenue/attachment/507/"
 rel="attachment"><img
-src="/wp-content/uploads/2013/04/tumblr_mlb0eakw4Q1qz82meo1_1280-150x150.gif"
+src="tumblr_mlb0eakw4Q1qz82meo1_1280-150x150.gif"
 width="150" height="150" /></a></figure>
 
 \

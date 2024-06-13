@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/the-great-prosperity-vs-the-great-regression-via/attachment/982/"
 rel="attachment"><img
-src="/wp-content/uploads/2011/09/tumblr_lr9h9cygTT1qz82meo1_1280-150x150.jpg"
+src="tumblr_lr9h9cygTT1qz82meo1_1280-150x150.jpg"
 width="150" height="150" /></a></figure>
 
 The Great Prosperity vs The Great Regression (via [Opinion

@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/via-you-should-be-thinking-mobile-1st-2nd-and/attachment/360/"
 rel="attachment"><img
-src="/wp-content/uploads/2013/10/tumblr_mu4uhahVgC1qz82meo1_1280-150x150.jpg"
+src="tumblr_mu4uhahVgC1qz82meo1_1280-150x150.jpg"
 width="150" height="150" /></a></figure>
 
 (via [You Should be Thinking Mobile 1st, 2nd, and 69th  |  Gary

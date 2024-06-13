@@ -7,7 +7,7 @@ type: image
 ---
 
 [![The Cynefin
-Framework](/wp-content/uploads/2015/01/tumblr_nhlvc75E0v1qz82meo1_400.png){width="280"
+Framework](tumblr_nhlvc75E0v1qz82meo1_400.png){width="280"
 height="291"}](http://en.wikipedia.org/wiki/Cynefin)
 
 By [Dave Snowden](https://en.wikipedia.org/wiki/Dave_Snowden) :

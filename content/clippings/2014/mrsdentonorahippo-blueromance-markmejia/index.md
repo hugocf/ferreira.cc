@@ -10,63 +10,63 @@ type: image
 <a
 href="https://hugo.ferreira.cc/mrsdentonorahippo-blueromance-markmejia/attachment/189/"
 rel="attachment"><img
-src="/wp-content/uploads/2014/02/tumblr_mpkwf1D1oY1r7622qo1_540-150x150.jpg"
+src="tumblr_mpkwf1D1oY1r7622qo1_540-150x150.jpg"
 width="150" height="150" /></a></figure>
 
 <figure>
 <a
 href="https://hugo.ferreira.cc/mrsdentonorahippo-blueromance-markmejia/attachment/190/"
 rel="attachment"><img
-src="/wp-content/uploads/2014/02/tumblr_mpkwf1D1oY1r7622qo2_540-150x150.jpg"
+src="tumblr_mpkwf1D1oY1r7622qo2_540-150x150.jpg"
 width="150" height="150" /></a></figure>
 
 <figure>
 <a
 href="https://hugo.ferreira.cc/mrsdentonorahippo-blueromance-markmejia/attachment/191/"
 rel="attachment"><img
-src="/wp-content/uploads/2014/02/tumblr_mpkwf1D1oY1r7622qo3_540-150x150.jpg"
+src="tumblr_mpkwf1D1oY1r7622qo3_540-150x150.jpg"
 width="150" height="150" /></a></figure>
 
 <figure>
 <a
 href="https://hugo.ferreira.cc/mrsdentonorahippo-blueromance-markmejia/attachment/192/"
 rel="attachment"><img
-src="/wp-content/uploads/2014/02/tumblr_mpkwf1D1oY1r7622qo4_540-150x150.jpg"
+src="tumblr_mpkwf1D1oY1r7622qo4_540-150x150.jpg"
 width="150" height="150" /></a></figure>
 
 <figure>
 <a
 href="https://hugo.ferreira.cc/mrsdentonorahippo-blueromance-markmejia/attachment/193/"
 rel="attachment"><img
-src="/wp-content/uploads/2014/02/tumblr_mpkwf1D1oY1r7622qo5_540-150x150.jpg"
+src="tumblr_mpkwf1D1oY1r7622qo5_540-150x150.jpg"
 width="150" height="150" /></a></figure>
 
 <figure>
 <a
 href="https://hugo.ferreira.cc/mrsdentonorahippo-blueromance-markmejia/attachment/194/"
 rel="attachment"><img
-src="/wp-content/uploads/2014/02/tumblr_mpkwf1D1oY1r7622qo6_540-150x150.jpg"
+src="tumblr_mpkwf1D1oY1r7622qo6_540-150x150.jpg"
 width="150" height="150" /></a></figure>
 
 <figure>
 <a
 href="https://hugo.ferreira.cc/mrsdentonorahippo-blueromance-markmejia/attachment/195/"
 rel="attachment"><img
-src="/wp-content/uploads/2014/02/tumblr_mpkwf1D1oY1r7622qo7_540-150x150.jpg"
+src="tumblr_mpkwf1D1oY1r7622qo7_540-150x150.jpg"
 width="150" height="150" /></a></figure>
 
 <figure>
 <a
 href="https://hugo.ferreira.cc/mrsdentonorahippo-blueromance-markmejia/attachment/196/"
 rel="attachment"><img
-src="/wp-content/uploads/2014/02/tumblr_mpkwf1D1oY1r7622qo8_540-150x150.jpg"
+src="tumblr_mpkwf1D1oY1r7622qo8_540-150x150.jpg"
 width="150" height="150" /></a></figure>
 
 <figure>
 <a
 href="https://hugo.ferreira.cc/mrsdentonorahippo-blueromance-markmejia/attachment/197/"
 rel="attachment"><img
-src="/wp-content/uploads/2014/02/tumblr_mpkwf1D1oY1r7622qo9_540-150x150.jpg"
+src="tumblr_mpkwf1D1oY1r7622qo9_540-150x150.jpg"
 width="150" height="150" /></a></figure>
 
 [mrsdentonorahippo](http://mrsdentonorahippo.tumblr.com/post/75471940219/blueromance-markmejia-high-school-fashion):

@@ -10,8 +10,8 @@ type: image
 <a
 href="https://hugo.ferreira.cc/time-management-matrix-from-stephen-coveys-book/attachment/1180/"
 rel="attachment"><img
-src="/wp-content/uploads/2010/01/tumblr_kvqs211qvf1qz82meo1_r1_1280-150x150.png"
-srcset="/wp-content/uploads/2010/01/tumblr_kvqs211qvf1qz82meo1_r1_1280-150x150.png 150w, /wp-content/uploads/2010/01/tumblr_kvqs211qvf1qz82meo1_r1_1280-300x300.png 300w, /wp-content/uploads/2010/01/tumblr_kvqs211qvf1qz82meo1_r1_1280.png 572w"
+src="tumblr_kvqs211qvf1qz82meo1_r1_1280-150x150.png"
+srcset="tumblr_kvqs211qvf1qz82meo1_r1_1280-150x150.png 150w, tumblr_kvqs211qvf1qz82meo1_r1_1280-300x300.png 300w, tumblr_kvqs211qvf1qz82meo1_r1_1280.png 572w"
 sizes="(max-width: 150px) 100vw, 150px" width="150" height="150" /></a></figure>
 
 **Time Management Matrix** from Stephen Covey's book " [First Things

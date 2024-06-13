@@ -7,10 +7,10 @@ type: image
 ---
 
 [![Women vs.
-Men](/wp-content/uploads/2013/07/tumblr_mqf1c3xQG21r456j0o1_500.jpg){width="493"
+Men](tumblr_mqf1c3xQG21r456j0o1_500.jpg){width="493"
 height="559"
-srcset="/wp-content/uploads/2013/07/tumblr_mqf1c3xQG21r456j0o1_500.jpg 493w, /wp-content/uploads/2013/07/tumblr_mqf1c3xQG21r456j0o1_500-265x300.jpg 265w"
-sizes="(max-width: 493px) 100vw, 493px"}](/wp-content/uploads/2013/07/tumblr_mqf1c3xQG21r456j0o1_500.jpg)
+srcset="tumblr_mqf1c3xQG21r456j0o1_500.jpg 493w, tumblr_mqf1c3xQG21r456j0o1_500-265x300.jpg 265w"
+sizes="(max-width: 493px) 100vw, 493px"}](tumblr_mqf1c3xQG21r456j0o1_500.jpg)
 
 > **HER DIARY:**
 >

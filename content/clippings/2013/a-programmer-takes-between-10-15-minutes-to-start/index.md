@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/a-programmer-takes-between-10-15-minutes-to-start/attachment/338/"
 rel="attachment"><img
-src="/wp-content/uploads/2013/11/tumblr_mvuc93LxTB1qz82meo1_1280-150x150.png"
+src="tumblr_mvuc93LxTB1qz82meo1_1280-150x150.png"
 width="150" height="150" /></a></figure>
 
 > -    A programmer takes between 10-15 minutes to start editing code

@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/so-just-for-fun-lets-appreciate-the-sheer/attachment/544/"
 rel="attachment"><img
-src="/wp-content/uploads/2013/03/tumblr_mjn6a64p7Y1qz82meo1_250-150x150.png"
+src="tumblr_mjn6a64p7Y1qz82meo1_250-150x150.png"
 width="150" height="150" /></a></figure>
 
 > So, just for fun, let's appreciate the sheer numerical accomplishment

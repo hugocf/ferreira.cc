@@ -8,10 +8,10 @@ type: image
 
 <figure>
 <a
-href="/wp-content/uploads/2013/12/tumblr_mxc5aane7G1qz82meo1_400.jpg"
+href="tumblr_mxc5aane7G1qz82meo1_400.jpg"
 rel="attachment"><img
-src="/wp-content/uploads/2013/12/tumblr_mxc5aane7G1qz82meo1_400.jpg"
-srcset="/wp-content/uploads/2013/12/tumblr_mxc5aane7G1qz82meo1_400.jpg 378w, /wp-content/uploads/2013/12/tumblr_mxc5aane7G1qz82meo1_400-300x175.jpg 300w"
+src="tumblr_mxc5aane7G1qz82meo1_400.jpg"
+srcset="tumblr_mxc5aane7G1qz82meo1_400.jpg 378w, tumblr_mxc5aane7G1qz82meo1_400-300x175.jpg 300w"
 sizes="(max-width: 378px) 100vw, 378px" width="378" height="220" /></a></figure>
 
 -   --

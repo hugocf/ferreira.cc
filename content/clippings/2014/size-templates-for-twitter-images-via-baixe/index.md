@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/size-templates-for-twitter-images-via-baixe/attachment/102/"
 rel="attachment"><img
-src="/wp-content/uploads/2014/07/tumblr_n9g24tteaa1qz82meo1_1280-150x150.jpg"
+src="tumblr_n9g24tteaa1qz82meo1_1280-150x150.jpg"
 width="150" height="150" /></a></figure>
 
 Size templates for Twitter images.\

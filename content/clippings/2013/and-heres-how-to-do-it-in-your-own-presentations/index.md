@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/and-heres-how-to-do-it-in-your-own-presentations/attachment/437/"
 rel="attachment"><img
-src="/wp-content/uploads/2013/07/tumblr_mq3u9xpVIP1qz82meo1_500-150x150.jpg"
+src="tumblr_mq3u9xpVIP1qz82meo1_500-150x150.jpg"
 width="150" height="150" /></a></figure>
 
 > And here's how to do it in your own presentations:

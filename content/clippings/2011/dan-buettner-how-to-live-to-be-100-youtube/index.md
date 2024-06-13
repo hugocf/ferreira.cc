@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/dan-buettner-how-to-live-to-be-100-youtube/attachment/1023/"
 rel="attachment"><img
-src="/wp-content/uploads/2011/07/tumblr_lo3j5gXS1K1qz82meo1_1280-150x150.png"
+src="tumblr_lo3j5gXS1K1qz82meo1_1280-150x150.png"
 width="150" height="150" /></a></figure>
 
 [Dan Buettner: How to live to be

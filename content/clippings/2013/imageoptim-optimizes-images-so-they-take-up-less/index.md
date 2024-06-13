@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/imageoptim-optimizes-images-so-they-take-up-less/attachment/304/"
 rel="attachment"><img
-src="/wp-content/uploads/2013/12/tumblr_mxa6elCN0a1qz82meo1_1280-150x150.png"
+src="tumblr_mxa6elCN0a1qz82meo1_1280-150x150.png"
 width="150" height="150" /></a></figure>
 
 > ImageOptim optimizes images --- so they take up less disk space and

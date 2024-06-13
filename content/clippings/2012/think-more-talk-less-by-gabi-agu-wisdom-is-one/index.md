@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/think-more-talk-less-by-gabi-agu-wisdom-is-one/attachment/867/"
 rel="attachment"><img
-src="/wp-content/uploads/2012/02/tumblr_lzpbl8AfNC1qz82meo1_400-150x150.jpg"
+src="tumblr_lzpbl8AfNC1qz82meo1_400-150x150.jpg"
 width="150" height="150" /></a></figure>
 
 think more, talk less (by [Gabi

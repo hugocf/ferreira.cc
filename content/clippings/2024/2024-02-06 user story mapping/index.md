@@ -13,7 +13,7 @@ via: "[Who](http://example.com)"
 
 via [Joana Dias](https://springernature.slack.com/archives/C0L6MND70/p1707217168913659)
 
-https://jpattonassociates.com/wp-content/uploads/2015/03/story_mapping.pdf
+https://jpattonassociates.comstory_mapping.pdf
 
 
 

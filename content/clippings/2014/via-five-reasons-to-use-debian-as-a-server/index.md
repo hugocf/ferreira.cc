@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/via-five-reasons-to-use-debian-as-a-server/attachment/134/"
 rel="attachment"><img
-src="/wp-content/uploads/2014/03/tumblr_n34h8zNLV21qz82meo1_1280-150x150.png"
+src="tumblr_n34h8zNLV21qz82meo1_1280-150x150.png"
 width="150" height="150" /></a></figure>
 
 (via [Five Reasons to use Debian as a

@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/ignorado-na-hotelaria-e-no-desporto-recusado-em/attachment/391/"
 rel="attachment"><img
-src="/wp-content/uploads/2013/08/tumblr_msccdxZO3d1qz82meo1_1280-150x150.png"
+src="tumblr_msccdxZO3d1qz82meo1_1280-150x150.png"
 width="150" height="150" /></a></figure>
 
 > Ignorado na hotelaria e no desporto\

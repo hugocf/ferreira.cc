@@ -10,8 +10,8 @@ type: image
 <a
 href="https://hugo.ferreira.cc/sketchnote-text-italic-and-bold-were-built-from/attachment/434/"
 rel="attachment"><img
-src="/wp-content/uploads/2013/07/tumblr_mq4r7gydnI1qz82meo1_500-150x150.jpg"
-srcset="/wp-content/uploads/2013/07/tumblr_mq4r7gydnI1qz82meo1_500-150x150.jpg 150w, /wp-content/uploads/2013/07/tumblr_mq4r7gydnI1qz82meo1_500-300x300.jpg 300w, /wp-content/uploads/2013/07/tumblr_mq4r7gydnI1qz82meo1_500.jpg 500w"
+src="tumblr_mq4r7gydnI1qz82meo1_500-150x150.jpg"
+srcset="tumblr_mq4r7gydnI1qz82meo1_500-150x150.jpg 150w, tumblr_mq4r7gydnI1qz82meo1_500-300x300.jpg 300w, tumblr_mq4r7gydnI1qz82meo1_500.jpg 500w"
 sizes="(max-width: 150px) 100vw, 150px" width="150" height="150" /></a></figure>
 
 > Sketchnote Text, Italic and Bold **were built from hundreds of

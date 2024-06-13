@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/via-illtaketencom-shut-up-and-take-my/attachment/495/"
 rel="attachment"><img
-src="/wp-content/uploads/2013/05/tumblr_mmksxvf1Jq1qz82meo1_400-150x150.jpg"
+src="tumblr_mmksxvf1Jq1qz82meo1_400-150x150.jpg"
 width="150" height="150" /></a></figure>
 
 (via [I'llTakeTen.com :: Shut Up And Take My

@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/at-realmac-we-went-this-route-with-ember-but-we/attachment/159/"
 rel="attachment"><img
-src="/wp-content/uploads/2014/03/tumblr_n2ixwiOlcw1qz82meo1_1280-150x150.png"
+src="tumblr_n2ixwiOlcw1qz82meo1_1280-150x150.png"
 width="150" height="150" /></a></figure>
 
 > At Realmac we went this route with Ember, but we built in a slight

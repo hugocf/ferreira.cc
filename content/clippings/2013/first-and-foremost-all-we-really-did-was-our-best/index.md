@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/first-and-foremost-all-we-really-did-was-our-best/attachment/491/"
 rel="attachment"><img
-src="/wp-content/uploads/2013/05/tumblr_mmwgevnuUF1qz82meo1_1280-150x150.png"
+src="tumblr_mmwgevnuUF1qz82meo1_1280-150x150.png"
 width="150" height="150" /></a></figure>
 
 > First and foremost, all we really did was our best implementation of

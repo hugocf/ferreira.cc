@@ -10,7 +10,7 @@ type: image
 <a
 href="https://hugo.ferreira.cc/there-are-three-methods-of-customer-validation/attachment/483/"
 rel="attachment"><img
-src="/wp-content/uploads/2013/05/tumblr_mn7la0BVSg1qz82meo1_1280-150x150.png"
+src="tumblr_mn7la0BVSg1qz82meo1_1280-150x150.png"
 width="150" height="150" /></a></figure>
 
 >

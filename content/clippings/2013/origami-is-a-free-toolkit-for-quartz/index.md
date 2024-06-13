@@ -10,8 +10,8 @@ type: image
 <a
 href="https://hugo.ferreira.cc/origami-is-a-free-toolkit-for-quartz/attachment/255/"
 rel="attachment"><img
-src="/wp-content/uploads/2013/12/tumblr_myinmxWMku1qz82meo1_250-150x150.png"
-srcset="/wp-content/uploads/2013/12/tumblr_myinmxWMku1qz82meo1_250-150x150.png 150w, /wp-content/uploads/2013/12/tumblr_myinmxWMku1qz82meo1_250.png 151w"
+src="tumblr_myinmxWMku1qz82meo1_250-150x150.png"
+srcset="tumblr_myinmxWMku1qz82meo1_250-150x150.png 150w, tumblr_myinmxWMku1qz82meo1_250.png 151w"
 sizes="(max-width: 150px) 100vw, 150px" width="150" height="150" /></a></figure>
 
 > Origami is a free toolkit for Quartz Composer---created by the
