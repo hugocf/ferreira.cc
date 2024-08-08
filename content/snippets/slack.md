@@ -10,6 +10,24 @@ tocOpen: true
 
 *(most recent on top)*
 
+## Channel URLs
+
+Template URL for browsers to navigate to a certain channel name:
+
+```text
+https://example.slack.com/archives/example-channel-name
+```
+
+{{< notice info >}}
+The above template might seem fragile in case the channel is renamed but Slack follows through and redirects to the new channel name.
+{{< /notice >}}
+
+Another way is create a link URL is to “Copy link” from a channel name in the Slack app sidebar, which will get you an URL similar to the following (independent from the channel name):
+
+```text
+https://example.slack.com/archives/C0123456789
+```
+
 ## Reminders with custom frequency
 
 Template for setting reminders that repeat with a custom frequency (example of a “fortnight meeting”):
