@@ -13,6 +13,19 @@ tocOpen: true
 
 *(most recent on top)*
 
+## Access unicode characters for keyboard symbols
+
+* [keyboard - Where can I find the unicode symbols for Mac functional keys? (Command, Shift, etc.) - Ask Different](https://apple.stackexchange.com/a/293486)
+
+    > You can click the ⚙️ or (•••) button > **Customize List** and enable additional unicode characters groups, including **Code Tables > Unicode** which will show the full unicode table grouped by categories.
+    >
+    > The ⌘ ⇪⌥ ⏎ symbols are grouped under the **Symbols > Technical Symbols** category which you can enable for quick access
+
+* Interesting categories to enable:
+    - Symbols > Musical Symbols
+    - Symbols > Signs and Standard Symbols
+    - Symbols > Technical Symbol
+
 ## Link to Notes
 
 * To find out the id of a Note use shortcut [Get URL of Note](https://showcuts.app/share/view/e370c4eacc7441a18e7ec95667b2e32f) (via [iBanks3](https://www.reddit.com/r/shortcuts/comments/aot272/get_url_of_note_copy_note_url_to_clipboard))
