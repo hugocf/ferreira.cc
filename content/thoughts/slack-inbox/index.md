@@ -122,8 +122,8 @@ The decision matrix for where to save each channel then becomes something like t
 | ---------------------------- | ------------------------ | - | ------- |
 | ✅ Yes                        | 👀 Yes                    | ➔ | 🔴 **Must** |
 | ✅ Yes                        | 🙈 Nope                   | ➔ | 🟠 **Should** |
-| ☑️ Meh                        | 👀 Yes                    | ➔ | 🟢 **Want** |
-| ☑️ Meh                        | 🙈 Nope                   | ➔ | 🟡 **Could** |
+| ☑️ Kinda                      | 👀 Yes                    | ➔ | 🟢 **Want** |
+| ☑️ Kinda                      | 🙈 Nope                   | ➔ | 🟡 **Could** |
 | ℹ️ Nope                       | 👀 Yes                    | ➔ | 🔵 **Nice** |
 | ℹ️ Nope                       | 🙈 Nope                   | ➔ | ⚫️ **Maybe** |
 
