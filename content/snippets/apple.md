@@ -13,6 +13,21 @@ tocOpen: true
 
 *(most recent on top)*
 
+## List all registered url schemes
+
+* [applications - What are all of the URI Schemes Available on macOS - Ask Different](https://apple.stackexchange.com/a/397188)
+
+```
+/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/Support/lsregister -dump URLSchemeBinding
+```
+
+or, to make it more readily available:
+
+```
+alias lsregister='/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/Support/lsregister'
+lsregister -dump URLSchemeBinding
+```
+
 ## Access unicode characters for keyboard symbols
 
 * [keyboard - Where can I find the unicode symbols for Mac functional keys? (Command, Shift, etc.) - Ask Different](https://apple.stackexchange.com/a/293486)
@@ -46,8 +61,6 @@ tocOpen: true
 4. Append it to the url sheme to open Notes:
 
     <mark>➔`applenotes://showNote?identifier=12345678-ABCD-BCDE-CDEF-123456789012`</mark>
-
----
 
 *Note*: Sometimes you might get the following error:
 
