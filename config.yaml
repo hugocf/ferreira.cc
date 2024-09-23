@@ -9,7 +9,8 @@ copyright: |
   </span>
 
 enableRobotsTXT: true
-paginate: 20
+pagination:
+  pagerSize: 20
 
 permalinks:
   pages: /:filename/
