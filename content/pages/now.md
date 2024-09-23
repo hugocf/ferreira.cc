@@ -1,16 +1,14 @@
 ---
-date: 2024-02-24T14:47:24Z
+date: 2024-09-23T00:00:00Z
 lang: en
 title: What I'm doing now…
 showPostNavLinks: false
 ---
 
-In a word: **soul searching**
+In a word: **readjusting**
 
-* Still following up from the new year induced self-reflection musings and the big 5-Oh fast approaching
-* Revisiting old assumptions about personal organisation, interiorising that reality is chaotic and we must:
-    - “Ride the waves” instead of “trying to control the ocean”
-    - “Start by scaffolding” instead of “doing the whole building”
-    - “Say it’s not a priority” instead of “I don’t have time”
+* [New job, new role](https://www.linkedin.com/in/hugocf/), new team, new people, new challenges…
+* Dialing back into equilibrium from too much “work” in the work-life balance equation
+* Reading more about large and self-organising teams in [FAST agile](https://www.fastagile.io/) and [Org Topologies](https://www.orgtopologies.com/) concepts 
 
 *([profile](https://nownownow.com/p/rqv0) in [The /now page movement | Derek Sivers](http://sivers.org/nowff))*
