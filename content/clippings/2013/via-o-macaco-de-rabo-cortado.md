@@ -14,8 +14,12 @@ from
 :::
 
 (via [O macaco de rabo
-cortado](http://www.slideshare.net/teresaneves/o-macaco-de-rabo-cortado-16342709)
-)
+cortado](http://www.slideshare.net/teresaneves/o-macaco-de-rabo-cortado-16342709))
+- Internet Archive: https://web.archive.org/web/20160411095831/https://www.slideshare.net/teresaneves/o-macaco-de-rabo-cortado-16342709
 
 ( Source: <http://www.slideshare.net/> )
 
+—//—
+
+O Macaco de Rabo Cortado, por António Torrado  
+https://www.lapismagico.com/contos-tradicionais/macaco-rabo-cortado/
