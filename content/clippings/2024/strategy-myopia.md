@@ -5,7 +5,6 @@ lang: en
 tags: [ TODO ]
 title: How to Avoid Strategy Myopia
 type: link
-https://seths.blog/2024/10/full-circle-with-myopia/
 ---
 
 [How to Avoid Strategy Myopia](https://hbr.org/2024/10/how-to-avoid-strategy-myopia)
