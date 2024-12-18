@@ -26,7 +26,9 @@ via: "[Kevin Ashton](https://equalexperts.slack.com/archives/C02QA1EC2/p17297494
 > 
 > When inter-team support requests create a conflict between these two values, folks tend to resort to the quickest solution that meets both needs, the Cold Redirect. To break this tendency, you need to establish that a Warm Handoff is expected in lieu of a Cold Redirect, not just preferred.
 
+---
+
 See also, from [Warm Handoffs Redux](https://luckymike.dev/posts/warm-handoffs-redux/):
 
 * [No Wrong Doors. | Irrational Exuberance](https://lethain.com/no-wrong-doors/)
-* [Postel’s Law](postels-law) “as sort of an overarching philosophy supporting Warm Handoffs and No Wrong Doors.”
+* [Postel’s Law](/postels-law) “as sort of an overarching philosophy supporting Warm Handoffs and No Wrong Doors.”
