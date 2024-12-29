@@ -43,6 +43,13 @@ lsregister -dump URLSchemeBinding
 
 ## Link to Notes
 
+{{< notice tip >}}
+**Apple Notes** now allows crating links to notes from any text, which exposes the note url via an easy “**Copy link**” action:
+
+* [Add links in Notes on Mac # Link to another note - Apple Support](https://support.apple.com/guide/notes/add-links-apde615d29c2/mac#apd01aa2d97c)
+* [Add links in Notes on iPhone # Link to another note using custom link text - Apple Support](https://support.apple.com/guide/iphone/add-links-iph908d1558b/ios#iph311d60862)
+{{< /notice >}}
+
 * To find out the id of a Note use shortcut [Get URL of Note](https://showcuts.app/share/view/e370c4eacc7441a18e7ec95667b2e32f) (via [iBanks3](https://www.reddit.com/r/shortcuts/comments/aot272/get_url_of_note_copy_note_url_to_clipboard))
 
 1. Run shortcut **Get URL of Note**
