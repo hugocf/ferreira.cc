@@ -1,5 +1,5 @@
 ---
-date: 2023-11-27Z
+date: 2023-11-27T00:00:00Z
 draft: true
 lang: en
 tags: [ TODO ]
