@@ -40,12 +40,12 @@ Dictionary definition:
 
 You can use techniques to **optimise the small finite amount** of executive energy you have to work with or **expand and increase the amount** of executive energy you have available.
 
-<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg" fill="currentColor">
   <!-- Inner Circle -->
-  <circle cx="150" cy="150" r="50" stroke="black" stroke-width="4" fill="none" />
+  <circle cx="150" cy="150" r="50" stroke="currentColor" stroke-width="4" fill="none" />
   <text x="150" y="170" font-size="14" text-anchor="middle" alignment-baseline="middle">optimise</text>
-  <!-- Left Arrow --><line x1="110" y1="150" x2="140" y2="150" stroke="black" stroke-width="2" marker-end="url(#small-arrow)" />
-  <!-- Right Arrow --><line x1="190" y1="150" x2="160" y2="150" stroke="black" stroke-width="2" marker-end="url(#small-arrow)" />
+  <!-- Left Arrow --><line x1="110" y1="150" x2="140" y2="150" stroke="currentColor" stroke-width="2" marker-end="url(#small-arrow)" />
+  <!-- Right Arrow --><line x1="190" y1="150" x2="160" y2="150" stroke="currentColor" stroke-width="2" marker-end="url(#small-arrow)" />
 
   <!-- Text Along the Outside of the Inner Circle -->
   <defs>
@@ -56,15 +56,15 @@ You can use techniques to **optimise the small finite amount** of executive ener
   </text>
 
   <!-- Outer Circle -->
-  <circle cx="150" cy="150" r="100" stroke="black" stroke-width="2" fill="none" stroke-dasharray="5,5" />
+  <circle cx="150" cy="150" r="100" stroke="currentColor" stroke-width="2" fill="none" stroke-dasharray="5,5" />
   <text x="150" y="225" font-size="14" text-anchor="middle" alignment-baseline="middle">expand</text>
-  <!-- Left Arrow --><line x1="100" y1="150" x2="60" y2="150" stroke="black" stroke-width="2" stroke-dasharray="5,5" marker-end="url(#small-arrow)" />
-  <!-- Right Arrow --><line x1="200" y1="150" x2="240" y2="150" stroke="black" stroke-width="2" stroke-dasharray="5,5" marker-end="url(#small-arrow)" />
+  <!-- Left Arrow --><line x1="100" y1="150" x2="60" y2="150" stroke="currentColor" stroke-width="2" stroke-dasharray="5,5" marker-end="url(#small-arrow)" />
+  <!-- Right Arrow --><line x1="200" y1="150" x2="240" y2="150" stroke="currentColor" stroke-width="2" stroke-dasharray="5,5" marker-end="url(#small-arrow)" />
 
   <!-- Arrowhead -->
   <defs>
     <marker id="small-arrow" markerWidth="6" markerHeight="6" refX="3" refY="3" orient="auto">
-      <path d="M0,0 L6,3 L0,6 z" fill="black" />
+      <path d="M0,0 L6,3 L0,6 z" />
     </marker>
   </defs>
 </svg>
