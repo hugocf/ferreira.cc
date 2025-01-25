@@ -97,11 +97,14 @@ sort file | uniq -c | sort -r
 #   1 baz
 ```
 
-## Remove extension from a filename
+## Remove path and extension from a filename
+
+* See also [remove_path_extension.sh](https://github.com/hugocf/dotfiles/blob/main/Documents/C/Code/Shell/scripts/remove_path_extension.sh)
 
 ```shell
-filename=some.example.name.txt
-echo ${filename%.*}               # => some.example.name
+full_path=/some/example/directories/some.example.name.txt
+echo ${full_path##*/}              # => some.example.name.txt
+echo ${full_path%.*}               # => /some/example/directories/some.example.name
 ```
 
 ## Default missing variable to a value
