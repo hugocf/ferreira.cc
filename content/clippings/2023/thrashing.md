@@ -81,9 +81,9 @@ Core tools:
 
 > * **KT** - Kill Task ([5:00](https://www.youtube.com/watch?v=gIe5qnu607k&t=300s))
 >     - Decide what you're definitely not doing today
-> * **RT** - Random Task ([comment](https://www.youtube.com/watch?v=gIe5qnu607k&lc=Ugyi0uRtvgqxEhGINpN4AaABAg.9y7ddKMbovi9y7g43B8mfR))
+> * **RT** - Random Task (comment[^1])
 >     - Roll a dice or use a random number generator or somehow just pick something
-> * **OA** - Order Assigned ([comment](https://www.youtube.com/watch?v=gIe5qnu607k&lc=Ugyi0uRtvgqxEhGINpN4AaABAg.9y7ddKMbovi9y7g43B8mfR))
+> * **OA** - Order Assigned (comment[^2])
 >     - Prioritize the oldest assigned task
 > * **OD** - Order Due ([5:22](https://www.youtube.com/watch?v=gIe5qnu607k&t=322s))
 >     - Which of the tasks influence if you have to do other tasks?
@@ -94,6 +94,9 @@ Core tools:
 > * **HF** - Helper Function / **NTS** - Name the steps ([7:39](https://www.youtube.com/watch?v=gIe5qnu607k&t=459s))
 >     - Break down tasks in smaller incremental steps
 
+[^1]: “@ThatMakesSenseToMe: Random task is like what it says. Roll a dice or use a random number generator or somehow just pick something. Even if it doesn’t make sense to do it first, once it’s done, you’ll have a little bit more brain space, and are less likely to end up thrashing.”
+[^2]: “@ThatMakesSenseToMe: Order assigned means to prioritize the oldest assigned task. In my example I have two client tasks and a brand deal. The brand deal started last month and the client tasks started this week. So instead of thrashing, trying to decide which client is most important, or assign would have me do the oldest task. Then the next oldest, then the next.”
+
 Focus tools:
 
 > * **Blitz** - Hyperfocus on purpose ([10:31](https://www.youtube.com/watch?v=gIe5qnu607k&t=631s))
@@ -103,20 +106,28 @@ Focus tools:
 
 Support tools:
 
-> * **EA** - [effective action]??? ([comment 1](https://www.youtube.com/watch?v=gIe5qnu607k&lc=Ugw-qD3zCV9vh0AxaAZ4AaABAg), [commnent 2](https://www.youtube.com/watch?v=gIe5qnu607k&lc=Ugw-qD3zCV9vh0AxaAZ4AaABAg.A6qlZZIwtLWA6szPmjpJFD))
-> * **BD** - Body Doubling ([commnent](https://www.youtube.com/watch?v=gIe5qnu607k&lc=Ugw-qD3zCV9vh0AxaAZ4AaABAg.A6qlZZIwtLWA6szPmjpJFD))
+> * **EA** - [effective action]??? (comment[^3] [^4])
+> * **BD** - Body Doubling (comment[^5])
 > * **NTS** - *(see above)*
 > * **JS** - Just Start ([10:14](https://www.youtube.com/watch?v=gIe5qnu607k&t=614s))
 
+[^3]: “@macgoo1: EA - ??? (`Essential/efficient`/effective action?)”
+[^4]: “@ThatMakesSenseToMe: EA is lost to time.”
+[^5]: “@ThatMakesSenseToMe: BD is body doubling.”
+
 Not in the template:
 
-* **Pajama videos** / **Mar the Canvas** ([10:44](https://www.youtube.com/watch?v=gIe5qnu607k&t=644s))
+* **Pajama videos** / **Mar the Canvas** ([10:44](https://www.youtube.com/watch?v=gIe5qnu607k&t=644s) and comment[^6])
     - Mess up on purpose in the beginning to get over perfectionism
+
+[^6]: “@ThatMakesSenseToMe: If I could add a new one it would be "Mar the Canvas" aka mess up on purpose at the beginning to defeat perfectionism.”
 
 From the comments:
 
-* **≤ 5 min** ([comment](https://www.youtube.com/watch?v=gIe5qnu607k&lc=UgwmTjhVTJ4iD5E5jVJ4AaABAg))
+* **≤ 5 min** (comment[^7])
     - If it takes 5 min or less, do that task now
+
+[^7]: “@denini3972: +one from me: >=5min - if it takes 5min or less, do that task now.”
 
 ### Expand and increase executive energy ([9:10](https://www.youtube.com/watch?v=gIe5qnu607k&t=550s))
 
