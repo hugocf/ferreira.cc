@@ -33,7 +33,7 @@ https://youtu.be/m9-R8T1SuG4
 
 <https://youtube.com/watch?v=m9-R8T1SuG4&feature=share>
 
-
+TODO: Clip also the “different set of different people in different countries a different number of rights”
 
 ---
 
