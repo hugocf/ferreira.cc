@@ -24,7 +24,7 @@ The internet is full of advice and frameworks to help us shape our message in a 
 * [The feedback sandwich](https://en.wikipedia.org/wiki/Praise_sandwich)
 * and many others, I’m sure…
 
-It makes sense that it is so. It’s a natural psychological reaction to become defensive when people criticise us.
+It makes sense that it is so. It’s a natural psychological reaction for people to become defensive when they are criticised.
 
 ---
 
