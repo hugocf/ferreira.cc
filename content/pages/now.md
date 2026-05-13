@@ -1,15 +1,15 @@
 ---
-date: 2025-11-09T00:00:00Z
+date: 2026-05-13T00:00:00Z
 lang: en
 title: What I'm doing now…
 showPostNavLinks: false
 ---
 
-In a word: **preparing**
+In a word: **recovering**
 
-* Settling expectations of _what it is_ to be an “engineering manager” based on what’s really needed by my current context (i.e. more of a “manager of engineers” rather than an “engineer who manages”)
-* Gearing up for the turmoil that is the “holiday season”, where routines and balance then to go out the window
-* Exploring [Obsidian Web Clipper](https://obsidian.md/clipper) as a way to revive the [Clippings](https://hugo.ferreira.cc/clippings/) section
-* Currently reading: nothing (using my “walk the dog” time for letting thoughts run free rather than concentrating in any audiobook)
+* After a period of turmoil and escalations, was settling the team back into a workflow promising to stabilise us again in lot a good delivery flow… only to be thrown back into the company’s “washing machine whirlwind”
+* For the past 4 months was able to get into a regular exercising routine (weight drop of -5 kg) when a seemingly small but persistently nagging and limiting injury for the past weeks is throwing all that routine to the wind
+* Listening and enjoying the craziness of [Angine de Poitrone](https://www.youtube.com/@AnginePoitrine)
+* Currently “reading” [Recursion by Blake Crouch](https://www.goodreads.com/book/show/42046112) ([audiobook](https://www.audible.com/pd/1984886878) by Jon Lindstrom and Abby Craden)
 
 *([profile](https://nownownow.com/p/rqv0) in [The /now page movement | Derek Sivers](http://sivers.org/nowff))*
